@@ -1,0 +1,1306 @@
+Steatopygous Mathophile: January 2008
+Steatopygous Mathophile
+Blog Archive
+September
+(3)
+August
+(3)
+July
+(7)
+June
+(13)
+May
+(38)
+April
+(71)
+March
+(85)
+February
+(127)
+January
+(147)
+December
+(76)
+November
+(46)
+Thursday, January 31, 2008
+What Goes Around Comes Around
+As regular readers will know, I'm a huge fan of
+Neatorama
+and often link to it. Well, today things came full circle.
+It would seem that Alex peruses the
+Steatopygous Mathophile
+occasionally, because he just gave me some link love in his
+post
+regarding
+Fritz
+the photographer cat. It's almost as exciting as if my
+MacBook Air
+had arrived! I wonder whether the
+Free Dictionary
+will survive all those requests for " steatopygous " :-).
+Posted by
+Steatopygous Mathophile
+at
+8:58 PM
+No comments:
+Labels:
+Life
+Germs!
+This is a wonderful parody of the kind of health films they used to play in schools a few decades ago. It appears to be a combination of actual footage from a number of them, but with a voice over that, while being in the same style, is just a little different to what you'd expect :-). Thanks to
+Neatorama
+for the link.
+Posted by
+Steatopygous Mathophile
+at
+6:22 PM
+No comments:
+Labels:
+Humour ,
+Science ,
+Videos
+Getting Things Done?
+Thanks to
+Random Good Stuff
+for this very silly video of one man's attempt to check off all those items on his to-do list. I think he should have sorted out the last one first :-).
+At least the music's cute.
+Posted by
+Steatopygous Mathophile
+at
+6:05 PM
+No comments:
+Labels:
+Humour ,
+Videos
+There's Hope For Me Yet
+According to
+this article
+in the
+Times , there seems to be some connection, within the brain, between appetite and memory. In an attempt to suppress a man's hunger, doctors inserted electrodes into his
+hypothalamus , which is implicated in appetite regulation.
+To their astonishment, this caused him to recall events from thirty years ago, in sharp detail. So, it looks like there may one day be a single treatment that can sort out both my rotundity and my appalling memory, simultaneously.
+I live in hope!
+Posted by
+Steatopygous Mathophile
+at
+5:45 PM
+No comments:
+Labels:
+Science
+Wee Beasties
+Thanks to
+Neatorama
+for this image, taken by a chap named
+Peter Parks . That's a single drop of water, containing a dozen or so
+zooplankton . Peter won 5th place in the
+Nikon Small World 2007
+competition for this shot. There are plenty more amazing photos to enjoy at the end of that link.
+Posted by
+Steatopygous Mathophile
+at
+3:38 PM
+No comments:
+Labels:
+Amazing ,
+Animals ,
+Images
+Instapaper
+When I find something interesting while blog scouring in bed, often I can't be bothered posting about it immediately.
+So, I tend to mail a link to myself and blog the next day. During my most recent nocturnal browsing session, I discovered
+Instapaper . It's a service that allows you to store URLs that you don't have time to digest now, for later reading. Working in tandem with the service is a bookmarklet called " Read Later " that you can drag to your toolbar. Pressing it grabs the current URL and sends it to your account on
+Instapaper . You can go to the site at any time, to see and manage all of those links. Mind you, I'd prefer to just see a " Read Later " item when I
+right click on any link.
+That may be the desire that causes me to finally learn how to write Firefox plugins!
+Posted by
+Steatopygous Mathophile
+at
+8:35 AM
+No comments:
+Labels:
+Services
+Wednesday, January 30, 2008
+What Big Eyes You Have, Grandma
+This is a
+Loris
+... and his amazing peepers!
+Posted by
+Steatopygous Mathophile
+at
+6:26 PM
+No comments:
+Labels:
+Animals ,
+Cute ,
+Videos
+Web 2.0 Bookmarking
+One of those presenting at
+Demo '08
+is
+iterasi . Their product is a bookmarking facility that can handle the dynamic,
+AJAX -based nature of
+Web 2.0
+sites. You know the sort of thing I mean: you go to
+Google Maps , enter an address, drag the map around, zoom in a bit ... and then try to bookmark the page you're seeing. Sadly, because the URL hasn't changed, all you end up with is a link to the front page. Enter
+iterasi
+... when you click on its button, the current state of that website is stored, for later retrieval from any web browser via your account at
+iterasi . You may say that
+Google Maps
+has its own way to bookmark things, but I much prefer learning one mechanism than a new one for every site.
+Obviously, whether it's of any real value will depend on whether
+iterasi
+makes its product free, or at least reasonably priced. It's not yet available to the public, but they're
+blogging about it
+and here's a video to whet your appetite ...
+Posted by
+Steatopygous Mathophile
+at
+12:08 PM
+No comments:
+Labels:
+Services ,
+Videos
+Slow Food
+For those in the know, that title is probably a bit misleading.
+I'm not talking about the
+slow food
+concept.
+I'm talking about " non-fast food ". Thanks to
+Spluch
+for pointing out
+Cheeseburger In A Can ! This is one of the most bizarre products I've ever seen.
+Rather than going to a fast food outlet and getting a burger in a couple of minutes, you buy a can, take it home, open it, stick it in your microwave and wait the same couple of minutes. Mind you, maybe the quality of the ingredients is superior ... and perhaps you'd end up with a burger that actually looks like its photo!
+Posted by
+Steatopygous Mathophile
+at
+10:12 AM
+No comments:
+Labels:
+Bizzare ,
+Food ,
+Weird
+Better Google Reader
+I love Google Reader.
+It allows me to get through the posts from over fifty blogs every day ... easily. However, sometimes the presentation of a post within Reader isn't quite right, or the blog only feeds summaries.
+In both those cases, I end up clicking on the title to go to the actual post ... at least, I used to! Yesterday, via
+Life Hacker , I discovered a Firefox extension called
+Better GReader , which aggregates a number of useful
+Greasemonkey
+scripts. While I've not looked into all of its features yet, there are two that I find invaluable: Clicking on the heading of a post replaces Reader's view of it with the post directly from the blog. When you subscribe to a feed, it bypasses the intermediate page that asks whether to add it to your Google homepage or to Reader. It also adds some keystroke shortcuts, which I plan to check out ASAP. Absolutely recommended if you use Reader ... and if you
+don't
+use Reader, I recommend that you give it a try.
+Posted by
+Steatopygous Mathophile
+at
+9:51 AM
+No comments:
+Labels:
+Firefox
+Microscopic Magic
+UADDit
+has a nice page of amazing
+micrographs
+... images taken through a microscope. This one is a lateral cut through a piece of skin.
+The detail is amazing.
+Posted by
+Steatopygous Mathophile
+at
+8:48 AM
+No comments:
+Labels:
+Amazing ,
+Images ,
+Science
+Tuesday, January 29, 2008
+Demo '08
+The 2008
+Demo
+conference starts today in
+Palm Desert ,
+California . Demo
+is an opportunity for people to show off new products, many of which are Web 2.0 services. Generally, videos of most of the presentations are made available some time after the conference.
+Something to look forward to later in the year. To get an idea of the types of presenters who have aired their work at this conference, take a look at the list of
+Demo Gods .
+Posted by
+Steatopygous Mathophile
+at
+7:45 AM
+No comments:
+Labels:
+Services
+Too Much Of A Good Thing
+Whatever you do, don't zoom in
+too
+far when using the "Street Vision" feature of
+Google Maps
+...
+Posted by
+Steatopygous Mathophile
+at
+7:39 AM
+No comments:
+Labels:
+Humour ,
+Videos
+Super Torch
+During my recent uncluttering fervour, one thing I didn't jettison was my array of torches. There's just something so attractive about a device that " shines out like a shaft of gold when all around is dark ". However, I think
+The Torch , from
+Wicked Lasers
+may be just slightly more illumination than even I require. It's incredible power of 4100 lumens has apparently earned it a place in the
+Guiness Book of Records .
+Posted by
+Steatopygous Mathophile
+at
+7:17 AM
+No comments:
+Labels:
+Gadgets
+MacBook " Paper "
+I expect to receive my
+MacBook Air
+sometime this week and the anticipation is killing me! While the reduced thickness and weight is its major draw for me, I think there's a point where one should say "stop" ... a point which the
+MacBook Paper
+seems to have sprinted right past :-).
+Posted by
+Steatopygous Mathophile
+at
+7:10 AM
+No comments:
+Labels:
+Apple ,
+Humour ,
+Videos
+SkyFire Browser
+While I think the Safari browser on my iPod Touch is pretty awesome, it's annoying that it doesn't handle Flash video ... at least not yet. This new browser for Windows Mobile, called
+SkyFire
+looks pretty damned good. There's no chance I'll ever buy a WM-based phone, because the overall interface is so crappy.
+However, for those masochists who have, this looks like a very nice addition. It's currently in a closed beta programme.
+Posted by
+Steatopygous Mathophile
+at
+7:05 AM
+No comments:
+Labels:
+Software
+Monday, January 28, 2008
+Indexed
+Indexed
+is a blog where each entry is a single index card containing a comment on life, in the form of a graph or formula. My favourite, so far, is this one.
+Posted by
+Steatopygous Mathophile
+at
+10:54 AM
+No comments:
+Labels:
+Clever
+Fritz, The Cat Photographer
+Fritz
+is a cat who lives in
+Hartenstein ,
+Bavaria . For a couple of hours each day, he carries a camera around his neck that automatically takes photos every fifteen seconds, as he roams the world. In case your high school German fails you while scanning his website, here's a direct link to
+Fritz 's
+gallery
+of interesting images. I discovered
+Fritz
+via
+UAddIt .
+Posted by
+Steatopygous Mathophile
+at
+10:35 AM
+No comments:
+Labels:
+Animals ,
+Clever ,
+Cute ,
+Images ,
+Videos
+Untraceable
+I can't wait for
+Untraceable
+to make it to Australia. If the trailer is any indication, it looks to be excellent. It links two of my (many) obsessions ... serial killers and the internet.
+Now, if the script writers were so kind as to have some ubergeek use
+Category Theory
+to help the FBI track down the killer, I'll be in
+Nirvana
+:-). Update:
+I just checked the
+release dates
+section at
+Your Movies
+... it's not scheduled to arrive here until April 17th! Sometimes, I just hate living at the
+arse end of the world !
+Posted by
+Steatopygous Mathophile
+at
+8:18 AM
+No comments:
+Labels:
+Films ,
+Videos
+I'm In Love!
+I generally think Apple does excellent user interface design. However, from the first five minutes with my first Mac, a number of years ago, one thing that has driven me
+nuts
+is that to resize a window you need to navigate your mouse into a small section of its bottom right hand corner. Madness, I say! Well, today I discovered
+Zooom .
+It's similar to a Windows app I posted about recently. The way it works is that you hold a couple of modifier keys (which you can configure) while moving the mouse pointer.
+One set moves the window, while the other resizes. In addition, holding either pair of modifiers and double clicking is the equivalent of clicking the green button at the top left of the window. It cost me around AUD18, but my sanity is worth at least twice that!
+Of course, having coughed up my dough, it's almost guaranteed that I'll shortly discover a freeware equivalent :-).
+That's just how the universe works.
+Posted by
+Steatopygous Mathophile
+at
+7:50 AM
+No comments:
+Labels:
+Apple ,
+Software
+A Clever Musician(?)
+While you won't be able to understand most of what he's saying (apart from the various composers' names), unless you speak French, you should recognise most, if not all, of the music. Simply amazing!
+Posted by
+Steatopygous Mathophile
+at
+7:45 AM
+No comments:
+Labels:
+Clever ,
+Music ,
+Videos
+A Talkative Cat
+This is a bit contrived ... and more than a little silly ..., but still quite cute.
+Posted by
+Steatopygous Mathophile
+at
+12:08 AM
+No comments:
+Labels:
+Animals ,
+Cute ,
+Humour ,
+Videos
+Sunday, January 27, 2008
+Evol
+This short film is simply gorgeous ... and incredibly clever.
+Thanks to
+Neatorama .
+Posted by
+Steatopygous Mathophile
+at
+11:55 PM
+No comments:
+Labels:
+Clever ,
+Cute ,
+Videos
+Look Away, Look Away!
+This guy, who goes by the moniker of " Stretchy Skin Man " has extremely springy skin, due to a lack of
+collagen .
+The video may put you off your dinner just a little :-). Adding to the weirdness is the fact that this was filmed during an interview he gave ... on
+radio ! Thanks to
+Shiny Shiny
+for the link.
+Posted by
+Steatopygous Mathophile
+at
+11:25 PM
+No comments:
+Labels:
+Amazing ,
+Videos ,
+Weird
+The Perfect Cup Of Coffee
+The
+Brugo Mug
+is a clever device that keeps your coffee piping hot, while cooling each mouthful until it's in the " Perfect Temperature Zone ", so you don't burn your lips. I couldn't find any information on their site regarding the technology they use to achieve this, so we'll have to take their word for it. I discovered this one on the aptly named
+Coolest Gadgets
+blog :-).
+Posted by
+Steatopygous Mathophile
+at
+11:15 PM
+No comments:
+Labels:
+Clever
+Jane Abma
+Jane Abma
+is an Australian artist. While I found only a couple of her pieces interesting, the Flash-based navigation in her portfolio website, where you drag the corners of the pages to turn them, is quite cute. Maybe this is a standard effect that Flash provides, but it's still impressive. Thanks to
+Cool Hunting
+for the link.
+Posted by
+Steatopygous Mathophile
+at
+11:03 PM
+No comments:
+Labels:
+Art ,
+Clever
+Cool Digital Sculpture
+Thanks to
+Oh Gizmo!
+for pointing out this fascinating digital sculpture that British Airways commissioned for some new lounges at Heathrow.
+Posted by
+Steatopygous Mathophile
+at
+10:55 PM
+No comments:
+Labels:
+Art ,
+Videos
+Edward Tufte On The iPhone
+Edward Tufte , the guy who wrote the book ... well,
+quite a few , actually ... on the visual representation of information, has
+a couple of words
+to say about the iPhone. There's an associated
+video
+but it's quite a large QuickTime movie, which will start to download immediately, so I haven't embedded it here.
+While it's well worth a look, if you do follow that link, wait a while before pressing the
+play
+button. The crux of his message is that Apple got it mostly right, using the high resolution 160dpi screen to good effect and not filling it with "administrative clutter". However, he does think that the widgets could have made better use of the resolution, rather than using very large fonts to display relatively little information. I think that's probably directly related to the fact that they
+are
+widgets, but that's no real excuse.
+Posted by
+Steatopygous Mathophile
+at
+10:03 PM
+No comments:
+Labels:
+Apple ,
+People ,
+Science
+Saturday, January 26, 2008
+Say "Cheese"
+I spent this afternoon helping my friends Carsten and Tina load the (second!) truck that will be wending its way to their new home in
+Bega
+tomorrow. There were plenty of hands to share the work, so it was done in an amazingly short time.
+That's not to say that this little black duck isn't expecting to be more than a tad sore tomorrow. I met some nice people and enjoyed the fun of watching seven youngsters having a damned fine time! Here's a group photo.
+See if you can pick the odd man out ... I'll give you a hint; he was the only mathophile present :-). Not a single space was wasted in the back of that truck.
+However, when they arrive at the other end, I hope Tina and Carsten remember the warning they give you at the end of every plane trip ... " The contents of overhead lockers may have shifted during the flight ."
+Posted by
+Steatopygous Mathophile
+at
+10:36 PM
+1 comment:
+Labels:
+Life
+Flying Falsies
+It pays to keep your mouth shut when skydiving ... particularly if you have dentures :-). Hopefully, the thrill of the ride outweighed the hassle involved in replacing them. Thanks to
+Spluch
+for this one.
+Posted by
+Steatopygous Mathophile
+at
+10:28 PM
+No comments:
+Labels:
+Humour ,
+Videos
+Cute Bathroom Set
+I think this butler toilet set would probably put me off going to the loo, but it's kind of cute. It's available from
+The Lighter Side
+for less than $US25. Thanks to
+Random Good Stuff
+for the link.
+Posted by
+Steatopygous Mathophile
+at
+8:49 AM
+No comments:
+Labels:
+Images ,
+Weird
+Friday, January 25, 2008
+MacBook Air Teardown
+The guys over at
+Gizmodo
+received their
+MacBook Air
+today and immediately ripped it to pieces to see how easy it was to disassemble and play with its innards. You can find the details, a video and lots of photos in
+their post .
+Posted by
+Steatopygous Mathophile
+at
+2:29 PM
+No comments:
+Labels:
+Apple
+The Basketball Kid
+This kid is only eleven, but he's built up some pretty amazing basketball skills. Thanks to
+Spluch
+for the link.
+Posted by
+Steatopygous Mathophile
+at
+9:18 AM
+No comments:
+Labels:
+Children ,
+Videos
+Whoops!
+One of the things Apple left out of the
+MacBook Air , in order to achieve its svelte form factor, is built-in 3G internet access. Of course, the theoretical solution to this is to use a USB modem.
+Unfortunately, it would seem that may not be quite so simple. Engadget
+tried out one of the smallest available 3G modems, only to discover that it won't actually fit, due to the way the USB port on the
+Air
+is stored inside a small drop down panel, rather than simply being embedded directly into the chassis. Of course, if the
+Air
+sells well, you can bet modem manufacturers will bring out models with casings that
+do
+fit ... both physically and aesthetically ..., but it's a very silly oversight from a company that boasts about its smart industrial design! It will be interesting to see what other devices are too flabby to be accepted into the new MacBook's circle of friends :-). As it happens, the 3G modem I'm most likely to use, from
+3
+is a little blob on the end of a cable, so I may just be in luck.
+Posted by
+Steatopygous Mathophile
+at
+6:56 AM
+No comments:
+Labels:
+Apple
+Thursday, January 24, 2008
+Jennifer Maestre
+Jennifer Maestre
+creates amazing sculptures from interesting materials, like pencils, beads and nails. This one is called " Heat Wave ". You can find a gallery of her works
+here .
+Posted by
+Steatopygous Mathophile
+at
+8:00 PM
+No comments:
+Labels:
+Art ,
+Clever ,
+Images
+Steam Punk Case Mod
+This is an excellent steam punk computer case mod. Not much more I can say, really, except that you can find plenty more images
+here .
+Posted by
+Steatopygous Mathophile
+at
+7:56 PM
+No comments:
+Labels:
+Amazing ,
+Clever ,
+Images
+Jean-Luc Picard
+Apparently,
+Captain Jean-Luc Picard
+has his own
+blog . I'm not quite sure how his messages are transported back to 2008, but they must have quite a good system, because he's fairly prolific. Well worth a read, if you're a
+TNG
+fan ... yes, I'm talking to you, Dave!
+Posted by
+Steatopygous Mathophile
+at
+7:47 PM
+No comments:
+Labels:
+Humour
+T9
+No, I don't mean the edition of
+Terminator
+that will be released around the year that
+Skynet
+actually appears :-). I'm talking about the predictive text system that many mobile phones offer. This video discusses an issue I've often come across ... why it is that so many of the four letter words I'd like to include in my messages just aren't provided as suggestions.
+Posted by
+Steatopygous Mathophile
+at
+2:26 PM
+No comments:
+Labels:
+Gadgets ,
+Life
+Wednesday, January 23, 2008
+Tweet Tweet Tweet
+Twitter
+isn't really my cup of tea, but I was just listening to the
+Mac Break Weekly
+podcast and they mentioned a related site called
+Favotter . It's sort of like a
+Digg
+for tweets.
+Since I don't use
+Twitter , I'm not sure precisely how the rating system works, but some of the entries on there are quite funny. Of course, your mileage may vary, depending on how well your sense of humour matches my bizarro one :-). As an aside ... I discovered that
+Heath Ledger was dead
+via one of those tweets.
+Posted by
+Steatopygous Mathophile
+at
+6:01 PM
+No comments:
+Labels:
+Weird
+USB Power Storage
+The
+PowerStick , by
+Ecosol , is a power storage device that you charge via a standard USB port. It, in turn, can provide power for your other USB-powered devices. There are adapters that fit various models of mobile phones and MP3 players.
+Presumably, others will follow over time, based on user demand. It costs $US70, which seems reasonable.
+Posted by
+Steatopygous Mathophile
+at
+5:08 PM
+No comments:
+Labels:
+Gadgets
+TUGzip
+It's not often I want to create an archive and when I do, I just use
+WinZip . Most of the time, I'm looking inside them and
+Salamander
+does a fantastic job of that. Come to think of it, I've never looked to see whether Salamander can
+create
+archives; I wouldn't be surprised. In any case,
+TUGzip
+looks like it could be quite useful, for those who aren't happy to cough up money to achieve these goals, since it's free.
+Posted by
+Steatopygous Mathophile
+at
+2:30 PM
+No comments:
+Labels:
+Software ,
+Windows
+iWash
+I'll bet if this app was included in the $US20 upgrade for the iPod Touch, nobody would be complaining ... well, at least none of the male owners :-). Thanks to
+Crunch Gear
+for the link. Update:
+I couldn't help myself; I bought one :-).
+Posted by
+Steatopygous Mathophile
+at
+2:09 PM
+No comments:
+Labels:
+Apple ,
+Humour ,
+Videos
+MacHeads, The Movie
+Personally, I just see Macs as beautiful pieces of design and function. However, there are some people who are just a tad fanatical about their Macs.
+This is the trailer for a film about those people, called
+MacHeads . My favourite sound byte from it is " I've never, knowingly slept with a Windows user. " One thing I can tell you for sure ... I'll definitely be going to see it when it's released!
+Posted by
+Steatopygous Mathophile
+at
+10:54 AM
+No comments:
+Labels:
+Apple ,
+Videos
+Nice Lighting
+A US company named
+Moonlight
+makes these beautiful spherically-shaped lights. They come in all kinds of sizes and colours.
+Check out the
+indoor catalogue
+for many more images. I can only assume they're battery powered and, presumably, LED based. All I know is
+I want some ! Thanks to
+Gizmodo
+for the link.
+Posted by
+Steatopygous Mathophile
+at
+10:47 AM
+1 comment:
+Labels:
+Gadgets
+Never
+Go On Holidays!
+Thanks again to
+Spluch
+for this amazing cubicle prank. The introduction is well worth a look, if only to enjoy the
+Carmina Burana
+soundtrack, but if you just want to see what all the fuss is about, skip in to around two minutes.
+Posted by
+Steatopygous Mathophile
+at
+10:33 AM
+No comments:
+Labels:
+Amazing ,
+Clever ,
+Videos
+Like A Duck To Water
+Thanks to
+Spluch
+for this cute video of a surfing duck!
+Posted by
+Steatopygous Mathophile
+at
+10:28 AM
+No comments:
+Labels:
+Animals ,
+Videos
+Holy Makeover Batman!
+Random Good Stuff
+posted about this impressive
+church makeover .
+There are more images of the renovated apartment in their article. It beats my recent uncluttering, hands down! The new interior was designed by the Dutch architecture firm
+ZECC .
+Posted by
+Steatopygous Mathophile
+at
+9:59 AM
+No comments:
+Labels:
+Clever ,
+Images
+Ruby & Rails Screencasts
+Bala Paranj
+runs an excellent website called
+Ruby Plus . It includes over thirty screencasts, discussing everything from Ruby aliases to how to rework the
+Depot
+application from
+Agile Web Development With Rails
+in Rails 2.0 style. Even better, all the screencasts are free! Of course, that's not to say I won't still be giving
+Geoffrey Grosenbach 's
+Peepcode
+screencasts some love.
+Posted by
+Steatopygous Mathophile
+at
+8:54 AM
+No comments:
+Labels:
+Rails ,
+Ruby ,
+Screencast
+Eyes
+This video features some clever effects and a very nice soundtrack. It's by a Japanese musician named
+Cornelius .
+You can find more of his work
+here . Thanks to
+Projectionist .
+Posted by
+Steatopygous Mathophile
+at
+8:19 AM
+No comments:
+Labels:
+Clever ,
+Music ,
+Videos
+Tuesday, January 22, 2008
+Modu
+This is a teaser video for a new product called
+Modu . It's hard to tell precisely what
+Modu
+is from the few glimpses we see of it, but it would appear to be some kind of module that docks into various other devices. One thing that did catch my eye is what appears to be a very crisp display ... if only of what appears to be time. According to
+this article
+on
+Tech Crunch , the company "advertising" it was originally named " Infone Tech ", which tends to imply it's some kind of communications-enabled gadget.
+Posted by
+Steatopygous Mathophile
+at
+9:43 PM
+No comments:
+Labels:
+Gadgets
+The New American Dictionary ...
+...
+International Security/Fear Edition
+catalogues some " 67 fear and security terms that are either new – i.e. preparedness - or recently redefined – i.e. torture. " It is published by
+The Institute for Infinitely Small Things , which is a performance group based out of
+Boston .
+Posted by
+Steatopygous Mathophile
+at
+9:36 PM
+No comments:
+Labels:
+Interesting ,
+Liteer
+Dog Vs Balloons
+This dog seems to be having a lot of fun destroying all those balloons!
+Posted by
+Steatopygous Mathophile
+at
+9:23 PM
+No comments:
+Labels:
+Animals ,
+Cute ,
+Videos
+Toothpick Sculpture
+Steven J Backman
+creates sculptures from toothpicks. Some are tiny, being formed from a single toothpick.
+Others, like those he's pictured
+with here are made from large numbers of them, held together with glue.
+Posted by
+Steatopygous Mathophile
+at
+8:01 PM
+No comments:
+Labels:
+Art ,
+Clever
+Mikhael Subotzky
+Photographer
+Mikhael Subotzky 's
+website
+contains some stunning images. Much of the subject matter relates to South African prisons, their inmates and how those who have been released survive on the outside. Definitely worth a look.
+Thanks to
+Neatorama
+for the pointer.
+Posted by
+Steatopygous Mathophile
+at
+7:51 PM
+No comments:
+Labels:
+Images
+Pasta Perfection
+Swedish company
+Segaform
+sell a product called
+PastaParm , which is a combination pasta serving measure, ladle and parmesan grater. It's both very functional and absolutely gorgeous!
+Posted by
+Steatopygous Mathophile
+at
+7:24 PM
+No comments:
+Labels:
+Clever ,
+Gadgets
+Nice Clock Radio
+Philips
+have released this good looking clock radio, the cleverly named
+AJL308 . It has a seven inch LCD screen, a USB port and an SD memory card slot. According to
+this article
+on
+Crunch Gear
+... "In terms of usability, the AJL308 is a dream. There is a bar of buttons along the bottom for clock, tuner, photos and videos, music, and sleep timers. Then, inside each menu, you have directional buttons and an OK button. There are three buttons on top for alarms and snooze/brightness and that’s it." Sounds very nice, indeed!
+Posted by
+Steatopygous Mathophile
+at
+7:10 PM
+No comments:
+Labels:
+Gadgets
+Readius Shipping Soon?
+I posted about the
+Readius
+flexible
+e-Ink
+display some months ago. Well, according to
+this post
+over at
+Electronista , it looks like
+Polymer Vision
+will be shipping the device in the near future. It's still far too small for the main purpose I would like to use such a reader for ... reading A4 size PDFs of technical documents ... but it could be quite a nice way to carry around things like blog posts. We'll just have to wait and see whether it lives up to its hype and whether the price is reasonable, which is unlikely in the short term.
+Posted by
+Steatopygous Mathophile
+at
+7:02 PM
+No comments:
+Labels:
+Gadgets
+Crap Art
+This guy isn't an artist's backside ... um, actually, I guess he
+is
+:-) ...
+Posted by
+Steatopygous Mathophile
+at
+6:57 PM
+No comments:
+Labels:
+Humour ,
+Videos ,
+Weird
+Pussy, Lie Down
+I've been a fan of the music(?) of Scottish singer/poet
+Ivor Cutler
+for many years. So, I was pleased to find this video tribute to one of his songs.
+Posted by
+Steatopygous Mathophile
+at
+6:53 PM
+No comments:
+Labels:
+Humour ,
+Music ,
+Videos
+Yummo!
+To celebrate my birthday yesterday, I met Matt and Gavin at the
+Belgian Beer Cafe
+down in
+The Rocks
+for a couple of scrumptious ... and somewhat potent ... beers. We then grabbed a cab and met Susan and Linda at the
+Pink Peppercorn
+Laotian restaurant on
+Oxford St
+in
+Darlinghurst . As expected, the food was excellent and the company was great.
+It just doesn't get any better than that. I was slightly amused this morning to discover that, on the way home, I had popped into the supermarket at
+Strathfield
+and bought enough groceries to last me until my next birthday :-). Ah, the demon alcohol ... mind you, there were no naughty impulse purchases, just the stuff I normally buy, so I guess it worked out just fine.
+Posted by
+Steatopygous Mathophile
+at
+6:38 PM
+No comments:
+Labels:
+Beer ,
+Food ,
+Life
+Dear Oh Dear Oh Dear
+I don't believe this video requires any words from me, except to thank(?)
+Spluch
+for pointing me to it.
+Posted by
+Steatopygous Mathophile
+at
+10:04 AM
+No comments:
+Labels:
+Videos ,
+Weird
+Monday, January 21, 2008
+Screwed Again!
+According to
+this article
+over on
+Gizmodo Australia , the announcement regarding iPod-friendly versions of movies being included on DVDs from Fox
+Studios is ... as bloody usual! ... US only. Again, this is of no real concern to me, since I don't buy DVDs anymore; it's just damned annoying that yet again the septics get everything and we get nought!
+Posted by
+Steatopygous Mathophile
+at
+12:45 PM
+No comments:
+Labels:
+Septics
+Rules Of Thumb
+Thanks to
+Neatorama
+for pointing me to
+Rules Of Thumb . It's a website that aims to collect all those little rough and ready practical methods that people come up with. Some of them make a lot of sense, some of them are probably of no value and others are just weird or (presumably intentionally) funny. For example ... "Remember when choosing a prospective lawyer, a good lawyer knows the law, a great lawyer knows the judge." "To find the most interesting books in a library, look for the shelf where returned books are stored before they are reshelved." "A city street is most visually appealing if its width is the height of the buildings along it." "If a polar bear charges you, dodge to the right. Eskimos say most polar bears are left-pawed."
+Posted by
+Steatopygous Mathophile
+at
+8:43 AM
+No comments:
+Labels:
+Clever ,
+Interesting
+Mwawhahaha
+Damn Interesting
+has an interesting article on psychopaths, entitled
+The Unburdened Mind . Like
+Ted Bundy
+here, they basically don't have that little voice in their heads that we term a " conscience ". Herr
+Freud
+would call it the " superego ". Quite a fascinating article.
+Posted by
+Steatopygous Mathophile
+at
+8:24 AM
+No comments:
+Labels:
+Science
+Hallelujah!
+I used to carry a small bottle opener with me everywhere, in case a non-screw top dared to interpose itself between me and a beer :-). However, one day I realised that this didn't seem to be happening much anymore, so I stopped carrying it, because it was just slightly too big to fit neatly into my pocket. Well, it appears someone has solved that problem.
+Meet the
+Beer Belly Belt .
+Ingenious!
+Posted by
+Steatopygous Mathophile
+at
+8:07 AM
+No comments:
+Labels:
+Clever
+Drumming In The New Year
+Amazingly, this turned up in
+Google Reader
+this morning.
+Unfortunately, I forgot to record which blog pointed me to it. I was half tempted to learn to use some video editing software, just to sneak myself into the (almost) middle of it :-).
+Posted by
+Steatopygous Mathophile
+at
+7:59 AM
+No comments:
+Labels:
+Cute ,
+People ,
+Videos ,
+Weird
+I'm A Member!
+No, not
+that
+kind of member ... although some may be of that opinion :-). Today, I'm an honorary member of ... Who'd have thought a quick google for my new age would turn up something quite so interesting?! According to
+their FAQ
+... " The 47 Society is an international interest-group that follows the occurence and recurrence of the quintessential random number: 47. Many suspect that the coincidental nature of 47 carries some mystical, metaphysical and/or scientific significance. The phenomenon may have first been
+documented at Pomona College
+in 1964, when Professor Donald Bentley proved that all numbers are equal to 47. Coincidentally, 47 seems to occur on or near the college campus with amazing frquency, even by enthusiast standards. But make no mistake:
+47 is everywhere
+and people were noticing it long before 1964. The 47 Society Web Site is the global source for 47 information. "
+Posted by
+Steatopygous Mathophile
+at
+7:47 AM
+No comments:
+Labels:
+Weird
+Sunday, January 20, 2008
+Phunky Physics
+I have something similar on my
+iPod Touch , but a whiteboard like this would be truly fantastic!
+Posted by
+Steatopygous Mathophile
+at
+10:33 PM
+No comments:
+Labels:
+Clever ,
+Physics ,
+Videos
+Urban Legend ER
+This is hilarious ... an ER experiences every medical urban legend all at once :-).
+Thanks to
+Neatorama
+for the link.
+Posted by
+Steatopygous Mathophile
+at
+3:49 PM
+No comments:
+Labels:
+Humour ,
+Videos
+Clever Cetaceans
+Thanks to
+Random Good Stuff
+for this video of dolphins creating air bubble rings and playing games with them.
+Very cute and impressive.
+Posted by
+Steatopygous Mathophile
+at
+8:06 AM
+No comments:
+Labels:
+Animals ,
+Clever ,
+Cute ,
+Videos
+Saturday, January 19, 2008
+You Can Never Be Too Thin ...
+Remember the marketing
+faux pas
+Apple made back in August 2007, when they used the slogan " The new iMac. You can't be too thin. Or too powerful ."? The page was quickly modified when someone realised what a negative message it was presenting. Anyway, this
+MacBook Air
+spoof ad takes that to the extreme.
+It portrays a number of lesser laptops worrying about their weight.
+Silly, but funny, particularly towards the end.
+Posted by
+Steatopygous Mathophile
+at
+9:00 PM
+No comments:
+Labels:
+Apple ,
+Humour ,
+Videos
+Mmmm ... Pizza
+In recent times, I've been trying to cut down on the amount of junk food I shove into my gob. However, I figure if I had one of these
+stove-top pizza ovens , I could at least choose some vaguely healthy toppings for my creations.
+Posted by
+Steatopygous Mathophile
+at
+8:43 PM
+No comments:
+Labels:
+Food ,
+Gadgets
+Friday, January 18, 2008
+Card Microscope
+This is a fascinating concept.
+It's a
+microscope on a card . There are two models; one magnifies 500X, the other 1000X. They come in packs of five for $US89 a pop.
+Why five?
+Because these are
+disposable
+microscopes.
+Posted by
+Steatopygous Mathophile
+at
+6:12 PM
+No comments:
+Labels:
+Clever ,
+Gadgets
+Pray You Never Need Them
+During the move last weekend, Nanette told me that she came across something interesting while searching online for a cleaner to give their house the once over after everything was out. The innocently named
+Clean Queens
+is an Australian company that specialises in mopping up crime scenes. Can't get your flatmate's blood out of the carpet?
+Decomposed body partially bonded with the bed? No problem;
+Clean Queens
+to the rescue! Their site is a real eye opener.
+However, if you're a bit squeamish, I'd recommend not delving too far down.
+Posted by
+Steatopygous Mathophile
+at
+5:39 PM
+No comments:
+Labels:
+Weird
+MacBook Air
+To The Rescue
+You know you've made it when
+The Joy Of Tech
+includes you in a cartoon!
+Posted by
+Steatopygous Mathophile
+at
+5:34 PM
+No comments:
+Labels:
+Apple ,
+Humour ,
+Images
+Pretty, Cute &
+Weird
+That's how I like 'em :-). This young Japanese lass fits those criteria ... especially the " weird " part. She has
+quite a few videos
+on YouTube, and in all of them the main thing she does is stare at the camera with those gorgeous dark peepers.
+This is a tribute mash-up someone made from a number of them. I predict that, in another couple of years, we'll be seeing her in subtitled films all over the place ... some of them may even be in cinemas :-).
+Posted by
+Steatopygous Mathophile
+at
+3:20 PM
+No comments:
+Labels:
+Clever ,
+Humour ,
+Videos
+Whoa There!
+Process Lasso
+is a Windows utility that provides control over the amount of CPU various programs and processes use. What to control can be specified by rules, such as " When any process is consuming 35% or greater of the CPU for 1.5 seconds or more and the total system CPU usage is 95% or greater, lower that process's priority until it returns to 5% CPU utilization. " Thanks to
+Life Hacker
+for the heads up.
+Posted by
+Steatopygous Mathophile
+at
+3:08 PM
+No comments:
+Labels:
+Clever ,
+Software ,
+Windows
+A Room Of One's Own
+The Guardian 's website has a page dedicated to the
+workspaces
+in which their various authors toil. Having recently completed the de-cluttering of my "office", I feel
+so
+superior, looking at this one, belonging to
+Russell Hoban
+:-). Most are surprisingly well organised.
+I get a sense that I would feel at home in them ... once I'd updated the computers, of course! While it's not really my style, I did like
+Nicola Barker's . Rose Tremain's
+and
+David Lodge's
+are also nice. Thanks to
+Crooked Brains
+for the link.
+Posted by
+Steatopygous Mathophile
+at
+1:29 PM
+No comments:
+Labels:
+Images ,
+Literature
+I've Never Wanted To Be A DJ ...
+... until now! This
+Pioneer MEP-7000
+" Multi Entertainment Player " is almost enough to tempt me to change careers. Absolutely gorgeous. Engadget's article
+has specs and some more photos.
+Posted by
+Steatopygous Mathophile
+at
+10:05 AM
+No comments:
+Labels:
+Gadgets
+Bath Gel
+I haven't had a bath for years ... don't worry, I do have the occasional
+shower
+..., but
+Gelicity Spa Jelly Bath
+is almost enough to tempt me back to submerged ablutions. It's a bath gel.
+You add it to the water and in no time,
+hey presto , you have a sweet-smelling tub of gunk to relax in. I'd give it a go, but I don't really want to disturb my little spidery friend who's been making his home in my bathtub for the last couple of months :-).
+Posted by
+Steatopygous Mathophile
+at
+8:45 AM
+1 comment:
+Labels:
+Weird
+Another
+MacBook Air
+Video
+Until the courier arrives at my door in a couple of weeks' time, you'll probably be seeing a lot of these :-). This one, from
+The Unoffical Apple Weblog , includes a nice side-by-side size comparison with a
+MacBook Pro .
+Posted by
+Steatopygous Mathophile
+at
+8:16 AM
+No comments:
+Labels:
+Apple ,
+Videos
+Thursday, January 17, 2008
+Don't Try This At Home
+Well, not unless you have rubber carpets :-).
+Thanks to
+Spluch
+for this one!
+Posted by
+Steatopygous Mathophile
+at
+7:24 PM
+No comments:
+Labels:
+Animals ,
+Humour ,
+Videos
+We're Getting Closer
+I have a large number of technical papers and books (particularly those published by the
+Pragmatic Programmers ) in the form of PDFs. Over a year ago, I bought an
+iRex Iliad , in the hopes of being able to carry my entire technical library with me ... without irreparably injuring my back. Sadly, as it turned out, because the
+Iliad 's screen size is only A5, reading PDFs formatted for A4 paper is a less than perfect experience. So, I've been hanging out for an A4
+eInk
+book reader to be released. It looks like
+Hanlin
+may answer my prayers sometime soon.
+They've been showing off the
+V9
+reader, with 9.7" 825 X 1200 pixel screen. Here
+is a hands on review of the current prototype, according to which the V9 should be available sometime around June this year ... I can't wait!
+Posted by
+Steatopygous Mathophile
+at
+6:52 PM
+No comments:
+Labels:
+eInk ,
+Gadgets
+Favourable Atmospheric Conditions
+I've lost track of which blog I found this on, but it certainly got my attention! Apparently, back in October of 2004, an artist named
+Marti Guixe
+created a piece called
+Gat Fog Party .
+In this case " Gat " stands for
+Gin and Tonic . As it happens,
+Gin & Tonic
+is one of the few spirits-based drinks that holds any attraction for me ... the other being a good
+Bloody Mary . According to the website, " Gat Fog party is an artificial indoor meteorological phenomenon based in weather engineering for 'cultural farming' purposes. "
+Posted by
+Steatopygous Mathophile
+at
+6:29 PM
+No comments:
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)

@@ -1,0 +1,2177 @@
+The Daily ACK: July 2007
+The Daily ACK
+The often deranged postings of yet another hacker, pretending to be an Astronomer, pretending to be a hacker who has written a book or two for O'Reilly Media.
+Tuesday, July 31, 2007
+iUI and developing for the iPhone
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Recent
+developments
+mean that it might become less relevant, but I must admit to being pretty impressed with
+Joe Hewitt 's
+iUI
+web development framework for the
+iPhone ... Joe Hewitt
+talking
+about
+iUI
+Tweet
+Posted by
+Alasdair Allan
+at
+2:58 p.m.
+0
+comments
+Links to this post
+Labels:
+3rd Party ,
+Apple ,
+Development ,
+iPhone ,
+iUI ,
+Web 2.0
+Saturday, July 28, 2007
+Heading home from OSCON
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+So I'm sitting in the
+lounge
+at
+PDX
+waiting for my flight to
+Chicago O'Hare
+and then onward to
+Heathrow . However I'm not entirely sure how far I'm going to get after I land back in the Britain. Looking at the
+news
+coming out of the UK the rail system doesn't look like its recovered from the heavy flooding last week while I was
+travelling to OSCON . The BBC's
+flood mashup
+(via
+Google Lat Long Blog ) looks a bit worrying as well. To get from London to Exeter I have to go through Reading, which doesn't seem to be in a good way right now, and with
+more rain predicted
+while I'm enroute to Heathrow I'm pretty much reduced to crossing my fingers at this point... Update:
+Made it home in one piece, with the trains more or less running to time, unless you wanted to head north out of Paddington towards Oxford. In which case you were out of luck as the lines were still underwater. Although looking at the countryside as I passed through Berkshire, the best description I can come up with is "water-logged". It probably wouldn't put much more rain to start another round of flooding...
+Tweet
+Posted by
+Alasdair Allan
+at
+2:06 p.m.
+0
+comments
+Links to this post
+Labels:
+BBC ,
+Chicago ,
+Flooding ,
+Heathrow ,
+O'Hare ,
+OSCON ,
+OSCON07 ,
+PDX ,
+Portland ,
+Railway ,
+UK ,
+US
+Friday, July 27, 2007
+OSCON: Final keynote
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+The final keynote, and last session of the 2007 Open Source Convention is on
+Open Source Hardware
+and it's being given by
+Philip Torrone , the senior editor of
+Make: Magazine
+and
+Limor Fried
+who is according to Nat is the only person making money out of open source hardware right now. Nat Torkington at his last OSCON We're kicking off with Nat talking about next year, this is his last year working on OSCON, he's been doing this for eleven years and we're going to miss him. Although possibly not his shirts... Philip and Limor are talking about open hardware Update:
+On to the keynote talk and Philip and Limor are talking about open hardware, and how the field is starting to take off... The Make: Board interestingly it looks like people are starting to introduce new licences, the
+Chumby HDK License
+and the
+TAPR Open Hardware License
+because unlike software hardware is mostly based on patents, not copyright, and different licenses may be better. Update:
+They've moved on to talking about
+Fab@Home , which is pretty cool, because once you've built one of these they can actually self-fabricate and duplicate themselves... Update:
+Okay, I desperately need this, they're talking about
+Botanicalls
+which allows plants to place phone calls for human help, for instance when they need watering... Botanicalls , plants that ask for help... Update:
+They've moved on to talking about
+WaveBubble
+an open source RF jammer, which is certainly illegal to sell, and probably illegal to use, but probably not illegal to self-build. Update:
+...and we're done. Update:
+Philip and Limor's keynote is now on
+blip.tv , and the slides are available
+for download . Click To Play via Blip.tv
+Tweet
+Posted by
+Alasdair Allan
+at
+8:28 p.m.
+3
+comments
+Links to this post
+Labels:
+Hacking ,
+Hardware ,
+Make: ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Philip Torrone ,
+Portland
+OSCON: OSS Amateur Robotics
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Next up is
+Amateur Robotics
+given by
+Mark Gross
+from
+Intel . CREDIT: Mark Gross Mark's entry for the
+SRS Robot Magellan contest Update:
+He's talking about the on-board computing system for the robot, which is running a hacked
+NSLU2 , which is pretty cool, as I've got one of those kicking around somewhere. Unlike the
+previous talk , which was at about my level of hands-on with hardware, this stuff is well beyond my level of competence. I'm a software guy with delusions of grandeur, but I know my limits... Update:
+More on the
+NSLU2-Linux
+and the
+Open Embedded
+projects. Update:
+His
+slides
+are available, although they're in Open Office format, which isn't amazingly useful. But there is a lot more information on
+his website .
+Tweet
+Posted by
+Alasdair Allan
+at
+7:33 p.m.
+0
+comments
+Links to this post
+Labels:
+Open Source ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland ,
+Robotics
+OSCON: Hack the Real World
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm in
+Hack the Real World with Open Source and Microcontrollers
+given by
+Brian Jepson
+from
+Make: Magazine . Brian Jepson
+talking about
+hacking the real world He's talking about the
+Make Controller Kit
+and
+Arduino
+boards, and despite being from Make: he's focusing on the Arduino boards because it's "super open". The main difference is that the Arduino doesn't have an operating system, unlike the Make: board, and it's "...a lot like the old days". Update:
+He's talking about the different types of 'serial', and just mentioned the
+MAX232 chip
+which does conversion between
+RS-232
+and TTL serial. Update:
+He's talking about the
+Parallax RFID module
+which is a great module, cheap, and the pins plug right into a breadboard. Update:
+This is pretty cool, he's pushing through some code examples of how to use the Parallax RFID module with the Arduino board, which apparently come from
+Making Things Talk
+(via
+amazon.com ) by
+Tom Igoe . Update:
+He's talking about a bunch of different sensors, including the pretty interesting volatile organic compounds sensor from
+FigaroSensor.com . Also interesting is force sensing resistors from
+Trossen Robotics . Update:
+He's also talking about a Serial to Wi-Fi widget, with a simple
+telenet
+level interface, about US$90 from
+SemiConductorsStore.com . Update:
+There is also a GSM module, with embedded Python, for US$150 from
+SparkFun.com , and a GPS module for US$70 from
+Parallax.com . Update:
+Apparently Brad was
+sitting somewhere in the back .
+Tweet
+Posted by
+Alasdair Allan
+at
+6:39 p.m.
+0
+comments
+Links to this post
+Labels:
+Hacking ,
+Make: ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland
+OSCON: Friday Morning Keynote
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+The Friday morning keynote kicked off with
+Philip Rosedale
+the CEO of
+Linden Lab , who is here to convince us to go to work on their newly open sourced second life client. He's doing a demo of the new first look viewer with the inbuilt voice client, and oddly he's doing a slide presentation inside
+Second Life , which is displayed on the projector instead of "real" powerpoint. Which is a bit bizarre... Philip is arguing that Second Life has to, like the Internet become profoundly open. They're going to open source their server software and allow people to run and host their own server, and they've already open sourced their client. Update:
+Philip is talking about the
+Second Life in a web browser
+client that turned up on the Teen Grid a few weeks ago... Update:
+Next up is
+Jimmy Wales
+one of the founders of
+Wikipedia , who is talking about his new project
+Wikia . Which, cutting through the hyperbole, looks like a site where you can set up and host your own
+wiki . He's talking about trying to open source search, and
+Wikia Search , which he's referring to as the
+LAMP
+stack for search. Which is fine as far as it goes, but who's going to pay for the hardware? I think
+Tim O'Reilly
+even talked about this earlier in the week, even if you had Google's software, you couldn't rebuild Google's service because you don't have their hardware or their back end distributed database. One of the thing about modern cryptography is that nobody actually breaks codes anymore, they just prove that in theory it's vulnerable to certain attacks. As far as I can see Jimmy is basically pushing the same sort of agenda here, theoretical search. If we have a billion dollar data centre, we could build a search service? Update:
+Interesting, they've just acquired
+Grub , a distributed crawling service. Oh, that's not useful, the
+Grub client
+is Windows only... Update:
+The next speaker is
+Simon Wardley
+from
+Fotango , who spent some time apologising for his Britishness, before kicking off and talking about the
+commoditisation
+of software. In the 1800's... electricity engineers were the Spice Girls of their time Update:
+You have to give the man credit for mentioning
+Yak shaving . He's talking about open source standards and providing
+competitive utility market at all levels of the stack, ...it's not good for the planet, and that annoys me because it's not good for Ducks Update:
+Next up is our very own
+Nat Torkington
+giving the open source movement
+some therapy , and gaving a talk that was just too funny to blog properly... Perl is the middle child that isn't getting any attention any more. " Why don't you love me any more? " says Perl? " Look, I've rewired the car... " Python should get drunk, get laid, and shut up... Don't think of open source as projects, think of them as people... Update:
+It's all about people, Most people are morons.. Nat's saying that it's easy to be nasty, and the corollary is that it's hard to be nice. This was a great talk for Nat to close out his last OSCON on... Update:
+Our final keynote speaker is
+James Larsson , who according to Nat embodies the hacker spirit, who is going to
+Pimp My Garbage ... ...who it turns out is obviously clinically insane, but in a great way. Update:
+...and got the best reception of the conference. My guess is that a lot of this was for talking about his project which was intended to be, A computer vision system that takes the drudgery out of boot fetishism I guess you had to be there... Update:
+...and we're done!
+Tweet
+Posted by
+Alasdair Allan
+at
+4:48 p.m.
+0
+comments
+Links to this post
+Labels:
+Linden Lab ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Philip Rosedale ,
+Portland ,
+Second Life
+OSCON: State of the Onion
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+So slipping into the back of the room at the tail end of the
+Perl Lightning Talks , and caught
+Pudge
+performing
+Perl In a Nutshell . I'm now sitting in the Perl Foundation Auction. Its got to be one of the few auctions you'll ever attend where the auctioneer heckles the goods he's trying to palm off on the unsuspecting public, and boy do they have a lot of books and t-shirts to auction off this year... ...anyway, we have a book on it, who want's it? ...hardbacks! You can hit people with these! Update:
+...and we're done with the auction. Now it's time for this year's
+State of the Onion
+given as ever, by
+Larry Wall , and this year entitled " Programming is hard, let's go scripting! " All language designers have the idiosynchrosies, I'm just better at it than most... -
+Larry Wall ...and we're done. Larry's talk was, as always, really funny and entertaining, but totally un-blog'able. Maybe
+Chris
+did a better job?
+Tweet
+Posted by
+Alasdair Allan
+at
+1:11 a.m.
+0
+comments
+Links to this post
+Labels:
+Auction ,
+Larry Wall ,
+Onion ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Perl ,
+Perl Foundation ,
+Portland
+OSCON: Prototype and Object.prototype
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+After the afternoon break, and we're back with
+Prototype and Object.prototype: JavaScript Power Tools
+given by
+Amy Hoy . As
+Mark mentioned
+earlier in the day, there a bunch of different AJAX toolkits, and
+Prototype
+is one of the bigger players. Amy Hoy
+talking about
+prototype Javascript is a real language, and everything is an object, really, everything. Even strings are objects, var string = "This is a string" string.length; It relies very heavily on functions, while it does have objects, it doesn't have classes. It's a
+prototype based language ... Update:
+It's interesting sitting in Javascript talks, the people giving them sound the same way people did giving Perl talks five years ago. They start off justifying their language of choice, reassuring you it's a real language and explain why it can do cool stuff. Thinking about it, there are a bunch of ex-Perl hackers working on AJAX related stuff as well. Interesting, don't you think? These people are definitely drinking the
+Kool-Aid .
+Tweet
+Posted by
+Alasdair Allan
+at
+12:20 a.m.
+0
+comments
+Links to this post
+Labels:
+AJAX ,
+Javascript ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland ,
+Prototype
+Thursday, July 26, 2007
+OSCON: Body Hacking
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm in
+Quinn Norton 's talk on
+body hacking
+and functional body modification. It looks like O'Reilly have toally underestimated how popular this was going to be, it's packed, forget standing room there isn't breathing room. Quinn Norton
+talking about
+body hacking You are the platform... This isn't going to be your average OSCON talk, there will be warnings on the slide before if there is going to be blood on the next slide. I've been trying to keep this blog safe for work, so we're going to have to see how much of this I can actually blog. So what is body hacking? It's "...acting on yourself, with or without assistance, to enhance the function of your body or your perceptions". Stealing
+Make: 's motto, If you can't open it, you don't own it Update:
+She's talking about getting getting a rare earth magnet embedded inside one of her fingers, near a nerve bundle, to allow her to actually sense magnetic fields. The key factor here is
+neuroplasticity , allowing parts of your brain to repurpose itself. As time went on she could could sense live wires, spinning hard drives and phone chords. It's like sticking your hand inside an ultrasonic cleaner But then, "..who has actually done that?". Update:
+Now she's showing us why you don't want to do this, shortly after she had it implanted the sheathing around the magnet breached and bad things happened. Update:
+She's talking about Amal Graafstra who had an
+RFID chip implanted
+in his arm, and about how there is a theme of control. Update:
+Moving on Quinn is talking about CT scans and using the the
+available open source software
+to take control, and about the UK
+expert patient programme , which I hadn't heard of before. She's arguing that there is a fine line between expert patients and body hackers. For instance; glucometers, blood surveillance, brain monitoring and reading all of this live to the internet. Update:
+Apparently there are now consumer EEGs coming onto the market, and these are at the point where you can actually figure out facial expressions and emotional responses. This is pretty amazing stuff. Update:
+Interesting, she's talking about experiments with a directional sense, integrating a GPS and a buzzer allowing you to always know where north is, comments from the audience indicate that the US airforce have been doing this in their flight jackets since the sixties. Update:
+Interesting stuff here
+Provigil
+is a stimulant that lets you not sleep. But there is no downside as the side effect profile is minimal. You still want to sleep, and you still feel like you want to, but unlike normal you can actually still function while in sleep deprivation. Then there is
+CUV1647 , which gives a tan, makes you loose weight and increases your sex drive. The company that's made it is desperately looking for a disease, because you can't get a drug approved just because it's good for you. Update:
+So whether we call it enhancement or treatment matters for social acceptable, but doesn't actually reflect on the procedure itself. The problem with this is time scale, we used to have generations to adjust, now we have decades at best. Update:
+Best quote of the day perhaps? Amateur brain surgery, sounds like a bad idea... Update:
+She's closing out with "the next open vs propriety debate". Apparently there is a gene which can be used to test for breast cancer, but the gene is patented, so there is only one company in the world that can do the test and they charge US$1,200 and the test has to get mailed to Utah to get processed because that's where the only lab that has a license is located. Update:
+The question she's asking is "How far is too far?" and "What counts as Human?".
+Tweet
+Posted by
+Alasdair Allan
+at
+10:35 p.m.
+3
+comments
+Links to this post
+Labels:
+Body Hacking ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland ,
+Quinn Norton
+OSCON: Ajax and Web Services
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm in
+Mark Pruett 's talk on
+Ajax and Web Services . He's defining an Ajax application as a web service client that runs inside a web browser, and he's going to be talking about both
+REST
+and
+SOAP
+services. Mark Pruett 's talk on
+Ajax and Web Services Mark argues that people go through an evolutionary path in the way they use Ajax, they start off
+sending back a chunk of HTML, they move on to sending back delimited text, then XML and finally some people move to JSON. There a bunch of client side Ajax toolkits:
+prototype , Dojo, GWT (Google), Atlas (Microsoft), Rico, Zimbra, DWR. Some of these, like GWT and DWR are tightly coupled with the server side language. You probably want to pick a toolkit that doesn't do that... Update:
+He's talking about the whole SOAP vs REST debate, and arguing that externally you should expose your services via REST, but internally SOAP might be more appropriate, or at least more frequently used. Which isn't
+necessarily the same thing. Update:
+REST uses GET, PUT, POST and DELETE. Where GET will get data, a PUT will create a new resource, POST will update an existing resource and DELETE will delete an existing service. Although of course there are certain limitations to GET which means that you sometimes have to use POST anyway. Update:
+He's just totally dismissed synchronous REST requests, arguing that you should always use asynchronous requests. Which seems like a lot of overhead for simpler services. Although he's also arguing that you shouldn't bother with XML, but you should be using JSON instead, which means you can do this, var my_json; my_json = eval ("(" + http_request.respinseText + ")"); which I think is probably officially evil. Update:
+He's moving on to talk about the cross-domain problems. This is something we've all run into before, because of course you can only do Ajax calls to the server that delivered the original page. One way around this, which actually hadn't occurred to me before, is to use Apache ProxyPass rules and redirect calls to other servers transparently to your client side Javascript.
+Tweet
+Posted by
+Alasdair Allan
+at
+9:44 p.m.
+0
+comments
+Links to this post
+Labels:
+AJAX ,
+Mark Pruett ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland ,
+Web Services
+OSCON: Error Handling in Ajax
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Next up, I'm in the
+Error Handling in Ajax
+session given by
+Anthony Holdener , who seems to be running late. Update:
+Except that I'm now not.
+Nat
+just walked in and said that the speaker had mailed them months ago to say that he wasn't going to make it and the session was cancelled, except that nobody had actually got around to cancelling it. He didn't look that happy...
+Tweet
+Posted by
+Alasdair Allan
+at
+7:35 p.m.
+1 comments
+Links to this post
+Labels:
+AJAX ,
+Anthony Holdener ,
+Cancelled ,
+Error Handling ,
+Exception Handling ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland
+OSCON: wxPerl: cross-platform GUI design
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm in
+wxPerl talk
+with
+Eric Wilhelm
+from
+Scratch Computing .
+wxPerl
+is the binding for the
+wxWidgets
+library, and unlike
+Perl/Tk
+the standard dialogs and other shiny stuff all look like should do on the platform you're running the application on... Update:
+He's talking about how to get wxPerl to play the Perl game, and his wxPerl code for his application
+dotReader , to actually look like Perl rather than wrapped C++. Since I actually want to listen to this, why don't you go off and read
+Chris
+and
+Brad 's coverage, they look like they're typing faster than I am anyway... Update
+Eric is pointing us at
+wxPerl::Constructors
+and
+wxPerl::Styles
+both of which should add a decent Perl-like convenience layer on top of the Update:
+He's now pointing us at
+wxPerl::MenuMaker
+for a decent menu introspection convenience layer. Update:
+Other useful modules are in the Wx::Perl and Wx:: namespace rather than than the wxPerl:: namespace, don't you love
+CPAN ?
+Wx::Mozilla
+plugs a Mozilla canvas inside your Perl application, but WebCore and
+Wx::WebCore
+is the way of the future. Update:
+He's using
+PAR
+for distribution on Windows and Linux, although this has some problems. But on a Mac a graphical application has to live inside a .app bundle, so you need to look at
+PerlWrapper
+and his own ExtUtils::MacMaker, which he hasn't released to CPAN yet, if you want to release in a sticky lump rather than a scatter of Perl files.
+Tweet
+Posted by
+Alasdair Allan
+at
+6:45 p.m.
+0
+comments
+Links to this post
+Labels:
+Eric Wilhelm ,
+GUI ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Parallel ,
+Perl ,
+Portland ,
+wxPerl
+OSCON: Thursday morning keynote
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+So I seem to have rolled into the keynote late, which is pretty odd since I arrived at half past eight, and the programme says the keynote doesn't kick off until quarter to nine today.
+Ben Fry
+is currently up front he
+talking
+about the
+Processing Development Environment . This looks like a pretty interesting, and is apparrently the library underlying those cool
+air traffic visualisation
+I talked about back in March. Update:
+Next up is
+Robin Hanson
+talking about
+Overcoming Bias
+who kicked off by saying, I'm going to tell you things that you already know... and did indeed proceed to do so at length, without the aid of power point. This could have been a really interesting talk with the right speaker,
+Paul Graham
+perhaps? As it stood, he didn't really set the audience on fire, and that was disappointing, because with this audience and this talk, he really could have...
+Update:
+Next up is
+Bill Hilf
+talking about
+open source at Microsoft , who said the expected things and made the expected justifications, although admittedly in interesting ways. Update:
+Now we have
+Rick Falkvinge , the founder of the
+Pirate Party
+in Sweden, talking about
+Copyright Regime vs. Civil Liberties . Funnily enough, he got a lot bigger round of applause and a big " Arrrr! " from the audience. Why does the
+Pirate Party
+exist? The file sharing debate tends to focus on economic principles. But copyright is a commercial monopoly, and means something very different today than it did when it was introduced. Copyright is commercial, but touches everywhere, and people are now being monitored for violations it's become a civil liberties issue, ...so society must choose, privacy or copyright If you're being monitored, in comes self censorship. If you don't have the right to private communications when you're in private you loose your identity. The copyright problem isn't about money, it's about viral civil liberties. Politicians don't understand this... The solution is to bypass the politicians and go directly to the voters. It's very obvious sitting here in the back that Rick's arguments have a lot more support in this audience than Bill's, and you have to take that seriously because most of the people in this audience make their living of intellectual property. Think about it, if the content creators don't favour copyright and patents any more, why should anyone else? Update:
+The final keynote of the day is
+How to Ignore Marketing and Become Irrelevant in Two Easy Steps
+by
+Steve Yegge
+from
+Google , Google will probably fire me for this talk... He's talking about branding, and the fact that obviously you want people to use your software. He's kicked off with the whole
+New Coke
+and
+Coke Classic
+marketing disaster. They introduced it because the blind taste tests told them people liked New Coke a lot better, but that flipped around as soon as they saw the label. ...it was like introducing a new God. He's giving a great talk here, especially since he's facing the ultimate presenter's nightmare as his powerpoint isn't displaying on any of the half dozen screens scattered around the hall. Looks like the technical crew has given up trying to get it to work as well, which is a shame, if he's this good just free wheeling then he probably would have been great with added powerpoint. Now that's interesting, if your service is awful today, and perfect tomorrow, then apparently studies show that it takes an entire generation to change the perception of your brand. Update:
+Both
+Brad
+and
+Chris
+were covering the keynotes.
+Tweet
+Posted by
+Alasdair Allan
+at
+4:48 p.m.
+0
+comments
+Links to this post
+Labels:
+Keynote ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland
+OSCON: Machine learning with Perl
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+The last talk of the day is
+Machine Learning Made Easy with Perl
+with
+Lino Ramirez . When I noticed this one on the programme I immediately put it in the "must go to" pile as, of course, for my day job I build
+autonomous agent based systems
+to manage intelligent robotic telescope networks. Lino says, It's all about empowering people You can think about machine learning as a three phrase process: preparation (definition, gathering, analysis, cleaning, selection), modelling (selection, development, evaluation) and implementation (evaluation, implementation). After implementation there should always be a way for the system to keep learning. Update:
+He's currently going through an example using stock quotes, talking about clustering of data. I'm having flashbacks to yesterday's
+data mining
+tutorial. If you're interested in following along, apparently the code will be available for download after the talk. Update:
+We've been pointed at " Knowledge-Based Clustering " by Witold Pedrycz as a good text on clustering algorithms. I think I've actually got this on my shelf at home, but I'm not sure I've ever done more than flip through it, I'll have to dig it out when I get back into the UK. Update:
+Apparently he's a
+PDL
+and
+PGPLOT
+user. I'm feeling right at home here, this guy is definitely a an academic... Update:
+His next (and final) example is based on medical diagnosis, and he's talking about
+support vector machines classifiers
+and his PDL implementation of the technique. I'm going to have to mail him at the end of this and get the source code to this, or persuade him to tidy it up and release it onto
+CPAN . Update:
+If you want to code and the slides from this talk you need to email the speaker at
+ramirez@aranducorp.com.
+Tweet
+Posted by
+Alasdair Allan
+at
+1:20 a.m.
+3
+comments
+Links to this post
+Labels:
+Lino Ramirez ,
+Machine Learning ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Perl ,
+Portland
+OSCON: Perl 6 on Parrot
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm sitting in
+Perl 6 on Parrot
+with
+Patrick Michaud
+the pumpking for the
+Perl 6
+compiler. Of course we have to talk about Perl 6 compilers, there are lots;
+Perl 6 on Parrot
+("perl6"),
+Pugs ,
+v6-alpha
+and
+KindaPerl6 .
+You've probably heard of "perl6" and Pugs, but you might not have heard of
+v6-alpha
+which is a Pugs based Perl 6 implementation on top of Perl 5, or
+KindaPerl6 , which is a Perl 6 implementation on top of Perl 6.
+But Patirck will be mostly talking about "perl6" today, and if you want to check-out and build Perl 6, you can do it using the following incantation, $ svn checkout http://svn.perl.org/parrot/trunk parrot $ cd parrot $ sperl Configure.pl $ smake $ scd languages.perl6 $ smake $ smake test $ smake spectest # run a Perl 6 program $ parrot perl6.pbc hello.pl The big focus right now is on the Perl 6 test suite, there is a definition on
+Synopsis 1
+which says the anything that can pass the Perl 6 test suite is an official version of Perl 6. The Perl6/Parrot syncs tests with the Pugs master repository, which continues to host the canonical version of the test suite, which are of course all written in Perl 6. The tests in
+01-sanity/
+are the "threshold" to running other tests in the suite, unfortunatley Pugs'
+Test.pm
+evolved beyond features in
+01-sanity/ , so the Perl6 people have now built a simpler
+Test.pm
+that only requires these threshold features which allows development to take place on other components. Commonly asked Perl 6 compiler questions, Are you really planning to write the (whole) compiler in
+PIR ? The answer is "No", this has never been the plan. There are a lot of components written in
+PIR , but most of the compiler is written in Perl 6. What about Perl6 bootstrapping/self-hosting..? This is a longer term goal. Patrick's more immediate goal is a stable platform for compiling /running Perl 6 on Parrot, the medium term strategy is to use whatever tools facilitate feature coverage. Apparently there is a floating garbage collection bug somewhere in the Parrot virtual machine which really needs more eyeballs on the test suite as sometimes it's there, and sometimes it's not... ...and we're done.
+Tweet
+Posted by
+Alasdair Allan
+at
+12:20 a.m.
+0
+comments
+Links to this post
+Labels:
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Parrot ,
+Patrick Michaud ,
+Perl ,
+Portland ,
+Pumpking
+Wednesday, July 25, 2007
+OSCON: Perl 6 Update
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm in the
+Perl 6 Update
+given by
+Larry Wall
+and
+Damian Conway
+in absentia . There was a lot of material in this talk, as always, so this is a high-lights and low-lights summary only, mostly of the bits and pieces I managed to write down in time before Larry flipped the slides away... Class and module names can now have adverbial modifiers allowing you to put author (naming authority) and version numbers into the class. Also introduced inline comments, if you follow the # symbol with a bracket, then the comment only goes to the end of the matching bracket. No more defaulting to
+$_ . Built-in functions no longer default to
+$_
+by, well, default, #Perl 5 for ( @data )
+{
+chomp;
+print; } # Perl 6 for( @data ) {
+.=chomp;
+.print; } The file test operators
+-r -w -x
+are gone from
+Perl 6
+and have been replaced by something that look a lot like this, if $file ~~ :r {
+say 'we can read the file'; } if $file.:w {
+when :r | :w | :x { say "r,w,x" }
+when "w & :!±r { day "write-only" } } All global variables now have a star, e.g.
+@*ARGS , which by-the-by is the replacement for
+@ARGV ...
+There is a new loop type, repeat {
+print "Name: ";
+$name ==; } while $name !~~/\S/ repeat while $name !~~ /\S/ {
+print "Name: ";
+$name ==; } which fixes the " mess I made of Perl 5 do/while loops "
+according to Larry. One of (many) interesting regexp fixes in Perl 6 is match boundaries, which are being added to Perl 5.10 but with far worse syntax, /
+bar / //foo
+baz/ You can now define fixed size arrays, if you really want to, my @calendar[12]; # indices are 0..11 only and it'll give you error if you go outside the range. It looks like there are lots of new semantic features added into
+POD , like tables, and a much better implementation of nested lists and link syntax. Can also use DIY mark-up, and add parser and translator support for new block types. ...and we're done. Update:
+Both
+Brad
+and
+Chris
+were covering this session.
+Tweet
+Posted by
+Alasdair Allan
+at
+10:34 p.m.
+0
+comments
+Links to this post
+Labels:
+Larry Wall ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Parrot ,
+Perl ,
+Perl 6 ,
+Portland
+OSCON: The Expo Hall
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+So I spent the lunch hour wandering around the
+Expo Hall ...
+Tweet
+Posted by
+Alasdair Allan
+at
+9:28 p.m.
+2
+comments
+Links to this post
+Labels:
+Expo ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland
+OSCON: Managing technical debt
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm in
+Managing Technical Debt
+with
+Andy Lester . He's really rolling, and taking the audience with him and his five step plan to reduce your technical debt... Andy Lester
+talking about
+technical debt Identify your debts Determine the costs Pay the most profitable Stop incurring new debt Repeat as necessary Andy is arguing that clutter is probably the biggest indicator of technical debt; failing tests, fragile code, ugly code. A failing test is a car alarm, you'll just ignore it... Outdated comments are also a big problem, if the comments don't match the code then you have real problems. "Bus-sensitive knowledge" is any knowledge where if you get hit by a bus, and you loose that knowledge, is technical debt. You might also be missing vital infrastructure; RT, version control, backups and cron jobs to automate tasks. Update:
+Andy is making a lot of good points, including advocating giving non-critical projects to your not so smart people to free up the smart ones to do the critical ones.
+You need to pick one thing to work on, don't pick the easiest, don't pick the most fun either. Think improvement, not perfection.
+Land one plane at a time If you try to do two things, you're going to do both of them poorly. Update:
+Technical debt is obviously an issue really close to everyone's heart, Andy is getting a lot audience interaction. I'm half expecting people to start standing up and say, " I'm Bob Smith, and I have technical debt... ", followed by a group hug.
+Tweet
+Posted by
+Alasdair Allan
+at
+6:55 p.m.
+3
+comments
+Links to this post
+Labels:
+Andy Lester ,
+Coding ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland ,
+Technical Debt
+OSCON: Wednesday morning keynote
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm sitting in the Wednesday morning keynote, listening to
+Nat
+warm up the crowd for
+Tim O'Reilly
+and the annual O'Reilly Radar. It's good to see that
+traditional shirt , wouldn't be OSCON without it... ...and here's you're host
+Nat Torkington Update:
+For various reasons I got called out of the keynote and hand to go make a bunch of phone calls, but
+Brad
+and
+Chris
+blogged it, so just go read their coverage... Update:
+Tim O'Reilly and the O'Reilly Radar,
+Tweet
+Posted by
+Alasdair Allan
+at
+4:51 p.m.
+0
+comments
+Links to this post
+Labels:
+Nat Torkington ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland
+Tuesday, July 24, 2007
+OSCON: Data-mining from Open APIs
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+My afternoon tutorial is
+Data-mining from Open APIs
+given by
+Toby Segaran . I'm currently stuck on the end of a row without access to a power socket, so we'll have to see how my battery holds out. Toby Segaran
+talking about
+Data-mining Having paged through the book I'm a bit unsure I really want to be in this tutorial, Toby has started out with a fairly dry discussion of what data mining actually is, which isn't really that reassuring. I don't think this is going to be the fun fast-paced tutorial on
+mashups
+that I was expecting. I think next year I should probably read the
+tutorial descriptions
+before picking what I'm going to, rather than waiting till I arrive at the conference. Apparently he's got an book " Programming Collective Intelligence ", which covers a lot of the same ground as this tutorial, due out in August with
+O'Reilly . Update:
+Oh, he's just started to talk about
+regression trees
+and the
+CART algorithim . Moving on from supervised regression trees, he's talking about unsupervised methods.
+Update:
+He's basing his unsupervised data mining example on grouping blogs on hierarchical clusters. He's using Mark Pilgrim's
+Universal Feed Reader
+to harvest the data from the
+Technorati
+top one hundred blogs, I've sure you've all seen blogs... with lots of Python code flipping across the screen he's building up a matrix of word occurrences and determining the distance between two blogs using
+Euclidean distance
+between the word counts. I guess that's okay for a simple example but there are other distance metrics;
+Manhattan , Tanamoto,
+Pearson Correlation , Chebychev and Spearman. Update:
+He's showing how you can use
+Dendrograms
+and
+K-means Clustering
+to show how the blogs cluster up. I'm a bit frustrated here, this is good stuff, but his code is written in eight point font, black on white, and almost total unreadable. Update:
+Okay, we've just broken for fifteen minutes for an unscheduled break... Update:
+We just had about three quarters of an hour of network down time. The network crash happened just as I was posting an update, which appears to be toast. I hate it when that happens... Update:
+...okay, he's just finished two hours early. Erm? What on Earth!?
+Tweet
+Posted by
+Alasdair Allan
+at
+8:37 p.m.
+4
+comments
+Links to this post
+Labels:
+API ,
+Data-mining ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland ,
+Toby Segaran
+OSCON: Higher-order Perl
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+My morning tutorial today is
+Higher-order Perl , the tutorial of
+the book , given by
+Mark-Jason Dominus . Mark-Jason Dominus
+talking about
+Higher-order Perl After rolling in five minutes late, in typical
+Mark-Jason
+style he booted the laptop, stood up the front and said... Thanks, any questions... Suffice to say he got a laugh, and got the audience on his side. I've been in a bunch of
+Mark-Jason 's talks before, for instance back at the OSCON in 2005 I went to his
+Making Programs Faster
+which was excellent. While he isn't Damian Conway, and you won't get him
+proving the 2nd law of thermodynamics
+using the Game of Life, he's a really good speaker. The point of this tutorial, and
+the book , is that a lot of people write C programs in Perl, which is a bit of a waste of time. Mark-Jason is trying to persuade him to write Perl programs in Perl. Update:
+He's started talking about
+caching
+and the
+Memozie
+module, use Memoize; memoize 'date_to_key'; What
+Memozie
+is that it replaces the true function with a wrapper function, and with people looking a bit confused he's dropped back a fair ways to talk about
+closures , e.g. sub make_function
+my $val = shift;
+return sub { print "Value is $val.\n"; ++$val; }; } Which captures the lexical variable at the time they are created, which of course is why they're called closures. Interestingly there are still people looking confused, oh boy, they're so in the wrong tutorial... Update:
+Back to
+Memozie , we pass it a function name then it constructs a new closure with a private reference to that function. Each instance has a real and cached version, and uses a glob assignment to install a reference to the wrapper function into the symbol table. Then simply when the wrapper function is invoked, we grab the identity of the function, and peek in the cache. If it's not in the cache yet, we grab a reference to the real function and stick it in the cache for the next time and then return it. If it is in the cache, then we just return the cached value. Of course, its a bit more complicated than that, you have to take account of scalar and list context for instance. Update:
+After more
+Memozie
+goodness he has moved on talk about
+Iterators . For the non Java people in the audience an iterator is an object interface to a list. It supports a
+next
+method to generate the next item when it is needed. So why do you want them as a Perl person, well the list might be large, or it might take a long time to come up with list elements, or you might not know in advance how many items you want. Of course Perl file handles are iterators, and the next method is the
+<...>
+operator, and iterators turn up everywhere in Perl even though we don't call them that explicitly. Interestingly Python doesn't use this concept for reading directory listings, and Perl does... Update:
+Hurrah, we have an "octopus" reference when talking about
+File::Find , we've all been waiting... Update:
+Mark-Jason
+is making his way through an Interator example re-implementing
+File::Find , and is talking about classes using
+bless 'ing subroutines rather than hashes. There are few looks of pain in the audience, mostly from the people that didn't seem to follow closures. Update:
+Time for coffee, back after these messages... Update:
+So unlike yesterday [ 1 ,
+2 ] I'm actually having to work to keep up here, which is good because I've got a sneaking suspicion that this afternoon's tutorial on data mining isn't really going to stretch me that much. Update:
+...and we're back, still talking about Iterators and infinite lists. Update:
+He's talking about
+linked lists
+which he's claiming aren't particularly useful in Perl because the array data type pretty much handles everything you want to do with linked lists. Which is pretty much true in general, although I do have linked lists buried inside my two hundred thousand lines of object-oriented Perl sitting in
+my project's
+CVS archive. Perl loves you, that's why we're all here... Update:
+We're moving on to parsing, taking a big pile of unstructured input and turning it in to a data structure. Perl actually hides a lot of this from you, for instance, while(<$fh>) {
+# do something with $_ } is actually a parser after all. But at some point your ad-hoc parser and you'll need to go to something like
+Parse::RecDescent . Of course Parse::RecDescent is a closed system, and you really need to have open architecture to cover your bases, and it looks like he's going to build one in-front of our eyes using
+Recursive-descent parsing
+which, funnily enough, is the same algorithm used be Parse::RecDescent. Update:
+Okay, that was pretty cool.
+Moving on he's talking about
+the book
+and how Perl is really Lisp... Update:
+...and we're done. Lunch time!
+Tweet
+Posted by
+Alasdair Allan
+at
+4:21 p.m.
+3
+comments
+Links to this post
+Labels:
+Mark-Jason Dominus ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Perl ,
+Portland
+Threading Building Blocks
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+So tonight I somehow managed to pretend to be a legitimate journalist and went and mixed with the great and the good at the
+Intel Media Party
+where we got the briefed about
+Threading Building Blocks
+2.0 library which
+Intel
+is releasing today as open source under the GNU
+General Public License .
+Threading Building Blocks
+is a C++
+template
+library which attempts to give easy access to parallel programming, and heavily pushes a task based rather than thread based approach to parallelism. It provides developers with parallel algorithms, concurrent containers, a task scheduler and a scalable memory allocator. James Reinders and Threading Building Blocks James Reinders was running the show, pushing his new book " Intel Threading Building Blocks " (via
+amazon.com ) published by
+O'Reilly , presumably to coincide with the release of the project to the community. ...just say 'no' to explicit thread management. - James Reinders At the same time Intel announced a
+coding contest
+that will run to the end of the month, they're looking for the best use of Threading Building Blocks in an open source project, and they're offering a shiny new multi-core laptop as bait. It actually looks like an interesting way to go about parallelising
+shared memory
+applications, although even after talking to James for ten minutes or so in the open bar after the announcement, I'm having a hard time figuring out what the major thing that
+TBB
+does that
+OpenMP
+doesn't.
+However the interesting thing from the perspective of a
+Perl hacker
+is that TBB is potentially wrap'able in
+Perl XS , which I'm not sure had occurred to the Intel guys. When asked about higher level languages they started talking about optimising the compilers or virtual machines, rather than user level code. Since he
+wrote the book
+I'll have to drop an email to
+Tim
+and see what he thinks to the idea. Brad has his
+own taken on events
+as he managed to blag his way into the party as well. Which reminds me, why do vendors only give out t-shirts in XL?
+Tweet
+Posted by
+Alasdair Allan
+at
+5:26 a.m.
+0
+comments
+Links to this post
+Labels:
+Intel ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Parallel ,
+Portland ,
+Programming ,
+TBB ,
+Threading
+Monday, July 23, 2007
+OSCON: Understanding Asterisk
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+My afternoon tutorial today is
+Understanding Asterisk
+given by
+Brian Capouch . I went to
+Brian Acker 's session on
+Hacking your Home Phone
+during OSCON 2005 so, like
+this morning , I thought that it was worth following up with a tutorial. Brian Capouch
+talking about
+Understanding Asterisk Update:
+Brian's gone back to basics and is talking about how the
+POTS
+network actually operates, and I'm suddenly realising why
+VoIP
+is taking off so much more quickly in the US than it is back home in the UK. I was totally floored to find out that some US telcos charge for
+touch tone
+dialling. That's just bizarre... Update:
+He's going through the two different views of how this stuff works, it looks like the telephone guys and the computer guys really didn't talk things out before setting up standards and writing software. Both sides call the same things different names. Update:
+Brian is giving a good impression of someone trying to cram a ten week lecture course in a three hour tutorial. He's got a lot of background material here, and I'm not sure its really relevant. For instance do you really have to talk about the
+Nyquist frequency
+and the nuts and bolts of
+analog-to-digital conversion
+to talk about configuring and using
+Asterisk ? In fact he hasn't mentioned Asterisk much at all yet, this isn't really what I'd signed up... Update:
+Coming from an
+academic background
+it's really very apparent that this guy is an academic, Brian is obviously really excited by the mathematics behind VoIP and about the theory behind different types of
+codecs . Codecs are really interesting... part of the fun of running an Asterisk system is playing with codecs. -
+Brian Capouch I'm not sure he's really pitching this material at the right people, at a different time and place I'd be quite interested, but I'm not sure he's carrying the audience. I'd be more interested in a hands-on look at
+Asterisk
+itself. I wasn't looking to have fun with different codecs, I was looking for some practical look at how to set up a VoIP network and interconnect the system with other providers. Hopefully we're going to get onto some more practical stuff later on... Update:
+Googling for slightly more practical stuff, it looks like O'Reilly book " Asterisk: The Future of Telephony " by Meggelen, Smith & Madsen is available online under the
+Creative Commons License . Update:
+Time for afternoon coffee, back after these messages... Update:
+Back from the break, and Brian has actually started to talk about Asterisk. This material basically looks like what I was expecting him to kick off with a couple of hours ago. He's doing a demo right now, although I'm not sure how useful it's going to be as the demo seems consist of him going through how his own home network is set up.
+Update:
+After staring at a directory listing of the Asterisk source code for a bit, we're looking at some random configuration files. I don't think this is a particularly useful approach, I don't even know which file we're looking at here, what it's for or why I'd like to edit it. I especially don't know at what stage of an install I'd be editing it... Update:
+I'm sure some people in the room are following this, but I'm not. Brian is standing at the front of the room with multiple
+SIP
+devices, calling each other, while we're watching the logs from his home Asterisk server. Update:
+...and we're done. To be perfectly honest I don't think I know anything more about
+Asterisk
+than I did three hours ago, however at least I am leaving with the determination to buy the books I was hoping to avoid buying by going to this tutorial in the first place.
+Tweet
+Posted by
+Alasdair Allan
+at
+9:20 p.m.
+0
+comments
+Links to this post
+Labels:
+Asterisk ,
+Open Source ,
+OSCON ,
+OSCON07 ,
+OSCON2007 ,
+Portland ,
+VoIP
+OSCON: Taming Legacy Perl
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm here listen to
+Peter Scott
+talking about legacy Perl because of the just over two hundred thousand lines of Perl code sitting in my CVS archive, a lot of which I wrote over five years ago now, when I really wasn't as good at this stuff than I am now. I was actually at Peter's
+talk
+during the OSCON in 2005 and I
+talked
+about this myself at the
+London Perl Workshop in 2004 , so I'm really interested to see how his talk has evolved into a full-blown tutorial. Peter Scott
+talking about
+Taming Legacy Perl Update:
+So we're twenty five minutes into the conference and we've just had the first crash of the wireless network, I was sort of expecting it to last a little bit longer, it's not as if
+O'Reilly
+haven't done this before? Update:
+Peter is talking about optimisation and advising us to try and figure out, not just what a piece of legacy code was intended to do, but also what it was optimised for; maintainability, performance, brevity or even job security. This is pretty good advice, although my own experience is that most people write Perl which isn't optimised for anything in particular except to "just work". Update:
+Interestingly this is the first I've heard that Makefile.PL files and the
+ExtUtils::MakeMaker
+module are being deprecated (and removed from the Perl core?) from Perl 5.9.4. That's going to hurt... ExtUtils::MakeMaker
+has been a de-facto standard for the common distribution of Perl modules; Module::Build is expected to supersede
+ExtUtils::MakeMaker
+in some time (part of the Perl core as of 5.9.4). The transition takes place slowly, as the converting process manually achieved is yet an uncommon practice. The
+Module::Build::Convert
+Makefile.PL parser is intended to ease the transition process. Update:
+From optimisation he's moved on to talk about testing and the many test harness modules available in Perl. The simplest, that you'd actually want to use, is of course
+Test::More
+which is built on top of
+Test::Simple
+which you probably wouldn't want to use yourself. I'm actually a bit surprised there are people writing this stuff down, which scarily implies that they don't already use one of the numerous unit test modules. A couple of other useful test modules he's talking about are;
+Test::NoWarnings
+and
+Test::MockObject . Update:
+Time for morning coffee, back after these short messages... Update:
+I'm actually a bit disappointed, while Peter is a good enough speaker and the material is solid enough, he's been talking for an hour and a half and he hasn't said anything I don't already know. I'm starting to wonder whether I should stop going to the Perl track here at OSCON and branch out and do other stuff, either that, or actually organise myself a couple of months earlier and submit some tutorial ideas. Of course with no
+Damian Conway
+or
+Randal Schwartz
+this year you have to wonder, as a Perl conference at least, whether OSCON has
+jumped the shark ? Update:
+He's finally moving on from testing to talk about refactoring, in fact he's talking about rewriting. Someone sitting right up front has asked him about accumulated domain knowledge, he's making the exact same point I made in
+my own talk
+at the LPW. Looks like Scott and I totally disagree here, back in 2004 I said something along these lines... The first thing a developer wants to do when they start on a new project which has an extensive established code base is to rewrite the legacy code, or at the very least re-factor the code. However your project’s legacy code encapsulates knowledge, every bug fix, every bright idea by the programmers who have worked on the project before you is in there. Do you really want to have to rewrite all that code, and have all those bright ideas again? -
+Alasdair Allan I'd still argue that your code base is the fossil record of your organisation and the worst possible mistake you can make is to try and re-implement your existing code base from scratch. If you have to refactor your code, but never rewrite. Update:
+Peter is talking about
+cargo cult programming , but again I'm going to have to disagree. He's trying to be too clever, some of the examples he's giving of cargo cult Perl aren't, they might be that way for a reason. Sometimes optimising the Perl for readability, maintainability or elegance isn't the way to go. Sometimes you're looking at a decade of corner cases and bug fixes. You really have to be careful about "fixing" that sort of stuff. Update:
+So now we're covering
+DBI
+placeholders, I'm bemused. I rarely have to do heavy weight database work, and I'd view my knowledge of DBI as only fairly sparse, and even I know about place holders. So why is he covering this? Update:
+Okay, now he's talking about global versus local variables. Erm...? Update:
+...and we're done. I must admit, Peter's presentation was fairly decent, but as he got further into his subject I started disagreeing with a lot of the stuff he was recommending. I guess it's a matter of style, but especially with his insistence that rewriting code is a good idea, I think he's giving bad advice on some subjects. Time for lunch... Update:
+Brad was
+also blogging
+this tutorial.
+Tweet
+Posted by
+Alasdair Allan
+at
+4:31 p.m.
+3
+comments
+Links to this post
+Labels:
+Legacy Software ,
+OSCON ,
+OSCON07 ,
+Perl ,
+Peter Scott ,
+Portland
+OSCON 2007
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Day one of
+OSCON 2007
+here in
+Portland , Oregon. I managed to haul myself out of bed early enough to grab my morning coffee and make my way down to the convention centre without actually having to jog, something I probably won't manage every day this week. Over the first two days of the conference I'm signed up for the
+Taming Legacy perl ,
+Understanding Asterisk ,
+Higher-order Perl
+and
+Data-mining from Open APIs
+tutorials and you can follow along with me here, Brad is
+also blogging
+although it doesn't sound like he's had his morning coffee yet today... Update:
+Peter Scott talking about
+Taming Legacy Perl . Update:
+Brian Capouch talking about
+Understanding Asterisk . Update:
+The Intel
+Threading Building Blocks
+launch party. Update:
+Mark-Jason Dominus talking about
+Higher-order Perl . Update:
+Toby Segaran talking about
+Data-mining from Open APIs . Update:
+The Wednesday morning
+keynote address . Update:
+Andy Lester talking about
+Managing Technical Debt . Update:
+Lunch in the
+Expo Hall . Update:
+Larry Wall talking about
+Perl 6 . Update:
+Patrick Michaud who was also talking about
+Perl 6 . Update:
+Lino Ramirez talking about
+Machine Learning and Perl . Update:
+The Thursday morning
+keynote address . Update:
+Eric Wilhelm talking about
+cross-platform GUIs with wxPerl . Update:
+Error handling in Ajax
+got cancelled. Update:
+Mark Pruett talking about
+Ajax and Web Services . Update:
+Quinn Norton talking about
+Body Hacking . Update:
+Any Hoy talking about
+Prototype and Object.prototype . Update:
+Larry Wall and the
+State of the Onion . Update:
+The Friday morning
+keynote address . Update:
+Brian Jepson talking about
+Hacking the Real World . Update:
+Mark Gross talking about
+Amateur Robotics . Update:
+Philip Torrone and Limor Fried and
+open hardware .
+Tweet
+Posted by
+Alasdair Allan
+at
+4:15 p.m.
+0
+comments
+Links to this post
+Labels:
+OSCON ,
+OSCON07 ,
+Portland
+Hands-on with the iPhone
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+So I finally managed to get hands-on with the
+Apple iPhone
+in the
+Portland Apple Store
+while I'm out here for
+OSCON 2007 . Posted
+via Flickr The
+Apple iPhone I was getting ready to be disappointed, there has been so much hype it couldn't possibly live up to it, but I was actually quite taken with the iPhone. It feels good in your hand, and the
+multi-touch
+interface is blindingly obvious to use. Although I'm not a big fan of the keyboard, I was expecting to hate it, and I actually only mildly dislike it. So probably, with practice, I could be become a convert. I guess I'm going to have to get one, but as a Brit, I've got a long wait...
+Tweet
+Posted by
+Alasdair Allan
+at
+12:24 a.m.
+0
+comments
+Links to this post
+Labels:
+Apple ,
+iPhone ,
+OSCON ,
+OSCON07 ,
+Portland
+Friday, July 20, 2007
+Enroute to OSCON
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+I'm currently holed up in the
+Sheraton Heathrow
+on my way out to
+OSCON 2007
+being held in Portland in Oregon, at the
+Oregon Convention Centre . I arrived here after a torturous seven and a half hour journey across from Exeter, stretched from the normal and much more reasonable two or three hours, which was all down to the
+heavy flooding
+in the South East of England. After being stranded in
+Bristol Temple Meads
+for two hours,
+First Great Western
+finally bundled me and about twenty other people on our way to
+Heathrow
+and
+Gatwick
+airports into a small fleet of taxis. That's
+105 miles
+to Heathrow and
+135 miles
+to Gatwick. Not cheap, but with almost the entire English rail system shut down, about the only way they were going to get us here at all. I've got an early flight out of
+Terminal 3
+tomorrow morning, so more from me when I hit Portland... Update:
+I'm
+not alone , although probably slightly soggier due to the vagrancies of the British climate. I was excited by the possibilities of
+Gears
+during the launch at the
+Developer Day , so looking down
+the list
+of Google related talks it looks like I'll have to go to the
+Google Gears session
+to check on progress. Update:
+I'm sitting at the gate in O'Hare waiting to board UA129 to Portland. It's been a long day. I caught a morning flight out of Heathrow, and actually got into Chicago about 45 minutes ahead of schedule, so I had lots of time to make my connecting flight to Portland. The queue for US immigration was about an hour and a half, not the worst I've ever seen, and I was only a few people from the head of the queue when the US immigration system crashed. The entire system, nation wide. No one in, no one out. By the time it came back up two hours later, the luggage was piled to the ceiling in baggage reclaim, and the immigration queue behind me stretched back to the gates, and in O'Hare that's a long way. There were even people still stuck in newly arrived planes because there wasn't space to let them into the Terminal. From having an excessive five hours to make my connection, I ended up having to jog to reach my gate, and that was with those precious extra 45 minutes. The people still stuck onboard their planes are probably facing seven or eight hours of queuing before they even see their luggage, let alone the light of day... So, any bets on whether my luggage turns up in Portland? Update:
+Unbelievably, my luggage turned up. Of course I ended up with the last room in the hotel, and it shows. I'm getting moved tomorrow but I'll have to suffer it tonight. It's that or accept a walk order for another hotel, as they are literally full here, and I'm just too tired to handle that right now.
+Tweet
+Posted by
+Alasdair Allan
+at
+9:16 p.m.
+0
+comments
+Links to this post
+Labels:
+Chicago ,
+Flooding ,
+Heathrow ,
+Immigration ,
+O'Hare ,
+OSCON ,
+OSCON07 ,
+Portland ,
+Railway ,
+UK ,
+US
+Wednesday, July 18, 2007
+Salvaging the mobile TV nightmare?
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+It now looks like the
+EU has decided to push DVB-H
+as a standard for
+mobile TV
+across Europe. This worked well for us
+with GSM , pushing the mobile networks ten or years ahead of the US market, but I'm not so sure its going to help increase the
+pathetically low
+uptake of mobile TV. Of course in the UK we already have mobile TV thanks to Virgin mobile, but it has
+few subscribers , and is in any case based on the DAB not DVB-H standard as we're unlikely to be able to free up the frequencies required for DVB-H until
+digital switchover
+which isn't for a few years yet. Despite
+industry disquiet
+it seems that the network operators still view mobile TV as the killer application for those expensive
+3G
+licenses. I think they're in for a surprise. Like
+video calling
+which, despite being heavily push by the
+3 network
+in the UK from the outset, was never going to be the killer application they so needed. Mobile TV is a dead duck, like
+MMS
+and
+WAP
+before that, both of which were going to be the killer applications for the 3G networks. When are the operators going to understand that what people want is to make voice calls and send
+text messages . If there is one, the killer application for 3G is packet data, and "real" Internet access. One thing the success of the
+iPhone
+should show is that the
+mobile web , the cut-down version of the Internet currently offered to mobile users, is dead. Just like mobile TV, although the operators just haven't realised it yet... Update:
+I think the handset manufacturers have
+the right idea , I'll throw my two penny's worth into the ring and predict that there will be a lot more mainstream adoption for GPS then there ever will for mobile TV.
+Tweet
+Posted by
+Alasdair Allan
+at
+2:33 p.m.
+1 comments
+Links to this post
+Labels:
+3G ,
+Cellphone ,
+DAB ,
+Disruptve Technology ,
+DVB-H ,
+IPTV ,
+Mobile ,
+TV
+Monday, July 16, 2007
+Blocked in China
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Like
+Brad , it looks like my blog is banned in China. Maybe something to do with
+this post ? Are you banned in China?
+Tweet
+Posted by
+Alasdair Allan
+at
+2:14 p.m.
+1 comments
+Links to this post
+Labels:
+Censorship ,
+China ,
+Firewall
+Tuesday, July 10, 2007
+More ultra-portable rumours...
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Another round of
+ultra-portable rumours
+have started, talking about the
+long predicted
+release of a
+replacement for the 12-inch Powerbook .
+...the new notebook is said to be half as thick, or something between 0.6 and 0.7 inches. It will also be, by far, the lightest computer Apple ever released, at less than 3 pounds. -
+MacScoop Along with everyone else I've been waiting for something " much cooler " and
+talking about a replacement for the 12-inch
+since
+just after
+the Macworld keynote
+in January 2006 . Of course the
+announcement of the iPhone
+a year later at Macworld in 2007 started rumours about a possible
+touch screen
+model, but I'm writing those of as wishful thinking. I'm going to be real happy with an ultra-light ultra-portable, especially if it really is
+Flash based
+and does away with the Hard Disk entirely. Of course I've been saying that for a year and a half now, and I'm still typing this blog post on my aging 12-inch Powerbook. So I'm not holding my breath...
+Tweet
+Posted by
+Alasdair Allan
+at
+5:49 p.m.
+0
+comments
+Links to this post
+Labels:
+12 inch ,
+Apple ,
+MacBook ,
+Powerbook ,
+Replacement ,
+Rumours
+Thursday, July 05, 2007
+Confirmation of an O2 deal?
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+While it looks like T-Mobile will
+be distributing
+the
+iPhone
+in Germany, the BBC is reporting that
+O2 has won distribution rights in the UK . I must admit to being disappointed, if true it means I'm going to have to
+switch operators . How annoying... Update:
+Looks like
+O2 has denied
+the rumours.
+Gizmodo
+pretty much
+sums things up . This is almost worse than waiting around
+since 2004
+for the thrice cursed thing in the first place... Update:
+Just got hit between the eyes with a brick, O2 never rolled out an EDGE network in the UK. If this really is true, then the European/UK release of the iPhone has to be 3G. Update:
+The Register is trying hard to
+stop the speculation
+with the suggestion that " ... any UK deal is not beyond the round-of-golf stage ", but I doubt that will stop anyone else talking about this incessantly for the next six months. Update:
+Looks like
+Amazon.co.uk
+slipped up and
+posted
+an estimated release date of 1st December at a price point of £329 on their site. This has now been removed and replaced with a
+less interesting
+page. Nothing about a carrier though,
+Apple
+really are playing this close to their chest, as usual... Update:
+The latest rumour is that a
+iPhone
+has been
+seen in the wild
+in the UK on O2. Hmm, who do AT&T users end up roaming onto when they're in the UK?
+Tweet
+Posted by
+Alasdair Allan
+at
+2:53 p.m.
+0
+comments
+Links to this post
+Labels:
+Apple ,
+Germany ,
+iPhone ,
+O2 ,
+T-Mobile ,
+UK
+Wednesday, July 04, 2007
+Remember the ubiquitous umbrella?
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Anyone remember the
+ubiquitous umbrella
+from around the middle of last year? Well it looks like someone has actually
+brought a version to market . CREDIT:
+Ambient The
+Ambient Umbrella I must admit to liking
+Materious concept
+look-and-feel better, that big chunky glowing curved handle looked good, but I'm still impressed that someone is bringing this to market with the expectation that people are actually going to buy it. Ubiquitous computing might be the future, but only when it's a lot cheaper than US$125 for an umbrella.
+Tweet
+Posted by
+Alasdair Allan
+at
+12:15 p.m.
+1 comments
+Links to this post
+Labels:
+Gadgets ,
+Ubiquitous Computing ,
+Umbrella ,
+Weather
+Tuesday, July 03, 2007
+New low impact wind turbine?
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Attaching a traditional full sized wind turbine on the side of your house probably won't make you any friends, but it's possible that a
+new modular design
+by Graham Attey, an Australian engineer, might be slightly more acceptable to your neighbours.
+CREDIT: Graeme Attey Graeme Attey's design for a rooftop Wind Turbine Resembling a scaled down and horizontally mounted
+Savonius turbine , the new design has no visible rotating blades and is relatively quiet. Attley has just
+been awarded
+funding from the Western Australia Sustainable Energy Development Office to further develop his new design.
+Tweet
+Posted by
+Alasdair Allan
+at
+9:28 p.m.
+3
+comments
+Links to this post
+Labels:
+Disruptive Technology ,
+Energy ,
+Green ,
+Power ,
+Wind Turbine
+Rumours of a T-Mobile deal?
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+Rumours are
+spreading
+(via
+Engadget ) of an
+Apple
+deal with
+T-Mobile
+for distribution of the
+iPhone
+in Germany. Interestingly some people
+commenting
+on this story are missing the point...
+Europe isn't like the States, it doesn't matter that T-Mobile doesn't have a foot hold in Italy, or elsewhere. Germany is an entire country to itself. For instance the Germans have a very different pattern of usage than the Italians, and a radically different contractual set up. In Italy just about everyone has a pre-paid phone and almost nobody has a contract, while the opposite it true in Germany. For this, and many other reasons, I was
+always confused
+when people talked about a "European Launch". At least in the UK, I'd still argue it'd still make sense for Apple to go the
+MVNO route . Update:
+Looks like someone
+slipped up
+at T-Mobile...
+Tweet
+Posted by
+Alasdair Allan
+at
+9:00 p.m.
+2
+comments
+Links to this post
+Labels:
+3G ,
+Apple ,
+EDGE ,
+Europe ,
+iPhone ,
+T-Mobile ,
+Vodafone
+Monday, July 02, 2007
+Just another Manic Monday...
+Español
+|
+Deutsch
+|
+Français
+|
+Italiano
+|
+Português
+It was an
+iPhone weekend
+after all, and this is very much the day after the weekend before. Just about every blog I read today had at least one
+iPhone
+post, and shockingly it's looking like it could
+live up to the hype
+and that it might actually even
+kick some ass . Who'd have thought? Of course I'm sulking, and you only have to compare the
+U.S.
+and
+U.K.
+Apple Stores to figure out why. I can't buy one yet. So far we have
+only rumours
+which suggest that it'll be October before any of us here in the U.K. gets a chance at an
+iPhone , and we still don't know
+which network
+we'll have lock ourselves into to get one.
+However as I'm off to
+OSCON
+later in the month I guess I'm going to have to stop by the
+Portland Apple Store
+and see what the fuss is all about. After all, it's the only decent thing to do... Update:
+I've been seeing more and more
+rumours
+that its going to be
+Vodafone . Realistically I still think that has to mean a
+3G iPhone
+because
+Orange
+have pretty much the
+only functional EDGE network
+in Europe.
+Of course what I don't understand is people are taking about a U.K. and a European release
+in one breath . The mainland European and the U.K. markets are very different beasts and I'd be surprised if Apple tries to handle them with the same operator. Maybe it all looks the same from over on the other side of the pond, but from over here the difference between how the French or the Germans use their phones, and how the Brits do, is quite marked.
+Tweet
+Posted by
+Alasdair Allan
+at
+6:52 p.m.
+0
+comments
+Links to this post
+Labels:
+3G ,
+Apple ,
+EDGE ,
+Europe ,
+iPhone ,
+Launch ,
+Orange ,
+UK ,
+Vodafone
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+About Me
+Alasdair Allan
+Alasdair Allan   is a Scientist, Author, Hacker, Tinkerer and Journalist  who has been spending a lot of his time thinking about the Internet of Things, which  he thinks is broken . He is the author of a  number of books , and sometimes also stands in front of cameras. You can often  find him at conferences  talking about interesting things, or  deploying sensors  to measure them. He recently rolled out a mesh network of five hundred sensors motes covering the entire of Moscone West  during Google I/O . A few years before that he caused a  privacy scandal  by  uncovering  that your iPhone was recording your location all the time. This caused several class action lawsuits and a  U.S. Senate hearing . Several years on, he still isn't sure what to think about that. He sporadically writes  blog posts , or more frequently provides commentary in  140 characters or less . He is a  contributing editor for MAKE magazine , and a contributor to the  O'Reilly Radar . Alasdair is a former academic. As part of his work he built a distributed peer-to-peer network of telescopes that, acting autonomously, reactively scheduled observations of time-critical events. Notable successes included contributing to the detection of what—at the time—was the  most distant object yet discovered .
+View my complete profile
+Google+
+Learning iOS Programming
+Home
+Catalog Page
+Distributed Network Data
+Home
+Catalog Page
+Search with Google
+× Close
+What I'm Reading...
+Blog Archive
+►
+2014
+(4)
+►
+April
+(1)
+►
+January
+(3)
+►
+2013
+(11)
+►
+August
+(1)
+►
+June
+(1)
+►
+April
+(1)
+►
+February
+(5)
+►
+January
+(3)
+►
+2012
+(22)
+►
+December
+(1)
+►
+November
+(1)
+►
+September
+(1)
+►
+August
+(9)
+►
+July
+(1)
+►
+June
+(1)
+►
+May
+(3)
+►
+April
+(1)
+►
+March
+(3)
+►
+February
+(1)
+►
+2011
+(16)
+►
+August
+(2)
+►
+July
+(2)
+►
+June
+(1)
+►
+May
+(2)
+►
+April
+(1)
+►
+March
+(5)
+►
+February
+(3)
+►
+2010
+(11)
+►
+November
+(1)
+►
+September
+(1)
+►
+August
+(1)
+►
+July
+(4)
+►
+May
+(1)
+►
+April
+(1)
+►
+February
+(2)
+►
+2009
+(43)
+►
+December
+(2)
+►
+November
+(3)
+►
+October
+(1)
+►
+August
+(2)
+►
+June
+(1)
+►
+May
+(4)
+►
+April
+(4)
+►
+March
+(22)
+►
+February
+(2)
+►
+January
+(2)
+►
+2008
+(94)
+►
+December
+(1)
+►
+November
+(5)
+►
+October
+(5)
+►
+September
+(17)
+►
+August
+(6)
+►
+July
+(12)
+►
+June
+(7)
+►
+May
+(8)
+►
+April
+(9)
+►
+March
+(17)
+►
+February
+(2)
+►
+January
+(5)
+▼
+2007
+(139)
+►
+December
+(11)
+►
+November
+(11)
+►
+October
+(4)
+►
+September
+(9)
+►
+August
+(19)
+▼
+July
+(35)
+iUI and developing for the iPhone
+Heading home from OSCON
+OSCON: Final keynote
+OSCON: OSS Amateur Robotics
+OSCON: Hack the Real World
+OSCON: Friday Morning Keynote
+OSCON: State of the Onion
+OSCON: Prototype and Object.prototype
+OSCON: Body Hacking
+OSCON: Ajax and Web Services
+OSCON: Error Handling in Ajax
+OSCON: wxPerl: cross-platform GUI design
+OSCON: Thursday morning keynote
+OSCON: Machine learning with Perl
+OSCON: Perl 6 on Parrot
+OSCON: Perl 6 Update
+OSCON: The Expo Hall
+OSCON: Managing technical debt
+OSCON: Wednesday morning keynote
+OSCON: Data-mining from Open APIs
+OSCON: Higher-order Perl
+Threading Building Blocks
+OSCON: Understanding Asterisk
+OSCON: Taming Legacy Perl
+OSCON 2007
+Hands-on with the iPhone
+Enroute to OSCON
+Salvaging the mobile TV nightmare?
+Blocked in China
+More ultra-portable rumours...
+Confirmation of an O2 deal?
+Remember the ubiquitous umbrella?
+New low impact wind turbine?
+Rumours of a T-Mobile deal?
+Just another Manic Monday...
+►
+June
+(3)
+►
+May
+(20)
+►
+April
+(4)
+►
+March
+(5)
+►
+January
+(18)
+►
+2006
+(267)
+►
+December
+(10)
+►
+November
+(20)
+►
+October
+(27)
+►
+September
+(40)
+►
+August
+(17)
+►
+July
+(18)
+►
+June
+(6)
+►
+May
+(16)
+►
+April
+(28)
+►
+March
+(9)
+►
+February
+(36)
+►
+January
+(40)
+►
+2005
+(371)
+►
+December
+(13)
+►
+November
+(28)
+►
+October
+(30)
+►
+September
+(27)
+►
+August
+(45)
+►
+July
+(32)
+►
+June
+(32)
+►
+May
+(23)
+►
+April
+(26)
+►
+March
+(37)
+►
+February
+(38)
+►
+January
+(40)
+►
+2004
+(218)
+►
+December
+(36)
+►
+November
+(30)
+►
+October
+(60)
+►
+September
+(37)
+►
+August
+(12)
+►
+July
+(43)
+Contents are Copyright © 2001-2010
+Alasdair Allan . Template images by
+Airyelf . Powered by
+Blogger .

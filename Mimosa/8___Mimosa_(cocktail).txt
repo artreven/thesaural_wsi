@@ -1,0 +1,926 @@
+Life as a Healthcare CIO: February 2010
+skip to main
+|
+skip to sidebar
+Life as a Healthcare CIO
+Every day I experience life in the world of healthcare IT, supporting 3000 doctors, 18000 faculty, and 3 million patients.
+In this blog I record my experiences with infrastructure, applications, policies, management, and governance as well as muse on such topics such as reducing our carbon footprint, standardizing data in healthcare, and living life to its fullest.
+Friday, February 26, 2010
+Cool Technology of the Week
+I try to be an early adopter of emerging technologies so that I can assess their readiness for the marketplace, reporting on the good and the bad in an effort to benefit my colleagues.
+On the green energy front, I retired incandescent bulbs in my household and converted to compact fluorescents (CFL) very early in the product development cycle.
+All in all it was a great experience, although the first CFLs had a harsh cool white light. Recently, I've explored the next generation of replaceable home light bulbs -
+Ultra LEDs .
+Sylvania has introduced
+40 watt LED light bulbs
+with an essentially infinite lifespan, no mercury, little heat, and a perfect 2700K spectrum of warm white light.
+It's an exciting development because there are no moving parts, nothing to burn out, and nothing to break.
+I've replaced an entire room (a studio that my wife, my daughter and I share for art, music and studying) with LEDs. For ceiling and track lights, I used
+Sylvania Parabolic Aluminum Reflector
+(PAR20) 210 lumens, 7 watt,
+40 watt equivalent bulbs.
+For the table lamp, I used a
+Sylvania A19
+(standard light bulb shape) 350 lumen, 8 watt, 40 watt bulb. Above is a photo of the room in LED lighting. So, what's the downside of light bulbs that last forever, use very little energy, and have a great soft white spectrum?
+The cost is currently $30-40 per bulb.
+Of course, over the life of the bulb, plus the energy saved, that's not significantly different than incandescents or compact fluorescent. I asked my favorite local hardware store about emerging LED technology.
+Their view is that the economics will not yet quite work.
+The room pictured above uses six 7 watt reflectors and one 8 watt A19 bulb.
+Total energy expenditure to brightly light the entire space with LEDs - 50 watts.
+Total cost $230.00, amortized over the life of the house i.e. the bulbs will last longer than I will. Like any new technology, the price will drop as economies of scale, competition, and manufacturing advances reduce production costs.
+Although the capital cost to convert a room is currently high, I'm impressed by the technology.
+Given that one of my long term goals is to build a small, carbon neutral retirement cottage and that my daughter may become an environmental engineer, LED lighting technologies are likely to play an important role in our future.
+Posted by
+John Halamka
+at
+3:00 AM
+2
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Thursday, February 25, 2010
+Where You Start Is Not Where You End
+I've written about my daughter's
+exploration of colleges
+and my sense that college fit for her including teaching style, student peers, setting, culture, and extracurricular activities is more important than US News and World Report rankings or the parental ego boost from the college prestige beauty contest. As an experiment, I asked several of my staff where they went to college. There was no correlation between their current roles and the prestige ranking of their college. College was a nurturing experience that enabled them to explore their interests, find themselves, and build the skills to succeed in life.
+Graduate school did correlate a bit. Aiming for a great Master's program
+(MS, MBA, MPH, MPA) is an enabler to find a good job. Interestingly, of the folks I work with in Washington, most identify themselves with the institution of their final degree and not their college experience.
+After a few years in recognizable positions, any mention of even graduate educational institutions fades away. As I look as my evolving CVs through the years, the pedigree of my 20's is no longer relevant to my trajectory at 50. The point - where you start is not where you end. I disagree with those who believe the right kindergarten leads to the right elementary school leads to the right high school leads to the famous college, which immediately produces fame and fortune.
+From my limited experience of managing 500 people, it's the person and their individual journey that leads to success, not their pedigree. My own life has been filled with twists, random acts of kindness from others, good karma, and Brownian motion that as led me to my current positions.
+My daughter's passions are mathematics, Japanese culture/language, archery, the outdoors, and art.
+Might she be an environmental engineer working in Japan and studying Kyudo, the mediative archery martial art?
+Could she be the designer of the next generation of Lego toys? Might she teach English to Japanese elementary school students after college, then work in Japanese government as a liaison to visiting technologists?
+All are possible - the world is her oyster. In life thus far, I've been a son, programmer, author, editor, manager, winemaker, physician, technologist, politician, husband, and father.
+Fate usually reinvents my role every few years and the final chapter of my story has not yet been written. So, Lara, go write your story.
+You're at Chapter 1.
+I look forward to reading the novel of your life as you write it, your way, in the years to come.
+Posted by
+John Halamka
+at
+3:00 AM
+8
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Wednesday, February 24, 2010
+The February meeting of the HIT Standards Committee
+At the February 24 meeting of the HIT Standards Committee we heard reports from each of our workgroups reviewing the Interim Final Rule. Clinical Operations *If regulatory language allows, the best way to support standards specificity while still enabling standards to evolve is to list general classes of standards in the regulation i.e. HL7 Version 2 and then provide very specific implementation guidance outside the regulation.
+If specificity is needed within the regulation, then the inclusion of a single implementation guide as a floor, with the intent that it will evolve, would meet this need. *Standards should refer to data exchanges between organizations, not within an organization.
+An entity should be free to use whatever proprietary approaches to content and vocabulary standards support the needs of internal workflows as long as these can be translated into the standards specified in the Interim Final Rule when exchanging data. *The standards in the Interim Final Rule, a regulation, replace previously "approved" or "recognized" standards published in the Federal Register if conflicts exist.
+This is important because Executive Order 13410 requires
+Federal agencies to use recognized standards when installing or upgrading their systems.
+The IFR will be the new source of truth. Clinical Quality *An allergy vocabulary is needed in 2011 to comply with quality measurement requirements *A standard for recording vital signs is required in 2011 to compely with quality measurement requirements *The nature of the datatypes needed to support some quality measures constrains the choice of summary exchange standards because of the need to capture actions, actors and events in a granular fashion i.e. for some quality measurement purposes, CCD is a better choice than CCR.
+CCR remains a very reasonable choice for exchange of summary information for care coordination. Security and Privacy * For Modular EHRs, security requirements should be "addressable" for every EHR Module submitted for certification.
+This means that not every module needs to meet every security criterion i.e. a module which calculates body mass index may not exchange data outside the organization and thus does not need to include encryption technology. *For encryption, the committee recommended that symmetric and asymmetric encryption both be supported and that AES be specified as the symmetric encryption standard. *Since data transmission may take many forms (MLLP, TCP/IP, HTTPS POST, SOAP and REST),
+providing a requirement to use SOAP and REST without specifying details is not helpful.
+Either provide very specific guidance for each transaction type or none at all.
+The committee recommended removing transmission standards from the IFR at this time, leaving security standards intact i.e. you can use HTTP, SMTP, FTP, etc but requirements for encryption and auditing still apply. Implementation Workgroup The implementation workgroup discussed March 8 hearing on "starter toolkits" to ease EHR adoption.
+We'll be taking testimony from the Public Sector, an array of stakeholders with implementation experiences, and innovators.
+We're specifically asking the testifiers to contribute white papers, software, and others enablers to
+a Starter Toolkit that could be used by providers, communities, and vendors to accelerate meaningful use. The comments made at the meeting will be codified into recommendation letters for committee review and then signature by the co-chairs in time for ONC to include them in the comment process (first week of March).
+Posted by
+John Halamka
+at
+2:45 PM
+1 comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Tuesday, February 23, 2010
+HIT Policy Committee Meaningful Use Revisions
+On February 17, the HIT Policy Committee held an important meeting to discuss its recommended revisions to meaningful use. The handouts are Meaningful Use Workgroup: Comments & Discussion on the NPRM
+NPRM Recommendations Adoption/Certification Workgroup: Comments & Discussion on the NPRM and IFR on Certification Criteria
+Information Exchange Workgroup: Comments & Discussion on Health Information Exchange in the NPRM Privacy & Security Policy Workgroup: Comments & Discussion on the Privacy & Security Objective in the NPRM
+NHIN Workgroup Recommendations
+Update: Strategic Plan Workgroup The important summary to read is the
+NPRM recommendations , but here's my Cliffs Notes version: Recommendation 1.0: Include “Document a progress note for each encounter” for Stage 1 EP MU definition.
+This highlights the importance of unstructured text to communicate the thought process used when developing a treatment plan. Recommendation 1.1: Signal clinical documentation as a required MU criterion in Stage 2 for hospitals.
+Today few hospitals have fully electronic progress notes, but eventually they will be needed to eliminate the inefficiencies of hybrid electronic/paper workflows. Recommendation 2.0: Remove three proposed quality measures (inquiry regarding tobacco use, blood pressure measurement, drugs to be avoided in the elderly) from Stage 1 criteria.
+Since these are process measures not outcome measures they do not meet the quality measurement criteria specified by the Policy Committee.
+Recommendation 3.0: Providers should produce quality reports stratified by race, ethnicity, gender, primary language, and insurance type.
+To meet the ARRA goal of reducing disparities in care, there needs to be measurement and feedback to providers. Recommendation 4.0: EPs and hospitals should report the percentage of patients with up-to-date problem lists, medication lists, and medication allergy lists.
+Rather than just record the presence of a list, it is more important to ensure these lists are up to date. Recommendation 5.0: EPs and hospitals should record whether the patient has an advance directive as part of the Stage 1 MU criteria.
+Given that ARRA focuses on the Medicare population, it is especially important that all patients over 65 have recorded their advance directive preferences. Recommendation 6.0: EPs and hospitals should report on the percentage of patients for whom they use the EHR to suggest patient-specific education resources.
+Physician vetted education resources, such as those that a clinician personalizes in an EHR are more valuable than internet sourced resources a patient discovers by random searching. Recommendation 7.0: All EPs should report to CMS the percentage of all medication, entered into the EHR as a generic formulation, when generic options exist in the relevant drug class.
+Such a measure would encourage efficiency in drug prescribing. Recommendation 7.1: CMS should explicitly require that at least one of the five clinical decision support rules address efficient diagnostic test ordering.
+Such a measure would encourage efficiency in high cost radiology test ordering. Recommendation 8.0: CMS should advance its timetable for the release of future MU NPRMs in order to allow adequate ramp-up time for vendors and providers.
+Without a glide path, vendors will struggle to create multi-year product plans. Recommendation 9.0: The numerator for the CPOE measure should define a qualifying CPOE order as one that is directly entered by the authorizing provider for the order.
+It's not appropriate for nurses, clerks, or other extenders to enter orders on behalf of the clinician. Recommendation 10.0: Change the measure to read, “For a chosen preventive health service or follow up (the EP chooses a relevant preventive or follow up service for their specialty), report on the percent of patients who were eligible for that service who were reminded.”
+This enables the reminder criteria to apply to all patients in practice, not just a subset over 50 as stated in the NPRM. Recommendation 11.0: Delete “relevant encounter” from the medication reconciliation measure Recommendation 11.1: Define “transition of care” to be the movement of a patient from one setting of care (hospital, ambulatory primary care practice, ambulatory specialty care practice, long-term care, home health, rehabilitation facility) to another.
+This ensures that the timing of medication reconciliation is clear - when the patient goes from one care setting to another. Recommendation 12.0: Eligible professionals and hospitals should be given the flexibility to defer up to 6 meaningful-use criteria as described in the table below, but must meet all mandatory objectives.
+This is the partial credit recommendation, that uses the chart pictured above.
+It enables local variation in implementation, because it is hard to know which aspects of meaningful use will be hard to achieve in each locality. I agree with these recommendations - they provide clarity, restore some important criteria, and enable an easier glide path by removing some requirements and allowing partial credit on others. Well done!
+Posted by
+John Halamka
+at
+3:00 AM
+6
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Monday, February 22, 2010
+Vegan Doctors
+In my 20's I was immortal (not immoral!), in my 30's I became obese and in my 40's I'm now aware of my own
+health and wellness .
+I believe
+you truly are what you eat . I think that Michael Pollan and
+T. Colin Campbell
+are right when they say "Eat food, not too much, mostly (or all) plants."
+Vegan eating works for me and certainly is
+worth trying yourself . I recently received the following email: "I ran across your blog through a google search for 'Vegan Physicians.
+I see that you are not a practicing (primary care) physician (to my chagrin ;-), so I wonder if you could recommend any vegan physicians who practice and/or support the vegan lifestyle through their practice?" I emailed noted author Neal Barnard for his advice.
+Neal responded: "We often receive requests from people looking for a doctor who is knowledgeable about plant-based diets or sympathetic to other issues that PCRM deals with. At PCRM, we actually recommend something a bit different. We suggest that people select the best doctor they can find and that the doctor provide the very best information about diagnosis and possible treatments.
+People will generally not need to rely on a physician to provide nutritional information. That will come from a good Registered Dietitian or other nutrition counselor, as well as from the books, DVDs, and other materials that we make available. As people plan to modify their diets, their doctors can track their progress and modifying their medicines along the way if need be.
+For this reason, PCRM does not maintain a referral list. For anyone dealing with a particularly difficult medical problem, we encourage them to seek a second opinion, or to consult the relevant department of a major teaching hospital in the community.
+I hope this is helpful.
+Neal" Neal is a smart man.
+Great advice. Eat well per whatever approach works best for you.
+Exercise.
+Find a great doctor that can diagnose and treat any conditions you may develop.
+All will be well.
+Posted by
+John Halamka
+at
+3:00 AM
+2
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Friday, February 19, 2010
+Cool Technology of the Week
+Ok, you're going to think this is the strangest cool technology blog to date. In my travels, I visit a large number restrooms throughout the world.
+Recently, I've noticed a significant rollout of
+"waterless" urinals. There must be some serious technology behind this, since no "input" plumbing is required at all.
+I often used the analogy that the paperless hospital is as likely as the paperless bathroom, until the Japanese introduced me to a paperless high-tech bathroom.
+Now we have the waterless bathroom. How does it work ?
+A special cartridge contains a lighter than water liquid that floats on top of urine, providing an airtight seal between the urinal and plumbing - no odor of urine or sewer gas enters the room.
+A typical office building can save millions of gallons of water every year by installing these units.
+No water supply is needed so the capital costs of installing them are less than standard fixtures. An environmentally sound, waterless urinal that uses the physical properties of fluids to create an airtight seal and eliminate odors, saving millions of gallons of water per year.
+That's cool!
+Posted by
+John Halamka
+at
+3:00 AM
+8
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Thursday, February 18, 2010
+Wag More, Bark Less
+As I was driving to a winter hike last weekend, I saw a profound bumper sticker - "Wag More, Bark Less". These are words to live by. Barking may yield short term gains, but wagging builds lasting relationships.
+When leaders bark, it diminishes them.
+All my lives - parent, husband, and CIO - benefit from wagging. As a father, there is the formal authority of parenthood.
+However, I rarely use formal authority and instead create a loving environment based on mutual respect and open communication.
+It worked with lions in
+Born Free
+and it works well in our household. In the office, outbursts of emotion may win the battle, but lose the war.
+Employees, customers, and bosses rapidly tire of emotional lability.
+A decade ago, a hospital CEO began swearing during a senior management meeting in an effort to demonstrate authority.
+Within a year he was gone. In my blogs over the past year, I've suggested that we're the
+Greatest Health IT generation , that
+these are the good old days , and that we're all suffering from
+stress acceleration .
+Despite the stress, the lack of sleep, the traffic, the cold, and the economy, we all need to keep our composure. I recently had a storage issue that could have escalating into a yelling match between my staff and the vendor staff.
+Instead of barking, I used it as a teachable moment to bring the teams closer together, strengthening the relationship, and enhancing the channels of communication.
+This effort to wag instead of bark laid a foundation for years of collaboration to come. As a parent, as a CIO, and as a human, I cannot think of any situation that is made better by barking than wagging. So next time, you're given the choice, remember the outcome of the bark verses the wag.
+A bark may be satisfying for the short term, but a wag is the sign of leadership, stability, and expertise for the long term.
+Posted by
+John Halamka
+at
+3:00 AM
+3
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Wednesday, February 17, 2010
+Introducing the Green CDA
+I regularly write about the need to converge CCR and CCD into a common, simple to use, XML construct that incorporates structured and unstructured clinical summary information. CCD itself would be a good endpoint if the XML were more readable and the overhead of the CDA was reduced.
+The other option is for CCR to be expanded to include more metadata and support unstructured documents such as discharge summaries and operative notes.
+The CCR folks have been working on PDF for healthcare to support document capability. Simpler but full featured is exactly what Green CDA tries to do. It's a streamlined, human readable and computable lighter version of CDA that includes just the data and metadata necessary to do the job of representing a clinical summary. Here's an example of the
+Problems section and Patient data section
+in Green CDA. There are tools available to convert green CDA into a
+full CDA document There are also tools available to convert CDA into Green CDA Additional tools are are being developed to enable easy creation of Green CDA constructs by navigating the RIM, selecting attributes, and selecting associations to consolidate to make the XML flatter. When I first saw the Green CDA XML, I was so impressed that I asked the question - why not use Green CDA as CDA, getting rid of MoodCode, many of the OIDs and other overhead in the CDA? In the past, the idea was that the CDA was capable of representing any aspect of the medical record for any purpose.
+That sounds like a noble idea but in practice it creates a fixed overhead for even the simplest data exchange. Folks at HL7 are working hard on CDA templates,
+tools for creating CDA documents
+and simplifying the CDA (and the XML used in CDA). The Green CDA initiative is a great start.
+I look forward to watching its development and the industry reaction. The Interim Final Rule supports both CCR and CCD for 2011, but recommends convergence by 2013.
+Over the next 24 months, we'll see what convergence of XML standards for structured and unstructured data is technically and politically possible.
+Posted by
+John Halamka
+at
+3:00 AM
+10
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Tuesday, February 16, 2010
+Next Steps for the Vocabulary Task Force
+In several
+previous blogs , I've identified the availability of free vocabulary codesets/valuesets as a key enabler of interoperability.
+The National Library of Medicine has produced the SNOMED-CT Core subset for problem lists, RxNorm for medication terms, and a LOINC subset for ordering labs.
+To ensure the right subsets are available and maintained, we need governance - who decides what goes into the vocabularies, what mappings are created, and how disputes/redundancies are resolved?
+We need a place to store vocabularies that makes them easily accessible to all.
+We need a roadmap for future work.
+The HIT Standards Committee's Vocabulary Task Force is holding three hearings.
+The first hearing on February 23 will focus on governance "rules of the road" for vocabularies.
+The second hearing, in March, will consider vocabulary infrastructure requirements.
+The next hearing will focus on end user needs for specific vocabularies included in meaningful use as well as future requirements.
+Additional hearings and meetings will be scheduled to address priority issues as they are identified. The February 23 meeting will include three panels:
+(1) EHR vendors; (2) vocabulary service providers; and (3) vocabulary standards organizations.
+Jamie Ferguson, who chairs the task force, has prepared
+useful background information
+for the hearing. If you'd like to send advance comments about vocabulary governance as part of the hearing process, please send them to Judy Sparrow (judy.sparrow@hhs.gov)
+Posted by
+John Halamka
+at
+3:00 AM
+3
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Friday, February 12, 2010
+The First $1 Billion Arrives
+At noon today, HHS announced nearly $1 Billion in grant funding for Healthcare IT. Here's the Press Release . Massachusetts received $10.6 million for health information exchange and $13.4 million for regional extension center activities. Now the next phase of our work can begin.
+We look forward to the challenges and achievements ahead. Update - on March 15, $161 million in
+additional HIE grants were announced .
+Posted by
+John Halamka
+at
+10:13 AM
+2
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Cool Technology of the Week
+Do you have an iPhone?
+Do you live in a place that has 4 seasons? Using a capacitance-based touch screen with gloves just doesn't work. Do you have large fingers and find
+typing on the iPhone
+to be a problematic experience?
+Both problems are solved by a capacitance friendly stylus from
+Ten One Design .
+This device uses proprietary materials to emulate the touch of finger and works on all Apple iPhones.
+You'll find that a pencil or paperclip will not provide the same capacitance characteristics and does not work with Apple touch screens Making your iPhone work with accuracy while wearing gloves, having long nails or large fingers - that's cool!
+Posted by
+John Halamka
+at
+3:00 AM
+3
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Thursday, February 11, 2010
+Resilience
+My daughter is 16 going on 17, a junior in high school.
+We've begun discussions of colleges, SAT scores, and her future. Many of my peers in healthcare management have college bound children and are having the same dinner table conversations -
+what constitutes success,
+what college to choose, how to work together over the next year to guard against the
+stress acceleration
+every high school student is feeling. College admissions should not be a beauty contest for parents to judge their success in child rearing based on acceptance letters from Ivy League institutions.
+College admissions should be about matching the needs of the individual with an institutional culture, location, and teaching style that builds self-confidence and resilience. What do I mean? I attended Stanford, UCSF, UC Berkeley, UCLA, Harvard, and MIT.
+My post secondary education lasted 17 years from 1980-1997. My personality type was a bit odd - I majored in those topics that were most confusing to me.
+I speculated that if I could master my weakest areas, I would become a resilient life long learner of anything that would come my way.
+My daughter is talented in ways that I am not (the visual arts, foreign languages, and mathematics that requires spatial sense).
+No doubt this is because my left brain (math, science, engineering) combined with my wife's right brain (arts, philosophy, creativity) to create a whole brain.
+My daughter is seeking to define herself, discover those areas in which she can be truly excellent, and build self-confidence. She would not thrive at a large, urban school, filled with thousands of anonymous peers.
+She would not thrive in a competitive academic culture which rewards privation, suggesting that if you're not suffering, you're not learning. She's seeking a school that is small to medium sized, rural or suburban, located in New England, with a supportive culture that can polish a lovely and intelligent young woman into an assertive but not aggressive adult. With the right encouragement and opportunities, she'll be challenged but not overwhelmed, hard working but not fatigued, and encouraged to find her unique place in the world. I do not define success as fame, fortune, or Google hit count.
+I define success as resilience to navigate the world, enthusiasm to get up each day because you love what you do, and happiness with the people around you.
+So, you go girl.
+Find a college that makes you blossom.
+Your parents will be there, proud of its fit for you, not its ranking in US News and World Report.
+Posted by
+John Halamka
+at
+3:00 AM
+12
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Wednesday, February 10, 2010
+Comments on the Interim Final Rule
+The comment period for the Interim Final Rule on Standards runs from January 15 to March 15.
+I've spoken to many stakeholders in industry, hospital IT departments, and government.
+Here are the five general themes I'm hearing from the comments they'll be submitting: 1.
+Need for additional guidance on content standards As I've noted in
+earlier posts , the IFR is a regulation and ONC did not want to provide too much specificity that would require changing regulation to support evolving implementation guidance.
+Although this was the right thing to do, the lack of constraints on HL7 2.51 and CCD creates ambiguity that could result in a tower of Babel - thousands of incompatible implementations of these standards.
+ONC needs to rapidly provide HL7 2.51 and CCD implementation guides (such as the HITSP Lab and HITSP C32 specifications) 2.
+Need for additional guidance on vocabulary standards Do the vocabularies required - RxNorm, SNOMED-CT and LOINC apply to EHRs themselves or just the transactions sent between EHRs?
+What if a proprietary, self built medication vocabulary is integrated to the EHR but is mapped to RxNorm for all health information exchange?
+What about a proprietary problem list vocabulary that is mapped to SNOMED-CT? If mapping is allowed, what subset of these vocabularies should be used i.e. NLM's SNOMED-CT Core problem list subset,
+LOINC Lab ordering compendium etc.
+3.
+Need for additional guidance on transmission standards Transmission approaches need implementation guidance, per my
+previous blog posts.
+Stating that REST and SOAP are acceptable does not foster interoperability among various implementations. 4.
+Need for additional guidance on security standards Encryption needs clarification.
+Is encryption of EHR data at rest required in certified EHRs?
+Although the intent is that data in transit and data on mobile devices needs to be encrypted, should vendors provide encryption in their products because they cannot know how they will be installed and used. 5.
+Need for additional guidance on quality measurement The NQF Healthcare Information Technology Expert Panel work on quality measures is based
+entirely on CDA/CCD, yet patient summaries are summary may be sent in CCR or CCD.
+Thus, the NPRM's quality measures cannot be extracted from CCR using the current retooling.
+How do we reconcile incompatible definitions of patient summaries and quality measures? I look forward to reviewing all the public comments, which will be made available by ONC via the web.
+Posted by
+John Halamka
+at
+3:00 AM
+2
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Tuesday, February 9, 2010
+EHR Usability
+In my recent
+Top 10 EHR Barriers blog , I identified usability of
+EHR software as a key issue. It appears that
+NIST, with ARRA funding
+and ONC guidance is doing something about it.
+This Sources Sought request is to identify organizations with the capabilities to accelerate usability testing and guidance.
+Specifically: 1. Tasks, Users, and Systems Research Component a. Perform cognitive task analysis of the health care delivery task environment b. Determine user characteristics c. Perform human factors analysis of representative sample of existing HIT systems d. Develop hypotheses about critical HIT design features e. Evaluate hypotheses with usability testing 2. Organizational Usability Processes Research Component a. Study existing HIT industry usability practices b. Investigate current usability evaluation methods being used in healthcare information technology as well as other areas c. Conduct a workshop of acknowledged experts in HIT usability and have them analyze the findings of steps 2a and 2b. d. Using the recommendations of the experts in step 2c and the principles identified in steps 1a through 1e, create a well-defined usability evaluation process that includes a roadmap for implementation and indicates where policy decisions are required. e. Evaluate a representative sample of HIT systems using the evaluation process developed in step 2d f. Develop a common format for HIT formative and summative usability test reporting 3. Development Methodology a. Define, develop, and scope requirements. b. Define and develop the project approach and description. c. Adopt and refine methodologies following standard usability engineering principles. d. Define and manage organizational requirements. e. Perform cognitive task analyses and develop user profiles. f. Conduct human factors analysis of systems and do hypothesis testing. g. Identify existing usability practices in HIT development. h. Organize and facilitate HIT usability expert workshop. i. Develop, refine and harmonize usability and certification principles and frameworks. j. Provide documentation and communication. There is not yet a solicitation for funding, but I'm confident that funding opportunities will be announced soon. Usability must be a key aspect of the national EHR program.
+Clinicians note that current products are hard to use/learn and this lack of usability can lead to errors.
+Senator Grassley's investigation
+of the current state of EHR products is in part related to usability issues.
+My own experience is that usability is journey.
+Several years ago when the Joint Commission asked hospitals to implement medication reconciliation
+for all transitions of care,
+my development groups built innovative software that leveraged inpatient, outpatient, ED systems, and Surescripts/RxHub medication history to support the process.
+It took us a year to get the usability right by engaging stakeholders, studying the workflow, and iteratively revising the user interface.
+Only after extensive usability improvements did the application get deployed and adopted. I welcome the NIST work and hope that we can develop objective usability metrics as part of the certification process.
+Software should be capable and usable to qualify for certification.
+Posted by
+John Halamka
+at
+3:00 AM
+1 comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Monday, February 8, 2010
+These are the Good Old Days
+How do you think about your past? If you're like me, I remember the good, but forget the bad.
+My High School memories are of a simpler time, with fewer responsibilities, and the boundless energy of youth.
+I've forgotten the worry about college admissions, the ambiguity of the future, and adolescent relationship angst. College was a time that I courted my wife, saw endless possibilities for the future, and reveled in the joy of unbounded learning.
+I've forgotten the anxiety of medical school applications, the struggle to build a self supported household, and the burden of entering the real world. Each year, month and day that goes by brings its joys and sorrows, its victories and defeats, its anticipation and disappointments.
+However, I look back and only remember the trajectory, not the day to day position on the journey. It's 2010 and everyone in healthcare IT is complaining.
+Meaningful Use
+is too hard.
+Too many grants
+have simultaneous deadlines.
+There are more policy and technology changes than ever before in history.
+So how will you remember this stressful time? Let's consider the past. In 1981-82, Kathy, my wife to be, and I lived with
+Frederick E. Terman ,
+former Provost of Stanford University and Silicon Valley pioneer, son of Lewis Terman, inventor of the IQ Test.
+In his final year of his life, Terman told me of his wartime experiences - innovative radar jammers, tunable receivers to detect radar signals, and
+anti-radar aluminum chaff, all created at an accelerated pace by his 850 person team at the Harvard Radio Research Laboratory.
+It was his version of the Stimulus Bill work we're doing today.
+Did he remember the stress, the wartime rationing, or emotional cost?
+No, he remembered only the incredible achievements created in unreasonable timeframes and motivated by the world environment around him. 2010 will be a turning point in our industry.
+There will never again be a time when $46 billion in funding for Healthcare IT is aligned with government/industry/academia momentum for change. The sleepless nights, grant fatigue, policy arguments, and standards debates will all be forgotten. We'll be telling our grandchildren about 2010 and how we transformed healthcare from a cottage industry of information silos into a connected ecosystem for coordination of care, public health, and patient engagement. Of course our grandchildren will claim it's always been that way. These are the Good Old Days.
+Trust me.
+Posted by
+John Halamka
+at
+3:00 AM
+8
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Friday, February 5, 2010
+Cool Technology of the Week
+I'm a minimalist at heart, carrying the least amount of gear needed to do the job, both at work and play. The only computing devices I own are a Macbook Air and a Blackberry Bold.
+When I travel, the Blackberry is my primary tool and the laptop becomes a vehicle for slide presentations. For the minimalist, is there a possibility of just traveling with a single mobile device? The
+Blackberry Presenter
+enables Powerpoints to be shown from the Blackberry on any video display or projector device.
+The idea is that the your Blackberry can wirelessly connect to the Presenter device and you can control any powerpoint slide presentation directly from the Blackberry via Bluetooth. A 3.4 x 2.4 x 0.9 inches (86 x 60 x 23 mm) Bluetooth video interface for on the road presentation of Powerpoint from your Blackberry - that's cool!
+Posted by
+John Halamka
+at
+3:00 AM
+2
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Thursday, February 4, 2010
+Choosing a Value Champagne for Valentine's Day
+Although I spend my day in the world of healthcare IT, the areas I'm truly expert are
+mushroom toxicology ,
+wine making , and
+outdoor activities in New England .
+Whenever I'm asked to pick a wine at a restaurant, I search for the value wine - the best quality wine for the price, since there is seldom a relationship between price and quality.
+One hint on the menu - the second most expensive wine has the most markup.
+Since most people are afraid to buy the cheapest wine on the menu, it often has the least markup. Valentine's Day is 10 days away and you may be buying
+Champagne
+(defined as a sparkling wine produced in the Champagne region of France) Here's my guide to value Champagnes.
+My favorite houses are Roederer, Moet et Chandon, and Taittinger.
+Each has a famous Tete de Cuvee - the top of the line from any Champagne house.
+Each also makes a great French value Champagne and a great Domestic sparkling wine.
+Here are my recommendations The house -
+Roederer
+The tete de cuvée -
+Cristal
+$179.00
+The value Champagne -
+Roederer Brut Premier
+$36.99
+The sparkling wine -
+Roederer Estate Anderson Valley
+$18.99
+The house -
+Moet et Chandon
+The tete de cuvée -
+Dom Perignon
+$120.00
+The value Champagne -
+Moet Chandon, Imperial
+$34.99
+The sparkling wine -
+Domain Chandon
+$14.99
+The house -
+Taittinger
+The tete de cuvée -
+Taittinger "Comtes de Champagne"
+$104.99
+The value Champagne -
+Taittinger La Francaise Brut Champagn e $34.99
+The sparkling wine
+-
+Domaine Carneros
+$19.99
+What will I serve on Valentine's Day?
+Roederer Brut Premier.
+To me, it's the best value in Champagne - approaching Cristal perfection but at a fraction of the price. Three hints -
+1.
+Never suggest mixing good Champagne with orange juice.
+Mimosa 's made with Dom Perginon taste about the same as those made with
+Andre Cold Duck .
+2.
+Serve your champagne in a traditional
+Champagne flute
+to maintain a constant temperature and the right degree of carbonation release.
+3.
+Keep a
+Champagne stopper
+handy to recork the bottle
+and retain the carbonation.
+You can keep a great Champagne in the refrigerator for days this way.
+Posted by
+John Halamka
+at
+3:00 AM
+5
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Wednesday, February 3, 2010
+Next Steps for the Implementation Workgroup
+All HIT Standards Committee Workgroup meetings are now open to the public so you can listen to the debate as it happens.
+Last week, the Implementation Workgroup discussed next steps to empower clinicians, patients, and communities in their quest for meaningful use of healthcare IT. We discussed topics for public hearings of experts 1.
+Creation of a Health IT Implementation Starter Kit - How can we learn from best practices in Beacon communities, forward thinking practice groups, and early adopter HIEs? 2.
+Transmission - How do we solve the transmission problem of
+sending data securely
+from provider to provider, provider to payer or provider to population health data aggregator?
+3.
+Engaging Patients and Families - How do we package data for patient engagement? What is included in a summary medical record or encounter summary?
+How do we transmit the package from
+providers to patients ?
+4.
+Quality measurement - how do we reduce the burden on practices of computing and submitting quality measures? 5.
+Vocabularies - how do we lessen the burden of ICD10 adoption, how do we provide a free, up to date starter set of controlled vocabularies such as a LOINC lab compendium, SNOMED-CT problem list, and others codesets needed to support meaningful use. The Workgroup decided to begin with the Implementation Starter Kit and host severals panel in a day of public hearings. a.
+Panel on Federal contributions (VA, DoD, ONC role) b.
+Consortia – sharing data in a new ways, breaking down silos c.
+Exemplars – lessons learned from the field, large and small organizations. What is their
+approach to meaningful use ?
+The hearing will be followed up by blog/structured dialog over course of 3-4 weeks. The first hearing will be in early March after HIMSS. I look forward to sharing best practices from the trenches.
+You can always count on my contribution of all BIDMC's experience and IT intellectual property.
+Posted by
+John Halamka
+at
+3:00 AM
+4
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Tuesday, February 2, 2010
+HITSP Going Forward
+On January 25, HITSP's 900 members approved their 2009 standards harmonization work for submission to ONC.
+I announced that ONC had extended HITSP's contract to April.
+(Originally the HITSP contract term ran until January 31, 2010) During my
+opening remarks
+I summarized HITSP's accomplishments, impact on the regulations, lessons learned, and next steps.
+Here are a few major themes: 1.
+HITSP Accomplishments 2005-2010 CCD - HITSP, HL7, and ASTM worked together to create the C32 implementation guide which has been widely implemented for the exchange of structured and unstructured healthcare data. Lab - HITSP and HL7 worked closely to develop implementation guidance for lab results, including controlled vocabularies. Vocabularies - HITSP worked with the National Library of Medicine and Standards Development Organizations to create codesets and implementation guidance to accelerate adoption of LOINC, SNOMED-CT, and RxNorm. Devices - HITSP convened meetings of IEEE, IHE, and Continua to harmonize a single set of device interfacing standards for institutions and consumer applications. Family History - HITSP worked closely with HL7 to develop implementation guidance for the structured documentation of family history. Clinical Research - HITSP worked with CDISC, government agencies, and stakeholders to draft implementation guidance for support of clinical research. Quality - HITSP worked with NQF HITEP and numerous experts to develop implementation guidance for
+quality measurement and reporting .
+2.
+HITSP and the future of Standards Harmonization The HIT Standards Committee, working in partnership with the HIT Policy Committee, is charged with making standards recommendations to ONC.
+As it considers public testimony and debates the path forward in its workgroups, the HIT Standards Committee identifies standards gaps that need harmonization and suggests the need for new standards where none exist.
+Multi-stakeholder technical committees are needed to do the detailed coordination with the SDOs and standards implementers.
+Hence there is an ongoing need for harmonization activities. As part of the
+Grant Programs from ONC
+, there will be $64.3 million allocated for Standards Harmonization, Certification and the NHIN.
+Soon, an RFP will be issued for standards harmonization and ANSI will likely bid.
+HITSP members agreed to stay engaged as we await the RFP. 3.
+HITSP and the Interim Final Rule Some have asked about the lack of HITSP specific guidance in the Interim Final Rule.
+I noted that most of the base standards recommendations from HITSP were included in the IFR.
+Summaries - CCD
+Problem Lists - SNOMED-CT Medications - NCPDP Script 8.1, RxNorm Allergies - UNII Labs - HL7 2.5.1, LOINC, UCUM, SNOMED-CT Immunizations - HL7 2.3.1, CVX
+Biosurveillance - HL7 2.5.1
+Public Health Reporting of Labs - HL7 2.5.1 The IFR is a regulation, which means that the details provided in it are hard to change. By providing base standards but enabling implementation guidance to be published separately from the regulation itself, ONC allowed evolution and refinement of more specific guidance.
+HITSP is mentioned extensively in the Notice of Proposed Rulemaking, since the HITSP work done with the NQF provides the basis for the quality measures described in the NPRM.
+4.
+Lessons learned A few thoughts on 4 years of chairing standards harmonization activities a.
+It's important to engage the community of experts, break down barriers, and encourage ongoing communication.
+When people talk, they learn to trust each other and this leads to collaboration rather than competition. b.
+Standards Harmonization happens best when there are clearly articulated priorities such as the workflow required for meaningful use. c.
+Once standards are harmonized and implementation guides written, everything needs to be accessible in an easily searchable electronic format, including vocabularies/codesets. d.
+Adoption of standards is the best measure of success.
+Expert advice and education are important to ease the learning curve. e. Build progressively and keep standards as simple as possible, just as suggested by the HIT Standards Committee's
+guiding principles .
+5.
+Consensus based decision making requires hard work and substantial amounts of diplomacy.
+The 50,000 hours of volunteer time from HITSP's members has been priceless. I look forward to ongoing HITSP monthly check in/education calls, the RFP, and the standards harmonization to come.
+Posted by
+John Halamka
+at
+3:00 AM
+1 comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Monday, February 1, 2010
+The Top 10 Barriers to EHR Implementation
+Last week I taught Module II of
+Leadership Strategies for Information Technology in Healthcare
+at the Harvard School of Public Health. My students included administrators, clinicians, CIOs, CMOs, and policymakers. On the first day, I gave them a homework assignment - read my
+overview of the BIDMC/BIDPO EHR implementation project
+and then develop a list of barriers to EHR implementation in their organizations.
+Here's the crowd sourcing results of the top 10 barriers to successfully deploying an EHR: 10.
+Usability - products are hard to use and not well engineered for clinician workflow. 9.
+Politics/naysayers - every organization has a powerful clinician or administrator who is convinced that EHRs will cause harm, disruption, and budget disasters. 8.
+Fear of lost productivity - clinicians are concerned they will lose 25% of their productivity for 3 months after implementation.
+Administrators are worried that the clinicians are right. 7.
+Computer Illiteracy/training - many clinicians are not comfortable with technology.
+They are often reluctant to attend training sessions. 6.
+Interoperability - applications do not seamlessly exchange data for coordination of care, performance reporting, and public health. 5.
+Privacy - there is significant local variation in privacy policy and consent management strategies/ 4.
+Infrastructure/IT reliability - many IT departments cannot provide reliable computing and storage support, leading to EHR downtime. 3.
+Vendor product selection/suitability - it's hard to know what product to choose, particularly for specialists who have unique workflow needs
+2.
+Cost - the stimulus money does not flow until meaningful use is achieved.
+Who will pay in the meantime? 1.
+People - its's hard to get sponsorship from senior leaders, find clinician champions, and hire the trained workers to get the EHR rollout done. (this was the #1 concern by far) After we reviewed the real top 10 list, I read a more colorful top 10 list in the Letterman tradition, from a very creative student 10.
+You need to attend a Harvard Certificate Program to have a clue 9.
+Meaningful use is only meaningful to academic scholars 8.
+Docs keep asking
+- where's my money? 7.
+The government thinks 2011 is a decade away 6.
+The government says "do it now, but I will tell you what I want next month" 5.
+My kids say "hey Dad, I just discovered 10% (i.e. the inpatient CPOE usage requirement)
+is a passing grade" 4.
+You read about your security breaches in the New York Times. 3.
+Patients get to go home early because clinicians are busy implementing software. 2.
+When you ask
+vendors how they justify the claim that their products are 2011 certified (and the certification process has not yet been announced), they show you a Ouija Board. 1.
+You need Ted Williams' batting statistics to convince your Board that EHRs are worthwhile. There you have it - the actual top 10 from the crowd and the wisdom from someone who's keeping their sanity during this time of great change with a touch of humor.
+Posted by
+John Halamka
+at
+3:00 AM
+13
+comments
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Site Feed
+Life as a CIO Blog
+by
+John D. Halamka MD
+is licensed under a
+Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License
+Blog Archive
+►
+2015
+(96)
+►
+October
+(10)
+►
+September
+(9)
+►
+August
+(7)
+►
+July
+(10)
+►
+June
+(11)
+►
+May
+(9)
+►
+April
+(12)
+►
+March
+(9)
+►
+February
+(10)
+►
+January
+(9)
+►
+2014
+(118)
+►
+December
+(9)
+►
+November
+(7)
+►
+October
+(11)
+►
+September
+(10)
+►
+August
+(8)
+►
+July
+(14)
+►
+June
+(9)
+►
+May
+(10)
+►
+April
+(9)
+►
+March
+(10)
+►
+February
+(10)
+►
+January
+(11)
+►
+2013
+(148)
+►
+December
+(8)
+►
+November
+(9)
+►
+October
+(14)
+►
+September
+(11)
+►
+August
+(8)
+►
+July
+(13)
+►
+June
+(12)
+►
+May
+(14)
+►
+April
+(13)
+►
+March
+(17)
+►
+February
+(13)
+►
+January
+(16)
+►
+2012
+(224)
+►
+December
+(14)
+►
+November
+(20)
+►
+October
+(18)
+►
+September
+(17)
+►
+August
+(14)
+►
+July
+(19)
+►
+June
+(22)
+►
+May
+(19)
+►
+April
+(20)
+►
+March
+(21)
+►
+February
+(20)
+►
+January
+(20)
+►
+2011
+(252)
+►
+December
+(21)
+►
+November
+(20)
+►
+October
+(21)
+►
+September
+(21)
+►
+August
+(23)
+►
+July
+(19)
+►
+June
+(19)
+►
+May
+(21)
+►
+April
+(22)
+►
+March
+(24)
+►
+February
+(20)
+►
+January
+(21)
+▼
+2010
+(256)
+►
+December
+(23)
+►
+November
+(22)
+►
+October
+(20)
+►
+September
+(21)
+►
+August
+(14)
+►
+July
+(25)
+►
+June
+(22)
+►
+May
+(20)
+►
+April
+(22)
+►
+March
+(23)
+▼
+February
+(20)
+Cool Technology of the Week
+Where You Start Is Not Where You End
+The February meeting of the HIT Standards Committe...
+HIT Policy Committee Meaningful Use Revisions
+Vegan Doctors
+Cool Technology of the Week
+Wag More, Bark Less
+Introducing the Green CDA
+Next Steps for the Vocabulary Task Force
+The First $1 Billion Arrives
+Cool Technology of the Week
+Resilience
+Comments on the Interim Final Rule
+EHR Usability
+These are the Good Old Days
+Cool Technology of the Week
+Choosing a Value Champagne for Valentine's Day
+Next Steps for the Implementation Workgroup
+HITSP Going Forward
+The Top 10 Barriers to EHR Implementation
+►
+January
+(24)
+►
+2009
+(250)
+►
+December
+(20)
+►
+November
+(21)
+►
+October
+(23)
+►
+September
+(20)
+►
+August
+(10)
+►
+July
+(20)
+►
+June
+(21)
+►
+May
+(21)
+►
+April
+(26)
+►
+March
+(26)
+►
+February
+(21)
+►
+January
+(21)
+►
+2008
+(241)
+►
+December
+(23)
+►
+November
+(18)
+►
+October
+(22)
+►
+September
+(21)
+►
+August
+(10)
+►
+July
+(18)
+►
+June
+(21)
+►
+May
+(21)
+►
+April
+(22)
+►
+March
+(21)
+►
+February
+(20)
+►
+January
+(24)
+►
+2007
+(56)
+►
+December
+(22)
+►
+November
+(24)
+►
+October
+(10)
+About Me
+John Halamka
+John D. Halamka, MD, MS, is Chief Information Officer of Beth Israel Deaconess Medical Center, Chairman of the New England Healthcare Exchange Network (NEHEN), Co-Chair of the HIT Standards Committee, a full Professor at Harvard Medical School, and a practicing Emergency Physician.
+View my complete profile
+Crosslinked Blogs
+HSPH's Leadership Strategies for Information Technology in Health Care
+StatCounter
+Geekdoctor Weather Station

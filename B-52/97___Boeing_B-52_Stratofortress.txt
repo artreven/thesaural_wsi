@@ -1,0 +1,367 @@
+idea-writes STL Aerospace: Space Planes
+About idea-writes STL Aeropsace
+Disclaimer/Disclosure
+Sunday, September 2, 2012
+Space Planes
+The Space Shuttle is retired.  A lot of people cried in their beer over this.  That's quite understandable.  The Space Shuttle was the first operational space plane used by astronauts.  Flying to space is one of those timeless dreams.  Spread your wings and fly on high.  Angels are depicted to have wings in religious paintings and their abode was heaven itself.  On the other hand many space pioneers and current space workers see no need for wings on a space craft.  So not everyone is one the same page with this concept.  That's probably why we haven't seen many space planes in the past.  Yet, today we see some new space planes.  One is in operation, two are doing flight testing or about to, and one is being built.  In this post, let's look at space planes past, present, and one for the future.
+X-15 with heat shield and tanks
+If you talk about the history of space planes, you have to mention the
+X-15 .  The X-15 was a rocket plane that launched from altitude carried by a
+B-52 .  No, the B-52 was not Fred, Kate, Cindy, Ricky, or Keith from the rock group the
+B-52's .  But rather a strategic military bomber that was modified to carry the rocket plane.  The X-15 itself was not designed as a space plane.  Its purpose was to explore
+hypersonic
+speeds, or speed of mach 5 or greater.  Well, it did more.  For two flights, and with Joe Walker piloting, it reached over 100 km in altitude.  100 km is the decided divide between atmospheric flight and space flight.  These flights took place in 1963.  Just four years earlier, Alan Shepard became the first American in space.  Walker is the astronaut you may have never heard of.  The X-15 space flights demonstrated that an aircraft can indeed reach space.
+HL-20 mockup
+Since the X-15, there have been some ideas tossed around for an operational space plane.  The US Air Force worked on the
+Dyna Soar , though it started before the X-15 project.  Later, NASA made the
+Space Shuttle .  Europe space plane was to be called
+Hermes .  Russia made the
+Buran
+and flew it into space once unmanned.  This flight took place in 1988.  They cited that it was too expensive to operate and opted to keep using Soyuz rocket and spacecraft for their space program.  In their studies to create the Buran, Russia Space Agency used scaled models of space planes that were lifting bodies.  They did launch them and fly them and ended up getting good data for the Buran heat shields.  One of these test models was the space plane called
+Bor-4 .  The way the US found out about the Bor-4 was an Australian
+P-3 Orion
+that took pictures of a Soviet ship recovering the craft in 1982 (see  NASA website ).  In the 1990's, NASA conducted a study on a lifting body space craft that could carry personnel to orbit.  It based the configuration off of the Bor-4 and called it
+HL-20 .  More recent years, Russia tried to create a successor to the Soyuz spacecraft.  It was called
+Kliper .  The project ended, and since then, Russia has not looked at getting a space plane to replace the Soyuz after all.
+You could say what goes around comes around.  Actually with technology, projects are inspired by previous projects regardless of what country or political affiliation that project was from.  Inspired by the X-15 project,
+Burt Rutan
+and his company
+Scaled Composites
+created a suborbital space plane system.  The system was made up of a mother ship called the WhiteKnight and a space plane called SpaceShipOne.  The WhiteKnight carried SpaceShipOne to about 50,000 feet and dropped her.  The rocket would be ignited and SpaceShipOne would head off straight up to space.  It would spend about five minutes in weightlessness and glide back home to the same runway it took off from.  This was an all commercial venture, no government money was involved.  In 2004 SpaceShipOne made history by making three trips to space.  The last two were the flights that won the
+Ansari X-Prize .  The adventure of making such crafts and flying them were captured on a video documentary titled
+Black Sky .  The feat that SpaceShipOne accomplished was to take the equivalent of 3 bodies to space (over 100 km) and then do it again within two weeks time.  I don't think any space ship of any kind had done that before.  It demonstrated the ability to fully reuse the space craft.
+The US Air Force did not take the retiring of the Space Shuttle laying down.  It took up a project that was having its ups and downs.  From that project, the Air Force gained an asset in the form of an unmanned space plane called the
+X-37 .  In fact there are two of these space planes.  It's a utility space craft much like a truck is, you can use it for whatever.  It has a bay like the shuttle but is quite small.  It launches on top of an Atlas V rocket and glides down to a runway landing.  It can stay in space for a very long time.  Who knows what the US Air Force will do with it?  Anyway, it's quite remarkable in its own right.  Today, it's the only space plane in operation.
+SpaceShipTwo and WhitKnightTwo
+Well, now there are three commercial space planes in development.
+SpaceShipTwo
+is being flight tested and is the slated to be first in operation among these space planes.  SpaceShipTwo will be operated by
+Virgin Galactic
+who sells tickets to suborbital space.  This is the posterity of SpaceShipOne, and it flies just like SpaceShipOne.  On the heels of VriginGalactic is
+Xcor Aerospace .  Their space plane is called
+Lynx .  While SpaceShipTwo launches from a mother ship, the Lynx launches from the runway.  It will only carry one passenger while SpaceShipTwo will carry six.  The pricing and experiences of these two suborbital space planes are quite different.  So if your in the market to buy a ticket from either of these, please do your homework to get the right one for you.  These suborbitals are destined to take many more people to space than there has been in the last 50 year.  Experiencing space and the view of the Earth is reported to be life changing for many astronauts.  Perspectives are changed.  It should be really awesome for many.
+Dreamchaser
+The third space plane in development is
+Dreamchaser
+from
+Sierra Nevada Corporation (SNC) .  This space plane was the brain child of the late
+Jim Benson
+who owned the space company SpaceDev.  Dreamchaser is to launch on top of an Atlas V rocket to reach orbit and land like the Space Shuttle did.  It's to carry about seven people to orbit.  SpaceDev developed the
+hybrid rocket engine
+for SpaceShipOne.  Benson always envisioned Dreamchaser with hybrid rocket engines.  Benson died in 2006, just two years after SpaceShipOne's success.  Later, SpaceDev was bought  up by SNC.  The Dreamchaser project seemed almost lost at Benson's death.  Fortunately SNC took the project and ran with it.  It's now in the running in NASA's
+CCICAP .  One of the amazing things about Dreamchaser is that it took the HL-20 design and implemented it adding the hybrid engines that Benson originally thought it should have.  So you see, nothing is lost here.  Several people envisioned something like the Dreamchaser.  Now, it's coming about.  Isn't it amazing how such things work out?  If successful, the Dreamchaser is to take Astronauts to the ISS and Commercial Astronauts in commercial space ventures.  By the way, the first Commercial Astronaut was
+Mike Melvill
+who flew SpaceShipOne in space for the first time in 2004.
+Now for the distant future.  Will there be a time when we can fly form a runway all the way to orbit in just a single reusable craft like sci-fi movies depict?  There is a British effort that is heading in that direction.  The space plan is called
+Skylon .  The big thing about this system is its engines.  They are air breathing rocket engines.  That means the craft doesn't carry so much oxygen in liquid form which leaves room for cargo or crew.  Quite amazing.  I think I'll have some crumpets and tea for my in flight meal to orbit, please.
+Well, there you have it.  It's not an exhaustive list of past, present, and future space planes, but it gives you a good view.  We love the idea of flying to space on wings.  Perhaps we will do it soon.  In the mean time we can still dream.
+Posted by
+E C Holm
+at
+10:53 AM
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+aerospace ,
+commercial space ,
+Dreamchaser ,
+space ,
+space plane ,
+SpaceShipOne ,
+SpaceShipTwo ,
+Xcor
+Newer Post
+Older Post
+Home
+READ
+My Science Fiction Stories
+Popular Posts
+HILLS Space Plane - David Luther Interview
+Being recently introduced to the Horizontal In-Line Launch Staging (HILLS) Space Plane
+and finding it dramatically cool and futuristic, I v...
+A New Rotary Wing Class
+In 2005 the Bell Boeing Osprey
+went into service with the United States Marine Corps.  It was the first operational tiltrotor aircraft.  ...
+Round Wings
+From time to time in the history of flight there has been some unusual designs.  None are more unusual than round disc-like wings.  If you g...
+Space Exploration Plans From Boeing
+I read in a NASA Spaceflight.com article
+that Boeing came out with a moon exploration plan.  The plan entails a small space station put at ...
+Set Orbit Around Ceres
+Courtesy of NASA
+Dawn , the amazing unmanned spacecraft at the command of Marc Rayman as Mission Director and Dr. Chris Russell as the P...
+Other Space Blogs
+NASASpaceFlight.com
+EVA-32: Astronauts complete seven hour spacewalk
+9 hours ago
+Exodus Aerospace
+ORION HARVEST MOON
+2 weeks ago
+JP Aerospace Blog
+Pic from the Past
+3 weeks ago
+XCOR Aerospace blog
+Meet the Crew: Terri Carroll
+5 months ago
+Aviation Reads
+Aviation Week
+Aerospaceweb.org
+Creative Commons
+Idea Writes STL Aerospace
+by
+EC HOLM
+is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License .
+Google+ Followers
+Follow by Email
+Follow Me on:
+google+
+twitter
+Facebook
+Tip jar
+Total Pageviews
+Translate
+Search This Blog
+Loading...
+Labels
+aerospace
+(29)
+space
+(26)
+commercial space
+(20)
+NASA
+(14)
+STEM
+(14)
+SpaceX
+(13)
+aviation
+(11)
+rockets
+(10)
+space operation
+(10)
+future
+(9)
+design
+(7)
+exploration
+(7)
+mars
+(7)
+stl
+(7)
+propulsion
+(6)
+history
+(5)
+airplane
+(4)
+manned
+(4)
+moon
+(4)
+orbit
+(4)
+rotary wing
+(4)
+sls
+(4)
+space plane
+(4)
+Nuclear
+(3)
+Orbital Sciences
+(3)
+SpaceShipTwo
+(3)
+VTOL
+(3)
+asteroid
+(3)
+space tug
+(3)
+spirit of st louis
+(3)
+Antares
+(2)
+Dreamchaser
+(2)
+Falcon 9
+(2)
+SpaceShipOne
+(2)
+ULA
+(2)
+VTVL
+(2)
+Xcor
+(2)
+autogyro
+(2)
+drama
+(2)
+financing
+(2)
+launch
+(2)
+slow rotor
+(2)
+tilt rotor
+(2)
+ATK
+(1)
+Ares I
+(1)
+Atlas V
+(1)
+Boeing
+(1)
+Ceres
+(1)
+Congress
+(1)
+Cygnus
+(1)
+DARPA
+(1)
+Dawn
+(1)
+ISS
+(1)
+JPL
+(1)
+Math
+(1)
+RD-180
+(1)
+Solar Impulse
+(1)
+Theory
+(1)
+Vesta
+(1)
+Virgin Galactic
+(1)
+airship
+(1)
+balloon
+(1)
+blimp
+(1)
+business
+(1)
+disaster
+(1)
+drones
+(1)
+fear
+(1)
+fiction
+(1)
+flying boats
+(1)
+flying car
+(1)
+interview
+(1)
+jetpack
+(1)
+sci-fi
+(1)
+solid fuel
+(1)
+venus
+(1)
+wing
+(1)
+zeppelin
+(1)
+Blog Archive
+►
+2015
+(2)
+►
+March
+(2)
+►
+2014
+(13)
+►
+December
+(2)
+►
+November
+(2)
+►
+October
+(2)
+►
+September
+(2)
+►
+August
+(1)
+►
+July
+(3)
+►
+June
+(1)
+►
+2013
+(20)
+►
+October
+(1)
+►
+August
+(1)
+►
+June
+(4)
+►
+May
+(2)
+►
+April
+(4)
+►
+March
+(4)
+►
+February
+(3)
+►
+January
+(1)
+▼
+2012
+(16)
+►
+December
+(2)
+►
+November
+(3)
+►
+October
+(3)
+▼
+September
+(4)
+NASA's Exploration In Funding
+Lighter Than A Feather
+Liquid Fuel Rockets
+Space Planes
+►
+August
+(4)
+My Other Blogs
+IdeaWritesFiction
+IdeaWritesHighlySensitivePerson
+Thanks
+Thanks for reading.
+If you found this blog entertaining and/or helpful, feel free to make a donation in the Tip Jar.
+Powered by
+Blogger .

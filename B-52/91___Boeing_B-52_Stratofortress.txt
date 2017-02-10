@@ -1,0 +1,529 @@
+idea-writes STL Aerospace: September 2012
+About idea-writes STL Aeropsace
+Disclaimer/Disclosure
+Friday, September 28, 2012
+NASA's Exploration In Funding
+NASA has a dilemma.  It wants to take the next step in human space exploration.  That step invloves leaving Low Earth Orbit and going to the Moon, Asteroids, and eventually Mars.  The problem is that since the mid 1990's Congress has not been providing money to NASA to meet their ambitions.  NASA has one of, if not 'the', premier manned space programs.  With the economic situation in the world I don't see that changing.  Let's look at what NASA is asking the Federal government to do and what an alternate solution can be.
+Space Launch System
+NASA is making a new rocket.  It's 'going to be' the biggest rocket ever built and flown, if it's appropriately funded.  It's called the Space Launch System ( SLS ).  It is to launch large cargo or spacecraft to orbit.  I stop short there and some people would say, "No, it's supposed to launch spacecraft beyond low earth orbit".  Well, reality is that to get beyond low orbit, you need to get to low orbit and then have a booster with enough fuel to get you where you want to go.  That is what I call a spacecraft.  For example in the
+Apollo Program , when the Saturn V rocket got the command module/service module, the lunar lander, and the
+S-VIB
+booster made up the space craft that launched from low orbit to the moon.  In the
+LRO / LCROSS
+launch, the Centaur booster was part of the spacecraft that launched from low orbit to the moon, even though the Centaur was also the second stage of the Atlas V rocket used to take the stack to low orbit.  The maneuver from low orbit to the moon is called the translunar injection ( TLI ).  The SLS is projected to cost $18 billion to include the manned spacecraft called the
+Multi-Purpose Crew Vehicle .  Now NASA is looking for more money but this time to build a small
+space station
+around the Moon called
+Gateway .  In 2006 an estimate cost of the International Space Station was at
+$35 billion , and that was low balling it.  A small space station around the moon or at a
+lagrange point
+could cost just as much or close to it.  The reason is that although smaller, it takes a lot of energy to get it out there.  Will Congress support NASA with full funding in these efforts?  Judging from the last decade, I say no.  The effort will probably be a waste of time and money, just like other defunct NASA programs such as
+Constellation .
+Falcon 9
+There is an alternate route that NASA can pursue.  Leveraging commercial companies services to space and in space refueling, NASA can get in the business of human space exploration again.  The
+Augustine Commission Final Report  found that cost of space exploration could be reduced by the use of commercial cargo launches to fuel manned spacecraft to go explore from low orbit and use mid lift rockets such as the
+EELV
+and
+Falcon 9 .  This would be an alternative to a large rocket operation such as the SLS which could launch both spacecraft and fuel at the same time.  NASA has pursued a different way of operations with the ISS cargo and new crew with its
+Commercial Crew and Cargo Office
+(C3PO) which lead to the
+Commercial Space Transportation Program .  It operated differently than usual at NASA.  In it, NASA pays for transportation services rather than ownership.  The commercial company owns and operates the launcher and spacecraft.  This saves money for NASA because price is set and doesn't slip like in developing and operating rockets such as Apollo, Shuttle, and Constellation.  This in turn allows the commercial company to make money from NASA and other customers allowing for creativity.  An example of such creativity is SpaceX's
+DragonLab
+in which SpaceX gets multiple science customers for one Dragon capsule flight.  In a sense, SpaceX is continuing what Shuttle did for the science community.  So the alternate process for a large launcher would require several launches from Earth to build a TLI spacecraft and fuel it in low orbit.  This would then launch from low orbit and go off and do it's mission on Moon, Asteroid, or Mars.  They could even build a small space station and send it to the moon using ion thrusters without people, only to be manned when its in its position in a Lagrange point or around the Moon itself.  The launchers needed exist today.  SpaceX is in the process of building a bigger launcher called
+Falcon Heavy
+which could bring down the cost per launch of such efforts.  I think the real key to success is to operate like NASA'a C3PO suggests and pay for services rather than own launchers.
+NASA should get out of the business of making rockets, and get into the business of exploration, science, and aerospace research alone.  It's time commercial companies take over launches.  The United States won't financially support NASA's ambitions with business as usual.
+Posted by
+E C Holm
+at
+1:41 AM
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+aerospace ,
+asteroid ,
+commercial space ,
+mars ,
+moon ,
+orbit ,
+rockets ,
+space
+Sunday, September 16, 2012
+Lighter Than A Feather
+Balloons and Airships of old
+In history, lighter than air craft were the first successful manned aircraft.  The first manned
+hot air balloon
+was launched in late 1700's.  The first
+manned hydrogen balloon
+was also launched in late 1700's.  The
+American Civil War
+saw the use of balloons for map making and reconnaissance for the military, thus starting the precedence of the Army Air Corps that later became the United States Air Force.  These low-tech ships of the air gave man the first experience in the heavenly expanse that was the domain of birds.  For the first time, man could get a birds' eye view of the ground.  From balloons came the
+dirigible
+or airship which had steering and propulsion in the form of propellers.  Man learned how to navigate the air.  These craft preceded heavier than air craft such as airplanes by over 100 years.  Hot air and helium are the most common means of providing
+buoyancy  in the air.  Today both these types of lighter than air craft are in use.  Recreation, commercial, military application, and exploration applications use balloons and airships.  Let's take a look at the different lighter than air craft.
+I recently went to the 40th
+Hot Air Balloon Race in St Louis .  Each balloon had a ground crew and pilot.  Each had a basket and burners.  The shapes and colors of the balloons varied.  The  pink bunny balloon
+lead the charge and in fact was 'hare' of the race, just like in dog racing.  The balloon who dropped a bag of seed closest to the pink bunny balloon where it landed won.  I don't know who won, but I got some good pictures of the prep and race (see slideshow below).  Since these balloons are not powered, they travel with the wind.  A good pilot can direct the balloon with the knowledge of knowing what the winds are doing at different altitudes.  These balloons started at Forest Park and went West.  On my way home from the park, my wife and I got to see the balloons over head on highway 40 (I-64).  It was a spectacular sight.  People on bridges, out of their homes, and from their parked cars watched these behemoths float on by.  Large colorful silent craft seem to attract attention.
+Created with
+flickr slideshow .
+MA-3A at New Orleans
+Airships have a military history.  In World War I they were used as bombers.  After that war, German engineering in the rigid airships called Zeppelins were distributed among the allied forces.  The United States ended up getting airships by buying and building them.  The US Navy and Army operated these ships of the sky.  Today the US Navy owns one airship called
+MZ-3A .  Its and ship used for research, but it was used by the Coast Guard to survey the
+Deepwater Horizon oil spill
+in the Gulf of Mexico in 2010 and to coordinate cleanup efforts.  The US Army contracted Northrup Gruman for an airship they call
+Long Endurance Multi-Intelligence Vehicle
+(LEMV).  It's a hybrid airship.  That means that it uses aerodynamics to produce lift along with helium.  It's being marketed under
+Hybrid Air Vehicles .  It touts long endurance, heavy lift of cargo, and landing anywhere without special infrastructure.  It's the most advanced airship today.  The other modern semi-rigid airship is the
+Zeppelin-NT .  It touts all weather flying, something that was sorely lacking in the airships of the past.  The Zeppelin-NT is a passenger craft and is in the tourist business.  They are trying to market it for cargo, but I have yet to see anything written about successful cargo flights.  Unfortunately, both of these high tech airships suffer from a lack of business, so not many exist.   Most commercial airships today are the simple
+blimp .  These are large bags filled with pressurized helium with gondolas (cabin for pilot and passengers), propellers, and tail fins.   You see them with large commercial signs on them, and they provide a stable in-flight platform for cameras for a sport stadium.  There is another type of airship that's for recreational use, it's the  hot air airship .  Like the hot air balloons these are colorful and take just a couple of people aboard.  They do have propulsion and steering. Unlike airships, they handle their altitude via adding hot air.  I cannot speak of their performance though.  In the area of exploration, one of the oldest missions was that of the
+Norge airship
+which crossed the Artic in 1926.
+Tandem flying high
+Some balloons can fly very high.  So high that space programs such as
+NASA
+make use of them for flying telescopes and experiments.  They can reach to heights about 19 miles in the air.  The air is very thin up there, almost like space itself.
+JP Aerospace
+is a private organization that has been sending high flying balloons for a while.  They want to go bigger.  They want to make a high flying station called Dark Sky which would serve as a staging area for two different airships.  One launches from the ground to Dark Sky and the other launches from Dark Sky to orbit.  That's a high flying idea, float to space.  Recently they made an unmanned airship that was the highest flying airship ever.  They called it
+Tandem .  JP Aerospace is one of the few organizations doing exploration and taking science experiments to the edge of space.  Now, let's mention the balloon taking a man up near space so he can jump out.  I''m talking about
+Redbull's Stratos .  It can hold 30,000,000 cubic feet in volume, that's really big.  The thing about these high flying balloons is that their payloads usually get to the ground by parachute and not by landing as the recreational hot air balloons do.  So jumping out of a balloon near 100,000 feet seems rather reasonable though frightful.
+Well, there you have it.  A brief synopsis of lighter than air craft.  An old idea still living on.  Young person, you are the future.  You need to decide whether lighter than air craft are relevant for the future, or should go the way of the dinosaur.
+Posted by
+E C Holm
+at
+11:15 AM
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+aerospace ,
+airship ,
+balloon ,
+blimp ,
+exploration ,
+space ,
+stl ,
+zeppelin
+Monday, September 10, 2012
+Liquid Fuel Rockets
+I understand it, but I don't think it's justified.  Some people give too much credit to the Third Reich for developing rockets.  Rockets were around since at least
+Marco Polo 's time.  The Chinese had gunpowder and made rockets with it as well as other weapons.  Thus they created the solid fuel rocket.  The the
+V-2
+was developed under the Third Reich, and it was not a solid fuel rocket.  Let's look at who first developed the liquid fuel rocket and then let's look at rockets after the V-2.
+R.H. Goddard towing a rocket
+In 1923 a man who had been a sickly child and a book-worm, tested a gasoline and liquid oxygen rocket engine.  For years before, he had experimented with solid fuel rockets.  He had made guidance systems, and mathematical formulas to predict trajectories.  In 1926 this man made the first liquid fuel rocket launch from a farm in Auburn, Massachusetts, USA.  It went to a height of 184 feet in 2.5 seconds ( Wiki ).  That man was Robert H. Goddard.  Yes, the liquid fuel rocket was invented in the United States, not Germany.  Regardless, even Goddard thought of space travel with rockets and made experiments to that end ( Wiki ).
+V-2 replica
+Since Goddard there were several rocket enthusiasts around the world working where Goddard left off.  They followed Goddard's writings.  One group in Germany included
+Wernher Von Braun , who had a really long name.  He made rockets for the Third Reich, namely the V-2 rocket.  What the Third Reich provided was resources and enthusiasm for the rockets.  They were used as an instrument of war, but even Von Braun dreamed of space.
+R-7
+At the end of World War II, the Soviet Union (USSR) and the United States (US) grabbed as much as Germany as they could including rocket scientists and V-2 rockets.  The USSR made the
+R-7
+as the first ballistic missile that could launch and atomic bomb.  While Von Braun was the mastermind behind the Saturn rockets,
+Sergei Korolev
+was the mastermind behind the R-7, the
+Vostok , the
+Voskhod , and N-1 rockets.  Following the same pattern, Korolev was part of a rocket society before World War II and was a rocket engineer.  He was imprisoned for 10 years in the USSR.  He was released to work on the rockets.  He was also instrumental in convincing Khrushchev to launch a radio transmitting satellite instead of making a weapon demonstration with the rocket.  Thus Sputnik-1 was launched and the world would never be the same again.  You see, Sputnik-1 was the first satellite as we understand man-made satellites today.  It transmitted a 'beep' that could be picked up by any ham radio enthusiast.  People in the US feared USSR from then on.
+Of course we know that the US gave USSR chase in the space race which resulted in the race to the Moon.  Von Braun and his team made the
+Saturn IB
+and
+Saturn V
+rockets under NASA.  Saturn V still remains the most powerful rocket ever flown.  It's the epitomical rocket of the space race and the race to the Moon.  It could take 260,000 pounds to orbit.  Impressive by any measure.  The N-1 was also impressive but not quite as the Saturn V.  It could take 200,000 pounds to orbit.
+SkyLab riding on a Saturn V
+When the space race was done, the big rockets were not as much needed anymore.  One Saturn V launch was done to put the first US space station called
+SkyLab
+into orbit.  USSR also followed the space station approach to space research.  The cold war ruled.  Rocketry became subordinate to
+Inter-Continental Ballistic Missile
+(ICBM) build up.  Which took the whole of society to the brink of annihilation.  The flip side of rocketry was the satellite industry, both military and commercial.  Today the Russia and the US uses a variety of rockets and a variety of sizes to launch all kinds of satellites.
+Long March 3B
+Today we have dedicated rockets for satellites and unmanned spacecraft.
+Boeing Delta IV ,
+Delta IV Heavy ,
+Atlas V , and
+Falcon 9
+are among the biggest rockets in the US.  Russia has the
+Soyuz
+and
+Proton
+rockets as their biggest.  Europe has the
+Ariane V , Japan has the
+H-IIA
+and China has the
+Long March 3B .  India also has a rocket called the
+GSLV
+which can lift 11,020 lbs to orbit.  Interesting to note that India is developing a heavier vehicle called the
+GSLV-III
+that will rival Falcon 9 as far as lifting capability to orbit.  It's maiden flight should be soon.  These rockets can lift from around 15,000 lbs to 50,000 lbs to orbit.  If you consider that today's
+shipping containers
+can weigh up to 68,000 lbs, you see that these rockets fall short of commercial shipping standards as far as capability.  Almost all these countries are developing bigger rockets.  If humans are to expand their living quarters to space, the moon, and mars, they have to have bigger rockets and fly them cheaper than they do now.  This is the big drive.  There is a future in rocketry.
+We looked at Goddard and his rockets, then looked at the cold war rockets of the US and USSR, and finally we looked at the modern rockets.  It's really amazing that most of the technology that was essential to rocketry was developed by one man, Robert Goddard.  To get from Goddard to today's rockets, there were myriads of men and women developing technologies to go bigger, faster, and farther.  These people were of all kinds of backgrounds including different political backgrounds.  The rocket is a tool for man.  Let's hope we can use it wisely.
+Posted by
+E C Holm
+at
+2:03 AM
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+orbit ,
+rockets ,
+space
+Sunday, September 2, 2012
+Space Planes
+The Space Shuttle is retired.  A lot of people cried in their beer over this.  That's quite understandable.  The Space Shuttle was the first operational space plane used by astronauts.  Flying to space is one of those timeless dreams.  Spread your wings and fly on high.  Angels are depicted to have wings in religious paintings and their abode was heaven itself.  On the other hand many space pioneers and current space workers see no need for wings on a space craft.  So not everyone is one the same page with this concept.  That's probably why we haven't seen many space planes in the past.  Yet, today we see some new space planes.  One is in operation, two are doing flight testing or about to, and one is being built.  In this post, let's look at space planes past, present, and one for the future.
+X-15 with heat shield and tanks
+If you talk about the history of space planes, you have to mention the
+X-15 .  The X-15 was a rocket plane that launched from altitude carried by a
+B-52 .  No, the B-52 was not Fred, Kate, Cindy, Ricky, or Keith from the rock group the
+B-52's .  But rather a strategic military bomber that was modified to carry the rocket plane.  The X-15 itself was not designed as a space plane.  Its purpose was to explore
+hypersonic
+speeds, or speed of mach 5 or greater.  Well, it did more.  For two flights, and with Joe Walker piloting, it reached over 100 km in altitude.  100 km is the decided divide between atmospheric flight and space flight.  These flights took place in 1963.  Just four years earlier, Alan Shepard became the first American in space.  Walker is the astronaut you may have never heard of.  The X-15 space flights demonstrated that an aircraft can indeed reach space.
+HL-20 mockup
+Since the X-15, there have been some ideas tossed around for an operational space plane.  The US Air Force worked on the
+Dyna Soar , though it started before the X-15 project.  Later, NASA made the
+Space Shuttle .  Europe space plane was to be called
+Hermes .  Russia made the
+Buran
+and flew it into space once unmanned.  This flight took place in 1988.  They cited that it was too expensive to operate and opted to keep using Soyuz rocket and spacecraft for their space program.  In their studies to create the Buran, Russia Space Agency used scaled models of space planes that were lifting bodies.  They did launch them and fly them and ended up getting good data for the Buran heat shields.  One of these test models was the space plane called
+Bor-4 .  The way the US found out about the Bor-4 was an Australian
+P-3 Orion
+that took pictures of a Soviet ship recovering the craft in 1982 (see  NASA website ).  In the 1990's, NASA conducted a study on a lifting body space craft that could carry personnel to orbit.  It based the configuration off of the Bor-4 and called it
+HL-20 .  More recent years, Russia tried to create a successor to the Soyuz spacecraft.  It was called
+Kliper .  The project ended, and since then, Russia has not looked at getting a space plane to replace the Soyuz after all.
+You could say what goes around comes around.  Actually with technology, projects are inspired by previous projects regardless of what country or political affiliation that project was from.  Inspired by the X-15 project,
+Burt Rutan
+and his company
+Scaled Composites
+created a suborbital space plane system.  The system was made up of a mother ship called the WhiteKnight and a space plane called SpaceShipOne.  The WhiteKnight carried SpaceShipOne to about 50,000 feet and dropped her.  The rocket would be ignited and SpaceShipOne would head off straight up to space.  It would spend about five minutes in weightlessness and glide back home to the same runway it took off from.  This was an all commercial venture, no government money was involved.  In 2004 SpaceShipOne made history by making three trips to space.  The last two were the flights that won the
+Ansari X-Prize .  The adventure of making such crafts and flying them were captured on a video documentary titled
+Black Sky .  The feat that SpaceShipOne accomplished was to take the equivalent of 3 bodies to space (over 100 km) and then do it again within two weeks time.  I don't think any space ship of any kind had done that before.  It demonstrated the ability to fully reuse the space craft.
+The US Air Force did not take the retiring of the Space Shuttle laying down.  It took up a project that was having its ups and downs.  From that project, the Air Force gained an asset in the form of an unmanned space plane called the
+X-37 .  In fact there are two of these space planes.  It's a utility space craft much like a truck is, you can use it for whatever.  It has a bay like the shuttle but is quite small.  It launches on top of an Atlas V rocket and glides down to a runway landing.  It can stay in space for a very long time.  Who knows what the US Air Force will do with it?  Anyway, it's quite remarkable in its own right.  Today, it's the only space plane in operation.
+SpaceShipTwo and WhitKnightTwo
+Well, now there are three commercial space planes in development.
+SpaceShipTwo
+is being flight tested and is the slated to be first in operation among these space planes.  SpaceShipTwo will be operated by
+Virgin Galactic
+who sells tickets to suborbital space.  This is the posterity of SpaceShipOne, and it flies just like SpaceShipOne.  On the heels of VriginGalactic is
+Xcor Aerospace .  Their space plane is called
+Lynx .  While SpaceShipTwo launches from a mother ship, the Lynx launches from the runway.  It will only carry one passenger while SpaceShipTwo will carry six.  The pricing and experiences of these two suborbital space planes are quite different.  So if your in the market to buy a ticket from either of these, please do your homework to get the right one for you.  These suborbitals are destined to take many more people to space than there has been in the last 50 year.  Experiencing space and the view of the Earth is reported to be life changing for many astronauts.  Perspectives are changed.  It should be really awesome for many.
+Dreamchaser
+The third space plane in development is
+Dreamchaser
+from
+Sierra Nevada Corporation (SNC) .  This space plane was the brain child of the late
+Jim Benson
+who owned the space company SpaceDev.  Dreamchaser is to launch on top of an Atlas V rocket to reach orbit and land like the Space Shuttle did.  It's to carry about seven people to orbit.  SpaceDev developed the
+hybrid rocket engine
+for SpaceShipOne.  Benson always envisioned Dreamchaser with hybrid rocket engines.  Benson died in 2006, just two years after SpaceShipOne's success.  Later, SpaceDev was bought  up by SNC.  The Dreamchaser project seemed almost lost at Benson's death.  Fortunately SNC took the project and ran with it.  It's now in the running in NASA's
+CCICAP .  One of the amazing things about Dreamchaser is that it took the HL-20 design and implemented it adding the hybrid engines that Benson originally thought it should have.  So you see, nothing is lost here.  Several people envisioned something like the Dreamchaser.  Now, it's coming about.  Isn't it amazing how such things work out?  If successful, the Dreamchaser is to take Astronauts to the ISS and Commercial Astronauts in commercial space ventures.  By the way, the first Commercial Astronaut was
+Mike Melvill
+who flew SpaceShipOne in space for the first time in 2004.
+Now for the distant future.  Will there be a time when we can fly form a runway all the way to orbit in just a single reusable craft like sci-fi movies depict?  There is a British effort that is heading in that direction.  The space plan is called
+Skylon .  The big thing about this system is its engines.  They are air breathing rocket engines.  That means the craft doesn't carry so much oxygen in liquid form which leaves room for cargo or crew.  Quite amazing.  I think I'll have some crumpets and tea for my in flight meal to orbit, please.
+Well, there you have it.  It's not an exhaustive list of past, present, and future space planes, but it gives you a good view.  We love the idea of flying to space on wings.  Perhaps we will do it soon.  In the mean time we can still dream.
+Posted by
+E C Holm
+at
+10:53 AM
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+aerospace ,
+commercial space ,
+Dreamchaser ,
+space ,
+space plane ,
+SpaceShipOne ,
+SpaceShipTwo ,
+Xcor
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+READ
+My Science Fiction Stories
+Popular Posts
+HILLS Space Plane - David Luther Interview
+Being recently introduced to the Horizontal In-Line Launch Staging (HILLS) Space Plane
+and finding it dramatically cool and futuristic, I v...
+A New Rotary Wing Class
+In 2005 the Bell Boeing Osprey
+went into service with the United States Marine Corps.  It was the first operational tiltrotor aircraft.  ...
+Round Wings
+From time to time in the history of flight there has been some unusual designs.  None are more unusual than round disc-like wings.  If you g...
+Space Exploration Plans From Boeing
+I read in a NASA Spaceflight.com article
+that Boeing came out with a moon exploration plan.  The plan entails a small space station put at ...
+Set Orbit Around Ceres
+Courtesy of NASA
+Dawn , the amazing unmanned spacecraft at the command of Marc Rayman as Mission Director and Dr. Chris Russell as the P...
+Other Space Blogs
+NASASpaceFlight.com
+EVA-32: Astronauts complete seven hour spacewalk
+9 hours ago
+Exodus Aerospace
+ORION HARVEST MOON
+2 weeks ago
+JP Aerospace Blog
+Pic from the Past
+3 weeks ago
+XCOR Aerospace blog
+Meet the Crew: Terri Carroll
+5 months ago
+Aviation Reads
+Aviation Week
+Aerospaceweb.org
+Creative Commons
+Idea Writes STL Aerospace
+by
+EC HOLM
+is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License .
+Google+ Followers
+Follow by Email
+Follow Me on:
+google+
+twitter
+Facebook
+Tip jar
+Total Pageviews
+Translate
+Search This Blog
+Loading...
+Labels
+aerospace
+(29)
+space
+(26)
+commercial space
+(20)
+NASA
+(14)
+STEM
+(14)
+SpaceX
+(13)
+aviation
+(11)
+rockets
+(10)
+space operation
+(10)
+future
+(9)
+design
+(7)
+exploration
+(7)
+mars
+(7)
+stl
+(7)
+propulsion
+(6)
+history
+(5)
+airplane
+(4)
+manned
+(4)
+moon
+(4)
+orbit
+(4)
+rotary wing
+(4)
+sls
+(4)
+space plane
+(4)
+Nuclear
+(3)
+Orbital Sciences
+(3)
+SpaceShipTwo
+(3)
+VTOL
+(3)
+asteroid
+(3)
+space tug
+(3)
+spirit of st louis
+(3)
+Antares
+(2)
+Dreamchaser
+(2)
+Falcon 9
+(2)
+SpaceShipOne
+(2)
+ULA
+(2)
+VTVL
+(2)
+Xcor
+(2)
+autogyro
+(2)
+drama
+(2)
+financing
+(2)
+launch
+(2)
+slow rotor
+(2)
+tilt rotor
+(2)
+ATK
+(1)
+Ares I
+(1)
+Atlas V
+(1)
+Boeing
+(1)
+Ceres
+(1)
+Congress
+(1)
+Cygnus
+(1)
+DARPA
+(1)
+Dawn
+(1)
+ISS
+(1)
+JPL
+(1)
+Math
+(1)
+RD-180
+(1)
+Solar Impulse
+(1)
+Theory
+(1)
+Vesta
+(1)
+Virgin Galactic
+(1)
+airship
+(1)
+balloon
+(1)
+blimp
+(1)
+business
+(1)
+disaster
+(1)
+drones
+(1)
+fear
+(1)
+fiction
+(1)
+flying boats
+(1)
+flying car
+(1)
+interview
+(1)
+jetpack
+(1)
+sci-fi
+(1)
+solid fuel
+(1)
+venus
+(1)
+wing
+(1)
+zeppelin
+(1)
+Blog Archive
+►
+2015
+(2)
+►
+March
+(2)
+►
+2014
+(13)
+►
+December
+(2)
+►
+November
+(2)
+►
+October
+(2)
+►
+September
+(2)
+►
+August
+(1)
+►
+July
+(3)
+►
+June
+(1)
+►
+2013
+(20)
+►
+October
+(1)
+►
+August
+(1)
+►
+June
+(4)
+►
+May
+(2)
+►
+April
+(4)
+►
+March
+(4)
+►
+February
+(3)
+►
+January
+(1)
+▼
+2012
+(16)
+►
+December
+(2)
+►
+November
+(3)
+►
+October
+(3)
+▼
+September
+(4)
+NASA's Exploration In Funding
+Lighter Than A Feather
+Liquid Fuel Rockets
+Space Planes
+►
+August
+(4)
+My Other Blogs
+IdeaWritesFiction
+IdeaWritesHighlySensitivePerson
+Thanks
+Thanks for reading.
+If you found this blog entertaining and/or helpful, feel free to make a donation in the Tip Jar.
+Powered by
+Blogger .

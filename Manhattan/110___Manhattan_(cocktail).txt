@@ -1,0 +1,234 @@
+This Week at Microsoft
+.
+News
+— News
+Conference
+Index
+Deals
+Academy
+World Tour
+Apps
+Gear
+Tech
+Creative
+Money
+Insights
+Launch
+World
+Distract
+More
+Sections
+Apps
+Gear
+Tech
+Creative
+Money
+Insights
+Launch
+World
+Distract
+Business Apps
+The Next Web
+About
+Jobs
+Team
+Advertise
+Feedback
+Weekly
+Daily
+Updates
+The hottest news to your doorstep
+Weekly
+Daily
+Updates
+×
+This week at Microsoft: Surface’s pricing, Windows 8, and Flight’s crash
+by
+Alex Wilhelm
+Tweet
+—
+27 Jul '12, 06:59pm 											in
+Microsoft
+Tweet
+Share
+Share
+Share
+Share
+Email
+Slack it
+Share
+http://tnw.to/b2hL
+Copied!
+2 Comments
+After last week’s announcement of Office 2013, this week had much work to do to match it. In the end, it’s been a grab bag of stories, from a number of Microsoft areas. The most important entry in this post is a non-story concerning the pricing of the Surface. We also have some Windows 8 goodies, and a short note on a long tailspin.
+Ensure that you are following TNW Microsoft on both
+Twitter , and
+Facebook , and let’s get into the news.
+Surface Pricing
+A Swedish store posted some rather high prices for the Surface tablet line. The listed figures were far above previous Microsoft guidance. They would have been utterly laughable if they hadn’t been so specific, with each Surface configuration treated to its own price point.
+As Microsoft has yet refused to price its own devices publicly, the story snagged legs, and eventually became a Big Deal. TNW commented that the prices smelt odd, but did report them, while also noting that Microsoft should stop losing media cycles that it could win, and just release the actual prices.
+Finally, the store released a comment that it, after all, had simply made up the prices, in a bid to allow pre-orders to not be undercharged. I’m sure the media firestorm was a bit of a shock for the store. In short, we still don’t have pricing for the Surface units, but they won’t cost $1,000 for the cheapest configuration.
+Windows 8
+Windows 8 was more a mix than we can fit into a few short paragraphs, so we must turn to yet another (patent pending) TNW Power Link List:
+Microsoft details the Windows 8 app store: Flexible cuts, prices up to $999, and try-before-you-buy [ Link ]
+Microsoft claims massive Windows 8 graphical performance improvements over Windows 7 [ Link ]
+Microsoft, the stylus is in the past – leave it there [ Link ]
+7digital launches its music store on Windows 8, offers 20 million tracks ahead of full October launch [ Link ]
+Microsoft’s BUILD 2012 developer conference kicks off October 30, 1 week after Windows 8 goes on sale [ Link ]
+Microsoft likely close to signing off Windows 8 RTM build ’8888′ for an August release [ Link ]
+Keep in mind that BUILD is therefore scheduled six days before Windows 8 goes on sale to the public. Guess they are going to distribute there to developers? I’ll give you a minute.
+Flight Falls
+Despite a long and illustrious past, Microsoft is
+done  with flight simulators. Again. The company has halted development on its new Microsoft Flight product after, presumably, a bad launch and limited interest. As we
+noted yesterday :
+This is  not surprising . Flight Simulator X, Flight’s theoretical ancestor, is massively complex, customizable, popular, and powerful. Flight is a freemium toy that was designed to attract a casual audience. And thus when Flight came out, those using Flight Simulator X, I presume, did not make the jump over to it.
+Oh, and people still play Flight Simulator X, by the way. I would wager that more play that six-year-old game than play Flight. Free to play is great Microsoft, but the game has to be worth playing.
+Azure
+Finally, TNW visited Microsoft’s  new Azure-focused incubator
+in Bangalore this week. The post is massively worth reading. Microsoft’s incubator play is in full swing.
+Now, make a
+Manhattan
+and roll out into the weekend.
+Top Image Credit:  Robert Scoble
+Tweet
+172
+Share
+4
+Share
+1
+Email
+Alex Wilhelm
+a.k.a.
+Alex Wilhelm
+Alex Wilhelm is a San Francisco-based writer. You can find Alex on
+Twitter,
+and on
+Facebook.
+You can reach Alex via email at
+alex@thenextweb.com
+Say
+thanks
+or
+boo
+to Alex
+Contact
+Posts
+4699
+Posts / Mo
+63.72
+More in Microsoft
+More by Alex
+Microsoft is merging Outlook and Sunrise into a single app
+Microsoft is merging Outlook and Sunrise into a single app
+Microsoft’s new flagship NYC store is 5 blocks away from Apple’s – here’s how they compare
+Microsoft’s new flagship NYC store is 5 blocks away from Apple’s – here’s how they compare
+Microsoft’s Surface Book and Surface Pro 4 are now officially available
+Microsoft’s Surface Book and Surface Pro 4 are now officially available
+How Microsoft’s secret user onboarding process fooled us all
+How Microsoft’s secret user onboarding process fooled us all
+Microsoft says no Edge browser add-ons until 2016
+Microsoft says no Edge browser add-ons until 2016
+The Surface Book has an amazing feature no one’s talking about: User upgradability
+The Surface Book has an amazing feature no one’s talking about: User upgradability
+Microsoft’s head of Windows is taking a year off
+Microsoft’s head of Windows is taking a year off
+Surface Book review: Windows has its first flagship laptop
+Surface Book review: Windows has its first flagship laptop
+Microsoft is testing advertising suggested apps in Windows 10’s Start menu
+Microsoft is testing advertising suggested apps in Windows 10’s Start menu
+Skype URLs make it ridiculously easy to video chat with anyone, no account needed
+Skype URLs make it ridiculously easy to video chat with anyone, no account needed
+Microsoft’s latest iOS app lets you mash up photos in group chats
+Microsoft’s latest iOS app lets you mash up photos in group chats
+Bing’s image search is now the ultimate cookbook
+Bing’s image search is now the ultimate cookbook
+Skype for Business graduates out of preview, but not on Android
+Skype for Business graduates out of preview, but not on Android
+Windows 10 is getting a ton of new features via the Insider program
+Windows 10 is getting a ton of new features via the Insider program
+An irrational love of Windows
+An irrational love of Windows
+Microsoft’s Surface Book commercial doesn’t do the product justice
+Microsoft’s Surface Book commercial doesn’t do the product justice
+Dell brings its edgeless display to the powerhouse XPS 15
+Dell brings its edgeless display to the powerhouse XPS 15
+Microsoft’s new Surface Book needs to lead the way for PC makers
+Microsoft’s new Surface Book needs to lead the way for PC makers
+See all Microsoft
+Relaxation in the Age of Beautiful Noise
+Relaxation in the Age of Beautiful Noise
+Microsoft releases Lab of Things, a new research platform to support real-world data in the cloud
+Microsoft releases Lab of Things, a new research platform to support real-world data in the cloud
+Gates name-checks Microsoft Bob, calls the former product ‘premature’ for its time
+Gates name-checks Microsoft Bob, calls the former product ‘premature’ for its time
+Nokia’s inexpensive Lumia 520 is now the most popular global Window Phone handset
+Nokia’s inexpensive Lumia 520 is now the most popular global Window Phone handset
+Homejoy takes its on-demand cleaning service to Canada, its first international destination
+Homejoy takes its on-demand cleaning service to Canada, its first international destination
+Austria, Portugal, and the UK win Imagine Cup 2013, taking down $50,000 each
+Austria, Portugal, and the UK win Imagine Cup 2013, taking down $50,000 each
+Ballmer pulls the trigger on Microsoft’s massive reorg: Here’s the new internal landscape
+Ballmer pulls the trigger on Microsoft’s massive reorg: Here’s the new internal landscape
+Nokia and Microsoft’s downmarket strategy validated? Lumia 520 is reportedly the most popular Windows Phone
+Nokia and Microsoft’s downmarket strategy validated? Lumia 520 is reportedly the most popular Windows Phone
+Doctor Who’s Matt Smith on Nokia, life, Surface RT, and why he doesn’t use Twitter
+Doctor Who’s Matt Smith on Nokia, life, Surface RT, and why he doesn’t use Twitter
+See all stories by Alex
+Deal of the day
+Become a stunt flyer with the world’s smallest quadcopter: $35
+188
+Evergreen posts
+The complete guide to backing up your computer properly
+2K
+How to use personal drones legally: A beginner’s guide
+1.1K
+11 Android apps to make notifications more interesting
+2.1K
+How to raise prices without ruining your business
+724
+How mobile is bridging brick and mortar’s data gap
+832
+Recommended
+Win a trip to Amsterdam courtesy of .CO
+287
+Most popular
+Facebook starts ‘2G Tuesdays’ so employees can see what speeds are like in India
+5.3K
+Refugees in Berlin create online map of essential resources for new arrivals
+2.2K
+Facebook is testing live sports updates in Messenger
+854
+Your iPhone 6s can now replace your kitchen scale using 3D Touch (sort of)
+3.4K
+9 responsive design mistakes you don’t want to make
+603
+Latest stories
+This is the MacBook USB-C hub Apple should have thought of
+0
+Google Play Games just got a lot more useful thanks to gameplay recording
+0
+Apple TV reportedly coming to Apple Stores this Friday
+0
+Snapchat is adding video filters so you can speed up, slow down or rewind your shoots
+0
+Yamaha built a motorcycle-riding robot (but don’t worry, it’s no DARPA… yet)
+106
+Stay tuned
+Let the news come to you.
+Subscribe
+The Next Web
+About
+Jobs
+Team
+Advertise
+Privacy
+Terms
+Feedback
+Share
+© 2001–2015					The Next Web, Inc.
+All rights reserved.
+Don't miss the hottest tech news
+Get our free weekly digest by our Editor-at-Large Martin Bryant and keep up with the latest news.
+We promise not to use your email for spam!
+Thanks for subscribing! You will receive your first newsletter soon.
+Ooops! We're sorry, but something went wrong.

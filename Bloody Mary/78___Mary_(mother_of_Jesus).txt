@@ -1,0 +1,451 @@
+Liber ex Doctrina - Conquests Omnipedia - Wikia
+Wikia
+Skip to Content
+Skip to Wiki Navigation
+Skip to Site Navigation
+Comics
+TV
+Movies
+Music
+Books
+Games
+Lifestyle
+#WHAT’S HOT
+WildStar Online is free to play. See what's new!
+Splatoon: Fan Facts
+Transformers Devastation: Fantasy Face-Off
+#OUT THIS MONTH
+Halo 5: Guardians
+Assassin’s Creed Syndicate
+Uncharted: The Nathan Drake Collection
+#MOST ANTICIPATED
+Fallout 4
+Star Wars: Battlefront
+Call of Duty: Black Ops 3
+MOBILE APPS
+League of Legends
+Five Nights at Freddy's
+RuneScape
+More Games
+Search this wikia
+Search all of Wikia
+Sign In
+Register
+Username
+Password
+Forgot your password?
+Stay logged in
+Or
+Connect
+Start a wikia
+Conquests Omnipedia
+Conquests Omnipedia Navigation
+On the Wiki
+Wiki Activity
+Random page
+Videos
+Photos
+Popular pages
+Most visited articles
+Arthur Pendragon
+Robin Hood
+King Leopold
+Friar Tuck
+Gwenhyver
+Clyde Kadiddlehopper
+Characters (Conquests 2)
+Arthur Pendragon
+Merlin the Enchanter
+Robin Hood
+Richard the Lionheart
+Fulk the Jester
+King Leopold
+Clyde Kadiddlehopper
+Characters (Conquests 1)
+Widdershins
+Arthur Pendragon
+Merlin the Enchanter
+Mad Monk
+Gwenhyver
+The Saracen
+Old Ones
+Community
+Recent blog posts
+Forum
+Contribute
+Edit this Page
+Add a Video
+Add a Photo
+Add a Page
+Wiki Activity
+Watchlist
+Random page
+Recent changes
+Liber ex Doctrina
+481 pages on
+this wiki
+Edit
+Classic editor
+History
+Talk 13
+It is a book of knowledge which should be in your possession already. It looks like this and it is vital that you have it -
+Merlin
+Liber ex Doctrina
+(aka the
+Book of Lore ) is the game manual of
+Conquests of Camelot . It contains personal messages by
+Christy Marx
+to the player, background lore and her inspirations for creating the game, and some specific lore that must be used in the game for answering some riddles. The rest of the book is the usual technical and "Getting Started" guide for the game.
+Contents [ show ]
+Background Edit
+The title of the book is not explained anywhere (outside the game itself), in the game it is translated as the
+Book of Lore". [1]
+Throughout the game Merlin mentions additional material and facts said to originate out of the book (some of which that does not appear in the actual manual).
+Liber ex Doctrina it is
+Latin
+and has a double meaning, depending on whether one interprets the word
+liber
+as "book" or as "free". In the first case, the title means "Book from knowledge", but in the second case, the title means "Free from doctrine". It is not clear whether the authors did this on purpose.
+The book is mentioned also in the game, and is meant that it is in possession of King Arthur. The first time it will be mentioned is when you
+Ask about message of the rose
+when with
+Gwenhyver , to which she will reply that it's written in your
+Liber ex Doctrina . If you
+Look at Liber ex Doctrina
+Merlin
+will show an icon of the cover and say that it's essential for Arthur's quest.
+The following is the bulk of text of the
+Liber .
+Introduction Edit
+The trick with writing a story or game based upon a popular set of legends is to walk that thin line between tradition and originality. What I've striven to do with this game is to balance history and myth, fact and imagination, entertainment and information.
+Rather than adhere slavishly (and boringly) to specific stories, I drew upon the essence of the Arthurian legends and other mythologies to create a blend which I think will challenge you and entertain you at the same time. You will certainly encounter ideas that you never found associated with a King Arthur story anywhere else.
+Before you start, take the time to read through this book. Much of the information is vital to playing the game. You will find tips and hints that will help you get the most enjoyment from your game. I guarantee you'll discover new and unusual pieces of history, not just in this book, but hidden layer within layer throughout the game.
+A word about copy protection: as an experiment, we are not doing any copy protection on these disks. It would be quite difficult to play the game without this book, but there is no foolproof method of preventing someone from pirating a game.
+Pirating can vary from the person who deliberately sets out to distribute a game to as many people as possible, to the player who casually loans his disks to "a few friends" to copy.
+But consider this:
+my husband
+and
+I
+have spent a year of our lives working virtually every day of every week to create this game for you. I have done uncountable hours of research laboring over every detail, to make this the best game I can produce.
+Every time someone pirates this game, whether to one person or to hundreds, that is money that we, the creators, will never see. That is money we don't get to pay rent or buy food or get our cars fixed or, perish the thought, maybe see a movie once in a while.
+A pirate who steals this game is not simply depriving a faceless corporation of a few measly bucks. He or she is taking significant earnings away from the creative people who have worked harder than that pirate can imagine for an entire year.
+That goes for any game and any software that is sold. It's no different than stealing a book from a bookstore or stealing a painting from an art gallery. Pirating is not cute or clever or justified. It's theft, pure and simple. And we, the creative people who pour our hearts and souls into our work, do not appreciate it.
+As a purchaser, you can spread the message to those who think it's okay to pirate, which is the first step in preventing it. And that WILL be appreciated.
+Thank you,
+Christy Marx
+King Arthur: History vs. myth Edit
+Archaeological diggings at a hill known as
+Cadbury
+in central southern
+England
+have revealed the remains of a fortress dating roughly to the 6th century, based on an even older
+Roman
+fortress before that. Cadbury is a location many associate with one of the most famous locations of all time —
+Camelot
+There are many indications that there was a powerful war leader in that time by the name Arthur, Artur, Artos, Artorius and other variations. A
+Welsh
+history from about 850 A.D., the
+Historia Britonum , provides the earliest written record of him. The 10th century
+Annales Cambriae
+even mentions his date of death as 537 A.D.
+He was not known as King Arthur, though at one point he seems to have had the title "emperor". During his time, the Roman rule of
+Britain
+had ended, leaving behind a chaos that would evolve into the
+Dark Ages . The historical Arthur was noted as probably having a Roman education which he used to create a swift and effective body of cavalry and would have been the last major figure of power before
+post-Roman Britain
+sank into its decline. This made his lustre as a warlord shine all the more in the darkness that followed.
+Whoever this historical figure may have been, he would be amazed to find himself identified with the Arthurian legends we know today.
+The mythological story of King Arthur says that he was the son of
+Uther Pendragon , King of the Britons. Arthur was conceived and born in
+Tintagel , then was taken away and raised in secret by the wizard, [Merlin]]. When Arthur reached manhood, he proved he was the true king by drawing a sword from a stone. This sword broke in battle and he received another sword,
+Caliburn
+(later renamed
+Excaliber ), from the
+Lady of the Lake .
+He gathered valiant knights around him and built a round table so they would all sit as equals around it. He built the magnificent stronghold of Camelot. He married
+Gwenhyver
+(or Guinevere) and though she loved him, she also loved one of his greatest knights, Sir
+Launcelot . Launcelot loved her and was forever torn between this love and his loyalty to Arthur.
+Arthur fought and won many battles, but was finally mortally wounded by his own nephew-son,
+Mordred . He was not buried, but was carried away by three
+Fairy Queens
+on a boat to the mysterious island of
+Avalon , where he was to be cured of his wounds and then sleep until the day he was needed again.
+This barely scratches the surface of a rich and complex body of myths which have combined and grown over the centuries into the
+Arthurian Cycle . Very ancient Welsh and
+Celtic
+legends link him to the constellation of
+Ursa Major
+(The Big Bear) because his name in Welsh,
+Arth Vawr , meant Heavenly Bear, meaning that he was a god in his earliest form.
+Numerous other gods and goddesses lost their divinity and became his knights, rival kings and various ladies. An early Welsh Goddess,
+Gwenhwyfar , resurfaced much later as Arthur's queen, Guinevere.
+There are scores of Welsh and Celtic legends about larger-than-life heroes who go upon monumental quests, rescue or win their ladies, and search for miraculous treasures. They faced giants, visited magical islands and fought in the underworld. Most of these colorful tales eventually found their way into the Arthurian Cycle in one form or another.
+In the 2nd century A.D., 5,500
+Sarmatians
+who were defeated by the Romans in a battle on the frozen
+Danube
+were sent in exile to northwestern England to serve as border guards against the
+Scottish Picts
+in the north. These Sarmatians originally came from southern
+Russia
+and were roving, marauding mounted warriors complete with chainmail and heavy lances.
+More significantly, they brought with them an entire body of tales about a heroic king names
+Batradz
+who had a body of loyal knights, a sword in a stone, a miraculous cup, and a magic sword that had to be thrown into an enchanted lake as he lay dying. All of these elements and more seem to have been assimilated into the Arthurian legends.
+From the 12th century onward, the legends acquired the themes of chivalry and courtly love (devotion to a particular lady) which arrived along with the
+Normans
+who invaded England and brought with them the troubadour influence of
+France . During this time, Launcelot appeared in the stories and he and Guinevere became significant figures, caught in the tragic love triangle with Arthur. At this late point also the
+Round Table
+was added to the stories.
+And finally, around the same time, the Arthurian legends were Christianized and, later still, the quest for the
+Grail
+was attached and gained dominance. The theme of sin causing the downfall of Camelot and the need for the healing grace of the Grail are now completely associated with King Arthur, yet they are very late additions.
+Century after century, story tellers continue to embellish and embroider this fascinating mix of history, mythology and pure fantasy.
+The Grail and the Sacred Cup Edit
+Grail derives from the
+Medieval Latin
+word "cratella" meaning "bowl". One of the Medieval writers of the Arthurian saga, the 12th century French Poet,
+Chretien de Troyes , left behind after his death an unfinished poem about a knight-her named
+Perceval . This poem was taken up and used by later writers until it became the story of Parzifal and his encounter with the Holy Grail and the
+Spear of Longinus
+(the Roman spear used to pierce
+Christ
+in the ribs as he hung on the cross).
+In 1485, the most famous of the Arthurian storytellers, Sir
+Thomas Malory , wrote
+Morte d'Arthur
+(The Death of Arthur) in which the search for the Grail became a permanent part of the legends affixed to the court of Camelot.
+In these various versions, the only knights who ultimately proved pure enough to see or possess the Grail were Parzifal ( Percival ), Sir
+Bors
+and
+Galahad .
+The basic myth says that
+Joseph of Arimathea
+was a priest of
+Jerusalem
+who supervised the burial of Jesus. He acquired the cup from which Jesus drank at the
+Last Supper
+and into it gathered drops of Christ's blood, either while Jesus was on the cross or during his burial. Joseph brought the Grail to Britain where he established a shrine on
+Glastonbury Tor .
+But there is no doubt that the Grail legend itself is firmly based upon the much more ancient myths of the
+Sacred Cup of the Goddess . In virtually every mythology in every culture, the cup or chalice or cauldron is a symbol of feminine power, the ability to create life and grant fertility.
+Just as the Grail was reputed to have the power to heal and to give endless food and drink, so were there endless older myths of a Sacred Cup or cauldron which gave life to other boons.
+It appeared in the earliest legends of
+Egyptian ,
+Babylonian ,
+Indian
+and
+Norse mythology
+where it was linked to a Goddess (or a female trinity as a
+Triple Goddess ) who gave birth to the universe and often there were three cauldrons from which various gods and heroes would drink to gain power or knowledge.
+To the Celts, it was the
+Cauldron of Regeneration
+in which injured or slain warriors could be resurrected. In other tales, it was a bowl that provided endless food and drink that was wrested from the underworld, or the cauldron of a giant.
+To the Welsh, it was one of the
+Thirteen Treasures of Britain , the enchanted
+Cauldron of Inspiration
+that would not cook the meat of a liar or a coward.
+To the
+Sarmatians , it was " Amonga ", a magic cup that gave endless food and drink and also would not boil the meat of a coward.
+Even the Christian legend of St.
+John the Evangelist
+associated him with rebirth from a boiling cauldron until his festival was expunged from Christian calendars in 1960.
+That the Grail is really the Sacred Cup of the Goddess is inescapable, even in the name of Joseph of Arimathea. The literal translation of " Arimathea " means "belonging to the Goddess-mother Mari" [2] .
+The language of the flowers Edit
+From the earliest days of civilization, flowers have been given special meanings. For example, the rose has a long association with love, sexuality and with many goddesses, the
+Virgin Mary , and the science of
+alchemy .
+Not only the flower itself, but often the color indicated what significance was attached to it. There are many legends of flowers springing up where drops of blood or tears fell to the ground. What follows is a list of flowers and their meanings.
+Almond blossom
+hope
+Anemone
+withered hopes
+Aster
+afterthought
+Buttercup
+memories of childhood
+Carnation
+heartbreak
+Columbine
+folly
+Chrysanthemum yellow
+slighted love
+Chrysanthemum white
+truth
+Cornflower
+celibacy
+Daffodil
+death
+Forget-me-not
+true love
+Hyacinth
+sport, game or play
+Lily, white
+purity
+Lily, yellow
+falsehood
+Orchid
+seduction
+Periwinkle, blue
+early friendship
+Periwinkle, white
+pleasures of memory
+Poppy, red
+consolation
+Poppy, scarlet
+fantastic extravagance
+Snowdrop
+hope or consolation
+Sunflower
+haughtiness
+Tulip, red
+declaration of love
+Tulip, yellow
+hopeless love
+Violet
+lust
+Six Goddesses Edit
+Astarte
+Astarte
+was the Goddess of
+Byblos
+from which our word for "bible" originated. She was known as the Star, the Moon the Heavenly Virgin, Queen or the Stars and the Queen of
+Heaven . Some of her other names were Tanit Ishtar (the star) Astroache (Queen of the Stars) and Attar-Samayin (Morning Star of Heaven) The
+Israelites
+burned incense, offered wine and baked cakes in her honor. Her great shrines were at Byblos and
+Aphaca
+(known today as Afka). King
+Solomon
+built a sanctuary to her in Jerusalem. Her priestesses were famous astrologers.
+Athene
+She is best known as the Greek Goddess sacred to the city of
+Athens . Originally, she was a
+Libyan
+goddess imported from
+North Africa . In the
+Greek
+legends she was born from the head of
+Zeus . She has dozens of attributes which include warrior-goddess and protectress of heroes; patron of architects, sculptors, spinners and weavers; protectress of horses and oxen; and a counsellor-goddess famed for her wisdom. The owl is associated with her.
+Sulphur
+is an element identified with her because it was believed that burning brimstone (sulphur) would drive away the evil spirits that caused disease. Athene's major temple was the
+Parthenon
+which means "virgin-house."
+Ceres
+Was a
+Roman
+Goddess with the title "Mother of the Harvest." Her Greek name was
+Kore
+the virgin aspect of
+Demeter . She ruled over all grains and the words "cereal kernel cere corn" comes from her name. Her major early-summer festival was called the
+Cereaha
+celebrated on April 19th. Farmers performed rituals for her to safeguard their crops. One of her other titles was " Ceres
+the lawgiver" and her priestesses were important in founding the Roman legal system. Her sacred " matronne " (women of rank) ruled Rome from 599-219 B.C.
+Isis
+She was the major Great Goddess of
+Egypt , known also as
+Hathor . She was considered the mother of every other god created in the primevel time. Two of her titles were "Giver of Life" and "The One Who is all." She gave birth to the sun. The
+Pharaohs
+believed she would grant them immortality by resurrecting them after death as she did her husband
+Osiris . Some Egyptians believed that the yearly flood of the
+Nile
+was caused by her teardrop. She was enormously popular with the Romans who called her "the eternal savior of the race of men." Her son was
+Horus , the Egyptian Divine Child. The word "pastor" comes from " Pastopheri " meaning "servants of
+Isis ."
+Venus
+She was the Roman version of Aphrodite. Her sign represents the female gender in both plants and animals. She is associated with love and sexuality. Mirrors are objects considered sacred to her. the morning and evening "star" (in reality; a planet) was named after her. Her sacred day was
+Friday
+on which her followers would eat fish.
+Julius Caesar
+built a marble and gold temple in her honor. In alchemy, her symbol stands for copper. Her main shrine was on
+Cyprus
+which was a center for mining copper. She was once also a Lady of Animals and the word " vension " means literally "Venus' son."
+Vesta
+She was the Roman version of the Greek goddess,
+Hestia . She was considered the "guardian of the innermost things" - home and hearth. Her name comes from "vas" a
+Sanscrit
+word meaning approximately "shinning." She personified earth, and domestic and religious fire. The perpetual sacred fire of her temples was tended by six women known as the
+Vestal Virgins . Young girls who entered this order took strict vows of chastity for thirty years after which they could marry. The fire of her hearth/altar was considered to be the center of the earth.
+The mythology of Aphrodite Edit
+Aphrodite
+She is a fundamental Goddess known by scores of names with dozens of attributes.
+Aphrodite
+is simply the name by which she came to be known via the
+Greeks , but she was an ancient deity even then. She was variously considered the goddess of life, ideal or chaste love, sexuality, marriage, childbirth, fate, death, arts, crafts, culture, hunting and the sea. She was truly a queen among goddesses. From 70 A.D., her cult dominated the main temple of Jerusalem. There is a legend that in the 4th century the Empress
+Helena , mother of
+Constantine
+found the true
+cross
+(on which Christ was crucified) hidden in a crypt beneath the
+temple of Aphrodite
+in
+Jerusalem .
+The sacred number of Aphrodite is six. Symbols associated with her and representing fertility are the dove and the apple.
+Aphrodite And Adonis
+Adonis
+was a youth of such extraordinary beauty that he was adored by Aphrodite. When he was but a child, she hid him inside a chest which she left in the care of
+Persephone , goddess of the underworld. But Persephone disobeyed Aphrodite and opened the chest. Seeing Adonis, she too fell in love with him. When Aphrodite came to fetch the young man,
+Persephone refused to release him.
+The warring goddesses ended their dispute when
+Zeus
+decreed that Adonis would spend half of the year with Aphrodite and half of the year in the underworld with Persephone.
+But
+Ares , the god of War, was jealous of Aphrodite and her passion for Adonis. He transformed himself into a boar, waited for the young man to go hunting, and fatally gored him, leaving Aphrodite to bitterly mourn her lost love.
+Aphrodite And Pygmalion
+Pygmalion
+was a sculptor who lived on the island of
+Cyprus . Aphrodite was displeased with the women of his town, who had refused to accept that she was divine. She cursed them so that they lost all sense of modesty and would give themselves to any man who came along.
+Because of their behavior, Pygmalion disdained the company of women, but nonetheless he devoutly worshiped Aphrodite. He remained alone, carving his statues. One such statue, carved of ivory, was of a woman so beautiful that he fell deeply in love with her image. But she was only a statue until Aphrodite heard his prayers and pleas. Pygmalion was rewarded for his devotion. The cold ivory turned to warm flesh as his statue came to life and embraced him.
+Aphrodite And Hippolytus
+Hippolytus
+was the son of King
+Theseus . He was an avid hunter who rode out every day in his chariot. Aphrodite loved him because of his handsome form, but he scorned her love and the love of all women. Furious at being rejected by the handsome prince, Aphrodite caused his stepmother,
+Phaedra , to fall in love with him, but Hippolytus rejected her as well. Phaedra convinced Theseus that his son had raped her whereupon the King called upon the sea-god,
+Poseidon , to exact vengeance. While Hippolytus drove his chariot along the shore of the
+Saronic Gulf . Poseidon sent a fierce bull from the waves to panic the horses. They stampeded and Hippolytus was dragged to his death behind the chariot.
+Biblography Edit
+This is a partial ist of books used as research and reference:
+Celtic Myth & Legend, Poetry & Romance, Charles Squire ( ISBN 9780517304907 )
+Folklore, Myths and Legends of Britain, Readers Digest Assoc. Ltd. ( ISBN 0276001680 )
+Funk & Wagnalls New Encyclopedia ( ISBN 0195209796 )
+The Golden Bough, Sir James George Frazer ( ISBN 9780684826301 )
+King Arthur and His Knights, Sir James Knowles ( ISBN 0517189690 )
+Larousse Encyclopedia of Mythology ( ISBN 9780765193841 )
+The Sacred Mushroom and the Cross, John M. Allegro ( ISBN 0340128755 )
+Warriors of Arthur, John Matthews & Bob Stewart ( ISBN 9780713719000 )
+The Woman's Encyclopedia of Myths and Secrets, Barbara G. Walker ( ISBN 006250925X )
+The Woman's Dictionary of Symbols and Sacred Objects, Barbara G. Walker ( ISBN 0062509233 )
+I highly recommend, as a meticulously researched and brilliantly conceived account of Arthur and Merlin, the superb trilogy by Dame Mary Stewart: The Crystal Cave ( ISBN 0060548258 ), The Hollow Hills ( ISBN 0060548266 ), and The Last Enchantment ( ISBN 0060548274 ). Thank you, M.S., for lifelong inspiration.
+Thanks also to Joel Anderson, Antique Coin Dealer, for his help with the coinage of the ancient world.
+I would like to receive your feedback and comments on the game. Please write to Christy Marx c/o Sierra On-Line, P.O.Box 485, Coarsegold, CA 93614
+Cite error:
+<ref>
+tags exist, but no
+<references/>
+tag was found
+Retrieved from " http://conquests.wikia.com/wiki/Liber_ex_Doctrina?oldid=5678 "
+Categories :
+Items
+Conquests of Camelot
+Add category
+Cancel
+Save
+Around Wikia's network
+Random Wiki
+Games
+About
+Help
+Community Central
+Careers
+Advertise
+API
+Contact Wikia
+Terms of Use
+Privacy Policy
+Global Sitemap
+Content is available under
+CC-BY-SA .
+Video Games
+Entertainment
+Lifestyle

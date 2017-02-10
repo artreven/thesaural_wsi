@@ -1,0 +1,119 @@
+zoe/architecture+design
+zoe/architecture+design
+HOME
+?
+THE END! … or is it?!
+Thus concludes ARCH380! But there is still much to learn from all these different modeling programs, so I may be back from time to time to share what I have been playing with! You see a lot of amazing work done by people using the same software, it is my goal to one day be among those pros.
+I’ve had fun in this class, and learned more than I had expected I would, I just wish I had taken this class earlier so I’d still have the chance to continue through the next computer courses available.
+Architecture is my minor, to see some of my projects in Industrial Design check out our show!
+2011
+06 /10
+CATEGORY
+Uncategorized
+Leave a comment
+W5: Grasshopper Parametric Truss (progress update)
+Grasshopper
+is a generative modeling plug-in for Rhino. There are many great
+guides online
+to help familiarize yourself with its interface and functions.
+Here are my screenshots of progress as I followed our Parametric Truss tutorial:
+first error occurred while trying to reparameterize the bottom curve,
+I created 4 pipe components because I couldn’t remember how to attach multiple threads to the same input
+what I have so far:
+2011
+06 /02
+CATEGORY
+Rhino
+TAGS Grasshopper
+Leave a comment
+W4: The Rhino Chaise (FINAL RESULTS)
+mmmm,
+keyshot
+renderings!
+a few snaps from my report,
+2011
+05 /24
+CATEGORY
+Rhino
+Leave a comment
+W4: Freeform Surfaces and Advanced Wireframes (progress update)
+I was inspired by Colico Design’s Diva Chairs:
+here’s a start on the seat of the chair, setting up the background and lighting angles,
+three is better than one! testing different materials for rendering,
+2011
+05 /19
+CATEGORY
+Rhino
+Leave a comment
+Getting ready for Rhino!
+Rhinoceros 3D  (Rhino) is a stand-alone, commercial  NURBS -based 3D modeling tool, developed by Robert McNeel & Associates. The software is commonly used for industrial design, architecture, marine design, jewelry design, automotive design, CAD/ CAM, rapid prototyping, reverse engineering as well as the multimedia and graphic design industries.
+Rhino specializes in free-form non-uniform rational B-spline (NURBS) modeling. There are several rendering plug-ins developed by McNeel:  Flamingo  ( raytrace ), Penguin (non-photorealistic), Bongo and Brazil (advanced). Over 100 third-party plug-ins are also available.
+Like many modeling applications, Rhino also features a  scripting language , based on the  Visual Basic  language. Rhinoceros 3D gained its popularity in architectural design in part because of the  Grasshopper
+plug-in (parametric modeling tool) for computational design.
+Rhino’s increasing popularity is based on its diversity, multi-disciplinary functions, low learning-curve, relatively low cost, and its ability to import and export over 30 file formats, which allows Rhino to act also as a ‘converter’ tool between programs in a design workflow.
+Rhino Blog! Tips, Guides & Videos
+tips.rhino3d.com
+The Mac version of Rhino is in Beta stages but free to download! Keep an eye out because it’s being updated quite frequently:
+mac.rhino3d.com
+2011
+05 /12
+CATEGORY
+Rhino
+Leave a comment
+W3: Autodesk, AutoCAD Architecture & Revit!
+Download AutoDesk software (free for students)  HERE !
+Autodesk Revit Architecture (above) and AutoCAD Architecture (below)
+5 screenshots of my InDesign report: (click to enlarge)
+2011
+05 /10
+CATEGORY
+Autodesk
+Leave a comment
+W2: LayOut (Integrating 3D modeling, 2D drawing & diagramming)
+SketchUp’s LayOut strikes me as an Architecture based InDesign program.
+You can quickly import the models you’ve made in SketchUp and make dynamic changes, directly in LayOut, such as: the view (perspective, section, plan, zoom, pan) and rendering style (raster, vector, hybrid), to create a series of custom images for documentation. You can also apply drafting annotations, and many other useful features! LayOut is a huge time saver and overall a very good program for creating Architectural reports/documents.
+Here are 3 screenshots of the LayOut document I made showing the results of Workshop1 :
+2011
+04 /27
+CATEGORY
+Sketchup
+Leave a comment
+1
+2
+»
+A Blog for ARCH380 SP '11
+COMPUTERS IN ARCHITECTURE taught by Robert Corser at the University of Washington.
+Recent entry
+2011-06-10
+THE END! … or is it?!
+2011-06-02
+W5: Grasshopper Parametric Truss (progress update)
+2011-05-24
+W4: The Rhino Chaise (FINAL RESULTS)
+2011-05-19
+W4: Freeform Surfaces and Advanced Wireframes (progress update)
+2011-05-12
+Getting ready for Rhino!
+Archive
+June 2011
+May 2011
+April 2011
+March 2011
+Category
+Adobe
+Autodesk
+Rhino
+Sketchup
+Uncategorized
+Create a free website or blog at WordPress.com . |
+The monochrome Theme .
+zoe/architecture+design
+Create a free website or blog at WordPress.com .
+The monochrome Theme .
+Follow
+Follow “zoe/architecture+design”
+Get every new post delivered to your Inbox.
+Build a website with WordPress.com
+Add your thoughts here... (optional)
+Post to
+Cancel

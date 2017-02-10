@@ -1,0 +1,349 @@
+The Great Geek Manual » This Day in Geek History: August 22
+The Great Geek Manual
+Blog
+This Day in Geek History: August 22
+22 Aug 2009
+Geek History
+565
+St. Columba
+allegedly saves the life of a Pict who was being attacked by a monster in Loch Ness.
+The account will later be recorded in the
+book
+Life of St. Columba
+by
+Adamnan .
+It is the beginning of the
+Loch Ness Monster
+myth.
+Adamnan recounts the event in the book, “…(He) raised his holy hand, while all the rest, brethren as well as strangers, were stupefied with terror, and, invoking the name of God, formed the saving sign of the cross in the air, and commanded the ferocious monster, saying, “Thou shalt go no further, nor touch the man; go back with all speed.” Then at the voice of the saint, the monster was terrified, and fled more quickly than if it had been pulled back with ropes, though it had just got so near to Lugne, as he swam, that there was not more than the length of a spear-staff between the man and the beast.”
+1901
+The
+Cadillac Motor Company
+is founded.
+1906
+The
+Victor Talking Machine Company
+of Camden, New Jersey, manufactures its first Victrola record player.
+The devices, including the hand cranked unit and horn cabinet will sell for US$200.
+It stands out from other phonographs with its elegant wooden cabinet, which conceals the device’s horn and turntable while providing storage space for records.
+The cabinet, which is available is several contemporary styles, is an innovation that will be imitated by later entertainment systems, including radios and televisions.
+1911
+The theft of the Leonardo da Vinci’s
+Mona Lisa
+from the Louvre museum in Paris, France the previous night is discovered.
+1929
+Walt Disney
+releases the animated short film
+The Skeleton Dance , directed by
+Walt Disney
+and animated by
+Ub Iwerks , in the US.
+In the Silly Symphonies cartoon, a group of skeletons dance and make music around a spooky graveyard.
+It is the first film in the
+Silly Symphonies
+series, which will have a powerful influence over the emerging art of animation.
+IMDB listing
+1932
+The BBC begins regularly transmitting experimental television programming four days a week using the new 30-line system invented by
+John Logie Baird .
+The transmissions are broadcast from Studio BB in the basement of the newly built
+Broadcasting House
+in London, England.
+1939
+The first US patent for dispensing liquids under pressure from a disposable container is issued to Julius Seth Kahn of New York City.
+(US No. 2,170,531)
+The patent is titled “Apparatus For Mixing a Liquid With a Gas.”
+It will be the predecessor of the aerosol spray can.
+In this case, the patent more particularly specified a use for whipping cream “by discharging the cream and gas mixture through a constricted orifice.”
+The cream could be contained in a common soda-pop glass bottle.
+Gas can be introduced at a controlled pressure.
+An inexpensive valve discharges the whipped cream.
+The patent will later be used in such applications as dispensing paints, pharmaceuticals, and insecticides.
+1950
+The pile at the world’s first nuclear reactor dedicated to the peaceful applications of atomic energy, the Brookhaven Graphite Research Reactor (BGRR), achieves
+criticality
+and goes online.
+1955
+The first computer users’ group anywhere,
+SHARE , is founded by engineers and scientists in the aerospace industry who work with IBM’s newest system, the
+IBM’s Model 704 .
+The group’s member meet to discuss the computer system and exchange software programs, since both software development and technical support are both still in their infancy.
+Because the group represents many of IBM’s largest customers, the members of SHARE will have a significant influence over the company’s designs and customer support service over the coming years.
+1958
+Ground is broken for the Museum of History and Technology, which will later be renamed the National Museum of American History, on the National Mall in Washington D.C.
+The first shovel full of earth is turned by Smithsonian Institute regent Senator Clinton P. Anderson.
+Construction will be completed on January 23, 1964.
+1961
+First public demonstration of live color television in the UK is held at the Earl’s Court Radio Show in London, England.
+1962
+The
+NS Savannah , the world’s first nuclear-powered ship, completes her maiden voyage from
+Yorktown, Virginia , to
+Savannah, Georgia .
+The ship was conceived of by United States President Eisenhower as a part of his 1955 “Atoms for Peace” program.
+The ship, named after the steamer which became the first to cross the Atlantic Ocean in 1819, is powered by a twenty-eight million dollar nuclear propulsion system, which cost nearly ten million dollars more than the entire rest of the ship combined.
+It will be decommissioned in January 1972 due its high operating costs but preserved as a National Historical Landmark.
+1963
+The
+X-15 rocket plane
+sets a world record when US Air Force pilot
+Joseph Walker
+reaches an altitude of 354,200 feet (67 miles) during test flight 91.
+The internal structure of the X-15 is titanium sheathed in a skin of Inconel X, a chrome-nickel alloy.
+The X-15 was launched in mid-air from a
+B-52 , at an altitude of about 45,000 feet.
+1980
+IBM’s
+Project Chess
+task force meets with
+Digital Research
+about using
+CP/M-86
+for IBM’s upcoming microcomputer.
+Gary Kildall
+will later claim that he agreed to provide CP/M-86 to IBM.
+However, sources at IBM will later state that Kildall was never interested in the agreement.
+1985
+International Business Machines
+(IBM) and
+Microsoft
+sign a joint-development agreement to work together on future operating systems and environments.
+1987
+Nintendo
+releases the fantasy platform game
+The Legend of Zelda
+for the
+Nintendo Entertainment System
+in North America.
+1989
+The first complete ring around
+Neptune
+is discovered in photographs transmitted by
+Voyager 2
+to NASA’s
+Jet Propulsion Laboratory .
+In the photography, dusty debris can be seen in the form of a ring approximately seventeen miles above Neptune’s cloud tops and just outside the orbit of the planet’s small moons, which were also discovered by the Voyager 2 space probe.
+1995
+Squaresoft
+releases
+Chrono Trigger
+for the
+Super Nintendo Entertainment System
+(SNES) in North America, which is Squaresoft’s largest game for the SNES at 32 megabits, and includes multiple ways to finish the game.
+Several of the game’s features are revolutionary, including the game’s multiple endings, unique battle system, detailed graphics, and plot-related side quests, which focus on character development.
+Visit the game’s official website .
+1996
+Eric Jenott, a paratrooper stationed at Fort Bragg, in North Carolina is accused of hacking US Army computer systems and giving the passwords to a citizen of China.
+Jenott’s attorney says that the soldier is just a recreational hacker who was testing the strength of a supposedly impenetrable computer system, found a weakness, and then told his superiors about it.
+He will later be cleared of the charges, but is still found guilty of damaging government property and computer fraud.
+Just nine days after the release of Microsoft’s
+Internet Explorer 3 , two Princeton researchers report the discovery of its first major security flaw,
+The Princeton Word Macro Virus Loophole .
+According the researchers,
+Edward Felten
+and Dirk Balfanz, the Loophole would allow a webmaters to triggers downloads without a user’s knowledge, including macros, trojans, and viruses.
+Microsoft will respond with a patch the next day, but the early security hole foreshadows a long and rocky road for the browser.
+The website of
+Livets Ord
+is hacked by “ivil h4x0r”.
+View an archived version of the defaced website .
+1997
+Miramax Films
+releases the sci-fi horror film
+Mimic , directed by
+Guillermo del Toro
+and starring
+Mira Sorvino , to 2,255 US theaters.
+The film was inspired by a short story of the same name by
+Donald A. Wollheim .
+In the film, a disease carried by common cockroaches begins afflicting children in Manhattan.
+In an effort to stop the epidemic, entomologist Susan Tyler engineers mutant insects that secrete a fluid to kill the roaches throughout the city.
+This mutants are intended to die after only a single generation, but three years later, Tyler discovers that the species has survived and evolved into a monstrously large species that can mimic the human form.
+Produced on a budget of US$30 million, the film will gross US$7,818,208 domestically in its opening weekend.
+IMDB listing
+(MPAA Rating: R)
+Running Time: 1 hr 45 mins
+1999
+The
+United States Justice Department
+reveals that it has drafted legislation that will permit investigators to enter homes and offices secretly in order to disable computer scrambling software being used for criminally suspicious purposes with the use of a warrent.
+The
+United States Department of Defense
+(DoD) issues a memo requiring all US military systems to connect via the
+Non-classified Internet Protocol Router Network
+(NIPRNET), rather than directly to the Internet by December 15, 1999.
+NIPRNET is used to exchange unclassified but sensitive information between “internal” users as well as providing users access to the
+Internet . NIPRNet is comprised of Internet protocol routers owned by the United States
+Department of Defense
+(DOD). It was created by the
+Defense Information Systems Agency
+(DISA) to supersede the earlier
+MILNET .
+2000
+Intel
+announces that the new
+Itanium
+processor, under development since 1994, will initially be released with a maximum clock speed of 733MHz instead of the originally announced 800MHz.
+Intel
+discloses details of its new
+NetBurst
+micro-architecture, the technical features contained in its upcoming Intel
+Pentium 4
+processors.
+Intel
+releases a 1000MHz Pentium III
+Xeon
+processor, featuring a 256KiB Level 2 Cache and a 133MT/s front side bus.
+The
+Nintendo GameCube , codenamed Dolphin, which was first announced at the E3 tradeshow in 1999, is unveiled to the public just one day before Nintendo’s
+SpaceWorld trade show .
+2001
+The corporate credit and bank loan rating of
+Gateway, Inc.
+is reduced to junk status by
+Standard & Poor
+(S&P).
+Gateway is the fourth largest US manufacturer of personal computers.
+Over fifty music industry publishers and songwriters announce that they have filed a copyright infringement suit in the United States District Court for the Southern District of New York against
+MP3.com, Inc. .
+2002
+Version 4.8 of the
+Netscape Communicator
+web browser suite is released.
+2005
+Google
+releases version 2 of its
+Google Desktop Search
+as a public beta test.
+The new version monitors the user’s behavior and presents relevant information in a resizable and moveable vertical window called the Sidebar.
+The Sidebar can display e-mail, news, photos, stocks, and weather reports in real-time.
+Microsoft
+announces that it has finalized a deal with
+Bungie Studios , to produce a film version of
+Halo
+for release in summer 2008.
+IMDB listing
+Square Enix
+acquires the
+Taito Corporation , a video game developer and manufacturer of arcade hardware.
+The acquisition allows Square Enix to enter the arcade sector of the game industry.
+2006
+Version 0.9.4 of the
+Eterm
+color
+VT102
+terminal emulator for Windows.
+Visit the application’s official website .
+2007
+The global
+botnet
+created by the
+Storm Worm , which was first discovered on January 17th, sends out a record fifty-seven million emails in a single day.
+According to researchers at
+Symantec , some machines infected with the Trojan horse are capable of sending as many as eighteen hundred messages in a five-minute period.
+The emails bear the subject line “230 dead as storm batters Europe,” which refers to the European windstorm Kyrill, during which the worm was originally propagated and from which the worm draws its name.
+Hello there! If you are new here, you might want to
+subscribe to the RSS feed
+for updates on this topic.
+Pingback:
+This Day in Geek History: August 22
+Pingback:
+This Day in Geek History: August 22 : Trends
+Add to Social Bookmarks
+Archives
+January 2015
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+Categories
+Gadgets & More
+T-Shirts
+Geek History
+Geekology
+Geek Reading
+Humor
+Graphical Gags
+Motivational
+Videos
+Webcomic
+Infographics
+Japan 101
+Links
+Media
+Books
+Book Reviews
+Movies
+Music
+Short Films
+Television
+Video Games
+News
+Photo Galleries
+Books
+Quotations
+Rantings
+Science
+Software & Tech
+This Day in Geek History: August Motivational Poster: Simplification Leather Dragon Bag Motivational Poster: Lawful Good
+Host Color: Multiple Web Site Hosting
+Thesis geek
+- thesis services.
+Blog Roll
+Bibliophile Stalker
+(Jeff)isageek
+The Lair of the Evil DM
+Lisa Paitz Spindler
+The Presurfer
+The Science of Fiction
+Truck Games
+Weirdwarp
+Coming Soon...
+Coming Soon...
+Coming Soon...
+Coming Soon...
+Coming Soon...
+Coming Soon...
+Coming Soon...
+Site Info
+About the Author
+Book Reviews by Author
+Book Reviews by Title
+Contact the Author
+Credits
+Disclaimers and Notices
+Donations
+Hostcolor
+Recommended Reading
+Subscribe via E-Mail or RSS
+This Day in Geek History
+Popular Posts
+Blogging is a lot like Sex...
+Motivational Monday: Humorous Posters
+Picture of the Week: Harry Potter Porn
+Portable Utilities for USB Drives
+Programming is like Sex...
+Neville Longbottom's Favorite Plant
+Seven Unexpected Harry Potter Endings
+Sex Advice from a D&D Player
+Signs the IT Department is out of Hand
+Top Ten Halo Pick-Up Lines
+Top RapidShare Link Communities
+Top Ten Signs a D&D Player is Gay
+Top Ten Turn Down Lines for Geek Chicks
+A Traditional D&D Thanksgiving
+The Ultimate D&D Gaming FlowChart
+508
+CSS
+XHTML
+Website
+Credits
+&
+Disclaimers
