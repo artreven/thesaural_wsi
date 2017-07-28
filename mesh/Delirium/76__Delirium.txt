@@ -1,0 +1,441 @@
+Psychiatric Disorders/Psychotic Disorders/Schizophrenia - Wikibooks, open books for an open world
+Psychiatric Disorders/Psychotic Disorders/Schizophrenia
+From Wikibooks, open books for an open world
+<
+Psychiatric Disorders ‎ |
+Psychotic Disorders
+Jump to:					 navigation , 					 search
+Schizophrenia is a devastating illness that affects approximately 1% of the population. Its primary impact is on thought, and its cardinal symptom is psychotic thinking in affecting individuals. In addition, however, it can affect many aspects of cortical function. Although great strides have occurred in treating this disorder it remains one of the most debilitating of psychiatric disorders.
+Contents
+1
+Phenomenology
+1.1
+Motor disturbances
+1.2
+Behavioral Disturbances
+1.3
+Mood Disorders
+2
+Epidemiology
+3
+Etiology
+3.1
+Neurotransmitter Theories: The Dopamine Theory
+3.2
+Specific dopamine pathways and schizophrenia
+3.3
+Receptor Theories of Schizophrenia
+3.4
+Other Neurotransmitters and Schizophrenia
+3.4.1
+Serotonin
+3.4.2
+Glutamate
+3.5
+Structural Abnormalities and Schizophrenia
+3.5.1
+Neural circuitry in schizophrenia
+3.5.1.1
+Association Cortex
+3.5.1.2
+Medial Temporal Lobe and Hippocampus
+3.5.1.3
+Thalamus
+3.5.1.4
+Basal ganglia
+3.6
+Genetic Insights
+3.7
+Psychosocial Theories
+4
+Pathology
+5
+Diagnostic Criteria
+5.1
+Diagnostic Criteria for Schizophrenia
+5.2
+Subtypes of Schizophrenia
+5.3
+Important Differential Diagnoses
+5.3.1
+Delusional Disorder
+5.3.2
+Brief Psychotic Disorder
+5.3.3
+Schizophreniform Disorder
+5.3.4
+Schizoaffective Disorder
+5.3.5
+Shared Psychotic Disorder
+5.3.6
+Psychotic Disorder Due to a General Medical Condition
+5.3.7
+Mood Disorders
+5.3.8
+Anxiety Disorders
+5.3.9
+Personality Disorders
+6
+Comorbid Disorders
+6.1
+Substance abuse
+6.2
+Mood disorders
+6.3
+Medical disorders
+6.4
+Anxiety disorders
+7
+Course And Prognosis
+7.1
+Prodromal phase
+7.2
+Active phase
+7.3
+Residual phase
+Phenomenology [ edit ]
+Schizophrenia is a chronic and often progressively deteriorating disorder of thought,and mind, which affect behavior and perception. The signs and symptoms of schizophrenia are usually divided into positive and negative symptoms.
+Positive symptoms
+are disorders of commission, including things patients do or think. Examples are hallucinations, delusions, other formal thought disorders, and bizarre or disorganized behavior.
+Negative symptoms
+are disorders of omission, or things patients do not do. Negative symptoms include:
+alogia: marked poverty of speech, or poverty of content of speech
+affective flattening
+anhedonia: inability to experience pleasure
+asociality: a lack of interest in social contacts)
+avolition: a lack of motivation
+apathy: a general lack of interest.
+Motor disturbances [ edit ]
+Motor disturbances include disorders of mobility, activity and volition. Schizophrenic patients can exhibit either too little or too much movement. Catatonia (from Greek 'katatonos' or “stretching tight”) is a broad term used to describe a variety of movement disorders thought to have a psychiatric cause. For example, Catatonic Stupor is a state in which patients are immobile, mute, yet conscious. They may exhibit waxy flexibility, so one can move their limbs into postures and the patient will retain these postures, like a wax doll. Catatonic excitement is uncontrolled and aimless motor activity.
+Other disorders of movement include:
+Stereotypy:
+repeated but non-goal-directed movement such as rocking.
+Mannerisms:
+normal goal-directed activities that appear to have social significance but are either odd in appearance or out of context, such as repeatedly running one's hand through one's hair or grimacing.
+Mitgehen:
+moving a limb in response to slight pressure on it despite being told to resist the pressure.
+Echopraxia:
+imitating the movements of another person.
+Automatic obedience:
+carrying out simple commands in a robot-like fashion.
+Negativism:
+refusing to cooperate with simple requests for no apparent reason.
+Behavioral Disturbances [ edit ]
+Disorders of behavior may involve deterioration of social functioning-- social withdrawal, self-neglect, neglect of environment (i.e. deterioration of housing) or socially inappropriate behaviors (talking to oneself in public, obscene language, exposing self). Substance abuse is another disorder of behavior. Patients may abuse cigarettes, alcohol or other substances; substance abuse is associated with poor treatment compliance, and may be a form of "self-medication" for negative symptoms or medication effects.
+Mood Disorders [ edit ]
+Disorders of mood and affect include affective flattening, which is a reduced intensity of emotional expression and responsiveness that leaves patients indifferent and apathetic. Typically, one sees unchanging facial expression, decreased spontaneous movements, poverty of expressive gestures, poor eye contact, lack of vocal inflections, and slowed speech. Anhedonia, or the inability to experience pleasure, is also common, as is emotional emptiness. Patients may also exhibit inappropriate affect, such as laughing at a funeral.
+Epidemiology [ edit ]
+The
+Epidemiologic Catchment Area (ECA) study
+reports the following statistics on schizophrenia:
+1% lifetime prevalence of schizophrenia
+Relatively lower incidence rate of 1/10,000/year indicates this is a chronic illness
+1:1 male to female ratio
+However, women have later onset and better psychosocial functioning
+The
+National Comorbidity Study
+reported a 0.7% incidence of "Nonaffective Psychosis:" an amalgam that included schizophrenia, schizophreniform disorder, schizoaffective disorder, delusional disorder and atypical psychosis.
+Etiology [ edit ]
+Neurotransmitter Theories: The Dopamine Theory [ edit ]
+Stated briefly, the dopamine theory suggests that psychosis is caused by dysregulation of dopamine in the brain. The simplest version of the dopamine theory suggested that schizophrenia was associated with an increase of
+dopamine
+in the central nervous system. Evidence for this association includes the fact that all available medications used to treat psychosis are dopamine blockers and a number of dopamine agonists (ex.
+levodopa ,
+amphetamine ) can cause psychosis. There are, however, problems with the dopamine neurotransmitter theory. Studies measuring dopamine metabolites in cerebrospinal fluid are inconclusive. In addition, the dopamine blockers used to treat schizophrenia are not disease specific: they are equally effective in treating other types of psychosis, for example, a drug-induced psychosis. Finally, a simple dopamine theory does not adequately account for the negative symptoms, which are also prominent in many patients with schizophrenia.
+The theory has subsequently undergone refinements. For example:
+Specific dopamine pathways and schizophrenia [ edit ]
+In the central nervous system, dopamine neurons follow relatively discrete pathways. Two pathways seem particularly relevant in schizophrenia:
+Mesolimbic System . This system is composed of the dopamine neurons from the
+ventral tegmental area
+that release dopamine to the
+nucleus accumbens . This system regulates reward pathways and emotional processes and is associated with the positive symptoms of schizophrenia.
+Mesocortical System . This system is composed of the dopamine neurons from the
+ventral tegmental area
+and the
+substantia nigra . The ventral tegmental area neurons included in the mesocortical system release dopamine to the
+prefrontal cortex
+and regulate areas involved in cognitive processing (i.e. the dorsal lateral prefrontal cortex that regulates executive function). The neurons in the substantia nigra release dopamine to the basal ganglia and regulate areas involved with motor control. The mesocortical system is associated with the negative symptoms of schizophrenia.
+It is hypothesized that hyperactivity of mesolimbic dopamine neurons and hypoactivity of mesocortical dopamine neurons are responsible for positive and negative symptoms, respectively. Support for this includes the observation that the use of amphetamines, which can cause psychosis, seems preferentially to produce hyperactivity of mesolimbic dopaminergic neurons. Patients with schizophrenia seem to be particularly sensitive to amphetamines, and can experience exacerbations of their disease at even small doses. In addition, hypoactivity of mesocortical dopamine neurons has been correlated with severity of negative symptoms and impairment in performance on tests of prefrontal cortical function.
+However, schizophrenia is more than simply a neurochemical disorder. Concentration on relative levels of dopamine does not account for the time lag until antipsychotics exert their effect: most of the dopamine blockers start blocking dopamine immediately, yet it takes about 2 weeks for psychosis to resolve. Most likely, the dopamine dysregulations represent a final common pathway for psychotic episodes.
+Receptor Theories of Schizophrenia [ edit ]
+Modulation of cortical function can be achieved via the
+D1, D2, D3 and D4 dopamine receptors , leading to the "fine tuning" of information processing. D1 and D2 are high in the
+striatum , D3 is located in the
+nucleus accumbens
+and D4 is high in the
+frontal cortex
+and
+limbic areas . Evidence supporting this theory includes:
+The downregulation of D1 receptors in the frontal cortex may contribute to the hypoactivity of the
+mesocortical pathway
+and thus the negative symptoms of schizophrenia. In schizophrenics, there is a correlation between fewer cortical D1 receptors with the severity of negative symptoms and with poor function in frontal executive tasks.
+The expression of cortical D1 receptors is increased by the chronic antipsychotic treatment.
+Both typical and atypical antipsychotics exert their effects mainly via D2 receptor blockade by reducing the regional dopamine hyperactivity associated with the positive symptoms of schizophrenia. There is a significant correlation between the D2 receptor blockade and the clinical efficacy of antipsychotics in treating positive symptoms.
+Atypical antipsychotics also block the D4 receptor, and may block the D3 receptor.
+Other Neurotransmitters and Schizophrenia [ edit ]
+Serotonin [ edit ]
+In addition to the dopamine receptors,
+serotonin
+may plan an important role. The
+serotonin 5-HT2A receptor
+is also of relevance for the pathophysiology and treatment of psychosis. Hallucinogens, e.g.
+LSD , act as agonists at the 5-HT2A receptor and several antipsychotic compounds, especially the atypical neuroleptics, block the activity of the 5-HT2A receptor. Because LSD produces positive symptoms this suggests a possible role for serotonin in schizophrenia. Several postmortem studies have reported a decrease of 5-HT2A receptors in schizophrenia, but others have not. Atypical antipsychotics act as 5-HT2A antagonists.
+Glutamate [ edit ]
+Alterations of the
+cortical glutamatergic system
+have also been implicated in schizophrenia. The glutamate model complements the dopamine model in presenting a hypothesis that explains the etiology of both the positive and negative symptoms of schizophrenia. Prolonged exposure to
+NMDA receptor
+antagonists such as
+phencyclidine (PCP)
+has been associated with chronic, severe psychotic illness displaying both the positive and negative symptoms of schizophrenia.
+Ketamine , which is also an NMDA antagonist drug, produces transient, mild psychotic symptoms, negative symptoms, and cognitive deficits in normal subjects, mimicking schizophrenia. When administered to patients with schizophrenia, ketamine produces transient exacerbations of psychotic symptoms.
+Glutamate can bind to dopamine neurons and is hypothesized to produce regional hyperactivity and hypoactivity in dopamine neuron release. Chronic NMDA antagonist administration results in persistent elevation of dopamine release in the
+nucleus accumbens
+( Mesolimbic System ) and decreases in dopamine release in the
+prefrontal cortex
+( Mesocortical System ). Because NMDA antagonists produce schizophrenic symptoms, schizophrenia may be a result of hypoactivity of the glutamatergic system. It is hypothesized that a lesion in the hippocampal or frontal cortical glutamatergic circuits develops in schizophrenia. This lesion then produces dopaminergic hyperactivity in the nucleus accumbens and hypoactivity in the frontal cortex contributing to both the positive and negative symptoms of schizophrenia.
+Structural Abnormalities and Schizophrenia [ edit ]
+Neural circuitry in schizophrenia [ edit ]
+Association Cortex [ edit ]
+There is a focus on neurotransmitters and their receptors in schizophrenia since most treatments are based here. However, the etiology of the neurotransmitter imbalances may result from structural brain abnormalities in schizophrenics with changes in the brain architecture leading to dysregulation of neurotransmitters and their receptors. Schizophrenics are not properly able to “sort” or “filter” information from the external world to create a correct mental representation of an experience. Normally, incoming sensory information is processed by the
+thalamus , which sorts out what sensory information should be sent to different cortical areas for processing. After the primary sensory cortex areas receive the appropriate sensory information from the thalamus and process this information, it is sent to the association cortex. The association cortex are composed of the cortical areas of the brain excluding the primary sensory cortices. The association cortex integrates information from the primary cortices, subcortical structures, and brain areas serving memory (such as the medial temporal lobe) to create the representation of the sensory experience. Schizophrenics have been shown to lack the ability to sort out what sensory information is or is not relevant and to filter and process the relevant information. Dysfunction in such information processing areas of the brain may explain the disordered thought associated with schizophrenia.
+The association cortex is of special interest in schizophrenia research because it includes the dorsal lateral prefrontal cortex, which modulates executive functioning. The association cortex of the human brain is a six-layered isocortex. Cortical layers 2 and 4 are defined by a high density of small interneurons. In contrast, layers 3 and 5 are defined by a high density of
+pyramidal cells
+that collect input through their dendrites and project to other cortical or subcortical areas. Interneurons are
+GABAergic
+cells and exert an inhibitory influence on their targets whereas pyramidal cells are
+glutamatergic
+and have an excitatory influence. Normal cortical function depends on an intricate balance of GABAergic inhibition and glutamatergic excitation, however, glutamatergic function is abnormal in schizophrenics. Volume reduction of the association cortex in schizophrenia has been reported in several postmortem and neuroimaging studies. Sulci are widened, indicating decreased brain tissue.
+Regional cerebral blood flow (rCBF)
+and glucose metabolism were found to be abnormal in the frontal cortex at rest as well as during the performance of cognitive tasks.
+hypofrontality ,, a phenomenon in which patients cannot activate prefrontal cortex, has also been observed. This may explain the cognitive insufficiency and deficits in attention, alerting, memory, learning and shifting sets that schizophrenic patients display even before their first psychotic episode. In normal patients asked to play a game where the sets of rules constantly change (as in the
+Wisconsin Card Sort Test ), the prefrontal area would light up on a SPECT or PET scans, denoting increased executive function activity. However, schizophrenics do not show increased prefrontal areas activity on
+Single Photon Emission Computed Tomography (SPECT)
+or
+Positron Emission Tomography, or PET
+scans, and thus do not perform well on such tasks.
+However, Single Proton Emission Computed Tomography (SPECT) has been used to show that some major language areas of the cerebral cortex is being affected in patients with schizophrenia. The Broca's area of the brain is most active during hallucinations. the Broca's area is known to be active during speech production. Whereas the Wernicke's area of the brain involves language comprehension. Auditory hallucinations are usually the understanding of speech of others, therefore, in a healthy person, the Wernicke's area would be expected to have more activity. This supports the theory that hallucinations are not the hearing of voices of other, but are actually listening to their self created voices and or thoughts, and are incapable of recognizing the difference. Therefore, there shows deficits in speech processing that results in these hallucinating distortions.
+Medial Temporal Lobe and Hippocampus [ edit ]
+The medial
+temporal lobe
+serves two major functions in the brain: to integrate multimodal sensory information for storage into and retrieval from memory, and to attach limbic valence to sensory information. In schizophrenia, mild cortical atrophy has been reported in the medial temporal lobe along with cortical neuronal disarray. Focal abnormalities indicating abnormal alignment of neurons have been observed in medial temporal lobe structures such as the amygdala, entorhinal cortex, and especially the hippocampus. There is evidence for the contribution of
+hippocampal
+dysfunction to the pathogenesis of schizophrenia. The serial circuitry of glutamatergic pyramidal and nonpyramidal neurons provides the structural basis for the formation of long-term memories. The hippocampus is also closely connected with the
+limbic system . The hippocampal formation is recruited via these connections to regulate emotion or to modulate information with respect to emotions. Most studies have found no change in the number of hippocampal pyramidal neurons but nonpyramidal cells in the hippocampus seem to be reduced by nearly half. Synaptic organization is changed, possibly indicating altered plasticity of the hippocampus in schizophrenia. The metabolism and blood flow of the hippocampus are increased at baseline in schizophrenia. Furthermore, hippocampal and parahippocampal regional Cerebral Blood Flow (rCBF) is increased during the experience of psychotic symptoms and correlates with positive symptoms (delusions, hallucinations). As stated previously, a lesion in the hippocampal glutaminergic circuit is hypothesized to produce regional variations in dopamine in the schizophrenic.
+Thalamus [ edit ]
+The
+thalamus
+is the gateway to cortical processing for all incoming sensory information, here represented by the three major systems: somatosensory, auditory, and visual. Two abnormalities of thalamic function have been proposed in schizophrenia. First, a decrease in the total thalamic volume might signify a breakdown of its sensory filtering capabilities, leading to increased stimulation of primary sensory cortical areas. Second, dysfunction of the medial dorsal nucleus of the thalamus leads to impairments of cortical association areas, especially the dorsal lateral prefrontal cortex.
+Basal ganglia [ edit ]
+The
+basal ganglia
+are primarily involved in the integration of input from cortical areas, particularly from the motor cortex. Post-mortem studies have provided evidence for an overall increased number of striatal neurons and for a change in the synaptic organization of the striatum along with a decreased number of nucleus accumbens neurons in schizophrenics. Antipsychotic medicines act as
+D2 receptor blockers , and thus act predominantly in the
+striatum
+where D2 is most abundant. The volume of basal ganglia structures is increased in medicated schizophrenic patients.
+Genetic Insights [ edit ]
+Concordance rates for relatives of schizophrenics are remarkably high: approximately 50% for monozygotic twins, 40%, if two parents have schizophrenia, 12-15% for dizygotic twins, 12% 1 parent for 1 parent with schizophrenia, and 8% for non-twin siblings (compared with approximately 1% for the general population). An individual had a ten-fold increased risk for schizophrenia with a schizophrenic first-degree relative
+These rates suggest that the disorder is inherited, but that there is either incomplete
+penetrance
+or that disorder is multifactorial in etiology. The latter is most likely, and it is generally thought persons can be predisposed to schizophrenia through a genetic vulnerability which is then triggered by environmental stimulus; both are then required for the actual disease. The environmental trigger is not clear, and various insults have been suggested, including prenatal exposure to the flu or famine, obstetric complications, CNS infections in early childhood, and various psychosocial stresses in childhood and early adulthood.
+Psychosocial Theories [ edit ]
+Current thinking is that schizophrenia is clearly not caused by psychosocial factors alone. However, such factors as stress may mitigate the presentation of the disorder (time of onset, degree of social impairment) and the response to treatment.
+It has been noted that schizophrenics often have low socioeconomic status. Social theories have been developed regarding the possible effects of environmental stressors on brain development. However, it appears that the correlation between socioeconomic status and schizophrenia may be better explained by the "downward drift" theory. This holds that because schizophrenics cannot hold a job or function well in society, they "drift" down to a lower status.
+Historically, there was a great deal of attention on parenting style and the development of schizophrenia. For example,
+Lidz
+described what came to be known as a “ Lidzschizophrenogenic ” parenting style. Though not entirely abandoned, such etiological explanations are outside the mainstream of psychiatry now and in fact considered by some as harmful: though criticized by Lidz, others have used his work as a basis to “blame” parents for causing this disease in their children.
+Pathology [ edit ]
+Certain brain structure abnormalities are consistently found in schizophrenics. These include:
+Schizophrenic patients show widened
+ventricles
+on neuroimaging. This has been shown even early in their disease.
+Other areas of the brain are decreased in size, for example the anteromedial
+temporal lobe .
+A reduced neuronal density has also been found in the
+prefrontal region ,
+thalamus
+and
+cingulate gyrus . In the areas of low neuronal density, there is no
+gliosis
+or inflammation, both which are normally seen in degenerative processes. This suggests a possible developmental abnormality.
+These abnormalities may actually be related either to a congenital cause of the disease or to the degenerative process of the disease.
+A substantial proportion of schizophrenic patients display non-localizing neurological signs called "soft signs." They may reflect defects in the integration of proprioceptive and other sensory information, and may represent a biological marker for schizophrenia. Some relevant neurological soft signs include:
+abnormalities in
+stereognosis .
+abnormalities in graphesthesia (the ability to identify characters written on the skin using a dull pointed probe through touch alone, i.e. with patients’ eyes closed)
+problems with balance
+decreased proprioception (the ability to sense the position, location, orientation and movement of the body and its parts)
+disorders of
+smooth pursuit eye movement . Smooth eye pursuit movements are abnormal is 50 to 85% of schizophrenic patients. It is also abnormal in 45% of their relatives, even if they do not have schizophrenia. However, this phenomenon is non-specific. It occurs in other disorders such as mood disorders.
+sleep disturbance
+poor accommodation to novel stimuli (this phenomenon is also present in relatives of schizophrenics)
+In addition, it is noted that the usual
+IQ
+of patients with schizophrenia is less than normal population for their age. Unlike dementia, however, it tends to remain stable and does not decline over time.
+Diagnostic Criteria [ edit ]
+The
+Diagnostic and Statistical Manual for Mental Disorders (DSM-IV)
+defines schizophrenia as characterized by at least one psychotic episode, accompanied by associated functional decline.
+Diagnostic Criteria for Schizophrenia [ edit ]
+Patients have to have been
+psychotic
+at some time. This is sometimes referred to as the "A" Criteria of Schizophrenia (as the criteria are listed using an alphanumeric outline organization).
+Additionally, two or more of the following (1 if the delusions or hallucinations are severe) are required:
+delusions
+hallucinations
+disorganized speech
+disorganized behavior or catatonia
+negative symptoms
+The symptoms must persist for 1 month (less if treated).
+During the course of the disorder, the patient must show some signs of disturbance (psychotic episode + prodromal or residual symptoms) for at least 6 months.
+The disturbance affects some aspect (social, occupational, self-care) the individual’s functioning.
+Subtypes of Schizophrenia [ edit ]
+The purpose of subtyping is to improve prediction of likely effective treatment and/or course of illness. The types are listed as follows:
+Catatonic subtype.
+Catatonia is, broadly speaking, any disorder of abnormal motor activity thought to be caused by a psychiatric disorder. As defined in DSM-IV, it is defined as having at least two of the following
+motoric immobility as evidenced by catalepsy or stupor
+excessive motor activity
+extreme negativism or mutism
+peculiarities of voluntary movement (e.g., stereotypies, mannerisms, grimacing)
+echolalia or echopraxia.
+Disorganized subtype.
+This is characterized by disorganized speech and behavior, and flat or inappropriate affect and not meeting the criteria for catatonic schizophrenia.
+Paranoid subtype.
+This is characterized by a preoccupation with one or more delusions or frequent auditory hallucinations. Disorganized speech/behavior, catatonic behavior, and flat or inappropriate affect are
+not prominent
+in this subtype.
+Undifferentiated subtype.
+A residual category for patients meeting criteria for schizophrenia but not meeting criteria for the paranoid, disorganized, or catatonic subtypes.
+Residual subtype.
+This subtype is used for patients who no longer have prominent psychotic symptoms but who once met criteria for schizophrenia and have continuing evidence of illness.
+Important Differential Diagnoses [ edit ]
+Delusional Disorder [ edit ]
+Patients present with persistent delusions in this disorder, however the delusions are nonbizarre, i.e., they could seem plausible, thus differentiating this from schizophrenia. Hallucinations are not prominent. Generally, psychosocial functioning is okay, except for the direct impact of the delusions. For example, patients with delusional disorder might not take the bus because they think people are talking about them but might still be able to hold down a job.
+Brief Psychotic Disorder [ edit ]
+This disorder is different in that the psychotic symptoms last for less than a month and there is full remission by one month.
+Schizophreniform Disorder [ edit ]
+This disorder shares the characteristic symptoms of schizophrenia except the duration is less than six months (but more than one month) including prodrome + episode + residual phase. Impaired psychosocial functioning is not required for the diagnosis and about 2/3 of patients go on to develop schizophrenia.
+Schizoaffective Disorder [ edit ]
+Schizoaffective disorder has symptoms of both schizophrenia and of a mood episode. It must fulfill symptoms of "Criterion A" of schizophrenia. For diagnosis, at some point psychotic symptoms have to occur independently of abnormal mood (for at least 2 weeks). The mood episode may include manic, depressed or mixed symptoms. These have to occur for a "substantial" amount of time; otherwise, a patient might more accurately be diagnosed as depressed or agitated schizophrenic.
+Shared Psychotic Disorder [ edit ]
+Also called
+Folie à Deux , this disorder has two components. The inducer or “primary case” is a person who already has some psychotic disorder. There is a second person who is in close relationship with the inducer and who does not have a psychotic disorder. The inducer (with the psychotic disorder) convinces the second person (without the psychotic disorder) that a delusion is true. The non-psychotic second person is usually in a dependent relationship with the inducer. This second person rarely seeks treatment; rather, shared psychotic disorder comes to attention when the inducer is treated. Treatment is to separate the second person from the inducer.
+Psychotic Disorder Due to a General Medical Condition [ edit ]
+There is a long list of medical conditions that can cause psychotic symptoms; these justify a diagnosis of Psychotic Disorder Due to a General Medical Condition. One would not want to make the diagnosis of schizophrenia without ruling these diagnoses out. Some examples of medical conditions with schizophrenia-like symptoms include:
+Delirium:
+Delirium
+is an acute confusional state with multiple possible etiologies that can cause delusions and hallucinations. Usually delirious delusions and hallucinations are poorly formed, not very elaborate, and they occur in a setting of "clouding of consciousness."
+Dementia:
+Dementing Disorders
+such as Alzheimer's Disease can cause delusions and hallucinations. Typically these are persecutory delusions--after losing a wallet, an Alzheimer’s patient might accuse a loved one of stealing it. Delusions and hallucinations tend to be poorly formed, not elaborate, and thus would not justify a second diagnosis of a psychotic disorder.
+Neurological Disorders:
+Examples include
+temporal lobe epilepsy , tumor, stoke and brain trauma
+General Medical disorders:
+Examples include endocrine and metabolic disorders (like
+porphyria ), vitamin deficiency, infections, autoimmune disorders (like
+systemic lupus erythematosus ) or toxins (like heavy metal poisoning)
+Substance-induced disorders:
+Medications and drugs that can cause psychotic symptoms may include stimulants (amphetamines, cocaine), hallucinogens ( PCP ), and
+anticholinergic
+medications. Alcohol withdrawal ( delirium tremens ), and
+barbiturate
+withdrawal can also manifest with psychotic symptoms. Because antipsychotic medicines can produce
+extrapyramidal side effects , it is important to differentiate schizophrenic catatonic behavior from antipsychotic induced movement disorders.
+Mood Disorders [ edit ]
+Mania and depression may cause delusions or hallucinations, but these only occur within the context of the mood disorder and will cease upon treatment of the mood disorder.
+Anxiety Disorders [ edit ]
+Patients with anxiety disorders share some symptoms with schizophrenics. Patients who experience panic attacks may report they feel they are "going crazy." Patients with obsessive-compulsive disorder may have obsessions that are so severe they reach the point where they seem like delusions. However, classically speaking, these symptoms experienced by patients with anxiety are ego dystonic, meaning that the patient has good insight into the abnormality of their behavior.
+Personality Disorders [ edit ]
+Personality Disorders can show elements of psychosis as well as delusions. However, symptoms tend to be short lived, as opposed to the chronic symptoms of schizophrenia. The
+Cluster A
+or
+Odd
+group of personality disorders: Schizoid, Paranoid and Schizotypal, can have odd or unusual thoughts, but are generally not psychotic.
+Comorbid Disorders [ edit ]
+Comorbidity is very common. In one study of new-onset psychosis, about 50% of patients had some other medical or psychiatric disorder. The most common of these are substance abuse and mood disorders.
+Substance abuse [ edit ]
+Substance abuse is more common in schizophrenics versus in the general population. Substance abuse is associated with poorer outcome. Eighty to ninety percent of schizophrenics smoke cigarettes and a high percentage abuse alcohol.
+Mood disorders [ edit ]
+Sixty percent of Schizophrenics are reported to have depressive symptoms. However, depression is difficult to diagnose, as it overlaps with (negative) symptoms of schizophrenia and medication side effects.
+Medical disorders [ edit ]
+Medical problems are also more common in psychotic individuals than in the general population (17% in one study). These patients tend to be older. They have a higher incidence of diabetes. In chronic medical disorders, schizophrenia is associated with a poorer outcome.
+Anxiety disorders [ edit ]
+Obsessive-compulsive disorder and panic disorder are common in schizophrenic patients.
+Course And Prognosis [ edit ]
+Schizophrenia tends to be a chronic disease with a variable course. It most commonly starts in late adolescence/early adulthood. It rarely occurs in children. Women are more likely to have a later onset and generally tend to have better psychosocial functioning. Schizophrenia occurs throughout the world, regardless of site or culture. Schizophrenia has three stages of disease:
+Prodromal phase [ edit ]
+The prodromal phase precedes the active phase of illness by many years. It is characterized by negative symptoms such as social withdrawal, deteriorating grooming, unusual behavior, outbursts of anger and other subtle changes in behavior and emotional responsiveness.
+Active phase [ edit ]
+Psychotic symptoms predominate in the active phase. Onset of the active phase generally occurs between the late teens and early thirties. Onset can be acute, occurring over weeks, or gradual, occurring over years. A particular stressor (such as moving away to college) may precipitate onset. The age of onset has prognostic significance.
+Residual phase [ edit ]
+Negative symptoms predominate in the residual phase (similar to the prodromal phase) although affective flattening and role impairment may be worse. Psychotic symptoms may persist, but at a lower level of intensity, and they may not be as troublesome to the patient.
+There are four possible outcomes to psychotic episodes:
+Complete resolution, with or without treatment.
+Complete resolution of psychosis is typical of brief reactive psychosis, and medical/substance related causes of psychosis. It can also be associated with mood disorders with psychotic features.
+Repeated recurrences with full recovery.
+These are more typical of mood disorders with psychotic features (ex. Bipolar Disorder).
+Repeated recurrences with a partial recovery.
+In this outcome a persistent defect state develops. This is typical of delusional disorder as well as schizophrenia.
+Progressive deterioration.
+Progressive deterioration is typical of schizophrenia, where symptoms may alternate between positive and negative but become worse with the course of the disease.
+Predictors of a good outcome include:
+acute onset
+short duration of active phase
+good premorbid functioning
+affective symptoms
+good social functioning
+higher social class
+Predictors of a poor outcome include:
+insidious onset
+long duration (chronic)
+personal and/or family history of psychiatric illness
+obsessions or compulsions
+assaultive behavior
+poor premorbid functioning
+poor psychosocial functioning
+neurological soft signs
+indications of brain structural abnormalities
+lower social class
+family history of schizophrenia
+Retrieved from " https://en.wikibooks.org/w/index.php?title=Psychiatric_Disorders/Psychotic_Disorders/Schizophrenia&oldid=2420602 "
+Category :
+Psychiatric Disorders
+Navigation menu
+Personal tools
+Create account Log in
+Namespaces
+Book
+Discussion
+Variants
+Views
+Read
+Edit
+View history
+More
+Search
+Navigation
+Main Page Help Browse wiki Cookbook Wikijunior Featured books Recent changes Donations Random book Using Wikibooks
+Community
+Reading room Community portal Bulletin Board Help out! Policies and guidelines Contact us
+Tools
+What links here Related changes Upload file Special pages Permanent link Page information Cite this page
+In other languages
+Türkçe
+Add links
+Sister projects
+Wikipedia Wikiversity Wiktionary Wikiquote Wikisource Wikinews Wikivoyage Commons Wikidata
+Print/export
+Create a collection Download as PDF Printable version
+This page was last modified on 17 October 2012, at 04:27.
+Text is available under the
+Creative Commons Attribution-ShareAlike License. ; additional terms may apply.
+By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy.
+Privacy policy
+About Wikibooks
+Disclaimers
+Developers
+Mobile view

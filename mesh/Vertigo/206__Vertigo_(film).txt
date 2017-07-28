@@ -1,0 +1,828 @@
+Why Won't You Grow?!: January 2010
+Restating the obvious for over ten years now!
+Pages
+Home
+ABOUT WWYG?!
+FAQs
+TV Preview Posts
+#SummerHat
+LOST Rewatch
+Wednesday, January 27, 2010
+Did the world change? Well . . . no
+I hope you realize that last night's breathless post about the (then unnamed) Apple tablet was hyperbolic and tongue-in-cheek.
+But today . . . TODAY . . . things got real.
+People have been reacting all day to the announcement of the iPad--and YES, most people have confined much of their reaction to the name itself (negative reactions by almost all women I've spoken to and some men as well). Personally, I don't mind the name choice. I think it speaks to a conscious connection to Star Trek: The Next Generation's ubiquitous
+PADD device.
+If Apple designers and hardware engineers weren't thinking of this fictional thing when brainstorming what their own iPad would be . . . well, then I think I could get a job there.
+Now . . . is it a GOOD device that Mr. Jobs has presented to the conspicuous consumption crowd?
+On the face of it, yes. (I'll not bother to put links to the details of the device here, as you probably already know where to go to learn about it--both negatively and positively. It is historically short-sighted of my blogging not to trace my thoughts to the source material, but in the future when a digiarchaeologist tries to decipher who I was from WWYG?! the links would all be broken anyway.)
+Back to the thought at hand. Yes, it seems like a good device. Works intiutively and leverages the experience of all those who have used an iPhone. Nothing new to teach there. But that is also the source of its greatest set of weaknesses. By not making it anything more than a larger iPhone, the iPhone's limitations are simply magnified and made MORE visible:
+no multi-tasking
+no Flash support
+no USB connections
+__________________
+Those first two limitations are, frankly, amazing to me. How could Apple produce this product and continue to allow its mobile competitors to hammer away on these very obvious weaknesses? I just can't believe that this should continue down the road.
+I am still worried that the virtual keyboard won't be as easy to type on as claimed, but I was cheered by the option of a dockable keyboard.
+And most of all I was surprised by the (reasonable?) prices. Anything with only three digits is more than I was expecting. And that's all I've got time to devote to the topic tonight.
+Posted by
+David Martin
+at
+10:40 PM
+2 comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Flotsam ,
+The Internets
+Tuesday, January 26, 2010
+Say Goodbye to Everything You Thought You Knew About Anything!!
+I am taking this Gizmodo story, "Pondering the Apple Tablet's Print Revolution," and providing it verbatim as today's post. You see, the good folks at Gizmodo have been pondering, positing, rumor-mongering, researching, writing, and doing everything they can to spread the word about tomorrow's expected announcement of the Apple iSlate, iTablet, iWhatever.
+I am quite certain that everything writer Matt Buchanan said in the article is completely true and it will revolutionize everything forever.
+(I, for one, welcome our new digital--paperfree!--overlords.)
+"The
+Apple tablet
+could change everything. That's what people are
+hoping for , revolution. But revolutions don't actually happen overnight, especially if you're talking about turning around an entire diseased, lumbering industry, like publishing.
+The medium is the message, supposedly.
+The iPod was a flaming telegram to the music industry; the iPhone, a glowing billboard about the way we'd consume software. The Apple tablet? Possibly no less than the reinvention of the digital word. If you look very generally at the content that defined the device—or maybe vice versa—the iPod danced with music, the iPhone's slung to apps and, as
+we were first in reporting
+a few months ago, the tablet's bailiwick might very well be publishing.
+Since then, the number of publishers—of newspapers, magazines and books—reported to be talking to Apple has exploded: NYT,
+Conde Nast , McGraw Hill, Oberlin,
+HarperCollins , the
+'six largest' trade publishers , and
+Time , among many others, are making noise about splaying their content on the tablet. A giant iPod not only for video, photos and music,
+but for words . That's what they're lining up to make ritual sacrifices for. Publishers want this, whatever it is.
+I say 'whatever it is,' because, for all of the talk and
+pomp
+and demos,
+they
+haven't seen the Apple tablet. They don't know what it's like. They don't know how to develop for it. As Peter Kafka's reported,
+neither Conde Nast
+(publisher of Wired)
+nor Time
+will be ready to show
+anything
+for the tablet on Wednesday, much less a mindblowing reinvention of the magazine, because Apple's keeping them at arm's length. (Why? Secrecy, which matters far more than launch partners. All the leaks about the tablet have come out of third parties, like the goddamn publishers, so Apple's not telling them much more than they are the rest of us.)
+The sole exception, that we know of,
+is the New York Times . The Gray Lady has a team of three developers embedded in Cupertino. This makes a certain kind of sense, given the content the tablet is framing, and which publisher is currently best suited to delivering that content in a new experience.
+When it comes to experimenting with the display and digestion of the digital word, the NYT has aggressively been the most innovative major publication on the web: Just look at the
+incredible infographics , the recently launched
+NYT Skimmer
+and the
+NYT Reader . Logically, they're the print publication perhaps
+most able
+to realize the early potential of a device that's essentially a window for displaying content. And it doesn't hurt that Apple loves the NYT.
+The tablet might just be a big iPhone, but the key word is 'big.' What defines the tablet in opposition to the iPhone is the screen size, less than any kind of steroidal shot to processing muscle. A 10-inch screen will hold 10 times the screen real estate of the iPhone's 3.5-inch display. That's room for ten fingers to touch, navigate and manipulate, not two. Real estate for full web pages, for content apps that are so much more than news repackaged for a pocket-sized screen. The ability to really 'touch what you want to learn about' is an 'inflection point for navigation,' that is, the potential to truly 'navigate serendipitously,' as the NYT's media columnist
+David Carr
+put it to me.
+Think of it as a more tangible version of the force that drives you from a Wikipedia page about gravity to one about the geological history of the planet Vulcan, touching and feeling your way through everything from a taxonomy for Star Wars fanboys to the Victoria's Secret catalog.
+The Wikipedia example might be particularly apt, actually. If we use iPhone history as a guide, given that the tablet is likely to be an evolution of the iPhone software and interface, it's likely these publications will be content 'apps' that will be islands unto themselves: So it might be easy to wander all over the NYT's island via the tips of your fingers, but not so easy to float off to the WSJ's abode. At least to start, we assume it'll much like iPhone apps. For all of the very whizzy
+Minority Report
+wannabe demos from
+Sports Illustrated , we don't know what the content apps are actually going to look like, or what they'll be able to do on the tablet. In particular, what is it they'll be able to do that
+they couldn't do on the web right now , given how powerful the web and web applications have become over the last couple of years? (Look at everything Google's doing, particularly in web apps.) The question, as NYU Journalism professor Mitch Stephens told me, is whether the tablet's capabilities can 'actually get the Times and Conde Nast to
+think
+beyond print?'
+If you think the newspaper and magazine industry is slow, the book industry is prehistoric. As whipped into a fervor as HarperCollins and McGraw Hill may be about jumping aboard the full color Apple tablet express
+to carry them into a new age of print
+with 'ebooks enhanced with video, author interviews and social-networking applications,' past the Amazon schooner, they take years to move. And they're likely in just as in the dark as everybody else.
+There's also the macro issue that it just takes time for people to figure shit out. Think about the best, most polished iPhone apps today. Now try to remember the ones that launched a week after the App Store opened. It's a world of difference. New media, and how people use them, aren't figured out overnight. Or fade back to the internet circa 2006. Broadband wasn't exactly new then, but so much of the stuff we do now, all the time—YouTube, Twitter—wasn't around.
+The apparent readiness to yoke the fortunes of the sickly publishing industry to Apple, and its tablet, oozing out of info scraps and whispers, like a publishing executive
+telling the NYT
+that, versus Amazon, 'Apple has put an offer together that helps publishers and, by extension, authors,' is deeply curious. The publishing industry wants the iPod of reading, but they've clearly forgotten the music industry's traumatic experience when they got theirs. Apple basically wrested control of legal digital music, and the music industry got far less than they wanted to make up for it. Hollywood, in turn, played their hand far differently, scattering bits of movies and TV shows across tons of services, so no one had any leverage, especially not Apple. (Hence, Apple's negotiations for a subscription TV service with Disney or CBS always seem delicate at best.) I don't know why Apple would be any more magnanimous with publishers than record labels, given the chance to be gatekeeper.
+The gatekeeper matters, because it dictates the answer to publishing's current crisis: 'How we gonna get paid?' The NYT is bringing
+back metering to its website ; book publishers weep over the fact that Amazon has decided books are worth precisely $9.99. Publishers want to control their financial destiny. Apple wants to control every element of the experience on their devices. (Apparently,
+they'll get to .) I want to be able to read the NYT, WSJ, The New Yorker, Penthouse and Wired, in all of their dynamic, interactive, multitouch glory easily and cheaply. Ads might be the secret to making that possible. Ultra targeted,
+innovative ads
+designed just for the tablet. At least, in the future—Apple's acquisition of mobile ad firm Quattro, and its CEO's ascension to VP, have happened too recently to bear much fruit yet.
+Point being, there's a lot of stuff publishers have to figure out, from the big stuff to the little stuff. Apple hasn't exactly sped up the process by giving them much to work with, either, but for one publisher that we know of—and maybe a couple we don't. The tablet might change the digital word the way the iPod changed digital music. But it'll take some time.
+Thanks to Joel for that awesome render; original CC printing press image from
+JanGlas/Flickr
+Posted by
+David Martin
+at
+11:04 PM
+No comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Media ,
+The Internets
+Saturday, January 23, 2010
+Hannah's 2nd birthday
+Hannah turns two years old today, as I've mentioned a few times already on Twitter and Facebook. She's having the most digital birthday of any of our previous kids. I've spent some time over the last few days wondering what I might write on her birthday post and I really couldn't come up with anything that didn't already sound like stuff that I had written for the other girls in other years. But then I realized that we would take some videos and some pictures that would (hopefully) let some of it stand on its own. Add up the photos and videos and you get a few thousands of words that are probably more interesting than than whatever I could say. But the only words that matter are these four:
+Hannah, I love you.
+*****
+Lynda got her all dressed up for some nice pictures. (She got breakfast jelly and cake frosting on her pants from earlier in the day. Not suitable for pictures as I'm sure you will agree.)
+Here is a video of her getting ready to eat her cake.
+And here is a video of her opening one of her presents.
+*****
+You may know that Hannah is several years younger than her sisters. And the reason for that is because of me. I will admit that I had to be convinced to have a third child, as I thought that two kids was more than enough responsibility and work. But Lynda was patient and kept talking to me about it and made me realize that adding another person, another distinct personality, to our family would enrich our lives and make our family into something that it was not.
+She, of course, was right. Hannah has been a wonderful blessing and a great enrichment to our family--which was, I admit, already pretty spectacular. I must also admit that she is at her most fun, engaging, and cute at the age of two. She still throws tantrums at times (and will continue to through the Terrible Twos and well into the Thunderous Threes . . . or whatever we choose to call it), but she is speaking so well and is full of excitement and thrills right now.
+Congratulations little Hannah on becoming two years old. You are, and will always be, my favorite Banana.
+Posted by
+David Martin
+at
+2:57 PM
+No comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Hannah
+Thursday, January 21, 2010
+Ted Olsen gets it right
+Image via
+Wikipedia
+If you haven't read former Solicitor General Theodore Olsen's explaination for why California's
+Proposition 8
+should be invalidated, and why--by extension--the right of gay couples to be married should be recognized at the federal (really, at all) level(s),
+I encourage you to sit down for ten minutes and read this article.
+I know I'm late to the party here, given that this article has been in print for over a week. But the case is being argued right now and its ruling, now and at the higher appeals courts cases to come, will dictate the quality of life for many, many Americans.
+Be honest and rational in your evaluation of the arguments presented within. Set aside whatever religious stance you may have on the issue of homosexuality and consider the legal, civil, fundamental issues of equality that are being presented here.
+(I do wish, however, that the six-page article had the same amount of pages as the seven-page ad for antidepressant drug Seroquel. Sigh)
+-- Posted From My iPhone (so, I apologize in advance for any typos I missed)
+Posted by
+David Martin
+at
+8:15 PM
+1 comment:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Media ,
+Mobile
+Wednesday, January 20, 2010
+"The cause of . . . and solution to all of life's problems."
+We recently got a DVR at our house. (It was good timing, since our old DVD/VCR combo machine went belly up right before the Christmas holidays.)
+Not only did we get a DVR, we also upgraded our cable with a few new channels that weren't in the last subscription. This combination of new options and effortless recording has proven to be pretty seductive. I've set up series recordings of the shows I habitually watch. But that doesn't really alter what came before. (Though it has shifted the hours at which we watch. Truly, I am become the Destroyer of Neilsen Ratings!)
+What's REALLY dangerous to a TV fan such as I is the ease with which I can record 30Rock--a show I've admired but had only watched sporadically. Now I feel more compelled to record and watch as watch can. The complete ease of picking and choosing the specific shows I want and catching them when I want them just increases the commitment to televised entertainment. And when you consider that now I can record Buffy the Vampire Slayer reruns on the newly acquired Logo channel . . . well, there aren't enough hours available. Shows I just couldn't get anymore and suddenly back into a passable rotation. And if I want to watch upstairs in the bedroom while falling asleep . . . why not?
+Basically, I'm the master of my own network. And I choose to never let Jay Leno onto that network.
+I'll admit that I didn't watch tons of late night TV (and still don't) and I have NEVER watched much of any incarnation of The Tonight Show. But I just don't like Leno, have never found him funny, and think the monkeys running NBC shot themselves in the foot by giving up so much of their time to Leno (cheapness be damned) and then never giving Conan enough time.
+Sure, some argue that Conan has been prepping for fifteen years, so why give him more time. But being outside of the Tonight Show mystique (so called anyway) and having it focused on you is something else. And I just think Conan is funnier. And I don't like Leno. And NBC is run by idiots. And I'll take the chance here to say that while I didn't exactly (or at all, really) predict this would happen . . . I think you may agree that
+I wasn't supportive of the experiment
+in my NBC Fall Preview column.
+Well, I think that is all I'm going to write about tonight. I've got lots of TV to watch after all. Sorry things have been pretty hit-and-miss lately. I'll try to find some other stuff to say soon. But I just haven't felt clearly motivated to craft anything. That's a pretty poor admission for someone who is blogging and then hoping people read it.
+(Yeah, just quit while you are already behind, David.)
+-- Posted From My iPhone (so, I apologize in advance for any typos I missed)
+Posted by
+David Martin
+at
+7:27 PM
+No comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Mobile ,
+Television
+Saturday, January 16, 2010
+Murder most foul, as in the best it is, But this most foul, strange, and unnatural.
+(That's from
+Hamlet,  by the way.)
+I settled down to work on Monday morning, creating To Do lists, checking emails, shuffling papers from one pile to another, drinking coffee, being a busy little worker bee.
+And then I got a phone call.
+I don't
+usually  get too many phone calls, and when I do get them, people accuse me of just waking up from a nap because my phone persona lacks that verve that you can only get with a one-on-one LIVE David experience. So, I've grown to be hesitant to using the phone. But since it was ringing and all, I guess I had to pick it up. Besides, my cubicle mates don't need to suffer due to my phoneaphobia.
+I picked it up and the conversation went something like this, though I am sure to be paraphrasing it a week after the fact.
+"David Martin?"
+"Yes, this is he."
+"My name is Jason Tanner. Have you seen the news today?"
+"Um . . . no." [Now I'm trying to think to myself . . . who is Jason Tanner? An old high school friend? A contact at a vendor that I worked with a few years ago? And why the weird question about the news?]
+Jason goes on to tell me that he works with me at our place of employment. He has only been working there for about two months. But
+according to the news that Monday morning, I was responsible for his death.
+Now, THIS is a surprise to me . . . and apparently to him as well.
+Jason had been receiving concerned phone calls and worried visits to his desk all morning long. And in the conversations where he explained that, no, he had not been in a fight and shot, people remarked that there was someone else in my department with the same name as the accused gunman. Since Jason and I did not know each other and it was a remarkable coincidence that the two of us worked in the same building (but neither of us was involved in the shooting incident that occurred in our city of residence), he got my number and gave me a call.
+Once all of this was explained to me, I immediately apologized to Jason for shooting him and we wished each other well. He sent me the link to the news story above and I looked up his picture in the company database.
+It was all quite odd. I half expected the Human Resources department to call me halfway through the day and ask me probing questions under a heat lamp. I also wondered why people were calling Jason, all concerned that he had been killed, but no one called me to ask why I did it. No one wondered what had driven me to murderous rage at a bar. Were they afraid of me? Were they afraid that they would be next?
+Of course,
+I tweeted about the entire affair
+and then I tried to go about my business, feeling sorry for the other Jason Tanner who had died from the fight.
+But it got me thinking. Something like this would make for a good movie, right? A serious case of mistake identity. Something like
+Vertigo
+or that
+Gwyneth Paltrow movie with the subway train.
+Of course the screenplay would need to be written by
+Charlie Kaufman
+since he's quite adept at handing the twisty logic of misplaced identity and unknown personalities.
+Later in the week I got an email that said that my very own nemesis Jason Tanner would be filling in on my project in the upcoming week. And that is when it truly hit me what was going on here.
+First, there was a story about a person (me, or someone with my name) living in my town that killed someone I didn't know. How could I be accused of committing a murder, especially a murder of someone I didn't even know for a reason I could not even begin to guess?
+Is it starting to sound familiar to you yet? Are you understanding the plot?
+And then . . . I find out that I don't YET know the victim, but I soon will become acquainted with him
+in the future!
+Are you there yet? Can you see what is happening?
+Yep. I'm staring in Minority Report, a futuristic murder mystery directed by Steven Spielberg and starring . . . TOM CRUISE!
+When I made that observation, it all made sense. Tom Cruise was setting me up. He was using the plot of one of his own films to discredit me and
+all of the (FUN-LOVING!) accusations
+I've made about his murderous rage over the years.
+By making ME a murderer, Cruise hopes to deflect away from the leads I've uncovered. He hopes to ensure his own safety.
+But this post can also be my anchor to protection. I've laid it out there for everyone. If anything should happen to me, remember this. I didn't do it. You KNOW I didn't do it. And now
+the blame is pointed back
+at Cruise.
+Posted by
+David Martin
+at
+4:37 PM
+No comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+9 to 5 ,
+David ,
+Flotsam ,
+Movies ,
+Tom Cruise is Insane
+Tuesday, January 12, 2010
+Disappointed
+Spider-Man 4 Scrapped;
+Raimi
+and
+Maguire
+Gone; Sony Plans Franchise Reboot for 2012 : "
+I didn't spend a lot of time on the Internets yesterday and so I missed this big announcement. I was a huge fan of Spider-Man and Spider-Man 2. (In fact, I've said many times that S2 is one of the best--if not THE best--comic book movies of all time.) I gritted my teeth and tried to find good things about Spider-Man 3, but it was pretty hard. I just don't know how they could have found a way to screw up the Venom story line as much as they did. And I have always said that they bloated the movie with too many
+villains . (Something the original incarnation of the Batman movies suffocated under the weight of.) So, will this new reboot work?
+It depends entirely upon the new director, the script, and the acting team that picks up where Sam, Tobey, & Co. left. (Not that that sentence is any sort of revelation.) But really, when rebooting something (a la Christopher Nolan's Batman Begins), a director's vision is supremely important. Who is the new director and how will his vision be different than
+Raimi's ? (Or will it just be cheaper than
+Raimi's ?) The article I liked to above is suggesting that Sony is wanting strong creative control and needs to control costs. All fine business decisions, but will it earn them a profit? I know that I will be very hesitant before I jump back on this bandwagon.
+Posted by
+David Martin
+at
+8:21 AM
+3 comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Sunday, January 10, 2010
+Image theory
+If you didn't like my last post (Provided only minutes ago, so maybe you haven't had time to think about it . . . or even find the correct video, since I realized that you couldn't go directly to the LOST in 8:15 video from the main landing past of abc.com/lost. To do that you had to click on MORE VIDEOS to find it . . . well, anyway it is probably a bust.)
+So to apologize for that mess, here is a different post, one in which you can be interactive.
+First, take a look at this magazine cover:
+Second: Please let me know (in the comments below) if you can discern any underlying design ethos or structural theory that dictates the placement of the individuals in this montage. Is Group A placed next to Person B for any reason that you can discover? Give it your best shot. Any and all ideas are welcome.
+Thanks and happy theorizing.
+Posted by
+David Martin
+at
+3:26 PM
+2 comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Flotsam
+What do you do . . .
+. . . when you've got nothing better to spend time explaining?
+You post a video.
+And since I haven't made any videos lately--I'm letting my daughters make all the video's these days; in fact Sarah is busily making one with her friend (who got a portable digi camera for Christmas); I guess this is what kids do for fun these days . . . the YouTube generation--I'm going to rely on ABC to do it for me.
+This video will prepare you for the final season of LOST, which premieres February 2. (And we now know that this premiere will NOT conflict with the State of the Union speech.)
+Because they are devious or because I am temporarily inept, I can't find an embed code on the video player to drop said video into this site. (Perhaps they want you to visit the ABC site and click on other things?) If it doesn't bother you,
+use this link
+to watch the video. If you are a regular viewer of LOST, nothing here will be new to you. If you need a reminder of things and you don't want to pull out your DVDs, then this could be useful.
+Posted by
+David Martin
+at
+3:02 PM
+No comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Television
+Sunday, January 03, 2010
+Snow is a four letter word
+The snows have started to fall here in the Midwest and the temperatures have dropped to the point that there is some accumulation. It's still pretty light so far, but we should be getting more this week (before the temperatures rise again).
+Snow on the weekends means the kids want to play . . . and that is still a bit of a foreign concept for me, having grown up in Georgia my entire childhood. I have very little experience in such winter-based skills, though I am getting the hang of some of it.
+This snowman, taken in my childhood (that's me standing to the left of Mr. Frosty) was probably the most amazing moment of my life. How south Georgia got this much snow, I don't recall. It is the sort of thing that should be remembered and discussed each year on the anniversary of the mysterious event.
+My kids have grown up in this weather and so they probably don't understand why our snowmen aren't as good as everyone else's, or why we don't have good snow sleds (thanks for screwing up THAT choice Santa!), or why . . . well, who knows what the other kids say or do?
+The old axiom is true, however. It takes a parent the same amount of time to put on the snow pants, snow boots, fitted, waterproof gloves, scarf, hat, and heavy (waterproof again) coat on as the equipped chid will choose to be outside in the white stuff. And then, they come back in, strip it all off, and leave it dripping wet on the floor. But, I guess, if that didn't happen, the floors would never get mopped?
+*****
+Oh, and another thing that is problematic (to me, but maybe no one else on my street?) is that whenever the temperature dropped below 30, the automatic garage door seizes up and won't open all the way. I mean, it will eventually, if you are patient and raise and lower it 5 to 25 times (as needed and completely unpredictable). I don't know if the rails get too  cold and contract out of shape or if the motor loses some power or what. But some days I just get tired of standing in the garage entrance freezing my stocking feet while the door creaks up and down and up and down and up and down again. Is it just us or does everyone have this problem?
+Sigh . . .
+Now for some hot tea and forgetfulness.
+Posted by
+David Martin
+at
+2:51 PM
+1 comment:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Surly Burb
+Friday, January 01, 2010
+Video recipe
+A newly acquired friend on Facebook asked me to provide my white chocolate cheesecake recipe that I have grown quite intimate with over the last month.
+So I thought I would make it more interesting by doing it in video form--with whiteboard excitement.
+Posted by
+David Martin
+at
+7:56 PM
+2 comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+Flotsam ,
+video
+The first day of Twenty10
+Nothing has yet happened in the new year, so let's take a few sentences and review what DID happen in '09.
+I dove into the digital world with both feet this past year (even more than last year) by joining up on Twitter, Facebook, and using YouTube even more. Amazingly, my wife didn't divorce me and my kids continue to like me (most of the time).
+I started out 2009 by pledging to write something on Why Won't You Grow?! every day . . . and for the first quarter of the year, I actually did it. Go back through the archives and just take a look at the daily posts in January, February, March. I think the wheels started to go off in April and by the end of the year the postings are spotty at best. But when you consider that I was tweeting and on Facebook all the time, I suspect not more than two days went by in 2009 where I didn't put a little piece of myself out there on the Internets for people to ignore.
+The other major digital project for 2009 was, of course,
+Soup for a Year.
+And while I didn't even become Soup for a Month, it was a very interesting 15 days of soup-filled fun. Mike, Brie, and I learned more about eating liquid-based meals and money was actually raised for the Mid-Ohio Food Bank.
+I was heavily involved in digital work at my office job as well, but I don't usually go into those kinds of details here on WWYG?! so I won't talk that much about it now. As new things develop, I usually provide links to things and discuss them in oblique ways . . . and that is the way I'm keeping it. But the future looks pretty good for me at work--all things considered. There was certainly lots of ups and downs during the end of the year and many things have changed and are changing still. But I am excited about what may come.
+So far today I've gone to the grocery store, played with the kids, started some laundry, and read some of a book on my iPhone. I hope I can continue to do all of those exciting  things in the year to come.
+Posted by
+David Martin
+at
+4:07 PM
+No comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Labels:
+9 to 5 ,
+David ,
+The Internets
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+About Me
+David Martin
+View my complete profile
+WWY Cloud?!
+Family
+Flotsam
+Television
+The Internets
+David
+Surly Burb
+9 to 5
+Movies
+video
+Media
+Sarah
+Travel
+Why Won't You . . .
+Grace
+WWYG
+Hannah
+FAQ
+Mobile
+LOST Rewatch
+Harry Potter
+Audio
+The Clothing Project
+Tom Cruise is Insane
+Football Counter-Programming
+NaBloWriMo
+Guest Blogger
+Lynda
+Gratitude
+Paternity
+9to5
+Holidays
+Israel
+RTAF
+The Internets video
+Soup365
+Jaffa
+Extraordinary Chickens
+Jerusalem
+Why Won't You Check Out . . .
+btw - Election Central
+YouTube				- Why Won't You Video?!
+WWYG?! Omnimedia
+Why Won't You Write?!
+btw-Stuff You Should Know
+My Google+ Page
+My Tumblr Page
+My Facebook Page
+My Twitter Page
+Google+ Followers
+Why Won't You Search?!
+Loading...
+WWYArchive?!
+►
+2015
+(33)
+►
+October 2015
+(6)
+►
+September 2015
+(12)
+►
+August 2015
+(6)
+►
+July 2015
+(2)
+►
+June 2015
+(3)
+►
+May 2015
+(1)
+►
+April 2015
+(1)
+►
+March 2015
+(1)
+►
+January 2015
+(1)
+►
+2014
+(87)
+►
+December 2014
+(5)
+►
+November 2014
+(5)
+►
+October 2014
+(4)
+►
+September 2014
+(13)
+►
+August 2014
+(3)
+►
+July 2014
+(2)
+►
+June 2014
+(3)
+►
+May 2014
+(3)
+►
+April 2014
+(7)
+►
+March 2014
+(4)
+►
+February 2014
+(10)
+►
+January 2014
+(28)
+►
+2013
+(71)
+►
+December 2013
+(1)
+►
+November 2013
+(13)
+►
+October 2013
+(1)
+►
+September 2013
+(11)
+►
+August 2013
+(1)
+►
+July 2013
+(2)
+►
+June 2013
+(5)
+►
+May 2013
+(4)
+►
+April 2013
+(20)
+►
+March 2013
+(8)
+►
+January 2013
+(5)
+►
+2012
+(45)
+►
+December 2012
+(2)
+►
+September 2012
+(8)
+►
+August 2012
+(5)
+►
+July 2012
+(4)
+►
+June 2012
+(4)
+►
+May 2012
+(3)
+►
+April 2012
+(4)
+►
+March 2012
+(4)
+►
+February 2012
+(8)
+►
+January 2012
+(3)
+►
+2011
+(58)
+►
+December 2011
+(5)
+►
+November 2011
+(22)
+►
+October 2011
+(4)
+►
+September 2011
+(7)
+►
+August 2011
+(1)
+►
+July 2011
+(1)
+►
+June 2011
+(3)
+►
+May 2011
+(4)
+►
+April 2011
+(1)
+►
+February 2011
+(5)
+►
+January 2011
+(5)
+▼
+2010
+(128)
+►
+December 2010
+(5)
+►
+November 2010
+(3)
+►
+October 2010
+(3)
+►
+September 2010
+(7)
+►
+August 2010
+(22)
+►
+July 2010
+(11)
+►
+June 2010
+(10)
+►
+May 2010
+(9)
+►
+April 2010
+(13)
+►
+March 2010
+(21)
+►
+February 2010
+(12)
+▼
+January 2010
+(12)
+Did the world change? Well . . . no
+Say Goodbye to Everything You Thought You Knew Abo...
+Hannah's 2nd birthday
+Ted Olsen gets it right
+"The cause of . . . and solution to all of life's ...
+Murder most foul, as in the best it is, But this m...
+Disappointed
+Image theory
+What do you do . . .
+Snow is a four letter word
+Video recipe
+The first day of Twenty10
+►
+2009
+(244)
+►
+December 2009
+(11)
+►
+November 2009
+(12)
+►
+October 2009
+(12)
+►
+September 2009
+(11)
+►
+August 2009
+(19)
+►
+July 2009
+(14)
+►
+June 2009
+(19)
+►
+May 2009
+(23)
+►
+April 2009
+(27)
+►
+March 2009
+(32)
+►
+February 2009
+(30)
+►
+January 2009
+(34)
+►
+2008
+(172)
+►
+December 2008
+(14)
+►
+November 2008
+(11)
+►
+October 2008
+(13)
+►
+September 2008
+(15)
+►
+August 2008
+(8)
+►
+July 2008
+(12)
+►
+June 2008
+(11)
+►
+May 2008
+(15)
+►
+April 2008
+(28)
+►
+March 2008
+(15)
+►
+February 2008
+(7)
+►
+January 2008
+(23)
+►
+2007
+(137)
+►
+December 2007
+(13)
+►
+November 2007
+(17)
+►
+October 2007
+(16)
+►
+September 2007
+(14)
+►
+August 2007
+(10)
+►
+July 2007
+(10)
+►
+June 2007
+(10)
+►
+May 2007
+(7)
+►
+April 2007
+(11)
+►
+March 2007
+(2)
+►
+February 2007
+(8)
+►
+January 2007
+(19)
+►
+2006
+(185)
+►
+December 2006
+(9)
+►
+November 2006
+(11)
+►
+October 2006
+(11)
+►
+September 2006
+(11)
+►
+August 2006
+(16)
+►
+July 2006
+(19)
+►
+June 2006
+(13)
+►
+May 2006
+(18)
+►
+April 2006
+(16)
+►
+March 2006
+(17)
+►
+February 2006
+(21)
+►
+January 2006
+(23)
+►
+2005
+(257)
+►
+December 2005
+(24)
+►
+November 2005
+(29)
+►
+October 2005
+(19)
+►
+September 2005
+(21)
+►
+August 2005
+(28)
+►
+July 2005
+(23)
+►
+June 2005
+(25)
+►
+May 2005
+(15)
+►
+April 2005
+(20)
+►
+March 2005
+(16)
+►
+February 2005
+(20)
+►
+January 2005
+(17)
+►
+2004
+(124)
+►
+December 2004
+(25)
+►
+November 2004
+(20)
+►
+October 2004
+(24)
+►
+September 2004
+(23)
+►
+August 2004
+(32)
+Written about mine, by me, from 2004--2015. Simple template. Powered by
+Blogger .

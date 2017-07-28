@@ -1,0 +1,318 @@
+Dengue Creeps North
+Home
+About
+The Header Image
+Portfolio
+Subscribe
+Dengue Creeps North
+by
+Jennifer Frazer
+on
+July 26, 2010
+Dengue virions (virus particles). They are the stack of what look like gumballs getting ready to avalanche at upper right.
+C limate change scientists predicted this day would come:
+Dengue
+(den-GEE) Fever
+has re-entered the Florida Keys
+after an absence of 66 years. The tropical illness, once banished — like malaria– from the deep south, has re-established itself in the Florida Keys, where the CDC estimates that 5% of the population have already been infected.
+It is possible the reintroduction has nothing to do with climate change. Certainly increased international travel likely brought us West Nile virus from Eurasia independent of temperature. But warming climates make it easier for the mosquitoes who carry the virus to make a living in more and more northerly climes.
+I meant to write about this earlier when I first noticed it in the June 2 issue of
+New Scientist . But it was
+a recent article in the New York Times about how locals are shrugging it off
+that made me take notice.
+Though an initial bout with Dengue may seem relatively innocuous, that is deptive. There are four strains of the virus that cause disease, but contracting one doesn’t confer long-term immunity to the others. In fact, it seems to make things
+worse
+through a phenomenon delightfully and unusually straight-forwardly named
+original antigenic sin . If your immune system mounts a response to one form of the virus, it makes antibodies whose blueprints are remembered by special cells called memory B cells. If a slightly different version of the same thing comes along, your body will try to mount a response to it using the cells it’s already manufactured. But because they don’t match well, your immune response ends up being less effective than if it had gotten a chance to tackle the virus with a clean slate.
+Scientists hypothesize this may be the reason why people who’ve been infected twice are more likely to develop the more severe form of dengue, dengue hemorrhagic fever. Any time you see the word “hemorrhagic” in a virus’s name, that is not a good sign. It means bleeding — in this case, from leaky capillaries in such places as your gums, mouth, eyes, vagina, gut, skin pores, etc. Doesn’t that sound fun?
+And this is not a virus that only attacks the weak. Though mortality rates are low, severe outbreaks have gripped South America in the last few years, including 55,000 reported cases, over 500 cases of Dengue Hemorrhagic Fever and
+over 60 deaths in Rio de Janeiro in 2008 . Did I mention there is no vaccine or cure? Buckle your seatbelts, Southerners.
+Aedes aegypti is the mosquito carrier of the Dengue virus. As you can see, the mosquitoes are ready and willing throughout the south. According to the CDC, 2.5 billion people, or 40% of the world’s
+population, live in areas where there is a risk of dengue transmission.
+Add the United States to the list.
+Dengue viruses are in the
+Flavivirus
+family, named for the Yellow Fever Virus (Flavus is Latin for yellow)*. In this family you will also find West Nile virus, Tick-borne Encephalitis virus, and Hepatitis C virus. They’re all rather non-descript little round membrane-bound jobbies about 40-60 nanometers wide. Inside is a polyhedral (a 3-D polygon) protein structure called a nucleocapsid that is 25-30 nm across. Inside that is single-stranded positive-sense RNA (a kind of molecule that contains the information necessary to make proteins) that encodes the virus’s genes. You can get a better sense for how the capsid nestles into the lipid (fatty) membrane in the upper left image
+here . As with all viruses, the relationship between the Flaviviruses and everyone else is very uncertain, so no tree for you.
+One final, adorable note. Apparently, in rural Australia they have trained schoolchildren to depost a “water bug” (in reality a freshwater copepod awesomely called
+Mesocyclops ) that eats mosquito larvae into containers of standing water to help fight transmission of Dengue. Advantages: cost-effective, environmentally friendly. Disadvantage: the
+copepod
+is a host for the Guinea worm ( remember them? ). Good thing Australia doesn’t have Guinea worms.
+_________________________________________________________
+*Is it just me or do they need a
+Flava’Flavivirus
+family as well?
+Tagged as:
+copepods ,
+flaviviruses ,
+viruses
+{
+4
+comments… read them below or
+add one
+}
+kati
+July 27, 2010 at 9:45 pm
+yes, we definitely need a flavorflavivirus!!
+haha!
+original antigenic sin and the fact that we don’t know where viruses fit on the tree is very interesting.
+i want to know more!
+kyril
+July 31, 2010 at 11:37 am
+No-not the Flava’ virus: if “Everybody’s got flava”, how could we “fight the power” of the
+virus? It truly would be “Public Enemy #1″, and eventually it would even “get to arizona”.
+(sorry couldn’t resist).
+On another musical note, there is a Jimmy Vaughn track, “Dengue Woman Blues”, off the
+“From Dusk till Dawn” soundtrack.
+The good news is that the track is decent(if you like
+Texas guitar blues), and he clearly isn’t comparing the woman to the hemorrhagic variety.
+The environmentally friendly anti-mosquito measures in Australia are welcome news,
+especially given Australia’s tragic history of introduced pests(e.g. rabbits, feral cats, and cane toads).
+What is the biggest disaster in terms of non-native species introduction in the Americas?
+(At the non-microbial level; otherwise smallpox would probably win hands-down here,
+at least in terms of its impact on the human population. Of course, the human impact may be the wrong metric).
+Jan
+August 2, 2010 at 7:50 pm
+Nice article. Copepods of the genus Mesocyclops have been used for several years in Vietnam to control Aedes aegypti larvae in villages. This works, as in Australia, where water storage vessels aren’t washed out too often, so the copepods can persist in them; and also where the mother mosquitoes have no other places to deposit their eggs. Therefore, trash that will hold water must be cleaned up. Community recycling and biological control in one.
+Controlling Aedes this way is much less efficient if there are alternative places to breed, such as treeholes, where it’s difficult to get copepods into a high proportion of them.
+Jennifer Frazer
+August 5, 2010 at 5:56 pm
+Hmm . . . microbial non-human I’d probably argue for either Dutch Elm Disease, Chestnut Blight, or White Nose Syndrome. Non-microbial — probably humans. ; )
+Leave a Comment
+Name
+*
+E-mail
+*
+Website
+You can use these
+HTML
+tags and attributes:
+<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
+Previous post:
+50 Toddlers + One Dead Lion’s Mane Jellyfish = ?
+Next post:
+Weird Wonderfulness Central: The Ediacaran
+THIS BLOG HAS MOVED!
+As of July 5, 2011, this blog moved the bulk of its activity to Scientific American. Find it now at
+http://blogs.scientificamerican.com/artful-amoeba/ .
+Categories ‘o Cool algae
+Amoebae
+Annelids
+arachnids
+art
+arthropods
+ascomycetes
+bacteria
+basidiomycetes
+biodiversity
+bryophytes
+Charismatic microfauna
+cnidarians
+Crustaceans
+david attenborough
+diatoms
+dinoflagellates
+documentaries
+echinoderms
+Ediacaran fauna
+evolution
+fish
+flowering plants
+fossils
+freshwater life
+Fungi
+gastropods
+gymnosperms
+Heterokonts/Stramenopiles
+insects
+jellyfish
+lectures
+lichens
+mammals
+mollusks
+parasites
+plants
+Plasmodial slime molds
+protists
+Sea life
+taxonomy
+vertebrates
+Video
+viruses
+weird
+Follow me on Twitter!
+TheReefTank proudly awards this site as Recommended Reading
+Please vote for it in the
+community !
+Vote for us!
+Archives
+August 2011  (1)
+July 2011  (2)
+June 2011  (5)
+May 2011  (8)
+April 2011  (7)
+March 2011  (7)
+February 2011  (6)
+January 2011  (5)
+December 2010  (8)
+November 2010  (5)
+October 2010  (6)
+September 2010  (7)
+August 2010  (8)
+July 2010  (6)
+June 2010  (12)
+May 2010  (10)
+April 2010  (10)
+March 2010  (13)
+February 2010  (9)
+January 2010  (7)
+December 2009  (9)
+November 2009  (9)
+October 2009  (7)
+September 2009  (10)
+August 2009  (9)
+July 2009  (9)
+June 2009  (11)
+May 2009  (10)
+April 2009  (3)
+March 2009  (3)
+Recent Comments Marty Brandon on
+About Jennifer Frazer
+on
+The Incredible Inedible Pine Cone LA Babs on
+About Lobata » U.N.A.V.E.R.Z.
+on
+Wonderful Pelagic Things Wendy on
+About Blogroll
+A Digital Botanic Garden
+Beyond the Human Eye
+Botany Photo of the Day
+Catalogue of Organisms
+Cornell Mushroom Blog
+Deep Sea News
+Ediacaran
+Ever So Strange
+MycoRant
+Myrmecos
+Parasite of the Day
+Skeptic Wonder
+Small Things Considered
+The Echinoblog
+virology blog
+Categories
+algae
+Amoebae
+animals
+Annelids
+arachnids
+art
+arthropods
+ascomycetes
+bacteria
+basidiomyctes
+bdelloid rotifers
+bilaterians
+biodiversity
+birds
+blind snakes
+brown algae
+bryophytes
+bryozoans
+cellular slime molds
+cephalopods
+Charismatic microfauna
+chelicerates
+chondrichthyes
+chromalveolates
+Ciliates
+Clitellata
+cnidarians
+conifers
+copepods
+corals
+crinoids
+Crustaceans
+cryptomycetes
+Ctenophores
+Deuterostomes
+diatoms
+dinoflagellates
+dinosaurs
+ecdysozoa
+echinoderms
+Ediacaran fauna
+Enteropneusts
+Errantia
+evolution
+fish
+Flaviviruses
+flowering plants
+fossils
+freshwater life
+Fungi
+gastropods
+Giardia
+gorgonians
+gymnosperms
+Hemichordates
+Heterokonts/Stramenopiles
+icthyosaurs
+insects
+Invertebrates
+jellyfish
+lectures
+lichens
+Lobopods
+mammals
+microbes
+mites
+molds
+mollusks
+moss
+museums
+mushrooms
+myriapods
+natural history
+nematodes
+Nemertines
+nudibranchs
+OK. . . Weird.
+onychophorans
+oomycetes
+opisthokonts
+orchids
+ornithischians
+Orthoptera
+parasites
+pathogens
+pines
+plankton
+plants
+Plasmodial slime molds
+pleiosaurs
+polychaetes
+proteobacteria
+protists
+protostomes
+reptiles
+sea dragons
+Sea life
+Sedentaria
+Shrimp
+snakes
+spirochetes
+squid
+Stramenopiles/Heterokonts
+tardigrades
+taxonomy
+thread snakes
+Uncategorized
+vertebrates
+Victorian natural history
+Video
+viruses
+Zygomycetes
+Get smart with the
+Thesis WordPress Theme
+from DIYthemes.
+WordPress Admin

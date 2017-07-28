@@ -1,0 +1,74 @@
+Aggression; shall we always blame it on the Genes?
+This paper reflects the research and thoughts of a student at the time the paper was written for a course at Bryn Mawr College.
+Like other materials
+on
+Serendip , it is not intended to be "authoritative" but rather to help others further develop their own explorations.
+Web links were
+active as of the time the paper was posted but are not updated .
+Contribute Thoughts
+|
+Search Serendip for Other Papers
+|
+Serendip Home Page
+Biology 202
+2006 Second Web Paper
+On
+Serendip
+Aggression; shall we always blame it on the Genes?
+Whitney McDonald
+I noticed in my childhood, whenever I or one of my siblings did something mean or aggressive one of our parents would ask, "I wonder where they get that from? Oh it must be from you're side". I also noticed this in the biological / psychological world that same emphasis is placed on blaming genes for behavior, but what about the environment? In terms of aggression I looked into various areas of aggression, social hierarchies play fighting and harm avoidance, and their relative social context's investigating how, where, and why aggression is stimulated and induced. Furthermore, Dopamine, the chemical in the nervous system that facilitates the aggressiveness and/or passivity, is explored in it's role with aggression and what parts of the brain this chemical is more prevalent and at what time. However in this paper you will find that aggression is stimulated by the social environment not by chemical concentration in the body. Those chemical concentrations respond to environmental stimuli by creating chemical balances. Animals have an equal amount of aggression that can be produced but what differs individually is the distribution (i.e. control) of aggression, this distribution is a factor of chemical balances in the body.
+Let's start with social dominance. An experiment was done with Anolis corolinensis Lizards examining visual stimulus that induced and/ or stimulated aggressive behavior. This stimulus was a darkened part of the lizard's skin call the "eyespot". When this spot is seen by an opponent the opponent becomes less aggressive and thus submissive to the lizard with the dark spot
+(1) . The chemical presence of dopamine (DA) was measured in the submissive and aggressive lizards. It was found that the subordinate lizards produced a increased amount of DA in the Raphe and a section of the brain the deals with emotion and fear response
+(4e)
+&
+(4a) . There was a decreased amount of DA in the hippocampus
+which deals with memory and navigation and in the Locus Ceuleus part of the brain that deals with stress and panic
+(1)
+& ( (4) . The complete opposite effect happens to the dopamine levels in the dominant lizard. Dopamine is often compared to adrenaline because it is the chemical that deals with action and pleasure
+(4b) . However from this experiment it may be interpreted that the dopamine levels was the stimulus for aggressive behavior when in fact the stimulus was the "eye spot". This environmental stimulus created the dominant and subordinate social status in the lizards. It was also found that when a lizard was put in front of a mirror image no hierarchical status was formed; when a lizard with a darkened "eye spot" encounters another lizard with an dark "eye spot" the lizard with the covered "eye spot" becomes submissive
+(1) . This finding alludes to the idea that genes do not influence hierarchical status the environment does. The environment creates the stimulus and it is that stimulus that influences the dopamine levels in the body to become submissive or aggressive. These lizards count on the environmental stimulus of the darkened "eye spot" to determine social hierarchy. This can also be analogues to humans and how hierarchies are formed (i.e. determining if one could beat another in a fight by seeing if they are physically fit to take on the opponent).
+Let's further investigate this idea through the research of aggressive play. Rats were studied as they underwent aggressive play with dominant and subordinate rats in relation to themselves. The most concrete defining factor for hierarchy was age. One group of rats in adulthood and the other in infancy were taken to have their orbital frontal cortex (OFC) damaged to see its effects on social behavior through aggressive play.
+In the control rat group it was observed that subordinate rats would play more aggressively to the dominant rat and the dominant rat would make less playful attacks on the subordinate rat. Those rats with damage to the OFC in adult hood did not exhibit many changes in social behavior, however the infants did in fact treat dominant rats the same as they would peers and subordinate rats
+(2) .
+From this analysis it is made clear that the infant rats were not able to receive proper stimulus in order to differentiate between the dominant, subordinate and the self as a figure in aggressive play. They then therefore treated all playful opponents the same, not altering aggressive behavior. This non discrimination between dominant figures often leads to an actual fight between the dominant and the infant rats
+(2) . This also presents the idea that the OFC damage to the brain did not inhibit the rat from becoming aggressive; however it did influence how the aggressive behavior was used.
+This brings us back to my previous argument that environment is what most influences aggression. The rat clearly was able to be aggressive but the distribution of aggression was changed by the change in the rats biology. Aggression is not inhibited because a certain part of the brain was altered but the way and which that aggression is used is most altered.
+Lastly let's further examine this idea in an experiment investigating the chemical roots of harm avoidance in rats. An experiment took rats and measured there level of harm avoidance by measuring the levels of dopamine in the brain. They did this by placing rats in an open apparatus with square holes. The rats were to investigate the holes the more or less the rat explored the hole alludes to the rats' level of harm avoidance or aggression
+(3) . After this their chemical levels were measured as a more concrete way to measure aggressiveness.
+It was found that rats with low dopamine levels are associated with more ambitious aggressive rats
+(3) . However, this research lacks a social dimension that is found in the other experiments by using the levels of dopamine in the system to account for aggressive behavior. However aggression is a social construct and therefore social interactions to compare one partner against the other would be a better way to categorize aggressiveness for animals. Therefore I would conclude by this experiment that under non social conditions aggressive potential can be determined merely by the levels of dopamine in the system. However under social conditions it is the environment that stimulates aggressive behavior and determines the distribution of social hierarchy, and therefore determining level of aggressive potential. In non-social conditions chemical balances of dopamine in the body do not allude to how aggressive one is or why aggressiveness starts but helps allude to that individual's aggressive distribution (i.e. preference) for that particular situation.
+In conclusion, there are many debates in the biology and psychology world that questions ability for one to be aggressive, yet many of those that question fail to take into account the environment and how that influences aggression. Aggression is a social construct and the only way one can be categorized as aggressive or passive would be to measure him/her among others. Therefore it is my finding that every animal is capable of aggression, but what differs are the environmental stimuli and the distribution of aggressiveness. The stimulus of aggressive behavior is based on the environment, yet how aggression is used is based on the chemical balances of the nervous system
+Reference List
+1) Korzan, J. Wayne. Et al. "Dopaminergic Activity Via Aggression, Status, and a Visual Social Signal." Behavioral Neuroscience 120 (2006): 93-100.
+2) Pellis, M. Sergio. Et al. "The Effects of Frontal Cortex Damage on the modulation od Defensive Responses by Rats in Playful and Nonplayful Social Contests." Behavioral Neuroscience 120 (2006): 72-84.
+3) Ray, J. & Hansen S. Et al. "Links between Temperamental Dimensions and Brain Monoamines in the Rat." Behavioral Neuroscience 120 (2006): 85-92.
+4)
+Wikipedia
+4a)
+Amygdala
+Updated 2 April 2006. Cited 30 March 2006.
+4b)
+Dopamine
+Updated 2 April 2006. Cited 30 March 2006.
+4c)
+Hippocampus
+Updated 2 April 2006. Cited 30 March 2006.
+4d)
+Locus_ceruleus
+Updated 2 April 2006. Cited 30 March 2006.
+4e)
+Raphe
+Updated 2 April 2006. Cited 30 March 2006.
+4f)
+Striatum
+Updated 2 April 2006. Cited 30 March 2006.
+|
+Course Home
+|
+Serendip Home
+|
+Send us your comments at
+Serendip
+© by Serendip 1994-
+- Last Modified:
+Friday, 21-Apr-2006 10:00:53 EDT

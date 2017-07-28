@@ -1,0 +1,49 @@
+How to Make the Best Cup of Coffee at Home - Larry Wright - The Curiousity Project
+Blog
+About
+How to Make the Best Cup of Coffee at Home
+05.25.2012
+/
+Categories:
+Stuff I Like
+I am a huge fan of coffee and over the years I have tried a lot of different means of preparing it. I currently own a french press, a drip maker, and a stovetop espresso pot. All of these make good coffee, with each having its own set of pros and cons. Last year, however, I discovered the best method for brewing coffee:
+Aeropress . It makes delicious coffee, takes up almost no space in your kitchen, and cleanup is easy.
+The Aeropress works kind of like an espresso maker, though at a much lower pressure. The coffee it produces is espresso strength. This means you can drink it like an espresso or use it to create espresso-based drinks like Cafe Au Lait or Capuccino. I add hot water to mine to make an
+Americano .
+Since getting the Aeropress, it’s been the only method I’ve used to brew coffee. It’s replaced the drip machine in our kitchen. It takes up almost no space, travels well, and produces consistently great coffee. Perhaps the greatest feature is the one I haven’t mentioned yet: price. It will set you back a little more than $20, much lower than a decent home espresso machine or even a drip coffee maker. It’s great for traveling or camping. Any place you can make hot water, you can make coffee with the Aeropress.
+One caveat: you will need a coffee grinder, or a place to buy beans that will grind them for you. Coffee ground for a drip coffee maker won’t work (which rules out pretty much all pre-ground coffee you would get at the store). You need grounds that are somewhere between espresso and drip. You’re really going to want a conical burr grinder, similar to this one: I suspect if you’ve read this far than you either have one or are willing to buy one.
+In summary: If you enjoy great coffee, you need an
+Aeropress .
+To get an even better idea of how it works, check out this short video:
+If you enjoyed what you've read here today, please consider
+subscribing to my
+RSS Feed
+View
+the discussion thread. blog
+comments powered by
+Disqus
+Recent Articles
+Cyclemeter for iOS: A Great App for Cyclists (and Runners Too)
+How to Use Prismatic to Discover the News You Care About
+How to Make the Best Cup of Coffee at Home
+Cool Tool: If This Then That
+Steve Jobs
+Backing Up Your Data With Fog
+Handling Incoming Email With Your Web Application
+The Week in Links - 12/4/2010
+The Week in Links - 11/11/2010
+Training Your Technical Staff When You Don't Have a Budget
+The Tools I Use
+Generating Realistic Test Data With Ruby
+A Collection of Great Tools for the Ruby Developer
+The Programmable Government
+A Brief Introduction to the Arduino
+Subscribe
+Subscribe to the feed
+Twitterings
+All content copyright
+2005-2008
+Larry Wright
+Please
+don't steal my stuff kthxbye
+,

@@ -1,0 +1,329 @@
+architecture 417: boundary language seminar
+DOCUMENTS
+architecture / SALA / penn state university /
+back to seminar home page
+seminar description
+/
+schedule
+/
+notes
+/
+briefs
+/
+assignments
+/
+documents
+/
+sources
+The strategy of the documents is to keep the reader hopping around in a game-like search for clues. All 'marelles' (this is the French word for ' hopscotch ', meaning 'stones') are authored by D. Kunze and may be distributed more or less freely;
+the reprints have varying provenance and are for class use only.
+marelles
+/
+Download for use in seminar, studio, and self-study. PDF downloads may be stored or printed out for seminar/studio use and distributed with permission of the author.
+introductory: why study boundary language?
+Marcel Duchamp stated it simply: our culture is built around the production and consumption of objects whose utility falls outside the domain of needs for shelter, food, and security. This surplus is sustained by desire, but even more important is the structure of desire that, despite failures, gaps, misapplications, and breakdowns creates a zone materialized by the imagination to influence events in every domain of life. There are two directions to follow: (1) the study of specific cases where technology demands our specific response and extends this demand to social structure and thought; and (2) the study of the uncanny, which attempts to isolate terms
+but then blurs that separation.
+introductory: the three components of the uncanny:
+Three themes resonate within the uncanny: anamorphosis (and the dialectical opposition it presumes), the phenomenon of the voice, and the cultural use of cinema to educate us about the uncanny in relation to desire. These three components are structurally related and logically intertwined. Each theme stands on its own in terms of traditions within culture and the arts and sciences. Anamorphosis appears in many guises, for example, but its most characteristic historical treatment occurs with the Enlightenment, demonstrating that the uncanny parallels historical change with its own adaptations. The voice, which never quite belongs to the subject or his/her body, has a leading role in ancient religion but makes a striking come-back with the advent of technologies allowing for its actual displacement. Finally, the cinema cannot be considered simply a way of illustrating or applying the uncanny, but the place our culture goes to learn about the uncanny and its basis  the structure of desire.
+introductory: the four discourses
+Jacques Lacan's theory of the four discourses (Master-servant, the Hysteric, the University, Psychoanalysis) lay out a curious case for contingency: meaning is at once 'the same and different' because of the positions taken up by four constant elements which rotate within a fixed, charged field (Agent, Other, Production, Truth). This field can be related to a topology recognizable in some famous works of architecture and art; and it can further be related to the common model of Enlightenment knowledge, the 'cone of vision'.
+introductory: 'comment j'ai ecrit
+'
+Boundary language may appear to be, primarily, a technique, and a reductionistic one at that, for dealing with spatial and temporal complexity. The method is hardly such, in the sense that a neutral tool is set up for wide application to materials that it immediately renders understandable. If anything, boundary language complicates the issue, introduces its own gratuitous perplexities, takes familiar situations and renders them unintelligible. This apologia attempts to lay out the method behind the evolution of the boundary language approach to lay bare the real basis of study: an essential means of keeping open the essential gaps required of truly live theory.
+introductory: work ethic
+Work is a concept central to life and to any part of it making the ultimate affirmation of some relation to phronesis  the cumulative knowledge of what holds human life together and permits us the myriad work-arounds that keep life going in spite of the traumas, stale-mates, impasses, and disasters, both man-made and natural. As Freud said, it is neurosis that protects us from being full-blown psychotics; just so it is work that casts what we must do into what we should do, and even enjoy doing (perversely) to the extent that work, plus love, are the two components that make life worth living.
+introductory: theory of everything
+Every theory is in reality a theory of everything if it at all pretends to be consistent. The momentary focus on the pre-Surrealism of Roussel presses the question of the absurd: in the face of non-meaning or resistance to apparent conventional meaning, what is the status of the audience, the work of art, and the relation between the two?
+introductory: theory, stereognosis, and proprioception
+Architecture requires theory because of demands excess beyond need and this excesss attachment to the traumas of the psyche, converted into anamorphic issues of identity that are mirrored in the topology of houses, cities, and landscapes. Stereognosis (de-centering of the world based on minimal difference) and propriocept (the organ as a partial object relating imperfectly to nature). Restoration of theory involves an ars topica, an understanding of the relation of voice (the essence of the uncanny) to the use and conception of boundaries and bounded spaces.
+introductory: aristotle's four causes, parallax view
+Aristotle famously distinguished four separate kinds of causality: formal (the shape and appearance of something), efficient (the way it got that way), material (the stuff that holds it up), and final (the reason for doing it in the first place). The classic example is that of a bronze statue of Apollo, whose form makes it recognizable and worship-able as the god, whose bronze gives it structural permanence, whose artisans relied on specific techniques of design and manufacture, and whose reason for being was that the people needed the statue of a god to worship. A closer examination shows how operators create an order that emanates from form and establishes distances that can be closed up by ideology or held open by the symptom/sinthom.
+introductory: aristotle's four causes, part 2
+The operator of artifact and representation expands the four-part system from within and on the edges. Intention reveals further complexity; materials magical past is excavated. Taking the system to the ultimate formless finds a margin that re-attaches to the systems formal center, and the call to form itself, plus the failures as well as successes of formation, pull the abject into the middle, just as the operator suggest a jewel-like and fractal-like quality of each part-to-part relationship.
+zeuxis and the partial object
+The famous Greek painter Zeuxis figures in two important anecdotes relating to Lacanian themes. In the first, the painter is exiled to a remote island where the women are notoriously ugly, but he assembles a painting of the most beautiful woman in the world by selecting comely parts from a number of models. In the second, he is the loser in a contest with a rival, Parrhasius, who instead of painting a realistic scene depicts a curtain, which the judges presumed to be a part of the contest apparatus. In the later case, we have the prototypical partial object, the inside frame, a spatial division projected by the subject. In the former we have the more accustomed example of a body part, isolated and eligible for an ideal reassembly through the devices of the artist. Either way, we have good illustrations of this difficult Lacanian concept but also an indication that, as a concept, its been around for quite a long time!
+figures overview:
+(in progress) The rhetorical 'figure' or trope is a strategy for transformation that presumes the presence and specific positioning of an audience. Because of the role played by space (and time), architecture, landscape architecture, film, visual arts, and other spatial studies consciously or unconsciously use these strategies to effect specific outcomes and conditions. This is an overview of a primary list of figures that are prominent in spatial studies.
+anacoluthon
+This all-purpose figure serves as a master-trope for other figures. Psychologists use a form of it as a 'minimal unit of consciousness' and thus it is curiously related to the automaton phenomenon and the more general issue of artificial intelligence. Anacoluthon involves negation, reversal, and travel through time.
+the root of distinction
+The modern uncanny, based on the blurring of distinctions that maintain distance between polar terms, can be retraced to discover how the distance collapsed by the uncanny was a matter of, simultaneously, near and far. This raises the issue of the distinction itself. As such, the distinction is usually given value by what it divides: ideas, territory, periods of time, logical status. Finding any essence would seem counterproductive. But, in the case of the uncanny, it is the blurring, and the effect of the uncanny itself, with the attendant collapse of distance, that points directly to just such an essence.
+hieroglyphic travel
+A follow-up analysis for Henry Johnstone's essay on Categories of Travel. Travel as a hieroglyphic follows the Lacanian design of the gapped circle of desire. The object of desire (a) is the basis of a gap in a circle whose shape describes both a motion of return and a concealed identity of opposites. In the case of travel, return is the fractal structure of the travel experience  its susceptibility to structures of the fantastic (travel through time, story in a story, contamination of reality by the dream, the double). The identity of opposites is the ability of travel to organize experience by dividing the travel world from the traveler, where the distance separating them is epistemic (gnostic) and locational as well as practical. The gap created by desire maintains the travel experience as one that is face to face (and, hence, stereognostic, or characterized by a left-right structure) and extimate (inside-out, where the landscape functions as a gnostic, or teaching, body.
+metalepsis
+In Lacanian terms, laws are tautologically symmetrical and complete: action implies reaction, etc. The case of cause is different. It is known only when something stops working, when there is a dysfunction, a break between cause and effect. This break is a gap that can be filled, and must be filled, with fantasy. Here, five key terms interact: metalepsis (the role of metonymy), analepsis (the recovery of a lost state or object), anamorphosis (partial objects), the construction of objects and bridge ideas to cover up the existence of the gap, flash!, the sudden encounter with an (ungrammatical) element that collapses space and time dimensions used to construct a metaphoric, stable picture of reality, and chiaroscuro, the strategies by which the gap and its materializations can be "slowed down" enough to be experienced in narrative or visual terms. Because chiaroscuro involves framing in two possible directions (in the line of travel or to the side of the line of travel), the issues of stereognosis apply.
+matheme
+Lacan's term for an all-purpose and open-ended connection has a particular application in boundary language, as an 'operator' controlling relationships between intended and unintended meanings. This analysis connects the matheme to George Spencer-Brown's calculus notation.
+bolagrams
+The central graphic argument for the radical topology of the boundary and its relation to the uncanny is condensed in the BoLaGram ('BOundary LAnguage diaGRAM'), a relationship derived in part from Lacan's famous 'L-scheme'.
+cycles
+Circular diagrams carry the logic of the bolagram to narrative forms that feature the role of the 'impossible/Real' objects of desire that are the basis of the 'return of the Real'.
+L-scheme (Lacan)
+In the late 1950s, Lacan began characterizing his psychoanalytical theory through diagrams. He developed a systematic algebra using symbols for the Big Other, the subject, etc. and open-ended relationships such as the matheme (poinçon). The first schema was designated as the L-scheme because it resembled the upper case Greek letter, lambda.
+L-scheme variations
+Mladen Dolar adopts the L-scheme to the theme of the uncanny in the story of The Sandman, which is the starting point for connecting the L-scheme to the bolagram and Möbius-band.
+labyrinth
+The world-famous Thesean labyrinth is in fact a meander, not a maze. Its twisting paths are not random but in fact two nested sets of left-right-left turns that indicate a fractal pattern characteristic of mathematically recursive figures. Stories associated with the labyrinth  most famously the stories of Dædalus and later Theseus and Ariadne  suggest close interplay between the geometry of the physical space and the topology of narrative itself.
+Möbius strip
+The familiar twisted strip of paper that produces a single surfaced and single edged topology serves to illustrate the central phenomena of boundary language topology: recursion and self-reference are FUNDAMENTALLY a matter of the uncanny erasure of the distinction between inside and outside and, hence, of primary architectural interest.
+Möbius spin-offs
+Just as Lacan derived his L-schema and other key concepts from the image and idea of the Möbius band, the Boundary Language system elaborates the Möbius band into its basic diagramatic devices: the twisted box, the operator, anamorphosis, and the BoLaGram (boundary language diagram) itself. The BoLaGram is covered in detail elsewhere, but the basic twisted rectangle with anamorphic crossing will be introduced as a version of the Möbius band.
+operators
+The arbitrary name of operator is given to the relationship of two vectors present in every representation, roughly corresponding to the signifier and signified  the representation (signified) and artifact (signifier). Saussures point, that the signifier must be arbitrarily chosen is shown by the initial orthogonal relationship between the vectors. What happens in art and literature, of course, is that the role of the signifier becomes a repository for concealed meanings that may later come to light; hence, the S/s formula for the sign becomes intrinsically an occasion for the uncanny collapse of the signifiers vector on to the plane of representation.
+dyads: pre-enlightenment
+(in progress) The uncanny is about the blurred distinction between such classic opposed pairs as inside-outside, here-there, self-other, mind-body  in other words, dichotomies that the Enlightenment strived to formalize and stabilize through programs of ideologically organized signification. The uncanny is frequently interpreted as the breakdown of these stabilized oppositions, but in fact the pairs AND their blurred overlapping spaces were traditionally contained within pre-Enlightenment ritual, religion, and folk practices. This series of 'dyads' looks at pre- and post-Enlightenment oppositions to show specific strategies of insulation and contamination.
+perspective
+Perspective, far from being the way that we naturally see, is a highly constructed set of visual conventions that charges the visual field  in and out of graphic representation occasions  with ideological mandates and presuppositions. Through the instructive function of perspectival scenery in popular culture (print, film, photography, etc.), everyday visual perception carries over the habits introduced by graphic convention. Trained to see through ideology, perception creates the categories and identities that are readily filled in sense encounters, proving the ideological basis to be empirically valid although the data has been fixed from the start. It is possible to use Lacans L-scheme to recover the forensic pattern of ideological structuring that creates the uncanny reversal of cause and effect so that perception appears to endorse ideological significations.
+point-of-view / vanishing-point
+Examples from painting and film demonstrate quickly that there are important consequences following the choice of locating the point of view (subject, the ultimate inside) and vanishing point (or, unreachable object, the ultimate outside) inside the frame of representation, outside the frame of representation, or in a special category within the frame of representation that counts as an outpost for subjective observation, such as Jeff Jefferies studio apartment in Hitchcocks
+Rear Window .
+the inside frame
+In film, the reverse-angle shot turns from what the subject (POV) is looking at to see the subject's reaction. The subject becomes the vanishing point, a problematic exposure that inverts the logic of looking and reduces the representation to the function of an 'inside frame' that inverts the scene. This is a useful device in dramatic terms (the wrongly accused fugitive, one of Hitchcock's favorite themes) but it also reveals the logic behind the 'Enlightenment subject' who, as hysteric, is not after knowledge but rather is the victim/fictim of imagined observation (interpellation) and, hence, obedient to the Panoptical commands of knowledge, empty but compelling.
+locus solus
+When the uncanny is turned on itself, new dimensions can unexpected sources. This is the surprising result of looking closely at the symbols arbitrarily chosen to signify the fields and elements of the bolagram: A, a, f, $, Ø,
+&Mac198;) and &Mac185; (&Mac189;). The two others, big (A) and small (a) use the French word autre, whose first letter is, conveniently enough, the ox, from whom we get the style of writing alternatively left-to-right and right-to-left, the boustrophodon.
+The little calf brings in the issue of sacrifice, an element key to the small object-cause of desire.
+vertigo as boundary language laboratory
+Alfred Hitchcocks 1958 film Vertigo involves issues central to boundary language and critical theory as a whole. The theme of falling and fear of heights goes directly to the bodys resistance to falling, a stereognostic defense against the death drive; but the death drive itself, in its involvement with the Lacanian partial object (a), leads directly to the logic of the hysteric: pleasure is reported as pain. The vanishing point is enlisted as the ultimate partial object. The hysterical subject is caught between two alienating Others, one a Mr. Big who pulls the strings from behind the scenes; at the antipode is the interpellating dipal force of the Law, whose exception, interpreted as spatial poché, offers the Hitchcockian hysteric some promise of escape. Not so in Vertigo, however, where all points vanish down.
+uncanny 're-trace'
+As Mladen Dolar demonstrates, the Enlightenment converts pre-Enlightenment uncanny traditions (the evil eye, magic boundaries, alchemical transformations, etc.) into stable relationships typically defined through a dichotomous opposition: figure-ground, inside-outside, subject-object. Behind nearly every classic rationalist dyad lies an uncanny tradition that, when excavated from its folkloric, mythic, or religious-ritualistic context, reveals a structure akin to the suture of the anamorphic operator, whose Möbius-band like pathway involves dislocation of the stable categories and positions imposed by the Enlightenment.
+Vico-Lacan
+What if Western thoughts two most original thinkers actually coincided on many if not most points of their theories of humanity? This thesis argues that Giambattista Vico (1668-1744), viewed topologically, is the unrecognized precursor of Jacques Lacan; and that Lacan succeeds in refitting Vicos New Science for modern and post-modern mentalities. Significantly, both thinkers are linked through the devices of the uncanny: internal boundaries and frames, the role of the voice, and the reversal of Enlightenment dichotomies.
+diagrams: the gap
+In Freuds story about his grandsons game of  fort  and  da , the child plays with a spool with a thread attached to allow him to throw it out and retrieve it. Freud hypothesizes that the game is related to the mothers recent departure, and that the child is coming to terms with the spatial structure of here and there that define his isolation and the promise of return. Between
+fort
+and
+da , Lacan remarks, opens a gap. The two are no longer a part of a continuum of nearer and further away but a part of a dichotomous absolute that, like left and right, valorizes the near and far as such. What about that gap? Is it an accident of the encounter between topology and child development or, in fact, a key to the essential qualities that make human space human?
+diagrams: the square wave and its progeny
+The square wave is the electronic signature of anamorphosis: an alternation between two states without an intermediary position. What if this diagrammatic form should also apply to the alternative between action and exposition in narrative, or to the opposed positions of the Hegelian dialectic? As if thats not enough, consider the Bergsonian time sequence, which Henri Bergson compared to the cinematic progression of still images that psychologically produce the illusion of movement, via the phi (really beta) phenomenon? But, wait! Theres more! The temporal sequence contains, by virtue of its coherence, an uncanny relation to the forms of discourse Lacan outlined in
+The Other Side of Psychoanalysis .
+boundary language method
+In addition to this web site, a number of articles, chapters in books, lectures, workshops, and other activities have been generated by the boundary language collaborative. This is a bibliography of that work.
+technique:
+the Bavcar method
+The blind Slovenian photographer Evgen Bavcar ('e-oo-gen ba-oo-char') points the way to a method of designing by means of a variable point-of-view and vanishing point  i.e. by treating the frame as a control variable capable of constructing rhetorically sophisticated audience relationships. This extends the idea of 'fictim design' (the incorporation of narrative within the design process) by exploring the role of discourse and an uncanny reversal of projective representation.
+technique:
+the maquette
+Painters, sculptors, and film art directors have long relied on the maquette to structure the final appearance of their works of art. As examples from Picasso show, maquette's demonstrate just how varied the space of construction, where the project develops both as an idea and material presence, can be.
+technique: fictim design
+This techique is not as weird as it sounds. Coined as a neologism (fictim = fictional victim, where 'victim' is a character invented in order to be destroyed) in parallel to Lacan's neologism 'sinthom' (symptom created as an intentional work of art), the fictim is a narrative or inventive line that carries a project into a different register or key by reframing it. In the fictim design strategy, multiple lines of action carry on the project at different levels and in different keys. The lines may intersect, combine, terminate, engulf, or in any other way undermine the normative instrumental problem-solution structure of the project.
+technique: the studio
+Bigger visions require group efforts, so a different concept of a project is needed. First: a strategy that allows us to both individualize and collectivize at the same time. (This will involve fictional designers and design sources.) Second: a different kind of terminus, not the jury-style judgment day of most projects but an event, performance, or demonstration that turns the jury into an audience. Third: work sessions where any creative discoveries ricochet around the studio and produce multiple nuclear reactions. This will be the kind of project that is covered by the credits at the end of a film, where the director and producer are only symbolic figures for a large group where everyone must do their own composition, rehearsal, and production. For a list of jobs see the
+sign-up descriptive sheet .
+technique: storyboarding
+Film directors use storyboards to study the logic of their films. Each shot (continuous piece of film) has a logic associated with its set-up (two-shot, reverse angle, eye-line match, etc.) and can be represented by one or two boards. A shot relates the point of view (POV) with the virtual or actual vanishing point (VP), or objects that stand for the POV and VP. This primary relationship determines the dynamics of the field and its relation to the tonal domain of the sequence of shots. Shot examples shown are from Michaelangelo Antonionis film
+Blow-Up
+(1966).
+technique: Roussel's three tricks
+Raymond Roussel revealed his compositional method in a striking exposé,
+How I Wrote Certain of my Books
+( Comment jai écrit certains de mes livres , 1935). His method, called his
+procédé , began with a word or phrase that was reworked, with puns or re-associations of letters making different words, into a word or phrase that ended the book. Two lesser known techniques, however, are equally intriguing: the expansion of a highly detailed view out of an impossibly small image or opening; and a conversion of meanings by inverting the order of reading texts.
+technique: drawing
+Drawing is so often used as a communications tool that its use in the meditative project of analepsis (restoration/recovery) is easily forgotten. Analepsis is the active component of anamensis (Platonic memory) which is constructive memory, the beneficial counterpart of the well-known psychological phenomenon of false memory. Used by mnenonic mystics in the 16c., constructive memory adapted visualization procedures to recover images as if they were discovered within an archaeological sequence of the past. See video examples of the drawing techniques (below).
+technique: seven steps of fictim design
+Fictim design involves disaggregating the design process, associating various levels, strategies and stages with narratives invented to elaborate the temporal potentialities of each element (=fictionalization). By including fictional elements alongside real world parameters and mandates, the project is allowed to experiment through the notion of an expanded dimensionality.
+technique: making a site model
+Ancient surveying and town foundation practices reveal a strikingly complex array of factors traditionally considered before laying out buildings or even consecrating the site. Fustel de Coulanges describes many of these in
+The Ancient City ; Joseph Rykwert summarizes them in his book,
+The Idea of a Town . Our site survey will be guided by a site model developed in Surrealistic fashion as a maquette abbreviating selected interests in the site and directing investigations/interventions towards specific elements and themes.
+technique: use of gesture
+In the design of architecture and landscape, the role of dynamics is evident not simply in accommodation of the (presumably) mobile behaviors of the occupants and their perceptions but as an indicator of a signifier-ness (a sense of meaningfulness without any particular meaning attached). Gesture stands for the ways in which material form can be imagined to express in ways analogous to human gesturing: pointing, opening, perching, facing, gazing, sneaking, waiting
+in short, the full range of dramatic positions that an actor on the stage might take to indicate attitude, intention, emotion, or rôle.
+Reprints /
+All reprints are, for legal reasons, for the exclusive use only by registered students of courses at Penn State University or the Louisiana
+State University. Most texts may not be duplicated.
+Sigmund Freud, "The Uncanny "
+This classic essay marked the beginning and end of Freud's realization of the uncanny's centrality to the science of psychoanalysis. Why did Freud seem to forget this important discovery?
+Henry Johnstone, Jr., "Odysseus as Traveler "
+This philosophical study of travel demonstrates continuity between theories of mind and narratives of movement, encounter, obstacle, and invention.
+Peter Donaldson, "Film Editing Terms "
+Donaldson summarizes key terms used in film production and editing. For analogies between film and architectural/landscape projects, see also the 'Bavcar Method' and 'The Maquette'.
+D. Kunze, "The Anxious Landscape "
+This essay studies the spatial inversion that is the signature of hysterical narrative. Analysis of the Hitchcock film
+North by Northwest
+shows how discourse and the spaces of landscape and architecture are intricately involved.
+D. Kunze, "Architecture and Its Doubles "
+The filmic term of the 'fourth wall' involves a flip of space that is key to the theological meaning of Eden, as well as to the uncanny structures that consolidate meanings and uses of 'liminal' space.
+D. Kunze, "Vico Revisited "
+The theory of culture developed by Giambattista Vico in the 18c. comes strikingly close to being a knock-off. The problem with this theory is that Lacan didn't develop his 'original' for another 200 years, and he did so without referring to Vico's shameless copy. In this Borgesian example of history reversal, we find a method of historical recovery ('analepsis') based on the Lacanian mirror stage, just as Vico directly (and Rousselianly) used the idea of the antipode to complete the first voice-generated metaphor that began human culture with a final voice, an anti-metaphor. Nothing could be more Surreal. This article will appear shortly in
+The International Encyclopedia of Human Geography , ed. Rob Kitchin and Nigel Thrift (London: Elsevier, anticipated 2008).
+D. Kunze, "Babel and Rear Window "
+Hitchcock's classic film demonstrates the durability of the Babel myth but reveals the subtle back-stories that undermine the usual interpretations of this Biblical tradition.
+D. Kunze, "Handlist of Categories of Travel "
+Henry Johnstone's categories of travel constitute a program for architectural intervention. This shortlist summarizes Johnstone's article in terms of the functions of travel and their consequences.
+D. Kunze, "The Hieroglyphics of Travel "
+This tabular analysis of Johnstone's categories of travel reveals a structural relationship that is both genetic and strategic.
+D. Kunze, "Lessons from Hitchcock "
+Films do not illustrate the uncanny but are in effect the place where we, as a 'general public', are instructed as to the use and meaning of the uncanny.
+D. Kunze, "Minding the Gap in Architectural Speculation "
+This is a reprint of an article published in
+T he
+Journal of Architectural Education
+61:1. It introduces the idea of the 'operator' and explains how recognizing operators is essential to resisting ideological sedimentation in pedagogy and theory.
+D. Kunze, "The Natural Attitude versus the Uncanny "
+This paper summarizes and reorganizes a theory of the uncanny in terms of architectural meaning.
+D. Kunze, "Revisiting the Uncanny "
+This paper argues that Vidler's identification of the uncanny with modernism limits a broader understanding of its relationship to boundary use.
+E. T. A. Hoffman, "The Sandman "
+This short story was the inspiration of Freud's seminal essay on the uncanny. Coincidentally, it is one of Alfred Hitchcock's favorite literary sources. Read it to find how the uncanny contains the three themes recognized by Freud: optics and identity.
+Mladen Dolar, "Lacan and the Uncanny "
+The uncanny was central (but forgotten) by Freud. Lacan did somewhat better, but did not make his debt to the uncanny clear. Dolar corrects this.
+E. A. Poe, "The Purloined Letter "
+Lacan's theory of the three-part gaze is based on this seminal detective thriller by Poe.
+Jacques Lacan, Essay on 'The Purloined Letter '
+Although Derrida made the gaze famous in cultural studies, he did not understand Lacan's more comprehensive view of the gaze, that it is both reciprocal and tripartite.
+Jacques Derrida, "Purveyor of Truth "
+Derrida was aware of Lacan's interest in 'The Purloined Letter' but preferred to displace the discussion through a variety of tropes.
+Jean-Paul Sartre, "Pierre Is Not There " (excerpt from
+Being and Nothingness)
+Sartre famously describes the positive impact of the negative in the example of Pierre, a friend who does not show up at the appointed time; an interesting interpretation of figure and ground in perception.
+G. K. Chesterton, "The Queer Feet "
+If you need a story that demonstrates the contrast between 'transitive' and 'intransitive' space, this is it. Chesterton's story of Father Brown's acousmatic intercession into the attempted theft of silver from an exclusive men's' club is delightfully snobbish and Marxist at the same time.
+Henry James, "The Turn of the Screw "
+This is James first and possibly only Gingrich tale of the supernatural. Its symmetries, true to James' attention to detail and structure, are perfect.
+Numa Denis Fustel de Coulanges , The Ancient City
+This groundbreaking classic text focused classical scholarship on issues of the boundary, the sacred precinct, and spatial relations connecting the living with the ancestral dead and the idea of the polis. Link thanks to Batoche Books, South Kitchener, Ontario.
+Voltaire, "Micromegas "
+This fantastic tale of cosmic personalities inspired Calvino's
+Cosmicomics
+and is the basis of our spatial idea underlying the garden of Locus Solus.
+films:
+Films are chosen that illustrate/teach boundary conditions that relate directly to framing conditions that, in Lacan's terms, mediate the imaginary, the symbolic, and the Real (in Freud's terms, the ego, the super-ego, and the id). But, relax. This is not about psychoanalysis except where it gets to be absolutely too juicy to avoid. It's also to get us ready for Slavoj Zizek's hilarious "Pervert's Guide to the Cinema," which
+is , unabashedly, about psychoanalysis.
+First watch films in red, underlined. If time permits, next watch the underlined titles (linked to Wikipedia), and if possible the non-underlined titles. Most films in rubric will be provided.
+Alfred Hitchcock:
+Vertigo ,
+North by Northwest ,
+Rear Window ,
+The Birds,
+Shadow of a Doubt ,
+To Catch a Thief ,
+The Lady Vanishes ,
+The 39 Steps ,
+Rope ,
+Dial 'M' for Murder ,
+Psycho ,
+Strangers on a Train .
+David Lynch:
+Mulholland Drive ,
+Lost Highway ,
+Blue Velvet .
+Charlie Chaplin:
+City Lights ,
+The Great Dictator ,
+Modern Times .
+Arturo Cavalcanti:
+Dead of Night .
+Akira Kurosawa:
+High and Low .
+Victor Fleming:
+The Wizard of Oz .
+Krzysztof Kieslowski:
+Red , Blue, The Double Life of Veronique.
+Patrice Laconte:
+The Man on the Train.
+Michaelangelo Antonioni:
+Blow-up ,
+Professione: Reporter
+( The Passenger ).
+Jacques Tati:
+M. Hulot's Holiday ,
+Mon Oncle ,
+Play Time .
+Henri-George Clouzot:
+The Mystery of Picasso .
+Stanley Kubrick:
+Eyes Wide Shut ,
+The Shining ,
+2001: A Space Odyssey .
+Slavoj Zizek:
+A Pervert's Guide to Cinema
+(will be shown in class);
+Zizek!
+(will be shown in class).
+FILM CLIPS /
+video resources
+The 39 Steps
+Alfred
+Hitchcock, 1935. Opening sequence. Richard Hannay enters into a space that is 'prior' to the main narrative space, a music hall featuring 'Mr. Memory', a vaudeville actor whose prodigious feats of memory will figure at the end of the film.
+North by Northwest
+Alfred
+Hitchcock, 1959. Auction sequence. Walter Thornhill extricates himself from a trap by playing the fool at an art auction.
+Notorious
+Alfred
+Hitchcock, 1946. Opening sequence. Alicia Huberman entertains a stranger (Secret Service agent T. R. Devlin) who occupies a mysterious margin, neither in nor out of the 'diagetic' space of the film.
+Strangers on a Train
+Alfred
+Hitchcock, 1951. Bruno drops the cigarette lighter down a storm drain. The lighter, which serves as the guarantee of the 'idiotic symmetry' of the double contract killing, is the classic Lacanian partial object.
+Young and Innocent
+Alfred
+Hitchcock, 1937. Boom shot at a hotel tea-dance. The murderer is disguised as a black-face drummer at a hotel afternoon tea-dance. His 'tell' is a facial twitch that uncannily references the 'flicker' of early films.
+Notorious
+Alfred
+Hitchcock, 1946. Boom shot at the reception at Sebastian's villa outside Rio. As with most Hitchcock boom shots, this begins high (at the balcony) and goes low (to Alicia's clenched fist, open to show the key to the wine cellar).
+Play Time
+Jacques Tati, 1967. Selected clips. Tati pulled out all the stops (and went broke doing it) to parody the inanity of contemporary French modern architecture which was at that time springing up in such development zones as Montparnasse. The set included rolling façades, miniatures, and full-scale mockups. These clips focus on the ironic 'topics' of reflectivity, interior screens, anonymity, and transparency abuses. Clips thanks to Xie Hua, M.Arch. Penn State, 2003, L.Arch. Penn State, 2004.
+dancing feet
+office maze
+deceiving reflections
+waiting room
+the infinite walk
+interior-exterior
+domestic cinema
+glass installers egyptian dances
+the glass door
+restaurant demolition party
+Amélie
+Jean-Pierre Jeunet, 2001. Selected stills. Amélie (Audrey Tautou) is a single Parisian woman who works in a local bar; captivated by the notion of coincidence, she engineers a number of happy endings, including her own.
+Les Quatre-Cent Coups
+(1959)
+François Truffault. This is the reverse or reaction shot of a theatrical performance, a puppet show involving a voracious disguised wolf.
+Brazil
+Terry Gilliam, 1985. Selected stills. A black comedy about a dystopian future dominated by intrusive machines and Big Brother surveillance. All too familiar use of screens to create interior exile spaces.
+Blow-Up
+Michaelangelo Antonioni, 1966. Selected stills. A London photographer visits a park and possibly documents a murder, but his photographic evidence cannot be corroborated; caught in the web of of an intrigue beyond his comprehension he finally gives in to the pressure 'not to know'.
+Lady Eve
+Preston Sturgis, 1941. Selected stills of opening sequence. 'Screwball romance' staring Henry Fonda and Barbara Stanwyck. Con artists stalk a rich heir to a brewery fortune. His interest in ophiology (snakes) underscores the film's references to an inverted Eden. In this sly preface, Eve uses a mirror as an 'inside frame' to size up the situation before tripping up her prey.
+The Mystery of Picasso
+In 1956, French film maker Henri-George Clouzot set up a camera on the other side of an easel holding translucent paper. On the other side was Pablo Picasso, who excecuted a series of paintings in colored inks while the camera rolled. This sequence, a sea-side scene, is condensed from a clip that was edited down to a sequence of still shots. Nonetheless, the successive views show something of Picasso's constructive logic.
+YouTube.com
+has some full-motion clips.
+Drawing techniques
+A few simple-minded techniques that convert representational drawing into a process of 'analepses' where images are converted into anamorphic operators. Anyone who played with a Ouija Board as a youth will know what's going on.
+hatching : this technique blurs the function of the edge so that it may also function as a field, line, or path.
+filling the field (billiards) : this quick movement of the hand, leaving marks around the page in an apparently random sequence, identifies the surface of the paper as a screen whose marks ambiguously refer to passage, presence, absence, or framing.
+the seismic line : the line too easily depicts a mock boundary, freezing the object and isolating it from the ground. The 'seismic' line aspires to disappear by adding a graphite wash to indicate an edge, hatchure to dissolve its linearity, or other elements that reinterpret its graphic function.
+LINKS /
+web resources, to be accessed and used following the guidelines specified on the source sites .
+Formless: A Review
+Review of Yve-Alain Bois and Rosalind Krauss ,
+Formless: A User's Guide , MIT Press, 2000. By Victor Grauer.
+Other Voices
+2, 2 (March 2002).
+A good discussion of the issues surrounding media, modernism, and psychoanalysis in the arts.
+Jacques Lacan's Four Discourses
+Slavoj Zizek, Lacan.Com. This is really mostly about 'university discourse', which goes well beyond the university in its relevance.
+The Art3 Idea
+This introductory course covers ideas of art reception and criticism through the idea of redundant structures working at the level of 'artifact'  a 'para-site' that intersects art's intentional meanings to create encounters with suprise, wonder, and other 'empty signifiers'. This web resource covers key ideas and is linked to a course ('Reception of the Arts', Penn State University) and textbook ( The Art3 Idea ).
+Lacan (and other stuff) on the web
+These are but a few of the Lacan-related and boundary-relatedweb resources. Google is probably a better method for finding out what's current and fits your interests. Wikipedia, Lacan.com and NoSubject.com are the best standard general sources for at-large topics.
+Lacan.com
+The seminars of Lacan
+On anxiety
+Louis Armand: symptom in the machine
+von Kleist: On the marionette theater
+the Turing Test
+LACAN (encyclopedia of philosophy)
+Lacan's theory of four discourses
+cold reading
+Slavoj Zizek on the web
+Zizek: Reflections of Media
+Freud, Lacan, and the mirror stage
+Agamben: zoe and bios
+No subject (encyclopedia of psychoanalysis)
+Apparatus theory
+Freud lives!
+NoSubject on anxiety
+rizomes
+© 2012, Donald Kunze, all rights reserved

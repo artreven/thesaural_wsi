@@ -1,0 +1,192 @@
+My MacBook Mini: NVidia Ion 1st Gen or GeForce 9400m
+My MacBook Mini
+Where the story and journey of a not-so-hackintosh-newbie began :D
+Pages
+Home
+Guides
+Downloads
+Videos
+Tips & Tricks
+09 November 2011
+NVidia Ion 1st Gen or GeForce 9400m
+It is no big news that the HP Mini 311's NVidia Ion graphics chip is basically the GeForce 9400m. While that is true and tested while I was on the Windows side - 720p .mkv files would play fine, as I remember it - it doesn't seem to be that way on the Mac OS X side.
+Earlier this year, my worst experience with playing those HD video files (I was watching " Iris ", yes, it's a Korean action drama), was that there would split-second freezes here and there but no green artefacts littering VLC's video window like I see now.
+Perhaps it's CUDA driver related? Maybe. I should get some time to test whether that's the root of evil. It's either that or the 512MB rated for the Total VRAM is only eye-candy.
+Update: Nope, it is not eye candy. Use
+Plex player for Mac OS X
+and you'll see that the Mini 311 can handle 720p .mkv quite smoothly.
+Scribbled by
+LeMaurien19
+At
+1:04 PM
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Tags:
+HP Mini 311 hackintosh ,
+Ion ,
+nvidia geforce 9400m
+3 comments:
+Anonymous
+said...
+use xbmc or plex. these apps are better at HD playback than vlc. i prefer xbmc becuase of my htpc.
+11/09/2011 3:15 PM
+G560
+said...
+Do you have any experience with OS X installation on computers with N455 CPU?
+12/10/2011 5:12 PM
+LeMaurien19
+said...
+@G560 No, I don't, sorry.
+1/06/2012 7:35 PM
+Post a Comment
+Newer Post
+Older Post
+Home
+Subscribe to:
+Post Comments (Atom)
+About This Mini MacBooker
+LeMaurien19
+Violin noob.
+View my complete profile
+Be A "Mini MacBooker"
+Your Ad Here
+Blog Link
+saving for a mac
+Shout Out :D
+Mini Bookshelf
+►
+2015
+(4)
+►
+August
+(1)
+►
+July
+(3)
+►
+2012
+(7)
+►
+September
+(1)
+►
+January
+(6)
+▼
+2011
+(23)
+▼
+November
+(4)
+SingPost
+NVidia Ion 1st Gen or GeForce 9400m
+Battery Battery
+Linux, Linux, How Do I Love Thee?
+►
+October
+(2)
+►
+September
+(1)
+►
+August
+(2)
+►
+July
+(1)
+►
+June
+(2)
+►
+May
+(1)
+►
+April
+(1)
+►
+March
+(4)
+►
+February
+(3)
+►
+January
+(2)
+►
+2010
+(150)
+►
+December
+(3)
+►
+November
+(8)
+►
+October
+(12)
+►
+September
+(15)
+►
+August
+(21)
+►
+July
+(15)
+►
+June
+(14)
+►
+May
+(9)
+►
+April
+(11)
+►
+March
+(10)
+►
+February
+(12)
+►
+January
+(20)
+►
+2009
+(133)
+►
+December
+(17)
+►
+November
+(24)
+►
+October
+(22)
+►
+September
+(10)
+►
+August
+(15)
+►
+July
+(3)
+►
+June
+(11)
+►
+May
+(17)
+►
+April
+(8)
+►
+March
+(1)
+►
+January
+(5)
+There was an error in this gadget
+Total Pageviews
+Contents written by Ingrid Marquez. Picture Window template. Powered by
+Blogger .

@@ -1,0 +1,1494 @@
+FROLIO – Formalizable Relationship-Oriented Language-Insensitive Ontology
+© Roger M Tagg 2012
+Welcome to FROLIO – a new attempt to merge philosophy and the
+"semantic web"
+.
+This website is under continuing development.
+Highlights of book: 'Thinking, Fast and Slow' by Daniel Kahneman,
+Farrar, Strauss & Giroux 2011, ISBN 978-0-374-27563-1
+Introduction
+Using a distinction between two supposed parts of the human mind - which were
+christened 'System1' and 'System 2' by
+Stanovich
+and West - this book highlights the many
+biases we humans are subject to when we over-rely on our intuitive side,
+especially in the areas of judging, estimating and planning under uncertainty.
+Kahneman
+is a joint Nobel Prize winner - in Economics, which he claims to
+have never studied. This award was largely based on his (and
+Tversky 's, who had
+previously deceased) proposal of 'Prospect Theory' (see later).
+The book runs to over 400 pages, and contains 38 relatively short chapters,
+plus Introduction, Conclusion, reprints of 2 academic papers, notes and index.
+The first of the 2 papers is
+freely available on the web ; the
+second
+can be
+obtained via a university library or on payment. A set of slides covering
+chapters 35 to 39 is also available via a link in the main table on page 377.
+The chapters are grouped into 5 'parts' as follows.
+I. Two Systems
+II. Heuristics and Biases
+III. Overconfidence
+IV. Choices
+V. Two Selves
+1. The characters of the story
+10. The law of small numbers
+19. The illusion of understanding
+25. Bernoulli's errors
+35. Two selves
+2. Attention and effort
+11. Anchors
+20. The illusion of validity
+26. Prospect theory
+36. Life as a story
+3. The lazy controller
+12. The science of availability
+21. Intuitions versus formulas
+27. The endowment effect
+37. Experienced well-being
+4. The associative machine
+13. Availability, emotion and risk
+22. Expert intuition: when can we trust it?
+28. Bad events
+38. Thinking about life
+5. Cognitive ease
+14. Tom W's specialty
+23. The outside view
+29. The fourfold pattern
+6. Norms, surprises and causes
+15. Linda: less is more
+24. The engine of capitalism
+30. Rare events
+7.A machine for jumping to conclusions
+16. Causes trump statistics
+31. Risk policies
+8. How judgments happen
+17. Regression to the mean
+32. Keeping score
+9. Answering an easier question
+18. Taming intuitive predictions
+33. Reversals
+34. Frames and reality
+The quotations and other highlights below are grouped only
+by 'part', not by each of the 38 chapters.
+Chapter Page   Highlight
+Introduction 3 "Many of us
+spontaneously anticipate how friends and colleagues will evaluate our
+choices; the quality and content of these anticipated judgments therefore
+matters."
+"A deeper understanding
+of judgments and choices also requires a richer vocabulary than is available
+in everyday language." So, after each chapter, Kahneman (DK) gives a few
+examples of how the 'new' words he introduces might be used in practical
+everyday situations.
+4 "When the handsome and
+confident speaker bounds onto the stage, for example, you can anticipate
+that the audience will judge his comments more favourably than he deserves."
+"Much of the discussion
+in this book is about biases of intuition."
+"We are often confident
+even when we are wrong, and an objective observer is more likely to detect
+our errors than we are."
+5 "People are not good
+intuitive statisticians."
+7-8 The
+availability
+heuristic
+= we are biased by the instances that come to our mind.
+Coverage by the media emphasizes this.
+12 DK gives the example of a
+chief investment officer who put tens of millions of dollars into Ford
+shares, on the 'gut feel' that he liked their cars; he didn't take any
+account of whether the shares were currently under or over priced.
+Part I -
+Two systems 13 Intuition (approximating to our 'System 1')
+is the 'fast' of the book's title. If that fails us, we switch to a slower,
+more deliberate form of thinking - which is our 'System 2'. [RT: this sounds
+like saying that our minds have two active players - a 'Captain Kirk' and a
+'Mr Spock'. So I have taken the liberty in these 'highlights' of sometimes
+substituting these names for Kahneman's 'System 1' and 'System 2'.]
+22 "The highly diverse
+operations of System 2 have one feature in common; they require attention
+and are disrupted when attention is drawn away."
+24 "Captain Kirk continuously
+generates suggestions for Mr Spock; if endorsed by Mr Spock, impressions and
+intuitions turn into beliefs, and impulses turn into voluntary actions."
+"When System 1 runs into
+difficulty, it calls on System 2 ..."
+25-6 There can be conflict
+between Kirk and Spock; "Spock is in charge of (our) self-control".
+27 A well known illusion is the
+so-called
+M ü ller-Lyer
+one;
+>  <
+looks longer than
+<  > .
+29 "The mind - especially
+System 1 - appears to have a special aptitude for the construction and
+interpretation of stories about active agents, who have personalities,
+habits and abilities." [RT: just like I have invoked Kirk and Spock. DK
+hopes that his use of Systems 1 and 2 will help people understand decision
+processes and judgment better. I hope that my Star Trek analogy will help
+readers with less of an academic background than myself, certainly than
+Kahneman.]
+34 "The life of System 2 is
+normally conducted at the pace of a comfortable walk, sometimes interrupted
+by episodes of jogging and on rare occasions by a frantic sprint ... We
+found that people, when engaged in a mental sprint, may become effectively
+blind."
+35 "A general 'law of least
+effort' applies to cognitive as well as physical exertion". Talent or
+acquired skill means we need to expend less effort on the same or equivalent
+task. "Laziness is built deep into our nature." This is DK's 'lazy
+controller' - we often don't get our System 2 up to speed (or consult Mr
+Spock), and hence fall back on System 1.
+40 "Accelerating beyond
+strolling speed ... brings about a sharp deterioration in my ability to
+think coherently."
+Csikszentmihalyi 's 'flow' = "a state of effortless concentration so deep
+that they lose their sense of time, of themselves, of their problems". [RT:
+just like me when I was writing up these quotes and comments.]
+41 (Our) "System 1 has more
+influence on behaviour when (our) System 2 is busy, and it has a sweet
+tooth" ... (and) "are also more likely to make selfish choices, use sexist
+language, and make superficial judgments in social situations". [RT:
+hopefully, Captain Kirk would be better than this!]
+"All variants of
+voluntary effort - cognitive, emotional or physical - draw at least partly
+on a shared pool of mental energy."
+41-2 Ego depletion
+= "An
+effort of will or self-control is tiring ... ego-depleted people therefore
+succumb more quickly to the urge to quit."
+43 "The nervous system consumes
+more glucose than most other parts of the body, and effortful mental
+activity appears to be especially expensive in the currency of glucose."
+44 A simple but common error: a
+bat and ball cost $1.10. The bat costs $1 more than the ball. How much does
+the ball cost? In experiments, the vast majority say 10c. Wrong - it should
+be 5c. Mr Spock failed to check Captain Kirk's answer in time.
+45 "Many people are
+overconfident, prone to place too much faith in their intuitions." This is a
+theme of the whole book.
+Another 'gotcha': "All
+roses are flowers; some flowers fade quickly, therefore some roses fade
+quickly." Logical? No, none of the quick faders might be roses.
+48 "Individuals who
+uncritically follow their intuitions about puzzles are also prone to accept
+other suggestions from (their) System 1. In particular, they are impulsive,
+impatient and keen to receive immediate gratification."
+49 "According to Stanovich,
+'rationality' should be distinguished from 'intelligence'.
+51 DK describes our brain as an
+'associative machine'. Associative activation
+= "ideas that have been
+evoked trigger many other ideas, in a spreading cascade of activity in your
+brain."
+52
+Hume 's 3 principles of
+association were: "resemblance, contiguity in time, and causality". [RT:
+Hume was sceptical about 'cause'; see also Michotte on page 76.]
+52-3 Priming
+= affecting
+people's judgment by presenting an initial 'trigger', e.g. speaking or
+displaying a word, or highlighting an event or experience. An example is the
+Florida effect
+- people unconsciously walking more slowly after
+exposure to words associated with old age.
+55-6 In experiments, "the idea
+of money primes individualism".
+56 Verbal reminders of respect,
+God or the 'Dear Leader' prime obedience ... and "also lead to an actual
+reduction in spontaneous thought and independent action". [RT: like "man
+proposes, God disposes"?]
+"Reminding people of
+their mortality increases the appeal of authoritarian ideas." [RT: does that
+include
+Anzac Day
+ceremonies ?]
+The
+Lady Macbeth
+effect
+= "Merely thinking about stabbing a co-worker in the back leaves
+people more inclined to buy soap, disinfectant or detergent - than
+batteries, juice or candy bars".
+57 "A few percent" of people
+being deliberately primed) "could tip an election".
+58 "The world makes much less
+sense than you think. The coherence comes mostly from the way your mind
+works."
+A reference:
+Timothy Wilson , ' Strangers
+to Ourselves '.
+59 Our human life can be seen
+as containing an aircraft's (or the starship Enterprise's) "cockpit, with a
+set of dials that show the current values of ... 'Is anything new going
+on?', 'Is there a threat?', 'Are things going well?', Should my attention be
+diverted?', 'Is more effort needed for this task?' ". "One of the dials
+measures
+'cognitive ease' , and its range is between 'Easy' and
+'Strained'."
+60 If inputs to this 'ease'
+dial are 'relaxed experience', 'clear display', 'primed idea' or 'good
+word', then our task feels familiar, true, good or effortless. If the dial
+shows 'strained', we may be more vigilant and suspicious, may pay more
+attention, but may be less intuitive and creative.
+62 "Predictable illusions
+inevitably occur if a judgment is based on an impression of cognitive ease
+or strain. Anything that makes it easier for the associative machine to run
+smoothly will also bias beliefs."
+"A reliable way to make
+people believe in falsehoods is frequent repetition." [RT: many of us apply
+this maxim to TV adverts.]
+63 Bold typeface, rhymes and
+easily pronounced names [RT: and acronyms?] all affect our System 1's
+liability to be influenced. [RT: no hope for Csikszentmihalyi, then.
+Actually, when authoring academic papers, I think a peculiar name helps!]
+65 In an experiment with
+Princeton students, cognitive strain (in the form of washed-out grey print)
+actually mobilized the subjects' System 2, and they made fewer errors when
+answering 'gotcha' type questions.
+67 "The effect of repetition on
+'liking' is an important biological fact ... survival prospects are poor for
+an animal that is not suspicious of novelty."
+69 "Good mood, intuition,
+creativity, gullibility and increased reliance on System 1 form a 'cluster'.
+At the other pole, sadness, vigilance, suspicion, an analytic approach and
+increased effort also go together."
+71 "The main function of (your)
+System 1 is to maintain and update a model of your personal world, which
+represents what is 'normal' in it."
+73 Another 'gotcha' - "How many
+animals of each kind did Moses take into the ark?" Many people said 2! But
+wasn't it Noah?
+75 "Fred's parents arrived
+late. The caterers were expected soon. Fred was angry". We probably infer
+that this wasn't because of the caterers. "Finding such causal connections
+is part of understanding a story, and is an automatic operation of System 1.
+Mr Spock (System 2, your conscious self) was offered the causal
+interpretation and accepted it."
+Another reference:
+Nassim Taleb ,
+' The
+Black Swan '; this addreses the "automatic search for causality".
+76
+Albert Michotte
+also studied this issue (try the experiment on his Wikipedia page). "The
+commonly accepted wisdom was that we infer physical causality from repeated
+observations of correlations among events." "Michotte ... argued that we
+'see' causality, just as directly as we see colour."
+"We are evidently ready
+from birth to have 'impressions' of causality, which do not depend on
+reasoning about patterns of causation. They are products of (our) System 1."
+"Your mind is ready and
+even eager to identify agents, assign them personailty traits and specific
+intentions, and view their actions as expressing individual propensities."
+77 We humans have invented the
+word 'soul' to explain a lot of things.
+Paul Bloom (2005) : "We perceive the world of objects as essentially
+separate from the world of minds, making it possible for us to envision
+soulless bodies and bodiless souls." This, DK suggests, is because of our
+readiness to separate
+physical causality
+and
+intentional causality .
+This makes "it natural
+for us to accept the two central beliefs of many religions, (that #1) an
+immaterial divinity is the ultimate cause of the physical world, and (that
+#2) immortal souls temporarily control our bodies while we live and leave
+them behind as we die".
+"People are prone to
+apply causal thinking inappropriately." [RT: I think that's an
+understatement!]
+"Unfortunately, Captain
+Kirk (our System 1) does not have the capability for this (i.e. statistical
+thinking) mode of reasoning. Our System 2 can learn to think statistically
+(as Mr Spock did), but few people receive the necessary training."
+78 An example of DK's expanded
+vocabulary: "She can't accept that she was just unlucky; she needs a causal
+story. She will end up thinking that someone intentionally sabotaged her
+work." [RT: I personally know an actual case of this.]
+79 " 'Jumping to conclusions'
+... (is) ... an apt description of how (our) System 1 works."
+81 "Kirk is gullible and biased
+to believe, Spock is in charge of doubting and unbelieving, but Spock is
+sometimes busy and often lazy."
+"The operations of
+associative memory contribute to a general
+confirmatory bias .
+A 'positive test
+strategy'
+= a "deliberate search for confirming evidence". This is
+"contrary to the rules of philosophers of science [RT: like Popper], who
+advise testing hypotheses by trying to refute them".
+82 The
+halo effect
+=
+"exaggerated emotional coherence", i.e. because we like it emotionally, it
+must be correct.
+82-3 Between Alan, "intelligent
+- industrious - impulsive - critical - stubborn - envious" and Ben "envious
+- stubborn - critical - impulsive - industrious - intelligent", most
+experiment subjects preferred Alan. "The halo effect increases the weight of
+first impressions" - but which trait is presented first is often a matter of
+chance.
+84 "To tame the halo effect,
+... de-correlate error" - which effectively means getting multiple truly
+independent judgments.
+85 "The measure of success for
+(our) System 1 is the coherence of the story it manages to create." [RT: so,
+not whether it is accurate, pragmatic, or likely to help make good
+decisions.]
+86 We tend not to start our
+judgments "by asking 'What do I need to know before I formed an opinion?'
+...".
+86-7 WYSIATI
+= "What You
+See Is All There Is" [RT: i.e. anything you don't know about can't possibly
+be relevant.]. WYSIATI pushes us to jump to conclusions, and "facilitates
+the achievement of coherence".
+87 In experiments,
+"participants who saw one-sided evidence were more confident of their
+judgments than those who saw both sides".
+"The confidence that
+individuals have in their beliefs depends mostly on the quality of the story
+they can tell about what they see, even if they see little."
+"We often fail to allow
+for the possibility that evidence that should be critical to our judgment is
+missing."
+88 Framing effects
+=
+dependency on how a question or statement is framed, as different framings
+can evoke very different emotions.
+Base rate neglect
+= a statistical error of not taking into account how large the populations
+of different sets of things are.
+Another vocabulary
+example: "They didn't want more information that would spoil their story.
+90 People often judge a
+candidate for leadership on their first look of his face - "Does he look
+competent?"
+Todorov
+divided this into 'strength' and 'trustworthiness'. These are
+examples of what DK calls
+judgment heuristics .
+93 Our System 1 "deals well
+with averages but poorly with sums" - one reason that the numbers of
+instances in categories can get ignored.
+In an experiment about
+donating to protection of endangered birds, subjects offered much the same
+in $$ for saving 2,000, 20,000 or 200,000 birds; they only reacted to the
+'prototype', i.e. a single unhappy oil-covered bird.
+94 We often judge on simple
+intensity scales
+- i.e. 'more', 'less' or 'similar to'.
+95 Mental shotgun
+=
+firing too many redundant 'pellets' of information or triggering stimuli. We
+may see information we don't need, or that slows us down. DK's example is
+the 'vote-goat' rhyme; no delay if the words are spoken, but if written we
+have to overcome the spelling difference.
+98 "The heuristics that I
+discuss in this chapter are not chosen; they are a consequence of the mental
+shotgun."
+100 The 3-D illusion: a
+perspective picture of 3 men on an escalator moving into the distance. If
+two men are of the same size in 2 dimensions, the one 'further away' in 3-D
+looks bigger. [RT: I think the phrase is ' trompe
+l'oeil '.]
+102 Before asking students in
+an experiment 'How happy are you?', if they were first asked 'How many dates
+have you had in the last month?' many substituted that question for the next
+one.
+103 "In the context of
+attitudes, however, Mr Spock is more of an apologist for the emotions of
+Captain Kirk than a critic ...".
+105 The following table
+summarizes the characteristics of System 1 (features marked with a * are
+introduced in detail in part  IV).
+• generates impressions, feelings, and
+inclinations; when endorsed by System 2 these become beliefs,
+attitudes, and intentions
+• operates automatically and quickly, with little
+or no effort, and no sense of voluntary control
+• can be programmed by System 2 to mobilize
+attention when a particular pattern is detected (search)
+• executes skilled responses and generates
+skilled intuitions, after adequate training
+• creates a coherent pattern of activated ideas
+in associative memory
+• links a sense of cognitive case to illusions of
+truth, pleasant feelings, and reduced vigilance
+• distinguishes the surprising from the normal
+• infers and invents causes and intentions
+• neglects ambiguity and suppresses doubt
+• is biased to believe and confirm
+• exaggerates emotional consistency (halo effect)
+• focuses on existing evidence and ignores absent
+evidence (WYSIATI)
+• generates a limited set of basic assessments
+• represents sets by norms and prototypes, does
+not integrate
+• matches intensities across scales (e.g., size
+to loudness)
+• computes more than intended (mental shotgun)
+• sometimes substitutes an easier question for a
+difficult one (heuristics)
+• is more sensitive to changes than to states
+(prospect theory)*
+• over-weights low probabilities*
+• shows diminishing sensitivity to quantity
+(psychophysics)*
+• responds more strongly to losses than to gains
+(loss aversion)*
+• frames decision problems narrowly, in isolation
+from one another*
+Part II - 111 Smaller samples (of
+anything) always tend to give more extreme results; in larger samples things
+tend to average out.
+Heuristics 112 "Psychologists commonly
+choose samples so small that they exposed themselves to a 50% risk of
+failing to confirm their hypotheses."
+and Biases 114 "You (i.e. we, the
+intuitive statisticians!) may not react very differently to a sample of 150
+and to a sample of 3,000.
+115 "We are pattern seekers,
+believers in a coherent world, in which regularities (such as a sequence of
+six girls [as successive births in a hospital]) appear not by accident but
+as a result of mechanical causality or someone's intention."
+116 "Analysis of thousands of
+sequences of (basketball) shots lead to a disappointing conclusion: there is
+no such thing as a 'hot hand' in professional basketball". It is "entirely
+in the eye of the believers". At least one coach didn't want to hear this.
+118 "We pay more attention to
+the content of messages than to information about their reliability."
+119 Anchoring effect
+=
+any number that gets mentioned as a starting point (e.g. in estimation or
+bargaining) makes a difference to people's subsequent offers or revised
+estimates.
+121 Adjustment from an anchor
+usually stops too soon when people run into uncertainty - and it's
+effortful; "tired people adjust less".
+122 Anchoring can be a form of
+'priming' (p52), i.e. a 'suggestion'.
+124 Anchoring index
+=
+100% if people all accept the anchor; 0% if they totally ignore it. The
+value in most situations is somewhere in between.
+126 When haggling, we shouldn't
+try countering an opponent's first offer with another extreme. We should
+refuse to accept their offer as a basis for negotiation (i.e. as an anchor)
+and walk out.
+127 Capping lawsuit awards
+"would eliminate all larger awards, but as an anchor would also pull up the
+size of many awards that would otherwise be much smaller".
+128 "Whether the story is true
+or believable matters little, if at all."
+"Many people find the
+priming results unbelievable ... because they threaten the subjective sense
+of agency and autonomy." Same with anchoring.
+129 The
+availability
+heuristic
+= "the process of judging frequency by 'the ease with which
+instances come to mind' ".
+130 Salient events
+over-influence our estimates of the frequency of, e.g., Hollywood divorce
+rates, political sex scandals, dramatic accidents, personal experiences.
+131 Availability bias
+=
+going on what you remember or what comes to mind. In a survey of couples,
+both partners estimated the % of each household chore they did, and these
+usually added up to more than 100%. So we should joke "there is usually more
+than 100% credit to go around".
+132 "People who had just listed
+12 instances (where they had been assertive) rated themselves as less
+assertive than people who had only listed 6." (The effort in thinking of
+enough had an effect.) It was the opposite with meek behaviour. This has
+been described as a
+fluency
+effect.
+135 "The ease with which
+instances come to mind is a System 1 heuristic, which is replaced by a focus
+on content when System 2 is more engaged."
+George W Bush (Nov
+2002): "I don't spend a lot of time taking polls around the world to tell me
+what I think is the right way to act. I've just got to know how I feel."
+138 Estimates of causes of
+death are warped by media coverage, as in this table.
+Actual ratio
+What experiment subjects thought
+Strokes v all accidents
+2:1
+Accidents are more
+Tornadoes v Asthma
+1:20
+Tornadoes are more
+Lightning v Botulism
+52:1
+Botulism is more
+All diseases v all accidents
+18:1
+About the same
+All accidents v Diabetes
+1:4
+Accidents by 300:1
+139 Affect heuristic
+=
+the process of judging on the basis of questions like 'Do I like it?' 'Do I
+hate it?' How strongly do I feel about it?' - as a substitute for some
+harder question. It shows up very often in questions about technologies with
+benefits and risks. Depending on sentiment, many people consider either 'all
+benefits' or 'all risks'.
+140
+Paul Slovic 's picture
+of Mr and Ms Citizen "is far from flattering: guided by emotion rather than
+by reason, easily swayed by trivial details, and inadequately sensitive to
+differences between low and negligibly low probabilities. However even
+experts show some of the same biases, although maybe to a lesser extent.
+141 Slovic: "Human beings have
+invented the concept of 'risk' to help them understand and cope with the
+dangers and uncertainties of life ... there is no such thing as 'objective
+risk'. [RT: but maybe there are probabilities, even if these may be to some
+extent subjective.]
+143 With small risks, "we
+either ignore them altogether, or give them far too much weight - nothing in
+between".
+144 "Terrorism speaks directly
+to System 1."
+Availability cascade
+= media feeding frenzy on certain events.
+146-7 The 'Tom W' example: when
+experiment subjects didn't have a character resume on him, they took account
+of the enrolment numbers of each specialty he might enroll in when
+predicting the probabilities of him entering each (the
+base rates ).
+But when they had a report from psychological tests, they forgot those base
+rates, and relied more on their stereotypes of students taking each
+specialty, and judging if Tom W fitted them.
+151 We fall for "sins of
+representation". One of these is "an excessive willingness to predict the
+occurrence of unlikely (low base rate) events".
+152 "Instructing experiment
+subjects to 'think like a statistician' enhanced the use of base rate
+information, while the instruction to 'think like a clinician' had the
+opposite effect."
+153 Added to all this, the
+statement of the question in the experiment did explicitly mention the
+"uncertain validity" of the psychological tests.
+154 " Bayes's
+rule
+specifies how prior beliefs (e.g. base rates) should be combined
+with the ... degree to which the evidence favours the hypothesis over the
+alternative."
+157 The 'Linda' example: the
+probability that she is a feminist bank teller must be less than the
+probability that she is just a bank teller (feminist tellers are a subset of
+all bank tellers). Yet experiment subjects widely rated the first option as
+more probable, presumably because it fits the stereotype better. This is
+known as the
+conjunction fallacy , and is a failure of System 2. [RT:
+Mr Spock wouldn't fall for it, I think.]
+159 Part of the problem is that
+"the notions of coherence, plausibility and probability are easily confused
+by the unwary".
+160 "A trap for forecasters and
+their clients; adding detail to scenarios makes them more persuasive, but
+less likely to come true."
+161 Other experiments are
+described that show similar "less is more" results. These concern sets of
+dinner plates, baseball cards, and Borg winning a match after losing the
+first set. Some broken plates (or less valuable cards) were added to the
+larger sets. When subjects saw both options together, their System 2 could
+make the correct choice, but taken one at a time they got the choice wrong.
+163 In a similar question about
+men over 55 and heart attacks, 65% got it wrong if the question was framed
+with percentages, but only 25% were wrong if it was framed with numbers of
+individuals.
+164 "Intuition governs
+judgments in the 'between subjects' condition; logic rules in joint
+evaluation.
+168 " 'Statistical base rates'
+are facts about a population to which a case belongs ... 'Causal base rates'
+are treated as information about the individual case." For more see
+this web address .
+"System 1 ... represents
+categories as norms and prototypical exemplars ... stereotypes.
+168-9 "Some stereotypes are
+perniciously wrong, and hostile stereotyping can have dreadful consequences,
+but the psychological facts cannot be avoided. Stereotypes, both correct and
+false, are how we think of categories."
+169 "Neglecting valid
+stereotypes inevitably results in suboptimal judgments. Resistance to
+stereotyping is a laudable moral position, but the simplistic idea that the
+resistance is costless is wrong."
+173 "Students quickly exempt
+themselves (and their friends and acquaintances) from the conclusions of
+experiments that surprise them" (as in the example of nice people not
+helping a colleague with a sudden illness because there were lots of other
+people around).
+174 "Students' unwillingness to
+deduce the particular from the general was matched only by their willingness
+to infer the general from the particular."
+"There is a deep gap
+between our thinking about statistics and our thinking about individual
+cases."
+"Statistical results
+with a causal interpretation have a stronger effect on our thinking than
+non-causal information. But even compelling causal statistics will not
+change long-held beliefs or beliefs rooted in personal experience."
+"On the other hand,
+surprising individual cases have a powerful impact ... You are more likely
+to learn something by finding surprises in your own behaviour than by
+hearing surprising facts about people in general."
+177-8 Regression to the mean
+=  averaging out over time. It's a bit like having larger samples after
+small ones. A good example is first day scores in a 4-day golf tournament.
+How do we estimate the golfers' scores on day 2? Was the first day due to
+talent or luck? As days pass, the variation gets less. In fact if one took
+day 2 first and then tried to estimate the day 1 score from this the same
+effects would apply.
+178 So regression does NOT have
+a causal explanation, such as the ' Sports
+Illustrated Cover Jinx '. Maybe the cursed sportsman was on the cover
+because he or she had had a run of good luck.
+182 "Why is it (i.e. to explain
+regression) so hard? ... Our mind is strongly biased towards causal
+explanations."
+183 Many researchers have
+incorrectly deduced cause from correlation.
+189 When predicting based on
+some correlated measurements, one should always consider both the shared
+factors and the factors specific to each of the related measurements and
+what you are trying to estimate.
+190 One should use the
+correlation
+coefficient
+to reduce the distance one moves from the default base-rate
+estimate towards one based on the related measurements.
+192
+"Correcting your intuitions may complicate your life. ... Absence
+of bias is not always what matters most. ... There are situations in which
+one type of error is much worse than another."
+193
+We are not all rational, and some of us may need the security of
+distorted estimates to avoid paralysis." [RT: this is my experience too. On
+one job, when we were getting inaccuracy in estimates from managers, we
+asked one manager why he thought estimates were so optimistic. He replied
+"If we really thought the realistic estimate was all we could hope for, we'd
+lose heart and give up."]
+Part III -
+Overcon
+-fidence 199 Narrative fallacies
+= "The explanatory
+stories that people find compelling are simple; are concrete rather than
+abstract; assign a larger role to talent, stupidity and intentions than to
+luck; and focus on a few striking events that happened rather than on the
+countless events that failed to happen."
+"We humans constantly
+fool ourselves by constructing flimsy accounts of the past and believing
+they are true."
+"You [RT: I'd say 'we']
+are always ready to interpret behaviour as a manifestation of general
+propensities and personality traits - causes that you [we] can readily match
+to effects."
+200 "The human mind does not
+deal well with non-events."
+201 "Our confronting conviction
+that the world makes sense rests on a secure foundation: our almost
+unlimited ability to ignore our ignorance."
+202 "The mind that makes up
+narratives about the past is a sense-making organ." [RT: I would call it a
+'meaning-making' organ.]
+"A general limitation of
+the human mind is its imperfect ability to reconstruct past states of
+knowledge, or beliefs that have changed." [RT: i.e., we're not good at
+looking back to an earlier point in time and remembering what we thought, or
+knew, at that time.]
+We say "I knew it all
+along" more often than "I was surprised".
+204 "The worse the consequence,
+the greater the hindsight bias."
+"Decision makers who
+expect to have their decisions scrutinized with hindsight are driven to
+bureaucratic solutions - and to an extreme reluctance to take risks." [RT:
+This seems to be the norm nowadays for most decision makers.] An example is
+medical malpractice litigation.
+"Increased
+accountability is a mixed blessing."
+"The sense-making
+machinery of (our) System 1 makes us see the world as more tidy, simple,
+predictable and coherent than it really is." [RT: and I'm not sure that
+System 2 is much better.]
+206 "The demand for illusory
+certainty is met in two popular genres of business writing: (1) histories of
+the rise (usually) and fall (occasionally) of particular individuals and
+companies; and (2) analyses of differences between successful and less
+successful firms." [RT: this doesn't apply just to firms.] They all
+exaggerate the impact of leadership style and management practices.
+207 "A study of Fortune's 'Most
+Admired Companies' finds that over a 20-year period, the firms with the
+worst ratings went on to earn much higher stock returns than the most
+admired firms." The average gap will decrease anyhow due to 'Regression to
+the Mean', as with the good day 1 golfers.
+209 "Poor evidence can make a
+very good story."
+212-3 With stock markets, "a
+major industry appears to be built largely on an illusion of skill ... The
+puzzle is why buyers and sellers alike think the current price (of any given
+stock) is wrong."
+213
+Odean
+took a year's
+data and found that, on average, people made a loss of 3.2%, not including
+the cost of doing the trades themselves.
+214 The least active traders
+did best, and women did better than men.
+216 "Facts that challenge such
+basic assumptions (e.g. that stock picking over the long term is a skill),
+and thereby threaten people's livelihood and self-esteem, are simply not
+absorbed; the mind mind does not digest them."
+217 "People can maintain an
+unshakeable faith in any proposition, however absurd, when they are
+sustained by a community of like-minded believers." [RT: this probably
+applies to religious sects, academic specialties, political parties and many
+others.]
+218 "The idea that the future
+is unpredictable is undermined every day by the ease with which the past is
+explained."
+"The often-used image of
+the 'march of history' implies order and direction."
+218-9 In
+Tetlock 's
+study, 284 'experts' in forecasting future conditions "performed worse (on
+average) than they would have if they had assigned equal probabilities to
+each of the 3 potential outcomes." [RT: on Tetlock's Wikipedia page; they
+made 28,000 predictions and were slightly better than chance, but worse than
+a simple computer prediction.]
+219 "The more famous the
+forecaster, the more flamboyant the forecasts."
+219-20 "Experts resisted
+admitting that they had been wrong. They gave excuses like the hedgehogs
+(see below).
+220
+In
+Isaiah
+Berlin 's ' Hedgehogs
+and Foxes ' parable (based the theory of history in Tolstoy's ' War
+and Peace '), for hedgehogs (who have one big idea) "a failed prediction
+is almost always 'off only on timing', 'very nearly right' or 'wrong for the
+right reason' " - unlike the foxes, "who draw on a wide variety of
+experiences and for whom the world cannot be boiled down to a single idea"
+(see the Wikipedia page). But foxes would not get invited to be in a TV
+debate.
+222-3 Over a large number of
+comparisons of 'clinical' and 'statistical' predictions, statistics do
+better in 60% of cases
+224
+Ashenfelter 's
+statistical formula for predicting the prices of vintage wines shows a .90
+correlation with actual proces.
+226 Multiple regression for
+deciding weights of individual predictive factors doesn't do much better
+than taking the weights as 'all equal'.
+227
+Virginia Apgar
+introduced a simple formula for deciding whether to intervene with newborn
+babies - still used today.
+228 Many people have an
+anti-anything-artificial or anti-anything-technical bias.
+229 "The story of a child dying
+because an algorithm made a mistake is more poignant than the story of the
+same tragedy occurring as a result of human error, and the difference in
+emotional intensity id readily translated into a moral preference."
+247 DK learnt some lessons from
+the fact that an earlier book took 8 years to get published when the project
+team had agreed that it would take 2 years. They had ignored comparisons
+with similar projects that took 7-10 years, with a 10% chance of total
+failure as well. See below:
+1) There's the
+inside view
+(what we as a
+team think) and the
+outside view
+(what knowledgeable people
+who are not personally involved think).
+2) The team was really estimating on a 'best
+case' scenario.
+3) we irrationally tend to persevere for too long
+[RT: presumably to keep our current jobs going.]
+248
+Donald Rumsfeld
+[RT:
+I never thought I would be quoting him on my website!] talked about the ' unknown
+unknowns '. Examples DK gives are "the divorces, the illnesses, the
+crises of coordination with bureaucracies". [RT: I rather like
+Slavoj Žižek
+'s
+unknown knowns , the ones we intentionally refuse to acknowledge that we
+know.]
+"The outside view will
+give an indication of where the
+ballpark
+is, and
+it may suggest ... that the inside view forecasts are not even close to it."
+249 " 'Pallid' statistical
+information is routinely discarded when it is incompatible with our personal
+impressions of a case." The standard excuse for this is "Every case is
+unique".
+250 Planning optimism is very
+widespread, presumably because we want to do the project, but for other
+reasons than the explicit ones.
+251-2 An antidote to the above
+proposed by DK and Tversky, but developed for practical use by
+Flyvbjerg
+is
+reference
+class forecasting
+= adjusting a baseline based on similar projects
+elsewhere.
+253-4 The
+sunk
+cost fallacy
+= throwing good money after bad "because we've invested
+all this money and don't want to be seen as foolish".
+256 "When action is needed,
+optimism, even of the wildly delusional variety, may be a good thing."
+258 "Psychologists have
+confirmed that most people genuinely believe that they are superior to most
+others on most desirable traits" - and they are prepared to bet on it.
+"Firms with
+award-winning CEOs subsequently under-perform."
+259 "Optimistic risk taking of
+entrepreneurs surely contributes to the economic dynamism of a capitalistic
+society."
+260 Founders and participants
+of start-ups think that success is 80% dependent on what they do. This is
+partly due to WYSIATI - they can't do much about what they don't know, but
+maybe they should find out more before they start. What about competitors,
+for example?
+262 "When we estimate a
+quantity we rely on information that comes to mind, and construct a coherent
+story in which the estimate makes sense. Allowing for the information that
+does not come to mind - perhaps because one never knew it - is impossible."
+[RT: sounds to me like most 'business plans'.]
+"The wide confidence
+interval is a confession of ignorance, which is not socially acceptable for
+someone who is paid to be knowledgeable." And this someone "won't get
+invited to strut their stuff on (TV etc) news shows." [RT: Australian
+weather forecasts seem to follow this dictum - and so risk losing
+credibility when they don't get it right. Residents of southern England
+might remember the
+great storm of
+1987 .]
+264 "Subjective confidence is
+determined by the coherence of the story one has constructed, not by the
+quality and amount of the information that supports it."
+264-5 A
+pre-mortem
+= a
+process in which each member of a team has to imagine a situation, one year
+in the future, in which the outcome of the plan was a disaster; each person
+is given 5-10 minutes to write a brief history of that disaster. This
+legitimizes the expression of doubts, otherwise "the suppression of doubt
+contributes to overconfidence in a group where only supporters of the
+decision have a voice".
+Part IV -
+Choices 271-2 Prospect Theory
+(i.e. of choice under
+uncertainty) is what DK and Tversky proposed as better than the existing and
+widely-used standard measure of
+Expected
+Utility .
+272
+Fechner 's
+law
+states that
+subjective quantity in a person's mind is proportional to the
+logarithm
+of the physical quantity. [RT: a bit like decibels?]
+273 Also, we prefer $80 for
+sure to an 80% chance of $100 (which means a 20% chance of nothing).
+The idea of 'expected
+utility' attempts to take these considerations into account.
+274 However,
+Bernoulli's utility function
+ignores the psychological effect of change;
+the utility we attach to some quantity (e.g. income, profit) is not
+independent of what we had before - we don't, for example, like to take a
+drop in salary.
+DK's parable is: "You
+need to know about the background before you predict whether a grey patch on
+a page will appear dark or light."
+277 Theory-induced blindness
+= "Once you have accepted a theory and used it as a tool in your thinking,
+it is extraordinarily difficult to notice its flaws. If you come across an
+observation that does not seem to fit the model, you assume that there must
+be a perfectly good explanation that you are somehow missing". "Disbelieving
+is hard work, and System 2 is easily tired."
+279 "The disutility of losing
+$50 could be greater than the utility of winning the same amount."
+281 We just psychologically
+like winning and hate losing.
+"Bernoulli's missing
+variable is the reference point." [RT: as with advertiser's discounts - 30%
+off what?]
+282 DK describes the '3 bowls
+of water' trick - one hot, one ice cold, one at room temperature. Experiment
+subjects have to put their hands in an extreme bowl first, then in the
+middle. The circumstances in the bowl entered second are the same whether
+the subject starts in the hot or the cold, but the experience is different.
+Three factors in
+Prospect Theory are 1) the feeling about change; 2) diminishing sensitivity;
+3) loss aversion.
+283
+DK and Tversky proposed an asymmetric S-curve about the
+reference point.
+Value is expressed as subjective utility.
+Gains or losses are measured relative to this reference point.
+The curve drops more steeply for losses, representing loss aversion.
+The gradients on both the gains and losses sides drop off due to
+diminishing sensitivity.
+284 Typical
+loss aversion
+ratios
+are between 1.5 and 2.5.
+287 But even Prospect Theory
+fails to allow for
+regret
+- i.e. the psychological feeling about
+"what might have been". The reference point in this has effectively switched
+from "where we are now" "to where we might have been".
+288 As an example, a choice
+between 90% chance of receiving $1 million or $50 with certainty gives more
+regret if you don't take the gamble, than if the choice was 90% chance of
+receiving $1 million or $150,000 with certainty.
+292 Prospect Theory relates to
+economists'
+Indifference Curves
+- the reference point becomes critical.
+293 The
+Endowment Effect
+= a gap between maximum buying price and minimum selling price because
+someone attaches value to 'having' whatever the thing being traded is.
+Prospect Theory sees these different figures as the pleasure of getting the
+thing versus the pain of giving it up. The reference point is different
+before and after we 'have' it. The pain of giving it up something nice may
+be greater than the pleasure of getting it, as was the case with the
+professor's fine wine collection.
+294 The endowment effect only
+applies to some things - not to, for example, $5 notes, which are 'held for
+exchange' rather than 'held for use'.
+Another example of such
+a 'nice thing' might be leisure time, possibly trade-able against salary.
+298 Things are different if
+trading is the norm, i.e. if we are thinking as traders. [RT: like
+collecting stamps for profit rather than for the pleasure of being able to
+look at the collection.
+'Decision making under
+poverty' may also have different rules.
+299 Compared with US students,
+UK students showed less endowment effect.
+301 "The brain responds quickly
+to purely symbolic threats." The ' Amygdala '
+acts as the 'threat centre'.
+302 "The negative trumps the
+positive in many ways."
+For long-term success of
+a relationship, good interactions need to "outnumber bad interactions by at
+least 5 to 1".
+302-3 "A reference point is
+sometimes the status quo, but it can also be a goal in the future; not
+achieving a goal is a loss, exceeding a goal is a gain."
+303 'Par' in golf is a perfect
+example of a reference point.
+304 Statistically, golfers
+putting for par do better than when putting for a birdie.
+306-7 Economic 'fairness' in
+business: where should the line be drawn? Reference points of the status quo
+have an influence (e.g. union negotiations).
+311 How "good is the news" of
+each of the following 5% increases in the chances of receiving $1 million?
+It certainly isn't linear.
+From 0% to 5%
+The
+possibility effect
+comes into play
+From 5% to 10%
+Not so much difference
+From 60% to 65%
+Not so much difference
+From 95% to 100%
+The
+certainty effect
+comes into play
+315
+Allais 's
+experiment showed the following cumulative figures of utility/'good news' in
+this situation:
+0%
+1%
+2%
+5%
+10%
+20%
+50%
+80%
+90%
+95%
+98%
+99%
+100%
+0
+5.5
+8.1
+13.2
+18.6
+26.1
+42.1
+60.1
+71.2
+79.3
+87.1
+91.2
+100
+316 There is a whole
+psychology of worry
+about very small risks.
+317
+The 'Fourfold Pattern'
+GAINS
+LOSSES
+HIGH
+The gamble is ...
+95% chance to win $10,000
+95% chance to lose $10,000
+PROBABILITY
+Prevailing emotion
+Fear of disappointment
+Hope to avoid large loss
+'Certainty effect'
+Most people are ...
+RISK AVERSE
+RISK SEEKING
+Most people ...
+Accept unfavourable settlement
+Reject favourable settlement
+LOW
+The gamble is ...
+5% chance to win $10,000
+5% chance to lose $10,000
+PROBABILITY
+Prevailing emotion
+Hope of large gain
+Fear of large loss
+'Possibility effect'
+Most people are ...
+RISK SEEKING
+RISK AVERSE
+Most people ...
+Reject favourable settlement
+Accept unfavourable settlement
+318-9 The top right quarter is
+where most disasters happen - people gamble in the hop of avoiding the loss.
+319 "Because defeat is so
+difficult to accept, the losing side in wars [RT: and in many other
+conflicts] often fights long past the point at which the victory of the
+other side is certain, and only a matter of time." And the same happens in
+some lawsuits.
+320-1 If New York faces 200
+frivolous lawsuits a year, each with a 5% chance of succeeding, it might be
+tempted to settle each for $100,000. But this would be worse than an 'always
+fight it' policy ($20 million versus $10 million).
+321 "Consistent over-weighting
+of improbable outcomes - a feature of intuitive decision making - eventually
+leads to inferior outcomes.
+322 Terrorism is effective
+because "it leads to an 'availability cascade'.
+323 "System 1 cannot be turned
+off."
+324 Simplistically, "people
+overestimate probabilities of unlikely events, and over-weight unlikely
+events in decisions".
+"Our mind has a useful
+capability to focus spontaneously on whatever is odd, different or unusual."
+326-7 "The successful execution
+of a plan is easy to imagine when one tries to forecast the outcome of a
+project. In contrast, the alternative of failure is diffuse, because there
+are innumerable ways for things to go wrong." [RT: so, we should use
+pre-mortems !]
+326 In an experiment at the Uni
+of Chicago offering
+money,
+kisses and electric shcoks , " affect-laden imagery
+overwhelmed the
+response to probability"
+328 "A rich and vivid
+representation of the outcome, whether or not it is emotional, reduces the
+role of probability in the evaluation of an uncertain project."
+329 Denominator neglect
+- is e.g. when many people choose to draw from urn B containing 8 red
+(valuable) out of 100 marbles, when urn A has 1 red out of 10 marbles.
+"System 1 is much better
+at dealing with individuals than categories."
+In an experiment, people
+thought that "a disease that kills 1,286 people out of every 10,000" was
+more dangerous than one that "kills 24.14% of the population"; and even one
+that kills "24.14% of 100".
+330 Activists for certain
+causes often use this sort of framing "to frighten the general public" as
+part of their campaigns.
+331 "Decimal points clog the
+mind, compared with a (simple) 'number of individuals'."
+The art in all this is
+to increase (or decrease) the 'salience' of possible events.
+331-2 A decision based on
+experience only isn't necessarily the same as if the probability is
+described.
+332 Obviously under-weighting
+is common among people who never experienced the rare event (e.g.
+earthquakes, tsunamis, bubble-bursts in house prices). It's much the same
+with global environmental threats.
+333 "Obsessive concern (e.g. DK
+driving well clear of a bus in Jerusalem), concrete representations (e.g. '1
+person out of 100) and explicit reminders (as in choice based on a
+desription) all contribute to over-weighting."
+A vocabulary example:
+"It's the familiar disaster cycle. Begin by exaggeration and over-weighting,
+then neglect sets in."
+Another vocabulary
+example: "We shouldn't focus on a single scenario, or we will overestimate
+its probability. Let's set up specific alternatives and make the
+probabilities add up to 100%."
+334-6 'System 1' choices in a
+2-(separate) stage decision can lead to (inconsistently) unequivocally worse
+outcomes in the combined decision.
+336 If the choice is between
+narrow framing
+and
+broad framing , the latter is usually best.
+338 If we are making decisions
+as a job, we need to 'broad frame' - i.e. win some, lose some - but we need
+to control our emotional response when we do lose.
+339 "The combination of loss
+aversion and narrow framing is a costly curse."
+"Closely following daily
+fluctuations is a losing proposition."
+340 We need to have broad-frame
+risk policies
+- analogous to and 'outside view'.
+341 People investing seriously
+(e.g. as a job) need to "think like a trader".
+"If each of our
+executives is loss averse in his or her own domain" then the organization as
+a whole is probably "not taking enough risk". [RT: one might have to be
+careful applying this in a bad bear market.]
+343 We all do
+mental
+accounting
+- usually with narrow-frame headings.
+344 When investors need cash,
+there is "a massive preference for selling winners rather than losers - a
+bias that has been given an opaque label: the
+disposition effect "
+(which is equivalent to narrow framing).
+The price one bought the
+stocks at shouldn't be a consideration, only what they are likely to do in
+the future.
+345 It's better to sell the
+loser - one can put it against gains to reduce tax.
+It's the 'sunk-cost
+fallacy' to invest additional resources into a losing account. A
+non-investment example is driving into a blizzard because one has paid for
+the tickets to an event that involves a car journey. This is like the top
+right of the 'fourfold pattern'.
+346 The
+agency problem
+=
+when a manager's personal "incentives are misaligned with the objectives of
+the firm and its shareholders".
+"Regret is what you
+experience when you can most easily imagine yourself doing something other
+than what you did."
+347 "Regret is not the same as
+blame." If A) "Mr Brown never picks up hitchhikers. Yesterday he gave a man
+a ride and was robbed" and B) "Mr Smith frequently picks up hitchhikers.
+Yesterday he gave a man a ride and was robbed", then A) has the regret, but
+B) gets the blame.
+348 Regret is stronger when one
+took action than when one failed to, given the same final result. What
+matters is what the 'default' is, rather than 'commission versus omission'.
+349 "The asymmetry in the risk
+of regret favours conventional and risk-averse choices."
+351 "Airplanes, air
+conditioning, antibiotics, automobiles, chlorine, the measles vaccine,
+open-heart surgery, radio, refrigeration, smallpox vaccine and X-rays" - all
+would have fallen foul of the European ' precautionary
+principle ' if that were interpreted strictly.
+"Susceptibility to
+regret, like susceptibility to fainting spells, is a fact of life to which
+one must adopt."
+354 "Poignancy (a close cousin
+of regret) is a counterfactual feeling, which is evoked because the thought
+of 'if only ...' comes readily to mind", (i.e. we didn't make the choice,
+and the thing just happened).
+355 Reversal
+= when a
+choice is inconsistent, depending on how it is evaluated, and what is
+'salient'.
+358 Thinking more favourably of
+dolphins than of ferrets, snails or carp might affect how much people donate
+to a conservation charity.
+358-9 Compared with the above
+case, what about donations towards skin cancer check-ups for farm workers?
+If we are presented with the two cases together, our donations might be
+different than if the cases were presented separately.
+360 In this regard,
+Hsee
+proposed an
+evaluability hypothesis
+- that we don't use
+certain data for making a a choice unless we can compare it against its
+value in a competing case.
+361 Jurors in the USA who
+assess damages are expressly forbidden to compare with other cases. This
+seems crazy, as there will be many 'reversals' when many awards are reviewed
+later.
+In the USA,
+Occupational Health and Safety
+penalties
+related to worker safety are capped at $7,000; for violation of the Bird
+Conservation Act the cap is $25,000.
+363 In the 2006 Soccer World
+Cup, do the statements "Italy won" and "France lost" have equivalent
+meaning? And "What do we mean by meaning?"
+364 " Losses
+evoke
+stronger negative feelings than
+costs " - so people buy lottery
+tickets
+"People will more
+readily forgo a discount than pay a surcharge."
+366 Neuro-economics
+=
+"what a person's brain does (physically) when he/she makes decisions".
+Emotion evoked by a
+word, e.g. KEEP or LOSE, can 'leak' into our final choice.
+367 "Re-framing is effortful
+and System 2 is normally lazy."
+368 "Preferences can reverse
+with different framings" (e.g. of Tversky and DK's ' Asian
+disease problem ').
+372 The 'mpg illusion':
+Assuming the same annual mileage, an improvement from 12 to 14 mpg is better
+than one from 30 to 40 mpg, even though it's only 2 more mpg. We get the
+correct answer if we look at it using litres per 100 kilometres.
+Part V- 377 There's a difference
+between
+experienced utility
+and
+decision utility . The first is
+a measure of 'subjective well-being', while the second is more objective,
+maybe an outsider's view on "what's best for you". For a slide show covering
+this and most things in Part 5, see
+this web page .
+Two
+Selves 379-81 In DK's example of 'no-anaesthetic
+colonoscopy', which was the right utility - the patient's memory of pain, or
+the total amount of pain incorporating how long it lasted?
+381 The
+two selves
+are
+the 'experiencing self' (not duration-dependent, e.g. "Does it hurt now?")
+and the 'remembering self' ("How was it, on the whole?"). DK talks about the
+"tyranny of the remembering self" (see p 385).
+383 Evolution may or may not
+have "designed animals to store integrals" (i.e. of our pain over time).
+385 "Tastes and decisions are
+shaped by memories, and the memories can be wrong" (or concentrate only on
+peak intensities).
+Because a failed
+marriage ended badly, it does not mean it was all bad. The good part might
+in fact have lasted 10 times as long as the bad.
+387 A
+story
+is about
+significant events and memorable moments, not about time passing (e.g.
+Traviata ). It's the
+same with people's life stories - even if these are later spoilt by
+revelation of the truth (e.g.
+Churchill )
+388 "Peaks [RT: of feeling] and
+ends [RT: of phases] matter but duration does not."
+"Resorts offer
+restorative relaxation; tourism is about helping people construct stories
+and collect memories" (hence "frenetic picture taking").
+390 "Odd as it may seem, I am
+my remembering self; and the experiencing self, who does my living, is like
+a stranger to me."
+"She is an Alzheimer's
+patient. She no longer maintains a narrative of her life, but her
+experiencing self is still sensitive to beauty and gentleness."
+392 Happy experience can come
+through a ' flow ',
+as with artists [RT: in my case, drawing imaginary maps; there's also
+crosswords and Sudoku!]. A
+flow
+can be defined as "a situation in
+which 'X' would wish to continue in total absorption in a task -
+interruptions are not welcome". See also
+this diagram
+and
+this .
+DK and colleagues tried
+experience sampling
+by prompting subjects by mobile phone to record
+their feelings at the time.
+392-3 More successful was their
+Day
+Reconstruction Method
+or DRM. The idea is to "re-live the previous
+day in detail, breaking it up into episodes like scenes in a film".
+393 They invented the
+U-index
+- the percentage of the time in a 16-hour day that a person felt
+they were in an unpleasant state - so it's duration-dependent.
+394 In a US mid-west city,
+women clocked 29% for the morning commute, 27% for work, 24% for child care,
+18% for housework, 12% for socializing, 12% for TV watching and 5% for sex.
+The figures were 6% higher on weekdays than weekends.
+"Frenchwomen spend less
+time with their children but enjoy it more, perhaps because they have access
+to child care and spend less of the afternoon driving children to various
+activities."
+"Our emotional state is
+largely determined by what we attend to."
+396 "Religious participation
+also has relatively greater favourable impact on both
+positive
+affect
+and stress reduction than on life evaluation. Surprisingly, however,
+religion provides no reduction of feelings of depression or worry.
+"... Being rich (income
+over $75,000 p.a.) may enhance one's life satisfaction, but does not (on
+average) improve experienced well-being."
+397 "Life satisfaction is not a
+flawed measure of their (our) well-being ... it is something else entirely."
+398 People's satisfaction graph
+each year before and after marriage peaks at marriage! (See the slides for
+more comment on this.)
+400 "The score that you quickly
+assign to your life is determined by a small sample of highly available
+ideas, not by a careful weighting of the domains of your life."
+"In the DRM studies,
+there was no overall difference in experienced well-being between women who
+lived with a mate and women who did not."
+401 "Both experienced happiness
+and life satisfaction are largely determined by the genetics of
+temperament."
+402 A lot depends on one's
+goals and whether or not one achieves them; so "exclusive focus on
+experienced well-being is not tenable". A hybrid is needed.
+The
+focusing
+illusion
+= "any aspect of life to which attention is directed will loom
+large in a global evaluation".
+403 It's like the better
+weather in California [RT: or Adelaide in my case]. It isn't all (that
+matters).
+404-5 Adaptation to a new
+environment (e.g. a move to California, becoming a paraplegic, [RT: winning
+a lottery]) only causes a temporary blip in experienced well-being.
+406 Mis-wanting
+= "bad
+choices that arise from errors of
+affective
+forecasting ". For more, see
+this
+page .
+"The focusing illusion
+creates a bias in favour of goods and experiences that are initially
+exciting, even if they will eventually lose their appeal. Time is neglected,
+causing experiences that will retain their attention value in the long term
+to be appreciated less than they deserve to be."
+Conclusion 408 DK distinguishes 2
+'characters', System 1 and System 2; 2 species, 'Econs' and 'Humans'; and 2
+selves, 'experiencing' and 'remembering'.
+409 "The central fact of our
+existence is that time is the ultimate finite resource, but the remembering
+self ignores that reality."
+"Regret is the verdict
+of the remembering self."
+412 "For behavioural
+economists, however, freedom has a cost, which is borne by individuals who
+make bad choices, and by a society that feels obligated to help them."
+413
+Thaler
+&
+Sunstein
+published in 2008 the book ' Nudge ',
+advocating " 'libertarian paternalism', in which the state and other
+institutions are allowed to 'nudge' people to make decisions that serve
+their (the people's) own long-term interests". An example would be giving
+the default of joining a pension plan, but allowing the individual to tick a
+box to opt out.
+Nudge requires firms to
+offer contracts that are sufficiently simple to be read and understood by
+Human customers.
+414 The
+UK's 'Behavioural Insight Team ' (to which Thaler is advisor) is
+popularly known as the 'Nudge Unit'.
+414-5 USA food adverts are
+required, if they say '90% fat free', to also say '10% fat', "in lettering
+of the same color, size and typeface, and on the same color background as
+the statement of lean percentage".
+415 "You will believe the story
+you make up." [RT: yes, 'I believe in
+Fire Island ',
+but I don't think it's as real as (say) New Zealand.]
+416 "System 1 registers the
+cognitive ease with which it processes information, but it does not generate
+a warning signal when it becomes unreliable."
+417 "Recognize that you are in
+a cognitive minefield, slow down, and ask for reinforcement from System 2."
+"It is much easier to
+recognize a minefield when you observe others wandering into it, than when
+you
+are about to do so."
+418 "Organizations can also
+encourage a culture in which people watch out for one another as they
+approach minefields."
+"There is a direct link
+from more precise gossip at the water cooler to better decisions. Decision
+makers are sometimes better able to imagine the voice of present gossipers
+and future critics than to hear the hesitant voice of their own doubts."
+"They will make better
+choices when they trust their critics to be sophisticated and fair, and when
+they expect their decision to be judged by how it was made, not only by how
+it turned out."
+Reflections
+This is one of the most life-relevant books I have ever read. It probably
+repeats a lot of Kahneman's (and Tversky's) previous work, but seems to have
+drawn the many threads of that work together.
+The question that I am left with is "Shouldn't we be teaching this as part of
+a complete education?" Many people mentioned in the book seem to have been
+amazingly surprised by most of the experimental results and ideas.
+As an obsessive - and maybe paranoid - opponent of bullshit, I feel that we,
+as the receivers of messages, are just not up to scratch in recognizing what is
+going on around us. Clearly, some politicians, advertisers, and various
+motivational speakers know how to hoodwink us; they know how to appeal to our
+intuitive selves (System 1) without disturbing our reflective and analytical
+selves (System 2). We need to ask ourselves more often what Mr Spock would say.
+Links
+Index to more highlights of interesting books
+FROLIO home page
+Some of these links may be under construction – or re-construction.
+This version updated on 27 th
+April 2012
+If you have constructive suggestions or comments, please contact the author
+rogertag@tpg.com.au
+.

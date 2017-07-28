@@ -1,0 +1,245 @@
+I.T.'s All Geek To Mike!!!: February 2008
+I.T.'s All Geek To Mike!!!
+Random thoughts, ideas, and cool stuff...
+You never know what will show up on these pages...
+Tuesday, February 26, 2008
+More Stuff you need to know...
+Extending Server 2008 eval to 240 days... http://support.microsoft.com/kb/948472 Check out the latest issue of
+PCMagazine
+for 157 FREE pieces of software. I've got a whole slew written down. I just haven't had time to play with them. Also,
+WIRED
+has a great article on how
+FREE is the business model of the future . And get it
+Free if you are the first of 10,000.
+Posted by
+Michael Bender
+at
+8:35 PM
+No comments:
+Links to this post
+Monday, February 25, 2008
+Tools you need to use
+Everyone knows I'm a "Windows" guy so it is of no surprise that I'm hyping on some tools out of the
+Windows Live suite
+of products. Live is Microsoft's answer to many of the tools other companies such as
+Google
+have created for the web. First is
+Foldershare . Still in Beta,
+Foldershare
+allows you to create libraries of folders/documents and have them synced between multiple computers. It requires the installation of a very small agent to run on each machine. One of the nice side effects of installing folder share is that you not only have access to your libraries from other computers; you can access your entire file structure from your foldershare web site. Next is
+Skydrive . Just out of Beta,
+Skydrive
+is a good solution for storing data "in the cloud". Since post-beta release, the storage capacity is now 5GB. However, a 50MB limit on file size and the inability to upload folders hamper the ability to "wholesale" backup your current storage devices.
+Kevin Remde
+speaks to
+Skydrive in his blog . I'd like to see integration between the two. My Vision is that I could SEAMLESSLY add documents to folder share, sync them between my devices. Then, once a day, my foldershare libraries are backed up to skydrive.
+Extending Server 2008 eval to 240 days... http://support.microsoft.com/kb/948472 Using the slmgr.vbs /rearm you can extend the 60 day grace period 3 times. Slmgr.vbs works in vista as well. Check out the latest issue of
+PCMagazine
+for 157 FREE pieces of software. I've got a whole slew written down. I just haven't had time to play with them. Also,
+WIRED
+has a great article on how
+FREE is the business model of the future . And get it
+Free if you are the first of 10,000. More to come... Mike
+Posted by
+Michael Bender
+at
+6:26 AM
+No comments:
+Links to this post
+Saturday, February 2, 2008
+Back in the Emerald City
+Back in Seattle again... This time for business. Monday through Wednesday, I'm attending the MCT Summit in Redmond. I'm pretty stoked as I've never attended the Summit before and they are rolling out lots of training for the new products: Server 2kOcho (2008), SQL 2008, and Visual Studio 2008. I'm hoping to get some good insight into Server along with more info about Unified Message w/ Exchange 2007. Plus, hob-nobbing with Blue-badgers and other MCT's will be fun as well.
+The trip out went well. I flew out of Chicago instead of Madison, both for price and logistic reasons. Good thing as the Madison United flight got delayed 2 1/2 hrs. I splurged and used some miles to fly First Class. WOW...It really made the long flight quite enjoyable. And I don't think I would ever say this, but I ate too much on the plane.
+On the way out, I listened to about 2 1/2 hours of
+The 4 Hour Work Week
+by
+Tim Ferriss
+Very exciting and interesting book on becoming part of the NR, or New Rich, and making your life more effective.
+I'm hoping to weave some of the concepts like a low information diet into my daily life.
+I'm intrigued by the concept of outsourcing tasks so I will see if I can find some tasks that I don't like to do which can be outsourced at an economical rate. Once I got to town, I got my vehicle and proceed to a kitschy-cool coffee shop called
+Fuel coffee . Being as I'm 'going green', I purchased a Fuel Coffee travel mug as I'd forgotten mine at home. I got a free
+Americano ....AWESOME espresso coffee they have!
+I met Peter and Leslie for Sushi at
+Chiso . AMAZING...probably, the best sushi and fresh fish I've ever had. We had some amazing Oysters on the half shell, Tuna Belly, and Line-caught salmon, just to name a few. Sean, the amazing sushi chef at chiso, made us a speciality roll that was out of this world and all I can remember is that it had seared scallops on top! I will got there again. Being from the midwest, its very difficult to get really fresh sushi. Talking with PK and Leslie, it sounds like Chiso may get some of its catches straight from Japan. Yummmy.... Well, I had brought my GPS, but that did not help in keeping my 30 minute drive to my friend's house in Bothell from taking 1 hr+. If you've ever driven in Seattle, you know the straights cross every which way, and they are very narrow. More than once, I ran into a street that was no longer a street...Oh well. It's 7:30am PST, but I've been up since about 4:30 PST due to still being on CST.
+Posted by
+Michael Bender
+at
+9:09 AM
+No comments:
+Links to this post
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+#iamkrewe
+Microsoft MVP Award for 2014/2015
+Windows Expert - IT Pro
+About Me
+Michael Bender
+Madison, WI
+Just a geek trying to "share the wealth" with the rest of the world...
+Michael is a three-time Microsoft Most Valuable Professional, Microsoft Certified Professional, and VMware Certified Professional working in the IT field since 1998 as a systems engineer for a future 500 telecom, and currently as an IT instructor at Madison College in Madison, WI. Along with his fulltime work, he provides support for small non-profit businesses in the Madison area. On top of his work in IT, he has a passion for connecting people and building community in the IT Pro space. He is the current president and a founding member of iamkrewe.org, a world-wide networking group for IT Pros and Developers. He’s a published author at pluralsight.com, presenter, and blogger at itsallgeek2mike.com, as well as active on twitter as @MichaelBender.
+View my complete profile
+Keep up-to-date with RSS
+Posts
+Atom
+Posts
+All Comments
+Atom
+All Comments
+Blog Archive
+►
+2015
+(2)
+►
+September
+(1)
+►
+January
+(1)
+►
+2014
+(9)
+►
+November
+(1)
+►
+June
+(1)
+►
+May
+(3)
+►
+April
+(4)
+►
+2013
+(11)
+►
+April
+(2)
+►
+March
+(5)
+►
+February
+(2)
+►
+January
+(2)
+►
+2012
+(14)
+►
+December
+(1)
+►
+October
+(1)
+►
+September
+(1)
+►
+June
+(1)
+►
+May
+(1)
+►
+April
+(5)
+►
+March
+(2)
+►
+February
+(2)
+►
+2011
+(1)
+►
+August
+(1)
+►
+2009
+(14)
+►
+December
+(1)
+►
+June
+(4)
+►
+May
+(1)
+►
+April
+(1)
+►
+March
+(2)
+►
+February
+(5)
+▼
+2008
+(27)
+►
+December
+(2)
+►
+October
+(2)
+►
+September
+(2)
+►
+July
+(2)
+►
+June
+(6)
+►
+May
+(1)
+►
+March
+(6)
+▼
+February
+(3)
+More Stuff you need to know...
+Tools you need to use
+Back in the Emerald City
+►
+January
+(3)
+►
+2007
+(8)
+►
+December
+(1)
+►
+November
+(6)
+►
+August
+(1)
+My Del.icio.us Tags
+Favorite Blogs and Sites
+Jeff Guillet - Blog
+Don Jones - Blog
+Adam Bertram - Adam the Automator
+PowerShell.org
+The Krewe Website
+Tim Ferris - Four Hour Work Week Blog
+Mark Minasi
+MSexchange.org
+SBS Diva
+Friends Don't Let Friends Drive Macs....
+What has our world come to????
+Right now on Twitter...
+Awesome Inc. template. Powered by
+Blogger .

@@ -1,0 +1,416 @@
+Senzee 5 - Paul Senzee: March 2007
+Senzee 5 - Paul Senzee
+Paul Senzee on iOS/Android App and Game Development, Technology and sometimes Life
+Friday, March 30, 2007
+Language Vector
+"What cannot be spoken of cannot be
+defeated ."
+My
+head
+isn't clear and I pass in and out of
+sleep . I'm
+infected .
+Stay with
+me
+as I type this. I'll give you a little background. In the 1950's the last of the
+South Fore
+engaged in
+ritual
+necrophagia
+and the
+prion
+disease
+Kuru
+recently claimed the last
+victims
+among them.  The last that ate the
+thoughts
+of another.  Nearby, another
+Papua New Guinea
+tribe discovered a more pernicious and far more
+horrifying
+threat about forty years ago.  For years, their population shook and trembled for a reason unknown to them.  They pointed to a
+cave
+in which words approximated by the
+English
+phrase
+The
+Black
+Whisper
+of
+Death
+were inscribed.
+"The
+plague
+came from in there,"
+they said.
+8-43 0x12a_rr . ;09]]
+Globalization
+efforts brought the
+whisper
+heard
+round the world .  Oh,
+look ! On the overhead
+TV , that
+image ..
+A beloved American
+religious
+leader at a political celebration passes an attractive, conservatively
+dressed
+young woman. As the light of
+recognition
+flares in his eyes, he warmly
+greets
+her by
+name . She smiles
+mechanically . Suddenly horrified he whirls around to locate the
+camera
+capturing an
+unmistakable
+expression
+of
+humiliation .
+It's on
+TV
+every other day.  She was a minor
+porn
+star .  It was not that he greeted her that condemned him.  He could have
+legitimately
+known
+her in a
+number
+of ways.  Even had he known her
+biblically
+it would have been taken in stride.  Who cares?  It turns out his televised
+shame
+indicted him more decisively than a
+living-room
+stash of indecent
+DVD  s.  After all, it is shame and little else that condemns us.  The
+tabloids
+carried that
+image
+for months next to the articles decrying
+Death's Whisper .  It doesn't matter.  The
+young
+woman and the
+religioso
+are dead now,
+victims
+of their own
+fascination
+with their
+tabloid fame
+and more directly, victims of its
+adjacent
+coverage .
+In this case it is
+knowledge
+that destroys. dsf6 -saf ;; This is not a disease borne by a
+bacterium , a
+virus , or a prion. See, this
+whisper
+is a disease carried by the most insidious of
+vectors
+-
+language
+itself. To simply
+understand what it is
+is to be
+irreversibly
+afflicted. What cannot be spoken of cannot be
+defeated . I am condemned already and by writing I damn my readers. But there will be no
+readers ..
+Some said it was the
+Creator , dropping in a
+kill switch
+to flip at the turn of a phrase.  It's adaptive. They named the disease in the
+native tongue
+and it killed them. Scientists described it in
+English
+and
+French
+and
+Spanish . It killed them. The blind read of it in
+Braille , the deaf signed in
+ASL . Experts from around the world spewed a rainbow of
+euphemisms . It killed
+millions . It is not bound to any particular
+lexical
+form - perhaps its representation in the brain creates the disease
+ex nihilo . I don't really know. We did not discover the
+mechanism
+that drives this
+epidemic .
+It may be strange to think of language spreading disease, but it is not unique.  What is it that
+viral machines
+inject into living cells if not RNA/DNA coded
+assembly language
+pathogens?  I know that machines aren't affected because
+words
+are transparent to them. Still,
+machines
+played the
+pivotal
+role in the spread -&89sd(( of the disease as its
+immune and efficient carriers .
+Can you
+imagine
+(no, you can't - because there is no you)
+seeing
+all those around you die for an
+unknown cause of death ?  As death certificate handlers really
+understood
+the meaning of
+unknown cause of death
+they came down
+with
+the disease in droves.  Suddenly, the certificates began listing things like
+Onychocryptosis
+and
+Internecivus raptus .  Those who
+witness
+the deaths but don't
+know
+the cause are inexorably driven to discover it.  ( Most
+of) those who
+know , and are infected, try desperately to not
+reveal
+it to anyone and have
+always
+failed.  Now though, strangely, I'm compelled to type this even if I have to type with the
+keyboard
+upside down to keep the
+blood
+from my hands from running into it.  I can no longer hope
+for
+any resolution but the
+obvious .
+And I wait for that
+resolution
+even as the
+asymptomatic
+machines
+auto- hyperlink
+this
+document. No future, fatal question will go
+unanswered
+actio n diminishes c0ntracts freedom entered in valid throu gh fear judged excuses penalty atta ched contrary vectpr for reflex arc
+st1mulus
+unexpe xedly 0kers afwe ~pwn d xasl
+g atattaccaa ggg tc lin k <> link 03 2 . . .
+(story copyright (c) 2007 Paul D. Senzee)
+Posted by
+Paul Senzee
+3 comments:
+Labels:
+Language ,
+Literature ,
+Senzee ,
+Short Stories
+Wednesday, March 21, 2007
+Bytecode to Native Compilation
+At work, some of the software I develop uses a bytecode interpreter.
+And, as always, we need better performance from the whole system.
+So I'm looking into bytecode-to-native (in this case C++) compilation.
+I've done this before, with embedded Lisp-based languages and there are a number of compilers available that do this for Java (GCC has a back-end for this), C#, Lisp and its derivatives (Bigloo for Scheme, for instance).
+Compiling to C or C++ is great as it serves as a sort of portable assembly language and it's possible to leverage further the fine optimization skillz of modern C/C++ compilers.
+I'll report on this when I make some progress - if I don't get pulled off onto something else.
+Posted by
+Paul Senzee
+No comments:
+Labels:
+C++ ,
+Code and Software Development ,
+Language ,
+Optimization ,
+Senzee
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Paul Senzee
+About Me
+Paul Senzee
+View my complete profile
+Blog Archive
+►
+2015
+(11)
+►
+October
+(1)
+►
+July
+(1)
+►
+May
+(1)
+►
+January
+(8)
+►
+2014
+(3)
+►
+December
+(1)
+►
+January
+(2)
+►
+2012
+(3)
+►
+July
+(2)
+►
+June
+(1)
+►
+2011
+(3)
+►
+May
+(1)
+►
+March
+(2)
+►
+2008
+(27)
+►
+November
+(4)
+►
+September
+(2)
+►
+August
+(2)
+►
+July
+(6)
+►
+June
+(1)
+►
+April
+(3)
+►
+March
+(7)
+►
+February
+(2)
+▼
+2007
+(32)
+►
+December
+(4)
+►
+November
+(1)
+►
+July
+(3)
+►
+June
+(7)
+►
+May
+(3)
+►
+April
+(4)
+▼
+March
+(2)
+Language Vector
+Bytecode to Native Compilation
+►
+February
+(6)
+►
+January
+(2)
+►
+2006
+(18)
+►
+December
+(6)
+►
+November
+(1)
+►
+September
+(1)
+►
+August
+(1)
+►
+June
+(3)
+►
+May
+(6)
+Subscribe To
+Posts
+Atom
+Posts
+All Comments
+Atom
+All Comments
+Links
+The Relic
+Axolotl Studios
+Nick Senzee
+Elizabeth Beeton
+Dan Suleski
+Jim Hejl's Hacker's Delight
+mischief.mayhem.soap
+Jamie Fristrom's GameDevBlog
+Ryan Wiancko's Industry Broadcast
+Kyle Gray's Experimental Gameplay
+Christer Ericson's realtimecollisiondetection.net
+Ben Burbank's benisontheinter.net
+Bruce Everiss on Games
+Cactus Kev's Hand Evaluator
+Bob Nystrom's stuffwithstuff
+Create Universes
+meshula.net
+A Path Through Possibility
+Introversion Software
+Engineering Game Development
+c0de517e
+Dead Rock
+El Chigüire Literario (Spanish)
+Fustian Future
+Coding The Wheel
+Xiotex Studios
+Magical Wasteland
+Cliffski's Blog
+Life of a Games Artist and Fatherhood
+Synaptic
+Categories
+Code
+The Impossible Dream
+Short Stories
+Pair
+Pranks
+Invention
+EA
+Playing Games
+Games and Game Industry
+Tools
+Optimization
+Language
+Rendering
+City Generation
+Poker Hand Evaluation
+C++
+Awesome Inc. template. Powered by
+Blogger .

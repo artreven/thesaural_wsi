@@ -1,0 +1,324 @@
+COURSES ARTICLE - THERAPYTOOLS.US
+Understanding Emotions
+Take Test    View PDF format
+Print Article
+Print Test
+Understanding Emotions
+Course meets the qualifications for 2 hours of continuing education credit for MFTs and/or LCSWs as required by the California Board of Behavioral Sciences.
+Course Objectives: Learn the origin and types of emotions and its impact on personality and behavior
+Emotion, in its most general definition, is an intense
+mental
+state that arises automatically in the
+nervous system
+rather than through conscious effort, and evokes either a positive or negative
+psychological
+response. An emotion is often differentiated from a
+feeling .
+Definition of emotions
+Although a common word, it is not easy to come up with a very general acceptable definition of emotion. Growing consensus does agree that the distinction between emotion and feeling is quite important. According to
+Damasio , feeling can be viewed as the subjective experience of an emotion that arises physiologically in the brain.
+[1]
+Many psychologists adopt the ABC model, which defines emotions in terms of three fundamental attributes: A. physiological arousal, B. behavioral expression (e.g. facial expressions), and C. conscious experience, the subjective feeling of an emotion. All three attributes are necessary for a full fledged emotional event, though the intensity of each may vary greatly.
+Robert Masters makes the following distinctions between
+affect , feeling and emotion: "As I define them, affect is an innately structured, non-cognitive evaluative sensation that may or may not register in consciousness; feeling is affect made conscious, possessing an evaluative capacity that is not only physiologically based, but that is often also psychologically (and sometimes relationally) oriented; and emotion is psychosocially constructed, dramatized feeling." [2]
+Emotion is sometimes regarded as the antithesis of
+reason . This distinction stems from
+Western philosophy
+and is reflected in common phrases like
+appeal to emotion
+or
+your emotions have taken over . Emotions can be undesired to the individual experiencing them; he or she may wish to control but often cannot. Thus one of the most distinctive, and perhaps challenging, facts about human beings is this potential for entanglement, or even opposition, between
+will , emotion, and reason.
+In Paul MacLean's classic
+Triune brain
+model, emotions are defined as the responses of the
+Mammalian cortex . Emotion competes with even more instinctive responses from the
+Reptilian cortex
+and the more logical, reasoning
+neocortex . However, current research on the
+neural circuitry of emotion
+suggests that emotion is an essential part of human
+decision-making
+and planning, and that the famous distinction made by
+Descartes
+between reason and emotion is not as clear as it seems. [3]
+Emotion is complex, and the term has no single universally accepted definition. [4]
+Emotions create a response in the mind that arises spontaneously, rather than through conscious effort. It is unclear whether
+animals
+or all
+human
+beings experience emotion. Emotions are physical expressions, often involuntary, related to feelings, perceptions or beliefs about elements, objects or relations between them, in reality or in the imagination. The study of emotions is part of psychology, neuroscience, and, more recently, artificial intelligence. According to Sloman, [5]
+emotions are cognitive processes. Some authors emphasize the difference between human emotions and the affective behavior of animals.
+Emotion as the subject of
+scientific research
+has multiple dimensions:
+behavioral , physiological, subjective, and
+cognitive . Sloman argues that many emotions are
+side-effects
+of the operations of complex mechanisms (e.g. 'alarm' mechanisms) required in animals or machines with multiple motives and limited capacities and resources for coping with a changing and unpredictable world, just as ' thrashing ' can sometimes occur as a side-effect of
+scheduling
+and
+memory management
+mechanisms required in a computer
+operating system
+for purposes other than producing thrashing. Such side effects are sometimes useful sometimes dysfunctional. Other theorists, often influenced by writings of
+Antonio Damasio
+argue that emotions themselves are necessary for any intelligent system (natural or artificial).
+Some state that there is no empirical support for any generalization suggesting the antithesis between reason and emotion: indeed, anger or fear can often be thought of as a systematic response to observed facts. In any case, it is clear that the relation between
+logic
+and
+argument
+and emotion is one which merits careful study.
+Psychiatrist
+William Glasser 's theory of the human control system states that behavior is composed of four simultaneous components: deeds, ideas, emotions, and physiological states.
+He asserts that we choose the idea and deed and that the
+associated
+emotions and physiological states also occur but cannot be chosen independently. He calls his construct a
+total behavior
+to distinguish it from the common concept of behavior. He uses the verbs to describe what is commonly
+seen
+as emotion. For example, he uses 'to depress' to describe the total behavior commonly known as depression which, to him, includes depressing ideas, actions, emotions, and physiological states. Dr. Glasser also further asserts that internal choices (conscious or unconscious) cause emotions instead of external stimuli.
+Many people find it hard to express emotion. Some emotions may include; happiness, sadness, jealousy, excitedness and many others. A disease commonly known as
+depression
+is a type of illness associated with emotional disregulation. Depression is extremely prevalent but its cause it still largely unknown. Treatments therefore vary, with people relying on anti-depressants, therapy, and herbal and alternative medicines.
+Etymology
+Etymologically , the word emotion is a composite formed from two
+Latin
+words. e(x)/out, outward + motio/movement, action, gesture. This
+classical
+formation refers to the motivational aspect that causes one to begin, continue, or end bodily movements from a source often hidden from conscious inspection though necessary even for rational actions. The scientific community applies the term to any creature's activity that exhibits complex response traits similar to that of a human. Alternatively some consider the outward movement to refer to immediacy of action rather than motivational source.
+Theoretical traditions
+Several theoretical traditions in emotion research have been offered. These traditions are not mutually exclusive and many researchers incorporate multiple perspectives in their work.
+Somatic theories
+William James
+in the late 19th century believed that emotional experience is largely due to the experience of bodily changes. These changes might be visceral, postural, or facially expressive. The most basic of these somatic theories is the
+James-Lange theory . This theory and its derivates state that a changed situation leads to a changed bodily state. It is this bodily state which in turn gives rise to an emotion. Hence the emotion fear upon encountering a bear in the woods would follow from:
+Spot a bear
+-> Heart start beating faster; adrenalin is being produced
+è
+The emotion fear arises
+This approach underlies experiment where through manipulating the bodily state, a desired emotion is induced (e.g. in
+laughter therapy ).
+The
+Cannon-Bard theory
+Walter Cannon
+provided empirical evidence against the dominance of the James-Lange theory of the physiological aspects emotions in the second edition of
+Bodily Changes in Pain, Hunger, Fear and Rage . Cannon and Bard came up with a different account of the relations between emotions and behavior; where a certain situation leads to an emotion; which in turn activates a typical behavior. Here the emotion fear upon encountering a bear in the woods would result in:
+Spot a bear
+-> The emotion fear arises
+-> Run away
+Cognitive theories
+Research in social psychology interprets emotions as a combination of two elements; physiological arousal and cognitive interpretation. The earliest account of such a theory is the
+Singer-Schachter theory
+that is based on experiments that varied arousal introducing chemical (adrenaline) and put the participants in different situations. The combination of the appraisal of the situation (cognitive) and whether participants received adrenaline or a placebo togehter determined the response. In the example of the bear this would lead to:
+Spot a bear
+-> Adrenalin is released, hearts starts beating faster
+-> The sight of a bear is interpreted as being dangerous for the health (note this needs not necessarily be a conscious appraisal)
+è
+The emotion fear arises.
+Several other theories have a similar ideas, for example, the framework proposed by
+Nico Frijda
+where such appraisal leads to action tendencies is related to this idea
+The evolutionary perspective
+A fourth thoeretical tradition has been gaining influence once more (see: Cornelius, 1996). This fourth, evolutionary tradition, started in the late 19th century with
+Charles Darwin 's publication of a book on the expression of emotions in man and animals. [6]
+Darwin's original thesis was that emotions evolved via natural selection for reasons of warning other creatures about your intentions (e.g. a cat with a high back is angry and will strike you unless you back off). Darwin argued that for mankind emotions were no longer functional but are
+epiphenomena
+of functional associated habits. Such an evolutionary originin would predict emotions to be cross-culturally universal. Confirmation of this biological origins was provided by
+Paul Ekman 's seminal research on facial experessions in humans. Other research in this area focuses on physical displays of emotion including body language of animals and facial expressions in humans. The increased potential in
+neuroimaging
+has allowed investigation of this idea focussing on the working brain itself. Important neurological advances where made from this perspectives in the 1990's by, for example,
+Joseph LeDoux
+and
+Antonio Damasio .
+Classification by primary emotions
+One of the most influential classification approaches in the study of emotion is
+Robert Plutchik s eight primary emotions. The emotions that
+Plutchik
+lists as primary are:
+anger
+fear
+sadness
+joy
+disgust
+surprise
+curiosity
+acceptance
+Similar to the way
+primary colors
+combine, primary emotions are believed to blend together to form the full spectrum of human emotional experience.
+Plutchik
+reasons that these eight are primary on evolutionary grounds, by relating each to behavior with survival value. For example: fear motivates flight from danger, anger motivates fighting for survival. They are considered to be part of our biological heritage and built into human nature.
+Paul Ekman
+devised a similar list of basic emotions from cross-cultural research on the
+Fore tribesmen
+of
+Papua New Guinea . He found that even members of an isolated, stone age culture could reliably identify the expressions of emotion in photographs of people from cultures which the
+Fore
+were not yet familiar, and concluded that the facial expression of some basic emotions is innate. The following is
+Ekman s list of basic emotions:
+anger
+fear
+sadness
+happiness
+disgust
+Ekman
+holds that this lends further support to the view that at least some emotions are primary, innate, and universal in all human beings. [7]
+Physical responses
+Attached to the idea of primary emotions as innate is the notion that each emotion causes a detectable physical response in the body. These responses are often perceived as sensation in the body; for example:
+Fear
+is felt as a heightened heartbeat, increased flinch response, and increased
+muscle tension .
+Anger , based on sensation, seems indistinguishable from fear.
+Happiness
+is often felt as an expansive or swelling feeling in the chest and the sensation of lightness or buoyancy, as if standing underwater.
+Sadness
+is often experienced as a feeling of tightness in the throat and eyes, and relaxation in the arms and legs.
+Shame
+can be felt as heat in the upper chest and face.
+Desire
+can be accompanied by a dry throat, heavy breathing, and increased heart rate.
+In
+psychotherapy , practitioners of
+Re-evaluation Counselling
+propose that distressing emotions are relieved by emotional
+discharge . Hence crying, laughing, sweating, shaking, and trembling. [8]
+These actions commonly associated emotions, are thought to not be the original sensation, but instead nearly automatic responses that dispel the discomfort of disturbing feelings.
+Brain areas related to emotion
+Emotions are thought to be related to activity in brain areas that direct our attention, motivate our behavior, and determine the significance of what is going on around us. Pioneering work by
+Broca
+(1878),
+Papez
+(1937), and
+MacLean
+(1952) suggested that emotion is related to a group of structures in the center of the brain called the
+limbic system , which includes the
+hypothalamus ,
+cingulate cortex ,
+hippocampi , and other structures. More recent research has shown that some of these
+limbic structures
+are not as directly related to emotion as others are, while some non-limbic structures have been found to be of greater emotional relevance. The following brain structures are currently thought to be most involved in emotion:
+Amygdala
+ The amygdalae are two small, round structures located
+anterior
+to the
+hippocampi
+near the
+temporal
+poles. The amygdalae are involved in detecting and learning what parts of our surroundings are important and have emotional significance. They are critical for the production of emotion, and may be particularly so for negative emotions, especially fear.
+Prefrontal cortex
+ The term prefrontal cortex refers to the very front of the brain, behind the forehead and above the eyes. It appears to play a critical role in the regulation of emotion and behavior by anticipating the consequences of our actions. The prefrontal cortex may play an important role in delayed gratification by maintaining emotions over time and organizing behavior toward specific goals.
+Anterior cingulate
+ The anterior cingulate cortex (ACC) is located in the middle of the brain, just behind the prefrontal cortex. The ACC is thought to play a central role in attention, and may be particularly important with regard to conscious, subjective emotional awareness. This region of the brain may also play an important role in the initiation of motivated behavior.
+Ventral
+striatum
+ The ventral striatum is a group of subcortical structures thought to play an important role in emotion and behavior. One part of the ventral striatum called the
+nucleus accumbens
+is thought to be involved in the experience of goal-directed positive emotion. Individuals with addictions experience increased activity in this area when they encounter the object of their
+addiction .
+Insula
+ The insular cortex is thought to play a critical role in the bodily experience of emotion, as it is connected to other brain structures that regulate the bodys autonomic functions (heart rate, breathing, digestion, etc.). This region also processes taste information and is thought to play an important role in experiencing the emotion of disgust.
+Neurobiological theories of emotion
+Based on discoveries made through neural mapping of the
+limbic system , the
+neurobiological
+explanation of human emotion is that emotion is a pleasant or unpleasant mental state organized in the limbic system of the
+mammalian brain .
+Defined as such, these emotional states are specific manifestations of non-verbally expressed feelings of agreement, amusement, anger, certainty, control, disagreement, disgust, disliking, embarrassment, fear, guilt, happiness, hate, interest, liking, love, sadness, shame, surprise, and uncertainty. If distinguished from reactive responses of
+reptiles , emotions would then be mammalian elaborations of general
+vertebrate
+arousal patterns, in which neurochemicals (e.g.,
+dopamine ,
+noradrenaline , and
+serotonin ) step-up or step-down the brain's activity level, as visible in body movements, gestures, and postures. In
+mammals ,
+primates , and human beings, feelings are displayed as emotion cues.
+For example, the human emotion of
+love
+is proposed to have evolved from paleocircuits of the mammalian brain (specifically, modules of the
+cingulated gyrus ) designed for the care, feeding, and grooming of offspring. Paleocircuits are neural platforms for bodily expression configured millions of years before the advent of
+cortical
+circuits
+for speech. They consist of pre-configured pathways or networks of
+nerve cells
+in the
+forebrain ,
+brain stem
+and
+spinal cord . They evolved prior to the earliest mammalian ancestors, as far back as the
+jawless fishes , to control motor function.
+Presumably, before the mammalian brain, life in the non-verbal world was automatic, preconscious, and predictable.
+The motor centers of
+reptiles
+react to sensory cues of vision, sound, touch, chemical, gravity, and motion with pre-set body movements and programmed postures. With the arrival of night-active
+mammals , circa 180 million years ago, smell replaced vision as the dominant sense, and a different way of responding arose from the
+olfactory
+sense, which is proposed to have developed into
+mammalian
+emotion and emotional memory. In the
+Jurassic Period , the mammalian brain invested heavily in
+olfaction
+to succeed at night as reptiles slept  one explanation for why olfactory lobes in mammalian brains are proportionally larger than in the reptiles. These odor pathways gradually formed the neural blueprint for what was later to become our limbic brain.
+Primary and secondary emotion
+Primary emotions (i.e., innate emotions, such as fear) "depend on limbic system circuitry," with the
+amygdala
+and
+anterior cingulate gyrus
+being "key players".
+Smell carries directly to limbic areas of the mammalian brain via nerves running from the olfactory bulbs to the
+septum , amygdala, and
+hippocampus . In the acquatic brain, olfaction was critical for detecting food, foes, and mates from a distance in murky waters.
+An emotional feeling, like an aroma, has a volatile or "thin-skinned" quality because sensory cells lie on the exposed exterior of the olfactory epithelium (i.e., on the bodily surface itself).
+A sudden scent, like a whiff of smelling salts, may jolt the mind. The force of a mood is reminiscent of a smell's intensity (e.g., soft and gentle, pungent, or overpowering), and similarly permeates and fades as well. The design of emotion cues, in tandem with the forebrain's
+olfactory
+prehistory, suggests that the sense of smell is the neurological model for our emotions.
+Secondary emotions (i.e., feelings attached to objects [e.g., to dental drills], events, and situations through learning) require additional input, based largely on
+memory , from the prefrontal and
+somatosensory
+cortices. The stimulus may still be processed directly via the
+amygdala
+but is now also analyzed in the thought process. Thoughts and emotions are interwoven: every thought, however bland, almost always carries with it some emotional undertone, however subtle.
+Positive and negative perception
+Like aromas, emotions are experienced as either positive or negative, pleasant or unpleasant; emotions do not seem to be neutral. Like odors, feelings come and go, defy logic, and clearly show upon our face in mood signs. It is likely that many emotions evolved from aroma paleocircuits a. in subcortical nuclei (e.g., the paleocortex of the amygdala), and b. in layers of nerve cells within the forebrain's outer covering of
+neocortex . The latter's stratified architecture resembles that of the olfactory bulb, which is organized in layers as well.
+A new theory of emotion
+There is a new theory concerning emotion and how it informs the contents of consciousness (how qualia and thought are composed). According to
+The Unified Theory of the Nervous System and Behavior
+it can be noted that every perception, sense and thought has an emotional component of good or bad, which is interpreted as a mix of pleasure and pain as expressed in proportions of the mix between these basic units in relationship to frequencies of cell firing. An ideal frequency of a cell becomes pleasure in a different scale of time, and, as the cells are seeking connections as a form of pattern-seeking, all cognition is a summation of pleasure-seeking with many different units of both pleasure and pain as well. Different experiences always have a pleasure/pain element in regards to converging frequencies which we experience at the scale of an entire organism as beauty or ugliness in the realm of vision, for instance. Therefore, as all cognition and function of the nervous system is a combination of different proportions of pleasure and pain - which act as the pixels to create the animated experience of consciousness much like the black dots on white paper become pictures in a newspaper photograph which has content as a black and white or mostly grey picture - then what we call emotion is the overall summation of many realms of pleasure/pain calculations in regards to the many complex subject matters dealt with in any instant in the brain that are beyond being articulated as any one topic (although we will have an emotional interpretation of every realm or subject or subset of thinking as well). This way of looking at emotion as mixtures of meaningless extremes of pleasure/pain oscillating back and forth in each cell offers answers to what are considered the "hard" problems of qualia/experience/consciousness.
+Sociology of Emotions
+Rational, reasonable, or otherwise effective choosing or decision making are all about differentially valuing, and valuing is based on comparing emotional worth attributed to, and expected from the available alternatives of action  as much as on feelings of confidence or uncertainty in our estimation skills. Affect and logic are social competences and their participation in decision making varies widely among individuals, situations and cultures.
+Sociologist
+Randall Collins
+has stated that a single, specific and long-term emotion named emotional energy is the main motivating force in social life, for love and hatred, investing, working or consuming, rendering cult or waging war.
+Individually, emotional energy ranges from the highests heights of enthusiasm, self-confidence and initiative to the deepest depths of apathy, depression and retreat. But this does not make it just a psychological emotion.
+Emotional energy comes from variously successful or failed chains of interaction rituals, that is, patterned social encounters from conversation or sexual flirtation through
+Christmas
+family dinners or office work to mass demonstrations, organizations or revolutions. In the latter, the coupling of participants' behavior synchronizes their
+nervous systems
+to the point of generating a
+collective effervescence , one observable in their mutual focus and emotional entraining, as well as in their loading of emotional and symbolic meaning to entities which subsequently become emblems of the ritual and of the membership group endorsing, preserving, promoting and defending them.
+Thus social life would be most importantly about generating and distributing emotional energy. Recent research has shown that most areas of social dynamics revolve around some particular emotional cluster. Most significant is classic contribution by Thomas J. Scheff, who established that many cases of social conflict are based on a destructive and often escalating, but stoppable and reversible shame-rage cycle: when someone results or feels shamed by another, their social bond comes under stress.
+This can be cooperatively acknowledged, talked about and  most effectively when possible - laughed at so their social bond may be restored. Yet, when shame is not acknowledged, but instead negated and repressed, it becomes rage, and rage may drive to aggressive and shaming actions that feed-back negatively on this self-destructive situation. The social management of emotions might be the fundamental dynamics of social cooperation and conflict around resources, complexity, conflict and moral life.
+References
+1.
+Arbib, M. and Fellous, J-M (editors). (2005) Who Needs Emotions?: The Brain Meets the Robot. Oxford, New York: Oxford University Press.
+2.
+Cornelius, R. (1996). The science of emotion. New Jersey: Prentice Hall.
+3.
+Ekman P. (1999). "Facial Expressions" in
+Handbook of Cognition and Emotion.
+Dalgleish T & Power M,
+Eds.
+John Wiley & Sons Ltd. New York, New York.
+4.
+Fellous, J.M., Armony, J.L., & LeDoux, J.E. (2002). "Emotional Circuits and Computational Neuroscience" in 'The handbook of brain theory and neural networks' Second Edition. M.A. Arbib (editor), The MIT Press.
+[2]
+5.
+Frijda, Nico H. (1986). The Emotions. Maison des Sciences de l'Homme and Cambridge University Press.
+[3]
+6.
+LeDoux, J.E. (1986). The neurobiology of emotion. Chap. 15 in J E. LeDoux & W. Hirst (Eds.) Mind and Brain: diologues in cognitive neuroscience. New York: Cambridge.
+7.
+Plutchik, R. (1980). A general psychoevolutionary theory of emotion. In R. Plutchik & H. Kellerman (Eds.), Emotion: Theory, research, and experience: Vol. 1. Theories of emotion (pp. 3-33). New York: Academic.
+From Wikipedia, the free encyclopedia
+Take Test

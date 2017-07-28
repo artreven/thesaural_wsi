@@ -1,0 +1,216 @@
+Hypnosis - Chapter 4 - Wikibooks, open books for an open world
+Hypnosis - Chapter 4
+From Wikibooks, open books for an open world
+<
+Hypnosis ‎ |
+Chapters
+Jump to:					 navigation , 					 search
+Contents
+1
+Memory
+1.1
+Memory vs Imagination
+1.2
+Type of memory
+1.3
+New memories
+1.4
+Storage
+1.4.1
+Short Term Memory
+1.4.2
+Long Term Memory
+1.5
+Recall
+1.5.1
+Priming
+1.5.2
+Memories as emotional triggers
+1.6
+Repression
+Memory [ edit ]
+One of the most common depiction of hypnosis in todays media is its use to recall past events, but there is more to it than that. This section will attempt to provide a framework to understand how
+memory
+is stored and how to make use of that faculty of the brain under hypnosis.
+Memories can be said to be stored in seven dimensions, the normal three dimensions plus time, smell, taste and emotions. Not all persons are capable of the same capacity in regards to the observation and storage of the memories. For instance age, sex, duration and number of repetitions (even of similar experiences) will have a distinct influence on the accuracy of the recollection of these variables. Emotional memory seems to be the stronger variable, emotions attached to memories are what makes them have a meaning, a value.
+One need also to comprehend that memories are stored in a biological medium, that depends not on chemical reactions to induce physical restructure in the brain. Our brains have regions dedicated to tasks (processing of information) but also to memory that ultimately can be defined as the processes by which information is utilized.
+To do:
+Cover
+PKCζ
+(in memory model)
+advances Exposing the memory engine: the story of PKMzeta ,
+Enzyme revives long-term memories Boosting levels in the brain helps rats remember old times ,
+Brain Researchers Open Door to Editing Memory .
+Memory vs Imagination [ edit ]
+Memory is also close related to imagination and visualization. As we will discuss later on, people diverge in how they visualize events, some can see images as in watching a movie or a photo others can only get a sensation about the form, they can "imagine" but they cannot "see", this is valid also to the other variables, some people will be more aware of emotions, smells or tastes than others. The brain also has the tendency to fill any blanks and inconsistencies of a memory by making use of the imagination using similitudes with any other memories or even adding details only due to the expectation of their presence even more if any external reinforcement is given, even if in an subconscious way.
+Creativity
+Memory and mental visualization are the core of the creativity, it is using free association, extrapolation and deduction that new concepts are developed. Imagination only on it broader sense can be said to be an act of creating something new, more often than not it is a simply the recollection of a stored memory within a new idealized context.
+Type of memory [ edit ]
+The prevailing model ( cognitive architecture ), named
+ACT-R
+(pronounced
+act-ARE : Adaptive Control of Thought—Rational) was mainly developed by
+John Robert Anderson
+at
+Carnegie Mellon University
+and divides long-term memory into
+declarative (explicit)
+and
+procedural (implicit)
+memories.
+Declarative memory
+requires conscious recall effort, in that some conscious process must call back the information. It is sometimes called
+explicit memory , since it consists of information that is explicitly stored and retrieved.
+Declarative memory can be further sub-divided into
+semantic memory , which concerns facts taken independent of context; and
+episodic memory , which concerns information specific to a particular context, such as a time and place. Semantic memory allows the encoding of abstract knowledge about the world, such as "Paris is the capital of France". Episodic memory, on the other hand, is used for more personal memories, such as the sensations, emotions, and personal associations of a particular place or time.
+Autobiographical memory
+(memory for particular events within one's own life) is generally viewed as either equivalent to, or a subset of, episodic memory.
+Visual memory
+is part of memory preserving some characteristics of our senses pertaining to visual experience. One is able to place in memory information that resembles objects, places, animals or people in sort of a mental image. Since visual memory can also enable indirect priming (activating related memories) it is assumed some kind of perceptual representational system underlies this phenomenon. The pathways of importance seems to be the medial
+temporal lobe .
+In contrast,
+procedural memory
+(or
+implicit memory ), often referred muscle memory, is not based on the conscious recall of information, but on implicit learning. Procedural memory is primarily employed in learning motor skills and should be considered a subset of implicit memory. It is revealed when one does better in a given task due only to repetition - no new explicit memories have been formed, but one is unconsciously accessing aspects of those previous experiences. Procedural memory involved in
+motor learning
+depends on the
+cerebellum
+and
+basal ganglia .
+Note:
+Procedural memory has a specific importance for instance in the context of
+hypnosis applied to sports .
+Topographic memory
+(a subset of
+spatial memory ) is the ability to orient oneself in space, to recognize and follow an itinerary, or to recognize familiar places. Getting lost when traveling alone is an example of the failure of topographic memory. This is often reported among elderly patients who are evaluated for dementia. The disorder could be caused by multiple impairments, including difficulties with perception, orientation, and memory.
+Flashbulb memories
+are clear
+episodic memories
+of unique and highly emotional events, often traumatic. For instance remembering where you were or what you were doing when you first heard the news of 9/11.
+New memories [ edit ]
+Hypnosis can create new memories but the subject has to be able to accept them as valid (interiorize) to incorporate them into his reality, in most cases this can only be archived if there is a strong predisposition to do so. In any case, memory alteration of any kind, it is generally accepted as dangerous and can have unforeseen consequences. Memories more than any other aspect is what defines us.
+Note:
+New memories in this context do not refer to the shaping of perception of an event, but the full synthesizing of a false memorized experience.
+Memories are created and accessed by generic but different internal phases:
+Cognitive apprehension.
+Storage (Encoding done via associative, referencing and correlation processes).
+Recall.
+In the next section we will look on how memories stored.Cognitive apprehension was already covered in the previous chapter, in the
+section about self and reality .
+Storage [ edit ]
+Memory storage , the retention of information, is achieved through the encoding process. There seems to be two distinct types of memory storage,
+short term memory
+and
+long term memory
+and there are several varieties proposed memory models.
+It is hard to define each memory operation as insulated tasks, like for instance in computers, biological memory are fuzzy in nature they seems to have specific qualities like strength and priority, something that digital memory does not replicate. One interesting parallelism that does seems exist is locational optimization, that is depending the type of memory they have specific locations on the brain, this occurs in a way that it is very similar to digital systems, as a way to optimize communication between subsystems.
+Note:
+Hypnosis can shape perception, by exponentiating, creating or removing sensory and emotional information.
+Memory is associative by nature, commonalities will not only reinforce old memories and serve to ease establishing new ones. A study from Northwestern University verified that sound can help the creation of stronger memory. That if a sound is present when committing something to memory, playing that same sound later will also reinforce the memory, even while sleeping in a modest way (not to be confused with Sleep-learning that we covered before). This is an example of anchoring (creation of the connection between to simultaneous events) and priming (activating the association).
+Short Term Memory [ edit ]
+Short-term memory
+refers to the memory of the immediate past, a short duration of time, that seems to be continuously deteriorating. In the process of memory encoding, all input events, after several layers of filtering, will first enter the brain's short-term memory.
+Note:
+It is important to distinguish that consciously and subconsciously, memorized events are related but the particulars that have been not consciously perceived will less importance to the conscious mind. Some of the information processing is done subconsciously for example correlation and similitudes occur without a conscious effort.
+Short-term memory will degrade in a short time, if not refreshed by any subsequent memory operation. Studies suggest that the conscious capacity of the short-term memory for storage is approximately seven "focal" items, plus or minus two. It may depend on the type (modality) and complexity of the event and so this limit may be subject to a larger variability.
+There are chemical way to prevent the formation of new memories ( Anterograde amnesia ). For instance the drug
+Midazolam
+(marketed in English-speaking countries under the trade names Dormicum, Hypnovel or Versed) is used in surgery to inhibit unpleasant memories formation.
+Note:
+This control over memory formation we start to have can be extremely illusory considering that we still have a limited understanding on memory operations, just because one is not conscientious of the what transpired, subconsciously there may be implications that are not as easily to detect. Just because one can not remember an event, one has never the less experienced it.
+The most powerful methodology is to guide the subconscious to perform the memory refreshing of the information, this is best done using incomplete patterns. Like the jingle that from time to time will return to our mind out of nowhere by using an interrupted pattern of attractive bit of information, especially if the expected outcome/conclusion is thwarted, the operator can introduce other ideas and piggy back on the effort that the subconscious will make to make sense of the data, this works even outside of trance and is often used in commercials that will convey an incomplete event or build up for an event that never happens on screen or goes completely against what was expected.
+One could even speculate that this capability, cognitive response is an evolutionary trait that is linked to the development of human culture. As we have seen in the history chapter, storytelling can create trance states, this boost to memorization may have been been important to early humans as to preserve oral lore and promote survivability. Under trance the effect is potentiated. Using hypnosis there is a limited control over short-term memory or natural memory creation outside of previous conditioning, for instance hypnosis can be used to alter immediate perceptions of events, even their suppression or making them stronger, especially by linking them to emotions.
+Long Term Memory [ edit ]
+Long-term memory , is all information that is held for a prolonged period of time. Short-term memory that the subconscious agrees to define as important is moved to this type of long duration storage, that is more vast but more costly for direct consciously access. Some models assume long-term memory is capable of unlimited memory, but there may be some limits it all seems to hinge on subsequent processes that optimizes not only storage but access, in a way that is similar to a lose digital compression (details may be dropped) and correlations and similitudes are used to reduce duplication. Because there is no specific way to consciously assess all that is memorized some models defend that memory may not be permanent at all and that unless memory is occasionally recalled, it degrades to a point that it is no longer remembered.
+Sleep
+Today it is commonly accepted that one of the functions of sleep, and dreams is to process and optimize memory storage, even to preemptively create responses to hypothetical scenarios extrapolated from our experiences. While we sleep, the brain categorizes, discards and analyses recent memories, not only of past events or experiences but every recent thought it decides as important.
+Note:
+A 2011 study at University of Tübingen in Germany by
+Prof. Dr. J. Born , demonstrated that sleep and an expectation of a test will increase the memory recall of relevant data. Source:
+Journal of Neuroscience, DOI 10.1523/jneurosci.3575-10.2011
+Recall [ edit ]
+Memory recall capabilities also varies hugely from individual to individual, and also depends ultimately on how strongly memories have been stored and accessed, emotional states do have a high importance on the moment of memory created as it is believed that strong emotional experiences will help to create long lasting memories. Emotional or physical pain, more so than emotional pleasure or physical pleasure these are often linked to cravings and often dependency. Recollecting (reactivating) a memory will make it stronger.
+Physical pain and pleasure can also build resistance on how the brain processes the inputs. Emotional pleasure driven memories when linked to physical pain or physical discomfort can also bypass the expectation that an individual would avoid the repetition of a painful or uncomfortable experience.
+As we have already discussed memory comes in two major distinct forms, short term and long term, this types of memory are not only distinct in how they are managed by the brain they have also have different qualities. There is of course sub-levels, for instance we may recall an address for some hours or a day, or for instance a movie plot memory will become to decay in a few weeks, after a while only very specific sequences can be easily recalled, on the other hand most highly emotional memories will tend to remain with us for the rest of our lives.
+It is also interesting to mention the reports of total life experience recall that some people report after being in a near death situation. Britain's Royal Navy Rear Admiral Sir
+Francis Beaufort
+(1774 – 1857), inventor of the
+Beaufort scale , reports while writing about his near death experience in an almost fatal drowning accident after a fall off a boat in Portsmouth harbor on June 10, 1791 ( full text ).
+"Though the senses were thus deadened, not so the mind; its activity seemed to be invigorated in a ratio which defies all description—for thought rose after thought with a rapidity of succession that is not only indescribable, but probably inconceivable, by any one who has not himself been in a similar situation. The course of those thoughts I can even now in a great measure retrace—the event which had just taken place, the awkwardness that had produced it—the bustle it must have occasioned (for J had observed two persons jump from the chains)—the effect it would have on a most affectionate father—the manner in which he would disclose it to the rest of the family—and a thousand other circumstances minutely associated with home, were the first series of reflections that occurred. They took then a wider range—our last cruise—a former voyage, and shipwreck—my school—the progress I had made there, and the time I misspent —and even all my boyish pursuits and adventures. Thus travelling backwards, every past incident of my life seemed to glance across my recollection in retrograde succession; not, however, in mere outline, as here stated, but the picture filled up with every minute and collateral feature; in short, the whole period of my existence seemed to be placed before me in a kind of panoramic review, and each act of it seemed to he accompanied by some reflection on its cause, or its consequences ; indeed, many trifling events which had been long forgotten then crowded into my imagination, and with the character of recent familiarity."
+"May not all this be some indication of the almost infinite power of memory with which we may awaken in another world, and thus be compelled to contemplate our past lives? Or might it not in some degree warrant the inference that death is only a change or modification of our existence, in which there is no real pause or interruption * But, however that may be, one circumstance was highly remarkable; that the innumerable ideas which flashed into my mind were all retrospective—yet I had been religiously brought up—my hopes and fears of the next world had lost nothing of their early strength, and at any other period intense interest and awful anxiety would have been excited by the mere probability that I was floating on the threshold of eternity: yet at that inexplicable moment when I had a full conviction that I had already crossed the threshold, not a single thought wandered into the future—I was wrapped entirely in the past."
+"The length of time that was occupied by this deluge of ideas, or rather the shortness of time into which they were condensed, I cannot now state with precision, yet certainly two minutes could not have elapsed from the moment of suffocation to that of my being hauled up."
+It then becomes hard to state concisely what the limits of our memory is, it seems however that the limit is vastly superior to what we in our everyday can access.
+Note:
+This near death memory recall events have been tentatively explained by an
+in extremis
+subconscious attempt of the mind to find a match in a past experiences to the situation ones is now living.
+A study by Benton H. Pierce and David A. Gallo also indicate that visual memory is stronger than auditory memory and the degree of recollection is also increased using visualization activation. (See 2011 paper
+Encoding Modality Can Affect Memory Accuracy via Retrieval Orientation PDF )
+Priming [ edit ]
+Priming
+is an implicit memory effect of reactivation of a memory/concept on exposure to a stimulus that has a mental correlation. It can occur following perceptual, semantic, or conceptual stimulus repetition. For example, if a person reads a list of words including the word table, and is later asked to complete a word starting with tab, the probability that he or she will answer table is greater than if not so primed. Another example is if people see an incomplete sketch that they are unable to identify and they are shown more of the sketch until they recognize the picture, later they will identify the sketch at an earlier stage than was possible for them the first time.
+The effects of priming can be very salient and long lasting, even more so than simple recognition memory. Unconscious priming effects can affect word choice on a word-stem completion test long after the words have been consciously forgotten.
+Priming works best when the two stimuli are in the same modality. For example visual priming works best with visual cues and verbal priming works best with verbal cues. But priming also occurs between modalities, or between semantically related words such as "doctor" and "nurse".
+Priming is extremely important in hypnosis from the choice of words to the creation of reactive stimuli, anchors and triggers.
+To do:
+Possible transclusion of the Wikipedia article.
+Memories as emotional triggers [ edit ]
+In general, the more emotionally charged an event or experience is, the better it is remembered; this phenomenon is known as the
+memory enhancement effect , most often a person is has no conscious awareness of the process. Most of us consciously remember sensory inputs (smell and vision) better than the memories emotional connotations.
+Note:
+A Psychological Science study in 2009, by Psychologist Sarah Master of the University California, Los Angeles. Showed that women holding their partner's hand or viewing his photo decreased the women's pain significantly more than touching or viewing a stranger-and the photo was just as effective as the physical contact.
+Special consideration should be given to avoid unwanted
+abreactions
+from a subject during hypnosis. Be aware of the subject phobias and bad experiences before hand. Use the
+pre-hypnosis stage
+to find the relevant information and during hypnosis be aware on how the subject reacts to the induced perceptual changes.
+Repression [ edit ]
+Memory repression is mostly done subconsciously, as we've seen sleep time seems to be linked to memory storage and prioritization, repression of memory seems to be the other side of the process. Some will even argue that we never forget anything that whatever loss there is, is restricted to the fidelity of the stored memories and the ease of access to them. But this bring up a realization, that degradation is a form of memory alteration.
+There is also a issue of fragmentation, that is events that are not consciously remember but are so strong that can dictate subconsciously our reactions.
+Amnesia
+is a very vast phenomena but it is interesting to note that it can originate both from a pure physical neurological damage ( organic amnesia ) and also by very long list of purely psychological reasons, of particular note to our subject is
+post-hypnotic amnesia , where events during hypnosis are forgotten, or where past memories are unable to be recalled. The failure to remember those events can be induced by suggestions made during the hypnosis or occur without a explicit suggestion. This is classified as a subtype of
+Psychogenic amnesia
+( dissociative amnesia ).
+A person can also be taught to forget emotional details, like personal feelings, associated with a memory without erasing the memory of the actual event, helping to deal with depression or as a therapy for post-traumatic stress disorder. This is supported by a study conducted by a research team from the University of St. Andrews in 2012.
+Retrieved from " https://en.wikibooks.org/w/index.php?title=Hypnosis/Chapters/Memory&oldid=2536883 "
+Category :
+Hypnosis
+Navigation menu
+Personal tools
+Create account Log in
+Namespaces
+Book
+Discussion
+Variants
+Views
+Read
+Edit
+View history
+More
+Search
+Navigation
+Main Page Help Browse wiki Cookbook Wikijunior Featured books Recent changes Donations Random book Using Wikibooks
+Community
+Reading room Community portal Bulletin Board Help out! Policies and guidelines Contact us
+Tools
+What links here Related changes Upload file Special pages Permanent link Page information Cite this page
+In other languages
+Add links
+Sister projects
+Wikipedia Wikiversity Wiktionary Wikiquote Wikisource Wikinews Wikivoyage Commons Wikidata
+Print/export
+Create a collection Download as PDF Printable version
+This page was last modified on 17 June 2013, at 22:13.
+Text is available under the
+Creative Commons Attribution-ShareAlike License. ; additional terms may apply.
+By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy.
+Privacy policy
+About Wikibooks
+Disclaimers
+Developers
+Mobile view

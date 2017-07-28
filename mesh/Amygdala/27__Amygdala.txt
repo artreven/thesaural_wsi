@@ -1,0 +1,589 @@
+Neurofeedback - 12 Anatomy and Physiology
+Skip to main content
+Wikispaces Classroom is now free, social, and easier than ever.
+Try it today.
+guest
+Join
+|
+Help
+|
+Sign In
+Neurofeedback
+Home
+guest |
+Join
+|
+Help
+|
+Sign In
+Neurofeedback
+Wiki Home
+Recent Changes
+Pages and Files
+Members
+Favorites
+20
+All Pages
+20
+home
+01 Regions and Therapies
+02 Neurospirituality
+03 Frequencies
+030 Coherence
+03a Delta
+03b Theta
+03c Alpha
+03c1 low Alpha
+03c2 high Alpha
+03d Beta 1
+03e Beta 2
+03f Beta 3
+03g Gamma
+03h Coherence, phase loch,shift
+04 ADD-ADHD
+04 Addiction
+04 Aging
+04 Anxiety
+04 Autism
+see more
+Add
+Add "All Pages"
+Done
+12 Anatomy and Physiology
+Edit
+0
+28
+…
+0
+Tags
+No tags
+Notify
+RSS
+Backlinks
+Source
+Print
+Export (PDF)
+0-20-System
+Table of Contents 0-20-System
+Braindevelopment
+file:Origin of the EEG.pdf
+Serotonin
+Gross anatomy
+Microanatomy
+Receptors
+Termination
+Serotonylation
+Limbic System
+Anatomy
+Function
+Evolution
+History
+Connections
+Insular Cortex
+file:The Anterior Insula and Human Awareness.pdf
+Wikipedia
+Interoceptive awareness
+Motor control
+Homeostasis
+Self
+Social emotions
+Emotions
+Salience
+Neuroanatomy
+Connections
+Cytoarchitecture
+Origins
+Clinical
+Progressive non-fluent aphasia
+Addiction
+Other clinical conditions
+Frontal Lobe
+Wikipedia
+Forebrain asymmetry of emotion
+Mirror Neuron
+Braindevelopment
+Origin of the EEG.pdf Details Download 702 KB
+Hans Berger , the inventor of the
+electroencephalogram
+was the first to propose the idea that the brain is constantly busy. In a series of papers published in 1929 he showed that the electrical oscillations detected by his device do not cease even when the subject is at rest. However his ideas were not taken seriously and a general perception formed among neurologists that only when a focused activity is performed does the brain (or a part of the brain) becomes active. [10 ]
+Later, experiments by the group of neurologist Marcus E. Raichle's at
+Washington University School of Medicine
+and other groups showed that the brain's energy consumption is increased by less than 5% of its baseline energy consumption while performing a focused mental task. These experiments showed that the brain is constantly active with a high level of activity even when the person is not engaged in focused mental work. Research thereafter focused on finding the regions responsible for this constant background activity level. [10 ]
+Raichle coined the term "default mode" in 2001 to describe resting state brain function; [11 ] the concept rapidly became a central theme in
+neuroscience . [12 ] The brain has other Low Frequency Resting State Networks (LFRSNs), such as visual and auditory networks. [2 ]
+Serotonin
+Serotonin is a neurotransmitter, and is found in all
+bilateral animals , where it mediates gut movements and the animal's perception of resource availability. In the simplest animals, resources are equivalent with food, but in advanced animals such as
+arthropods
+and
+vertebrates , resources also can mean social dominance. In response to the perceived abundance or scarcity of resources, the animal's growth, reproduction or
+mood
+may be elevated or lowered. Recent studies involving the serotonin transporter gene 5-HTT have shown the short allele of this gene increases synaptic serotonin levels. These genetic studies have demonstrated serotonin has strong associations with depression in regards to a negative environment.
+Gross anatomy
+The neurons of the
+raphe nuclei
+are the principal source of 5-HT release in the brain. [57 ] The raphe nuclei are neurons grouped into about nine pairs and distributed along the entire length of the
+brainstem , centered around the
+reticular formation . [58 ] Axons from the neurons of the raphe nuclei form a
+neurotransmitter system , reaching almost every part of the central nervous system. Axons of neurons in the lower
+raphe nuclei
+terminate in the
+cerebellum
+and
+spinal cord , while the axons of the higher nuclei spread out in the entire brain.
+Microanatomy
+Serotonin is released into the space between neurons, and diffuses over a relatively wide gap (>20 µm) to activate
+5-HT receptors
+located on the
+dendrites , cell bodies and
+presynaptic terminals
+of adjacent neurons.
+Receptors
+Main article:
+5-HT receptor
+The
+5-HT receptors
+are the
+receptors
+for serotonin. They are located on the cell membrane of
+nerve cells
+and other cell types in animals, and mediate the effects of serotonin as the
+endogenous
+ligand
+and of a broad range of pharmaceutical and
+hallucinogenic drugs . With the exception of the
+5-HT3 receptor , a ligand-gated
+ion channel , all other 5-HT receptors are
+G protein-coupled, seven transmembrane
+(or
+heptahelical ) receptors that activate an
+intracellular
+second messenger
+cascade. [59 ]
+Termination
+Serotonergic action is terminated primarily via
+uptake
+of 5-HT from the synapse. This is accomplished through the specific
+monoamine transporter
+for 5-HT,
+SERT , on the presynaptic neuron. Various agents can inhibit 5-HT reuptake, including
+MDMA
+(ecstasy),
+amphetamine ,
+cocaine ,
+dextromethorphan
+(an
+antitussive ),
+tricyclic antidepressants
+(TCAs) and
+selective serotonin reuptake inhibitors
+(SSRIs). Interestingly, a 2006 study conducted by the
+University of Washington
+suggested a newly discovered monoamine transporter, known as
+PMAT , may account for "a significant percentage of 5-HT clearance". [24 ] Contrasting with the high-affinity SERT, the PMAT has been identified as a low-affinity transporter, with an apparent Km of 114 micromoles/L for serotonin; approximately 230 times higher than that of SERT. However, the PMAT, despite its relatively low serotonergic affinity, has a considerably higher transport
+capacity
+than SERT, "..resulting in roughly comparable uptake efficiencies to SERT in heterologous expression systems." The study also suggests some SSRIs, such as
+fluoxetine
+and
+sertraline , inhibit PMAT but at
+IC50
+values which surpass the therapeutic plasma concentrations by up to four orders of magnitude; therefore, SSRI monotherapy is
+ineffective
+in PMAT inhibition. At present, there are no known pharmaceuticals which would appreciably inhibit PMAT at normal therapeutic doses. The PMAT also suggestively transports dopamine and norepinephrine, albeit at Km values even higher than that of 5-HT (330–15,000 μmoles/L).
+Serotonylation
+Main article:
+Serotonylation
+Serotonin can also signal through a nonreceptor mechanism called serotonylation, in which serotonin modifies proteins. [32 ] This process underlies serotonin effects upon platelet-forming cells ( thrombocytes ) in which it links to the modification of signaling enzymes called
+GTPases
+that then trigger the release of vesicle contents by
+exocytosis . [60 ] A similar process underlies the pancreatic release of insulin. [32 ] The effects of serotonin upon vascular smooth muscle "tone" (this is the biological function from which serotonin originally got its name) depend upon the serotonylation of proteins involved in the contractile apparatus of muscle cells. [61 ]
+Limbic System
+The
+limbic system
+(or Paleomammalian brain) is a set of brain structures including the
+hippocampus ,
+amygdala ,
+anterior thalamic nuclei ,
+septum ,
+limbic cortex
+and fornix, which seemingly support a variety of functions including
+emotion ,
+behavior ,
+long term memory , and
+olfaction . [1 ] The term "limbic" comes from the
+Latin
+limbus , for "border" or "edge". Some scientists have suggested that the concept of the limbic system should be abandoned as
+obsolete , as it is grounded more in transient tradition than in facts. [2 ]
+Anatomy
+The limbic system is the set of
+brain
+structures that forms the inner border of the cortex. In an abstract topological sense, each cortical hemisphere can be thought of as a sphere of gray matter, with a hole punched through it in the area where nerve fibers connect it to the subcortical structures of the basal forebrain. The hole is surrounded by a ring of cortical and noncortical areas that combine to make up the limbic system. The cortical components generally have fewer layers than the classical 6-layered
+neocortex , and are often classified as
+allocortex
+or
+archicortex .
+The limbic system includes many structures in the
+cerebral pre-cortex
+and
+sub-cortex
+of the
+brain . The term has been used within psychiatry and neurology, although its exact role and definition have been revised considerably since the term was introduced. [3 ] The following structures are, or have been considered to be, part of the limbic system:
+Amygdala : [4 ] [5 ] [6 ] Involved in signaling the cortex of motivationally significant stimuli such as those related to reward and fear in addition to social functions such as mating. Hippocampus : [4 ] [5 ] [6 ] Required for the formation of
+long-term memories
+and implicated in maintenance of cognitive maps for navigation. Parahippocampal gyrus : [5 ] Plays a role in the formation of spatial memory Cingulate gyrus : [4 ] [5 ] [6 ] Autonomic functions regulating
+heart rate ,
+blood pressure
+and cognitive and
+attentional
+processing Fornix : [4 ] [6 ] carries signals from the
+hippocampus
+to the
+mammillary bodies
+and
+septal nuclei . Hypothalamus : [4 ] [6 ] Regulates the autonomic nervous system via
+hormone
+production and release. Affects and regulates
+blood pressure ,
+heart rate ,
+hunger ,
+thirst ,
+sexual arousal , and the
+sleep/wake cycle Thalamus : [4 ] [6 ] The "relay station" to the cerebral cortex. In addition, these structures are sometimes also considered to be part of the limbic system:
+Mammillary body : [4 ] Important for the formation of memory Pituitary gland : [4 ] secretes
+hormones
+regulating
+homeostasis Dentate gyrus : [5 ] thought to contribute to new
+memories
+and to regulate happiness. Entorhinal cortex : Important memory and associative components. Piriform cortex : [6 ] The function of which relates to the
+olfactory system . Fornicate gyrus : Region encompassing the cingulate, hippocampus, and parahippocampal gyrus Olfactory bulb : Olfactory sensory input Nucleus accumbens : Involved in reward,
+pleasure , and
+addiction Orbitofrontal cortex : Required for
+decision making .
+Function
+The limbic system operates by influencing the
+endocrine system
+and the
+autonomic nervous system . It is highly interconnected with the
+nucleus accumbens , the brain's
+pleasure center , which plays a role in
+sexual arousal
+and the "high" derived from certain
+recreational drugs . These responses are heavily modulated by
+dopaminergic
+projections from the limbic system. In 1954, Olds and Milner found that
+rats
+with metal
+electrodes
+implanted into their
+nucleus accumbens
+as well as their
+septal nuclei
+repeatedly pressed a lever activating this region, and did so in preference to eating and drinking, eventually dying of exhaustion. [7 ]
+The limbic system is also tightly connected to the
+prefrontal cortex . Some scientists contend that this connection is related to the pleasure obtained from solving problems. To cure severe emotional disorders, this connection was sometimes surgically severed, a procedure of
+psychosurgery , called a
+prefrontal lobotomy
+(this is actually a misnomer). Patients who underwent this procedure often became passive and lacked all motivation.
+Evolution
+Paul D. MacLean , as part of his
+triune brain
+theory, hypothesized that the limbic system is older than other parts of the brain, and that it developed to manage
+fight or flight
+circuitry which is an evolutionary necessity for reptiles as well as humans. However, recent studies of the limbic system of
+tetrapods
+have challenged some long-held tenets of forebrain evolution. The common ancestors of reptiles and
+mammals
+had a well-developed limbic system in which the basic subdivisions and connections of the amygdalar nuclei were established. [8 ]
+History
+The French physician
+Paul Broca
+first called this part of the brain "le grand lobe limbique" in 1878, [9 ] but most of its putative role in emotion was developed only in 1937 when the American physician
+James Papez
+described his anatomical model of emotion, the
+Papez circuit . [10 ]
+Paul D. MacLean
+expanded these ideas to include additional structures in a more dispersed "limbic system," more on the lines of the system described above. [11 ] The term was formally introduced by
+Paul D. MacLean
+in 1952. The concept of the limbic system has since been further expanded and developed by
+Walle Nauta ,
+Lennart Heimer
+and others.
+Still, there remains much controversy over the use of the term. When it was first coined, it was posited as the emotional center of the brain, with cognition being the business of the
+neocortex
+by contrast. However, this almost immediately ran into trouble when damage to the
+hippocampus , a primary limbic structure, was shown to result in severe cognitive (memory) deficits. And since its inception, the delineating boundaries of the limbic system have been changed again and again by the community. More recently, attempts have been made to salvage the concept through more precise definition, but there are still no generally accepted criteria for defining its parts. As a concept grounded more in tradition than in facts, many scientists have suggested that the concept should be considered
+obsolete
+and abandoned. [2 ]
+Connections
+Electrode Locations and Broadmann Areas.pdf Details Download 247 KB
+Insular Cortex
+The Anterior Insula and Human Awareness.pdf Details Download 864 KB
+Abstract
+| The anterior insular cortex (AIC) is implicated in a wide range of conditions and behaviours, from bowel distension and orgasm, to cigarette craving and
+maternal love, to decision making and sudden insight. Its function in the re-representation of interoception offers one possible basis for its involvement in all subjective feelings. New findings suggest a fundamental role for the AIC (and the von conomo neurons it contains) in awareness, and thus it needs to be considered as a potential neural correlate of consciousness.
+The evidence at that time indicated that the anterior insular cortex (AIC) (FIG. 1) contains interoceptive rerepresentations that substantialize (that is, provide the basis for) all subjective feelings from the body and perhaps emotional awareness, consistent with the essence of the James–Lange theory of emotion and Damasio’s ‘somatic marker’ hypothesis.
+Interoceptive stimuli that have been shown to activate the AIC include thirst, dyspnea, ‘air hunger’, the Valsalva manoeuvre, sensual touch, itch, penile stimulation, sexual arousal, coolness, warmth, exercise, heartbeat, winetasting (in sommeliers), and distension of the bladder, stomach, rectum or oesophagus (see Supplementary information S1 (table)).
+Wikipedia
+In each of the the
+insular cortex
+(often called
+insula , insulary cortex or insular lobe) is a portion of the folded deep within the between the and the frontal lobe. The cortical area overlying it towards the lateral surface of the brain is the
+operculum
+(meaning "lid"). The opercula are formed from parts of the enclosing frontal, temporal and parietal lobes. It is believed to be involved in consciousness.
+The insular cortex is divided into two parts: the larger anterior insula and the smaller posterior insula in which more than a dozen field areas have been identified.
+The insulae play a role in diverse functions usually linked to
+emotion
+or the regulation of the body's
+homeostasis . These functions include perception, motor control, self-awareness, cognitive functioning, and interpersonal experience. Related to these it is involved in
+psychopathology .
+The insula was first described by
+Johann Christian Reil
+while describing cranial and spinal nerves and plexi.[[#cite_note-Binder-0|[]][[#cite_note-Binder-0|1]][[#cite_note-Binder-0|]]]
+Henry Gray
+in
+Gray's Anatomy
+is responsible for it being known as the
+Island of Reil .[[#cite_note-Binder-0|[]][[#cite_note-Binder-0|1]][[#cite_note-Binder-0|]]]
+Interoceptive awareness
+The right anterior insula aids
+interoceptive
+awareness of body states, such as the ability to time one's own
+heart beat [1]
+. Moreover, greater right anterior insular
+gray matter
+volume correlates with increased accuracy in this subjective sense of the inner body, and with negative emotional experience.[[#cite_note-1|[]][[#cite_note-1|2]][[#cite_note-1|]]] It is also involved in the control of
+blood pressure ,[[#cite_note-Lamb-2|[]][[#cite_note-Lamb-2|3]][[#cite_note-Lamb-2|]]] particularly during and after exercise.[[#cite_note-Lamb-2|[]][[#cite_note-Lamb-2|3]][[#cite_note-Lamb-2|]]] It is also activated when the brain perceives greater
+exertion .[[#cite_note-3|[]][[#cite_note-3|4]][[#cite_note-3|]]][[#cite_note-4|[]][[#cite_note-4|5]][[#cite_note-4|]]]
+The insular cortex also is where the sensation of
+pain
+is judged as to its degree.[[#cite_note-5|[]][[#cite_note-5|6]][[#cite_note-5|]]] Further, the insula is where a person imagines pain when looking at images of painful events while thinking about them happening to one's own body.[[#cite_note-6|[]][[#cite_note-6|7]][[#cite_note-6|]]] Those with
+irritable bowel syndrome
+have abnormal processing of
+visceral
+pain in the insular cortex related to dysfunctional inhibition of pain within the brain.[[#cite_note-7|[]][[#cite_note-7|8]][[#cite_note-7|]]]
+Another perception of the right anterior insula is the degree of nonpainful
+warmth [[#cite_note-8|[]][[#cite_note-8|9]][[#cite_note-8|]]] or nonpainful coldness[[#cite_note-9|[]][[#cite_note-9|10]][[#cite_note-9|]]] of a skin sensation. Other internal sensations processed by the insula include stomach or
+gastric distension .[[#cite_note-10|[]][[#cite_note-10|11]][[#cite_note-10|]]][[#cite_note-11|[]][[#cite_note-11|12]][[#cite_note-11|]]] A full
+bladder
+also activates the insular cortex.[[#cite_note-12|[]][[#cite_note-12|13]][[#cite_note-12|]]]
+The cerebral cortex processing
+vestibular
+sensations extends into the insula[[#cite_note-13|[]][[#cite_note-13|14]][[#cite_note-13|]]] with small lesions in the anterior insular cortex being able to cause loss of
+balance
+and
+vertigo .[[#cite_note-14|[]][[#cite_note-14|15]][[#cite_note-14|]]]
+Other noninteroceptive perceptions includes passive listening to music,[[#cite_note-15|[]][[#cite_note-15|16]][[#cite_note-15|]]] laughter and crying,[[#cite_note-16|[]][[#cite_note-16|17]][[#cite_note-16|]]], empathy and compassion,[[#cite_note-17|[]][[#cite_note-17|18]][[#cite_note-17|]]] and language [[#cite_note-18|[]][[#cite_note-18|19]][[#cite_note-18|]]]
+Motor control
+In motor control it contributes to hand and eye motor movement,[[#cite_note-19|[]][[#cite_note-19|20]][[#cite_note-19|]]][[#cite_note-20|[]][[#cite_note-20|21]][[#cite_note-20|]]] swallowing,[[#cite_note-21|[]][[#cite_note-21|22]][[#cite_note-21|]]] gastric motility,[[#cite_note-22|[]][[#cite_note-22|23]][[#cite_note-22|]]] and speech articulation.[[#cite_note-23|[]][[#cite_note-23|24]][[#cite_note-23|]]][[#cite_note-24|[]][[#cite_note-24|25]][[#cite_note-24|]]] It has been identified as a "central command” centre that ensures that
+heart rate
+and
+blood pressure
+increase at the onset of
+exercise .[[#cite_note-25|[]][[#cite_note-25|26]][[#cite_note-25|]]] Research upon conversation links it to the capacity for long and complex spoken sentences.[[#cite_note-26|[]][[#cite_note-26|27]][[#cite_note-26|]]] It is also involved in motor learning[[#cite_note-27|[]][[#cite_note-27|28]][[#cite_note-27|]]] and has been identified as playing a role in the motor recovery from stroke.[[#cite_note-28|[]][[#cite_note-28|29]][[#cite_note-28|]]]
+Homeostasis
+In homeostasis, it controls autonomic functions through the regulation of the sympathetic and parasympathetic systems.[[#cite_note-29|[]][[#cite_note-29|30]][[#cite_note-29|]]][[#cite_note-Critchley-30|[]][[#cite_note-Critchley-30|31]][[#cite_note-Critchley-30|]]] It has a role in regulating the
+immune system.[[#cite_note-31|[]] [[#cite_note-31|32]][[#cite_note-31|]]][[#cite_note-32|[]][[#cite_note-32|33]][[#cite_note-32|]]][[#cite_note-33|[]][[#cite_note-33|34]][[#cite_note-33|]]]
+Self
+It has been identified as playing a role in the experience of bodily self-awareness, sense of agency and sense body ownership.
+Social emotions
+The anterior insular processes a person's sense of
+disgust
+both to smells and to the sight of contamination and mutilation — even when just imagining the experience. This associates with a
+mirror neuron
+like link between external and internal experience.
+In social experience it is involved in the processing of norm violations, emotional processing, empathy, and orgasms.
+Emotions
+The insular cortex, in particular its most anterior portion, is considered a
+limbic -related cortex. The insula has increasingly become the focus of attention for its role in body representation and subjective emotional experience. In particular,
+Antonio Damasio
+has proposed that this region plays a role in mapping visceral states that are associated with emotional experience, giving rise to conscious feelings. This is in essence a neurobiological formulation of the ideas of
+William James ,
+who first proposed that subjective emotional experience (i.e. feelings) arise from our brain's interpretation of bodily states that are elicited by emotional events . This is an example of
+embodied cognition .
+Functionally speaking, the insula is believed to process convergent information to produce an
+emotionally relevant context for sensory experience . More specifically, the anterior insula is related more to
+olfactory, gustatory, vicero-autonomic, and limbic function , while the posterior insula is related more to
+auditory-somesthetic-skeletomotor
+function.
+Functional imaging experiments
+have revealed that the insula has an important role in
+pain
+experience and the experience of a number of basic
+emotions , including anger, fear,
+disgust , happiness and sadness.
+Functional imaging studies have also implicated the insula in conscious desires, such as food craving and drug craving. What is common to all of these emotional states is that they each change the body in some way and are associated with highly salient subjective qualities. The insula is well situated for the integration of information relating to bodily states into higher-order cognitive and emotional processes. The insula receives information from "homeostatic afferent" sensory pathways via the thalamus and sends output to a number of other limbic-related structures, such as the [[wiki/Amygdala| amygdala ]], the
+ventral striatum
+and the
+orbitofrontal cortex , as well as to motor cortices.[[#cite_note-45|[]][[#cite_note-45|46]][[#cite_note-45|]]]
+A study using
+magnetic resonance imaging
+has found that the right anterior insula was significantly thicker in people who
+meditate .[[#cite_note-46|[]][[#cite_note-46|47]][[#cite_note-46|]]]
+Another study using voxel-based morphometry and MRI on experienced Vipassana meditators was done to extend the findings of Lezar et al., which found increased grey matter concentrations in this and other areas of the brain in experienced meditators.[[#cite_note-47|[]][[#cite_note-47|48]][[#cite_note-47|]]]
+Salience
+Functional imaging
+research suggests the insula is involved in two types of salience. Interoceptive information processing that links interoception with emotional salience to generate a subjective representation of the body. This involves the anterior insular cortex with the pregenual anterior cingulate cortex ( Brodmann area 33 ) and the anterior and posterior mid-cingulate cortices. Second, a general salience system concerned with environmental monitoring, response selection, and skeletomotor body orientation that involves all of the insular cortex and the mid-cingulate cortex.[[#cite_note-48|[]][[#cite_note-48|49]][[#cite_note-48|]]]
+An alternative or perhaps complementary proposal is that right anterior insular regulates the interaction between the salience of the
+selective attention
+created to achieve a task (the dorsal attention system) and the salience of
+arousal
+created to keep focused upon the relevant part of the environment (ventral attention system).[[#cite_note-Eckert-49|[]][[#cite_note-Eckert-49|50]][[#cite_note-Eckert-49|]]] This regulation of salience might be particularly important during challenging tasks where attention might
+fatigue
+and so cause careless mistakes but if there is too much arousal it risks creating poor performance by turning into
+anxiety .[[#cite_note-Eckert-49|[]][[#cite_note-Eckert-49|50]][[#cite_note-Eckert-49|]]]
+Neuroanatomy
+Connections
+The anterior insula receives a direct projection from the basal part of the [[w/index.php?title=Ventral_medial_nucleus&action=edit&redlink=1|ventral medial nucleus]] (VMb) of the thalamus and a particularly large input from the central nucleus of the
+amygdala . Additionally, the anterior insula itself projects to the amygdala. The posterior insula connects reciprocally with the secondary
+primary sensory cortex
+(S2) and receives input from spinothalamically activated [[w/index.php?title=Ventral_posterior_inferior&action=edit&redlink=1|ventral posterior inferior]] (VPI) thalamic nuclei. More recent work by [[w/index.php?title=Bud_Craig&action=edit&redlink=1|Bud Craig]] and his colleagues has shown that this region receives inputs from the ventromedial nucleus (posterior part) of the thalamus that are highly specialized to convey emotional/homeostatic information such as pain, temperature, itch, local oxygen status and sensual touch.
+Cytoarchitecture
+The insular cortex has regions of variable cell structure or
+cytoarchitecture , changing from granular in the
+posterior
+portion to agranular in the
+anterior
+portion. The insula also receives differential cortical and
+thalamic
+input along its length.
+Origins
+The insular cortex is considered a separate
+lobe
+of the
+telencephalon
+by some authorities.[[#cite_note-50|[]][[#cite_note-50|51]][[#cite_note-50|]]] Other sources see the insula as a part of the
+temporal lobe .[[#cite_note-51|[]][[#cite_note-51|52]][[#cite_note-51|]]] It is also sometimes grouped with limbic structures deep in the brain into a
+limbic lobe . [ [[wiki/Wikipedia:Citation_needed|citation needed]] ]
+As a paralimbic cortex, the insular cortex is considered to be a relatively old structure. It plays a role in a variety of highly conserved functions that are related to basic survival needs, such as taste, visceral sensation and autonomic control (so-called homeostatic functions). There is evidence that in addition to its more conserved functions, the insula may play a role in certain "higher" functions that operate only in humans and other great apes.
+John Allman
+and his colleagues have shown that the anterior insular cortex contains a population of neurons, called
+spindle neurons , that are specific to great apes. These neurons are also found in the
+anterior cingulate cortex , which is another region that has reached a high level of specialization in great apes. Spindle neurons are found at a higher density in the right insular cortex. It has been speculated that these neurons are involved in cognitive-emotional processes that are specific to great apes, such as
+empathy
+and self-aware emotional feelings. This is supported by functional imaging results showing that the structure and function of the right anterior insula are correlated with the ability to feel one's own heartbeat, or to empathize with the pain of others. It is thought that these functions are not distinct from the "lower" functions of the insula, but rather arise as a consequence of the role of the insula in conveying homeostatic information to consciousness
+Clinical
+Progressive non-fluent aphasia
+Progressive non-fluent aphasia is the deterioration of normal language function which causes individuals to lose the ability to communicate fluently while being still being able to comprehend single words and intact other non-linguistic cognition. It is found in a variety of degenerative neurological conditions including
+Pick's disease ,
+motor neuron disease ,
+corticobasal degeneration ,
+frontotemporal dementia
+and
+Alzheimer’s disease . It is associated with hypometabolism[[#cite_note-52|[]][[#cite_note-52|53]][[#cite_note-52|]]] and atrophy of the left anterior insular cortex.[[#cite_note-53|[]][[#cite_note-53|54]][[#cite_note-53|]]]
+Addiction
+"The insula also reads body states like hunger and craving and helps push people into reaching for the next sandwich, cigarette or line of cocaine." [[#cite_note-54|[]][[#cite_note-54|55]][[#cite_note-54|]]] A number of functional brain imaging studies have shown that the insular cortex is activated when drug abusers are exposed to environmental cues that trigger cravings. This has been shown for a variety of drugs of abuse, including
+cocaine ,
+alcohol ,
+opiates
+and
+nicotine . Despite these findings, the insula has been ignored within the drug addiciton literature, perhaps because it is not known to be a direct target of the mesotelencephalic
+dopamine
+system which is central to current dopamine reward theories of addiction. Recent research [[#cite_note-55|[]][[#cite_note-55|56]][[#cite_note-55|]]] has shown that
+cigarette
+smokers who suffer damage to the insular cortex, from a
+stroke
+for instance, have their addiction to cigarettes practically eliminated. However, the study was conducted on average eight years after the strokes, and the author admits
+recall bias
+could affect the results[[#cite_note-56|[]][[#cite_note-56|57]][[#cite_note-56|]]]
+These individuals were found to be up to 136 times more likely to undergo a disruption of smoking addiction than smokers with damage in other areas. Disruption of addiction was evidenced by self-reported behavior changes such as quitting smoking less than one day after the brain injury, quitting smoking with great ease, not smoking again after quitting, and having no urge to resume smoking since quitting. This suggests a significant role for the insular cortex in the neurological mechanisms underlying addiction to
+nicotine
+and other drugs, and would make this area of the brain a possible target for novel anti-addiction medication. In addition, this finding suggests that functions mediated by the insula, especially conscious feelings, may be particularly important for maintaining drug addiction, although this view is not represented in any modern research or reviews of the subject.[[#cite_note-57|[]][[#cite_note-57|58]][[#cite_note-57|]]]
+A recent study in rats by Contreras et al.[[#cite_note-58|[]][[#cite_note-58|59]][[#cite_note-58|]]] corroborates these findings by showing that reversible inactivation of the insula disrupts amphetamine
+conditioned place preference , an animal model of cue-induced drug craving. In this study, insula inactivation also disrupted "malaise" responses to lithium chloride injection, suggesting that the representation of negative interoceptive states by the insula plays a role in addiction. However, in this same study, the conditioned place preference took place immediately after the injection of amphetamine, suggesting that it was the immediate, pleasurable interoceptive effects of amphetamine administration, rather than the delayed, aversive effects of amphetamine withdrawal that are represented within the insula.
+A model proposed by Naqvi et al. (see above) is that the insula stores a representation of the pleasurable interoceptive effects of drug use (e.g. the airway sensory effects of nicotine, the cardiovascular effects of amphetamine), and that this representation is activated by exposure to cues that have previously been associated with drug use. A number of functional imaging studies have shown the insula to be activated during the administration of drugs of abuse. Several functional imaging studies have also shown that the insula is activated when drug users are exposed to drug cues, and that this activity is correlated with subjective urges. In the cue-exposure studies, insula activity is elicited when there is no actual change in the level of drug in the body. Therefore, rather than merely representing the interoceptive effects of drug use as it occurs, the insula may play a role in memory for the pleasurable interoceptive effects of past drug use, anticipation of these effects in the future, or both. Such a representation may give rise to conscious urges that feel as if they arise from within the body. This may make addicts feel as if their bodies need to use a drug, and may result in persons with lesions in the insula reporting that their bodies have forgotten the urge to use, according to this study.
+Other clinical conditions
+The insular cortex has been suggested to have a role in anxiety disorders,[[#cite_note-59|[]][[#cite_note-59|60]][[#cite_note-59|]]] and emotion dysregulation.[[#cite_note-60|[]][[#cite_note-60|61]][[#cite_note-60|]]]
+=
+Frontal Lobe
+Wikipedia
+Forebrain asymmetry of emotion
+The Anterior Insula and Human Awareness.pdf Details Download 864 KB
+There are two sides of the brain, and so if there are separate time-based representations of the sentient self that subserve awareness in the anterior insular cortex (AIC) (one in each side), how are they coordinated to generate one unified self? The homeostatic model of awareness presented in this and prior articles1,78 suggests that there is an energy efficiency-optimal process that is based on the coordinated opponency of the autonomic system — that activity in the right side of the forebrain is associated with energy expenditure, sympathetic activity, arousal, withdrawal (aversive) behaviour and individual-oriented (survival) emotions, and activity in the left side is associated with energy nourishment, parasympathetic activity, relaxation, approach (appetitive) behaviour and group-oriented (affiliative) emotions. This proposal is described in detail in prior articles78,95. Briefly, the origin of this asymmetry can be related to the asymmetric autonomic innervation of the heart, and its evolutionary development would have been compelled by the need for energy optimization in the brain (which consumes 25% of the body’s energy). This model fits with an accumulating body of psychophysical literature which indicates that the left and right forebrain halves are differentially associated with positive and negative affect96 and, importantly, with the anatomical and functional asymmetry in the homeostatic afferent input to the insular cortex5,97,98 and in forebrain cardiac control99. It can explain why under particular conditions the AIC is more active on one side (FIG. 2) but also why in most conditions the two sides display joint activity, which mirrors the coordinated sympathetic and parasympathetic control of the heart. The model offers explanations for why positive emotions can reduce or block negative emotions (and vice versa), why the left (affiliative, vagal) side controls deictic pointing and verbal communication, and how increased parasympathetic activity (for example, activation of vagal afferents by gastric distension, slow breathing or elecrical stimulation) can reduce negative emotions (for example, pain). Given the many asymmetries in the activations of the AIC noted in this article, investigations addressing this model in split-brain patients could be enlightening, particularly if performed with those rare patients in whom boththe corpus callosum and the anterior commissure are sectioned100,101.
+Mirror Neuron
+A
+mirror neuron
+is a
+neuron
+that
+fires
+both when an animal acts and when the animal observes the same action performed by another. [1 ] [2 ] Thus, the neuron "mirrors" the behavior of the other, as though the observer were itself acting. Such neurons have been directly observed in
+primate
+and other species including
+birds . In humans, brain activity consistent with that of mirror neurons has been found in the
+premotor cortex , the
+supplementary motor area , the
+primary somatosensory cortex
+and the
+inferior parietal cortex .
+Some scientists consider mirror neurons one of the most important recent discoveries in
+neuroscience . Among them is
+V.S. Ramachandran , who believes they might be very important in
+imitation
+and
+language acquisition . [3 ] However, despite the excitement generated by these findings, to date no widely accepted neural or
+computational models
+have been put forward to describe how mirror neuron activity supports cognitive functions such as imitation. [4 ]
+The function of the mirror system is a subject of much speculation. Many researchers in cognitive neuroscience and cognitive psychology consider that this system provides the physiological mechanism for the perception action coupling (see the
+common coding theory ). These mirror neurons may be important for understanding the actions of other people, and for learning new skills by imitation. Some researchers also speculate that mirror systems may simulate observed actions, and thus contribute to
+theory of mind
+skills, [5 ] [6 ] while others relate mirror neurons to
+language
+abilities. [7 ] It has also been proposed that problems with the mirror system may underlie cognitive disorders, particularly
+autism . [8 ] [9 ] However the connection between mirror neuron dysfunction and autism is tentative and it remains to be seen how mirror neurons may be related to many of the important characteristics of autism. [4 ]
+In the 1980s and 1990s,
+Giacomo Rizzolatti
+was working with Giuseppe Di Pellegrino,
+Luciano Fadiga , Leonardo Fogassi, and
+Vittorio Gallese
+at the
+University of Parma ,
+Italy . These neurophysiologists had placed
+electrodes
+in the ventral premotor cortex of the
+macaque
+monkey to study
+neurons
+specialized for the control of hand and mouth actions; for example, taking hold of an object and manipulating it. During each experiment, they recorded from a single neuron in the monkey's brain while the monkey was allowed to reach for pieces of food, so the researchers could measure the neuron's response to certain movements. [10 ] [11 ] The discovery was initially sent to
+Nature
+but was rejected for its “lack of general interest”. [12 ] They found that some of the neurons they recorded from would respond when the monkey saw a person pick up a piece of food as well as when the monkey picked up the food.
+A few years later, the same group published another empirical paper and discussed the role of the mirror neuron system in action recognition, and proposed that the human
+Broca’s region
+was the
+homologue
+region of the monkey ventral premotor cortex. [13 ]
+Further experiments confirmed that about 10% of neurons in the monkey inferior frontal and inferior parietal cortex have 'mirror' properties and give similar responses to performed hand actions and observed actions. More recently Christian Keysers and colleagues have shown that, in both humans and monkeys, the mirror system also responds to the sound of actions. [14 ] [15 ]
+Reports on mirror neurons have been widely published [16 ] and confirmed [17 ] with mirror neurons found in both inferior frontal and inferior parietal regions of the brain. Recently, evidence from
+functional neuroimaging
+strongly suggests that humans have similar mirror neurons systems: researchers have identified brain regions which respond during both action and observation of action. Not surprisingly, these brain regions include those found in the macaque monkey. [1 ] However,
+functional magnetic resonance imaging
+(fMRI) can examine the entire brain at once and suggests that a much wider network of brain areas shows mirror properties in humans than previously thought. These additional areas include the
+somatosensory cortex
+and are thought to make the observer feel what it feels like to move in the observed way
+[18 ] [19 ]
+^
+26.1.11: could an arrhythmia be treated by training this area? Since it is closely related to the cingualte gyrus it also connected to emotions.
+Javascript Required
+You need to enable Javascript in your browser to edit pages.
+help on how to format text
+Help
+·
+About
+·
+Blog
+·
+Pricing
+·
+Privacy
+·
+Terms
+·
+Support
+·
+Upgrade
+Contributions to http://neurofeedback.wikispaces.com/ are licensed under a
+Creative Commons Attribution Share-Alike 3.0 License .
+Portions not contributed by visitors are Copyright 2015 Tangient LLC TES: The largest network of teachers in the world
+Turn off "Getting Started"
+Home
+...
+Loading...

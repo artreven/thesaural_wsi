@@ -1,0 +1,80 @@
+
+AGM-158 JASSM  Cruise Missile
+[pic]
+|WEAPON    |Difficulty|DAM              |PEN      |Speed   |Guidance   |Warhead |RNG           |
+|          |Very easy |(C:16B:31)+(C:26+|141c+400c|subsonic|See below  |50+400kg|370km+        |
+|          |          |B:44)            |         |        |           |        |              |
+|          |          |                 |         |        |           |        |              |
+|WEIGHT    |                                                                                   |
+|PRICE     |                                                                                   |
+|OTHER     |                                                                                   |
+
+
+The AGM-158 JASSM is a cruise missile developed in the United States.
+Overview
+The Joint Air-to-Surface Standoff Missile (JASSM) project was begun in 1995
+after the cancellation of the AGM-137 TSSAM missile. The TSSAM had been
+designed as a high precision stealthy missile for use at stand-off ranges,
+but poor management of the project had resulted in costs rising to
+unacceptable levels. Since the requirement for such weapons still existed,
+the military was quick to announce a follow up project with similar goals.
+Initial contracts for two competing designs were awarded to McDonnell
+Douglas and Lockheed Martin in 1996, and the missile designations AGM-158A
+and AGM-159A were allocated to the two weapons. Lockheed Martin's AGM-158A
+won out and a further contract for development was granted in 1998.
+The AGM-158A is powered by a Teledyne CAE J402 turbojet. Whilst carried the
+wings are folded to reduce size, flipping out on launch. There is a single
+vertical tail. Guidance is via inertial navigation with updating from a
+global positioning system. Target recognition and terminal homing is via an
+imaging infrared seeker. A data link allows the missile to transmit its
+location and status during flight, allowing improved bomb damage
+assessment. Accuracy is extremely good, with a CEP reported at 2.4 metres
+(8 feet). The warhead is a WDU-42/B 450 kg (1000 lb) penetrator.
+In 1999 powered flight tests of the missile began. These were successful,
+and production of the JASSM began in December 2001. The weapon began
+operational testing and evaluation in 2002. Late that year two of the units
+failed tests, both due to warhead failures, and the project was delayed for
+three months before completing development in April 2003. Two more launches
+failed, this time as a result of launcher and engine problems.
+The JASSM will be carried by a wide range of aircraft - the F-15E, F-16,
+F/A-18, F-35, B-1B, B-2 and B-52 are all intended to carry the weapon.
+Controversies
+Finland planned to purchase JASSM missiles for the Finnish Air Force as
+part of modernization plans of its F-18 Hornet fleet. In February 2007 the
+United States declined to sell the missiles, while agreeing to proceed as
+planned with other modernization efforts (the so-called Mid-Life Update 2,
+or MLU2). This episode led to speculation in the Finnish media on the state
+of Finnish - American diplomatic relations. [1]
+Operators
+     The United States Air Force plans to acquire up to 3700 AGM-158
+      missiles.
+     The United States Navy originally planned to acquire 450 AGM-158
+      missiles but pulled out of the program in favor of employing the
+      proven SLAM-ER.[2] The "Joint" part of the name of the missile is
+      therefore something of a misnomer.
+     On 28 Feb 2006, The Australian government announced the selection of
+      the Lockheed Martin JASSM to equip the Royal Australian Air Force's
+      F/A-18 Hornet fighters.[3]
+Improvements
+The Air Force is studying various improvements to the AGM-158. Mooted
+improvements include a submunition dispenser warhead, new types of homing
+head, and a new engine giving ranges in excess of 1,000 km (600 mi).
+The JASSM-Extended Range (JASSM-ER) received the designation AGM-158B in
+2002. Using a more efficient engine and larger fuel volume in an airframe
+with the same external dimensions as the JASSM, the JASSM-ER is intended to
+have a range of over 500 nautical miles (925 km) as compared to the JASSM's
+range of about 200 nautical miles. The first flight test of the JASSM-ER
+occurred on May 18, 2006 when a missile was launched from a U.S. Air Force
+B-1B bomber at the White Sands Missile Range in New Mexico. As of 2006,
+JASSM-ER was scheduled for introduction into the operational inventory in
+2009.
+Specifications
+     Length: 4.27 m (14 ft)
+     Wingspan: 2.4 m (7 ft 11 in)
+     Weight: 1,020 kg (2,250 lb)
+     Speed: Subsonic
+     Range: 370 km+ (230 mi+)
+     Propulsion: Teledyne CAE J402-CA-100 turbojet; thrust 3.0 kN (680
+      lbf)
+     Warhead : 450 kg (1000 lb) WDU-42/B penetrator
+

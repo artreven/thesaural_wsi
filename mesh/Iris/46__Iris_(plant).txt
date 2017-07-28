@@ -1,0 +1,2100 @@
+Greg's diary--September 2011
+animals
+language
+brewing
+multimedia
+cooking
+music
+fiction
+health
+opinion
+gardening
+photography
+general
+technology
+history
+Stones Road house
+politics
+Greg 's diary
+September 2011
+Translate this page
+Select day:
+Mo
+Tu
+We
+Th
+Fr
+Sa
+Su
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Select month in 2011:
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Today's diary entry
+Diary index
+About this diary
+Previous month
+Next month
+Greg's home page
+Greg's photos
+Network link stats
+Greg's other links
+Copyright information
+This view of the diary is limited to these topics: gardening, photography.
+There may be lack of
+continuity in the text, and some days may be completely missing.
+In case of doubt, please
+enable the complete display.
+Thursday, 1 September 2011
+Dereel
+Images for 1 September 2011
+Top of page
+next day
+last day
+Transplanting tree ferns
+Topic: gardening
+Link here
+Today's the first day of spring, and the weather was relatively mild.
+More weeding, and
+also attended to the
+Salvia
+“Phyllis
+fancy” that we bought at
+Lambley Nursery
+four months ago .
+I had repotted it in a much
+larger pot, but to my surprise it had already grown through the additional soil and formed a
+big mat of roots on the outside of the pot.
+Clearly high time for planting:
+Also did a fair amount of weeding.
+Things still don't look good, but I don't feel as
+hopeless as I did last year.
+And just as I was finishing,
+Yvonne
+decided it was time to transplant
+the
+Tree fern :
+We bought the tree fern
+almost exactly three
+years ago , along with the
+Gingko
+biloba .
+The latter has done well, but the planting conditions for the tree fern weren't
+ideal.
+First, it was in the
+Cathedral ,
+which no longer provides shade, and secondly the soil was very poor, mainly gravel, and in those days I
+didn't pay much attention to that kind of problem.
+So it's clear that we needed to do
+something, but I was still pondering what.
+It seems that our tree fern is almost certainly
+a
+Dicksonia antarctica
+(interesting name).
+Found a
+Gardening
+Austraya
+article
+on the subject, which in fact we saw on TV almost exactly a year ago.
+The
+most interesting thing about it was that they confirmed that now is the time to do it.
+But
+they wanted to saw through the trunk and replant just the trunk, 50 cm (not 45 cm!) into the
+ground.
+That would leave nothing of our tree above the ground.
+So decided to dig up as
+much of the roots as I could, which was quite an effort, and left the fronds on.
+The
+articles I read are not in agreement about whether they will die off or not, though with the
+roots there's more hope that they will survive.
+We'll see.
+Certainly they look pretty
+yellow now:
+Friday, 2 September 2011
+Dereel → Ballarat → Dereel
+Images for 2 September 2011
+Top of page
+previous day
+next day
+last day
+Doctor, yet again
+Topic: general, gardening
+Link here
+Off to
+Ballarat
+yet again today, for
+what proved to be just a blood pressure measurement that showed that the medication was
+working and my blood pressure was normal.
+It's certainly nice to have appointments, and I
+was in and out of the clinic in 20 minutes.
+But with the drive to Ballarat it's still a
+fair chunk out of the morning, and stopped by at
+Formosa Gardens
+to see what caught my
+eye.
+They now have
+Leucospermums
+of
+various kinds at prices I can afford, including a variety of
+the
+Leucospermum
+conocarpodendron
+“Mardi gras ribbons” that died last spring.
+I wonder what the
+connection with
+Shrovetide
+is:
+Try as I might, I couldn't find a variety called
+“ Ash Wednesday ”.
+Removing the remainder of the Cathedral
+Topic: gardening
+Link here
+We've been looking for people to remove trees for us all week.
+We had called four of them,
+of which only two called back and made appointments, and one of them, Graham was a no-show.
+Today the other, Dan, came along and took a
+look.
+To my surprise, it would only cost $100 to remove the last remaining tree in the
+Cathedral .
+So we'll definitely go ahead
+with that.
+The cedars along the road are another matter.
+The big one under which we park our cars
+would cost $2,000 alone.
+And there are several others, so we're probably looking at the
+best part of $10,000.
+That's way beyond our budget, so at least for the time being they'll
+stay.
+Saturday, 3 September 2011
+Dereel
+Images for 3 September 2011
+Top of page
+previous day
+next day
+last day
+Windy weather
+Topic: general, gardening
+Link here
+The
+Bureau of Meteorology
+predicted strong winds today, and for once they weren't wrong.
+We recorded the
+highest-ever wind gust, 42.5 km/h.
+Looking at the values, it seems that all the strong
+winds have occurred in the last 3 months:
+mysql>
+SELECT date, time, wind_speed, wind_gust
+FROM observations
+WHERE wind_gust > 30
+AND date < "2011-6-1"
+ORDER BY wind_gust DESC;
+Empty set (0.89 sec)
+It seems that the winds are getting stronger.
+Or maybe it has something to do with the
+location of the weather station.
+I used to have it mounted like this:
+The tower on the left is the temperature sensor, which I moved closer to the ground on
+11 May 2011 .
+The paddles behind are the wind speed sensor.
+It's
+not easy to see from this photo, but it was mounted well clear of the temperature sensor.
+But possibly it interfered with the readings anyway.
+As a result, didn't do much in the garden, just a bit of weeding.
+Also planted some new
+seeds:
+Papaver nudicaule ,
+Gaillardia pulchella
+“Red
+plume” and
+Solenostemon
+scutellarioides
+(Coleus “rainbow mix”).
+The Papaver (poppies) are supposed to be
+planted in flowering position, because they don't like being transplanted.
+In today's winds
+that would be hopeless, and I'm hoping that the trick of planting in egg cartons will
+nullify the transplant shock.
+Certainly
+the
+Ipomoeas
+are looking a lot happier
+than any did that I planted directly into the bed.
+I'm not sure whether the Papaver nudicaule have been described correctly.
+According to
+Wikipedia that's “Iceland Poppy”, and they don't come in red.
+But the seed package contains
+the supplementary information “Flanders red”, which suggests it should
+be
+Papaver rhoeas .
+We'll see, if
+any of the seeds bloom.
+More modem flakiness
+Topic: technology, photography
+Link here
+Because of the weather I took my weekend photos yesterday, and was able to get the
+processing done by midday today.
+And again they went up to the external site at a snail's
+pace.
+Once again the modem had fallen back
+to
+HSDPA
+mode.
+Again, looking at the network stats, it's easy to guess that it started earlier in the
+morning (where the red peaks fall below the bar):
+Summer meets spring
+Topic: cooking, gardening
+Link here
+Chris Yeardley along for dinner this evening, as usual for Saturdays.
+We try to find a
+bouquet of flowers from the garden for the event, and today we ended up with last year's
+last rose and this year's first tulip:
+Sunday, 4 September 2011
+Dereel
+Images for 4 September 2011
+Top of page
+previous day
+next day
+last day
+Overtaken by spring
+Topic: gardening
+Link here
+It's
+a year ago today
+that I injured myself
+taking my weekend photos, effectively putting myself out of much action for the entire
+spring.
+Today I'm in much better condition, but after the mild weather of the last few days
+it's clear that spring is well on its way.
+A couple of days ago
+this
+birch
+had no leaves at all:
+Decided that it was time to plant those seedlings that had germinated,
+the
+Petunias
+and
+Chrysanthemums
+that I had
+planted
+in April
+and the
+black
+Viola x wittrockniana
+that I had
+planted
+a couple of months later :
+I had transplanted them all into plastic pots, and the chrysanthemums in particular were
+already quite large.
+Getting the first one out of the pot was very difficult, and I ended
+up leaving half the roots behind.
+It seems that the roots had sunk into the plastic and
+wouldn't let go:
+Even after soaking in water and running a knife around the inside of the pot, things weren't
+much better, though I did keep the root ball at the bottom:
+So, clearly toilet rolls and egg cartons are the way to go.
+I thought I had had four violas, but closer inspection showed that one of them was something
+completely different.
+Here the viola on the left:
+What's the other?
+It grew from seed, so maybe it's one of the others that didn't germinate,
+either
+Impatiens
+or
+Anchusa capensis .
+From the Wikipedia
+page it doesn't appear to be impatiens.
+Is it anchusa?
+The page doesn't help much.
+I
+suppose I'll have to wait for it to flower.
+But that's only a small number of the seeds I have.
+The poor yields don't help, but I have
+many more seeds that hadn't even been planted yet.
+Got another 6 egg cartons, and this time
+wrote numbers on them: they get too soggy for a label to stick, and the writing has to be
+large, so it's better to write large numbers on them.
+Today planted:
+Carton
+Plant
+1
+Aquilegia
+“McKanna giants”
+2
+Nemophila insignis
+“Baby blue eyes”
+3
+Impatiens
+“Safari”
+4
+Myosotis alpestris
+(Alpine forget-me-not)
+5
+Left:
+Chile poblano
+Right:
+Cosmos
+“sunny yellow”
+6
+Anchusa capensis
+“Blue angel”
+I'll leave them in the bathroom to germinate.
+I suspect that the temperatures in the
+greenhouse are too extreme, even when I have the heater on.
+Monday, 5 September 2011
+Dereel
+Images for 5 September 2011
+Top of page
+previous day
+next day
+last day
+More garden work
+Topic: gardening
+Link here
+Much of the garden work is pending the removal of the last tree in the
+cathedral , but one item is a prerequisite: we need to
+move at least one of the
+Azaleas
+planted
+round the trunk.
+Since it's now full sun, we ultimately need to remove all three of them,
+which is a pity right now, since they're in bloom.
+We've established a location to put
+them, to the north-west of the house and in the shade of
+the
+cedars
+that we're
+planning to have removed.
+Spent some time cleaning up the bed, which was completely
+overgrown, and also did a bit of other weeding.
+Tuesday, 6 September 2011
+Dereel
+Images for 6 September 2011
+Top of page
+previous day
+next day
+last day
+Seedlings and cutting down trees
+Topic: gardening
+Link here
+Gradually spring is coming, and the climbing plants around the verandah are shooting.
+Took
+the opportunity to prune the Clematis “Perle d'azur” (or is that, as I've seen, “Pearl
+d'azure”?).
+In the process accidentally trimmed some new shoots, so cut them up and planted
+them in toilet rolls.
+The seed trays are still not looking very happy: of a total of 14 egg cartons, only three
+are germinating.
+It's relatively early, though—I planted 6 of them only
+yesterday .
+But the petunias in the hanging baskets have
+greatly enjoyed the winter in the greenhouse, and they needed cutting back.
+I've already
+established that petunia cuttings strike relatively well, so trimmed some bright red ones
+and made a total of 13 cuttings.
+At least this way I know what colour I'm going to get, and
+the trimmed flowers make a nice decoration:
+Graham along today to look at removing
+our
+cedars , whatever they
+might really be.
+He's a lot cheaper than Dan, and could do the lot for $4,000.
+Still a lot
+of money, but his depiction of what happens to them in a bushfire is worth thinking about:
+if they get lit, it's goodbye house.
+Also a call from David, who works with Dan.
+He'll be along here on Thursday to cut down the
+last
+Cathedral
+tree.
+Despite the weather,
+finished preparing the bed for transplanting
+the
+Azaleas .
+I'll do the transplantation
+itself tomorrow after further research.
+Wednesday, 7 September 2011
+Dereel → Ballarat → Dereel
+Images for 7 September 2011
+Top of page
+previous day
+next day
+last day
+Mystery solved?
+Topic: gardening
+Link here
+While in town, stopped at
+Formosa
+Gardens , bought some
+gladioli ,
+and walked around looking for inspiration.
+Didn't find anything, but I did find this (the
+best I could get this horrible
+Nikon
+“Coolpix” L1
+autofocus to do):
+According to the label, it's
+a
+Nepeta × faassenii
+‘Dropmore'.
+It looks pretty much like the mystery plant that we bought on
+Australia Day :
+Clearly it's not the same, but the leaves smell similar.
+Investigating Nepeta more
+carefully, it seems that this is also “catmint”, a plant that we already have and which
+looks quite different, and that I've already seen plants like this.
+But there's more and
+more reason to think that it might be
+a different species of Nepeta.
+Australian spelling: becoming American
+Topic: general, opinion, gardening
+Link here
+One of the things that grates every time I read
+Gardening Australia 	magazine is that they write “sulfur” instead of “sulphur”, and “sulfate” instead of
+“sulphate”.
+That's so American!
+I've been meaning to vent my irritation for some time, but
+of course the only authoritative dictionary I have is
+the
+Oxford English Dictionary , which is really authoritative for
+the UK, not Australia.
+Australia, a country of a little over 20 million people, has its own
+dictionary: the
+Macquarie
+dictionary .
+The big one is about 5% of the size of the OED, but still costs more than
+I'm prepared to spend, and neither of the local libraries has it online.
+So today I dropped
+into the Ballarat library to take
+a look.
+The volume they have is only 2 years old, and apart from a fold in the title page, looks as
+if nobody has ever used it—quite in contrast to their Oxford English Dictionary, which
+predates the building: it's the first edition, 1933.
+Surely they could buy something more
+up-to-date.
+But looking in the dictionary, I found both spellings: “sulphur” is a kind of butterfly, but
+“sulfur” is the preferred spelling for the element, because—they say—that's the universal
+spelling.
+Ugh.
+For me it's still “sulphur”, but I suppose I can forget my rant to
+Gardening Australia.
+The claim in the dictionary is still wrong.
+Just about everywhere in
+Australian usage, it's “sulphur”.
+I wonder if they have the
+obfuscatory terms for vegetables
+in there as
+well.
+Seed quality
+Topic: gardening
+Link here
+Most of my seedlings are coming up very slowly, but some are doing very well.
+These are
+the
+Ipomoea
+and
+Lathyrus odoratus
+(sweet
+peas) that I planted
+a little over two weeks ago .
+Well,
+some are:
+The four plants on the left are the ipomoeas, and the others are sweet peas.
+The middle 4
+are from commercial packaging, the 4 on the right from an
+eBay
+purchase.
+The difference in vigour is clear.
+That's not a condemnation of eBay; the ipomoeas also came from eBay.
+Transplanting the Azaleas
+Topic: gardening
+Link here
+David is coming by tomorrow to cut down the last
+Cathedral
+tree, so spent a considerable amount of time transplanting
+the
+azelea s, in the process also planting
+some of the sweet peas and ipomoeas to climb up the back:
+That accounts for two of the three azeleas.
+I was going to plant the remaining one in front
+of
+Yvonne 's office window, but I discovered yet more gravel
+only a few centimetres under the surface.
+How many of the garden beds are like that!
+Mañana.
+Thursday, 8 September 2011
+Dereel
+Images for 8 September 2011
+Top of page
+previous day
+next day
+last day
+No tree felling
+Topic: gardening
+Link here
+David along this morning to cut down the last
+Cathedral
+tree.
+During the discussion of how to do it, a misunderstanding became
+clear.
+Dan, the boss, is a climber: he climbs the trees and cuts down convenient sized
+bits.
+David doesn't climb: he fells the tree in one, and that would have severely damaged
+the
+Schinus molle
+(pepper tree) to
+the south.
+So we postponed; presumably it will be Dan in the end.
+Interestingly, David claimed that the pepper tree was an Australian native, coming from arid
+regions.
+I had always thought that it came from America, and the species I link to does,
+indeed, come from there.
+Is there another similar tree native to Australia?
+There
+are
+Tasmannias
+(note the double n), but
+they don't seem related to this tree.
+South bed and Völkerfrieden
+Topic: gardening
+Link here
+Got around to digging the gravel out of the south bed, the part in front of
+Yvonne 's office.
+In general, I assume that making a relatively large
+hole through to the soil is enough.
+But
+azeleas
+have very shallow root
+systems, something that became evident when I removed them from the
+Cathedral .
+So this isn't the ideal place for them.
+After some discussion, planted a
+Canna
+there instead, along with
+a
+pelargonium
+that we had planned for
+the location (in fact, replacing a very similar pelargonium that Yvonne had removed some
+time ago), and put the azelea on the east side of the house, where we had planted
+a
+Delphinium
+“Völkerfrieden” last
+year, which had completely disappeared.
+It wasn't until I removed it that I discovered
+something like roots and a subterranean part, possibly rhizome-like.
+Was it trying to come
+back?
+In any case, replanted it a little way away.
+We'll see how the following areas
+develop:
+Friday, 9 September 2011
+Dereel
+Images for 9 September 2011
+Top of page
+previous day
+next day
+last day
+Too warm in the greenhouse?
+Topic: gardening, opinion
+Link here
+Since finishing the
+greenhouse
+in
+April , I've come to use it more and more.
+But that's like
+the man with a hammer, for whom every problem seems to be a nail.
+I've been doing my
+propagation there too.
+But things don't always work out.
+I've had a number
+of
+salvias
+strike, grow a little bit, and
+then die.
+Now it's happening with some rose cuttings:
+I've been wondering for some time what's wrong.
+There's enough moisture, but it gets cold
+at night and quite hot in the daytime.
+I'm gradually coming to the conclusion that the
+problem is the heat (or sunlight) and not the cold: greenhouses aren't really intended for
+propagation.
+So it looks like I need a shade house.
+Another plant that points in this direction is a plant which I know as “Easter cactus”, but
+which looks very similar to the current image on the
+Wikipedia
+Holiday Cactus
+page,
+which describes it as “Thanksgiving Cactus”, though the image title is “Christmas Cactus”:
+According to that page, it may be a
+Hatiora
+or
+a
+Schlumbergera , though the images
+don't match.
+Anyway, it's not looking happy.
+The leaves are yellowish instead of dark
+green:
+Since it's an indoor plant, it's reasonable to assume that it's getting too much light.
+Put
+it in the shade area to the north of the verandah, in the process discovering that it's in
+bloom—on the shade side:
+Saturday, 10 September 2011
+Dereel
+Images for 10 September 2011
+Top of page
+previous day
+next day
+last day
+Cutting down the cedars?
+Topic: gardening, opinion, photography
+Link here
+I still don't know the biological name for the conifers growing to the west of the house, up
+against the road.
+People call them cedars, but there
+are
+hundreds of varieties ,
+and they're clearly not the
+Toona
+ciliata
+that is also known as “Australian Red Cedar”: that's deciduous.
+Whatever they are, they're big and flammable.
+We're seriously concerned that, if we have a
+bushfire, they could make a difference between survival and loss of our house.
+It'll be
+difficult to bring up the $4,000 that Graham wants to cut them down, but I think we're going
+to have to do it.
+Spent some time looking at the area and deciding what to do, including
+adding a couple of new photos to my weekly
+exterior
+photos .
+The first is of the driveway under the cedars, and the second shows them
+taken from the other side of the road:
+It's difficult to imagine what things will look like when they're gone.
+Things won't be
+completely open: there are
+other
+melaleucas
+and
+acacias
+planted underneath them.
+They're struggling, but a bit of light and soil moisture might make all the difference.
+But
+we should look to replacing the trees with others, smaller and less flammable.
+Sunday, 11 September 2011
+Dereel
+Images for 11 September 2011
+Top of page
+previous day
+next day
+last day
+Pruning and propagating
+Topic: gardening
+Link here
+The
+clematis
+and climbing roses on the
+south side of the verandah are looking very happy and growing way beyond the roof of the
+verandah.
+Did a bit of pruning, and also planted some of the rose clippings (Iceberg
+cultivar).
+I hate throwing these things away...
+Monday, 12 September 2011
+Dereel → Ballarat → Dereel
+Top of page
+previous day
+next day
+last day
+Spring, slowly
+Topic: gardening
+Link here
+The flowers in the greenhouse are telling me that it's spring.
+Last
+year's
+petunias
+are blooming well, as are
+the ones I grew from seed in April.
+Time to them out to the verandah again.
+Only moved
+some of them: it's not clear when the correct time is.
+For example,
+the
+salvia
+“Phyllis fancy” that I planted
+at the beginning of the month
+is not looking
+as happy as I expected:
+Some of the tips of the leaves are shrivelling and browning.
+I have no concern about it
+surviving, but clearly the weather wasn't greatly to its liking.
+It looks like we're in for
+warmer weather in the next few days, so I'll probably slowly move things out of the
+greenhouse.
+Tuesday, 13 September 2011
+Dereel
+Images for 13 September 2011
+Top of page
+previous day
+next day
+last day
+Creating the shade area
+Topic: gardening
+Link here
+Years ago I had a propagation area to the north-east of the house, between two sheds, once
+the toy
+ALDI
+greenhouse self-destructed,
+almost exactly
+three years ago :
+After I got the (real)
+greenhouse
+a year later , I pretty much abandoned it: it's certainly
+not warm, and by now it was overgrown with knee-high grass.
+But it could easily be
+converted to a shade house: all I needed to do was to dig out the remaining flower pots from
+the undergrowth, mow the lawn, and then put some shade cloth over the top.
+The shade cloth
+will have to wait, but at least it looks tidy now:
+Wednesday, 14 September 2011
+Dereel
+Images for 14 September 2011
+Top of page
+previous day
+next day
+last day
+More garden work
+Topic: gardening
+Link here
+The weather was relatively warm and windless today, so did some weed spraying—and
+immediately it started to rain.
+Not much, but possibly enough to nullify the effect.
+That's frustrating: probably it didn't make any difference, but I can't find out whether it
+made any difference for at least a week, so probably I'm going to have to repeat everything.
+Also planted the
+Ipomoeas
+and
+Lathyrus odoratus
+from the
+egg cartons into the bed in front of the fence in front of the garage.
+Egg cartons look too
+flimsy for seedlings that resent transplanting: they fall apart.
+I think I'll use toilet
+rolls if I can identify any further area which needs them.
+More mystery plants
+Topic: gardening
+Link here
+In the shade of the northern birch in the middle of the eastern garden, I've become aware of
+this plant:
+I don't know what it is, but the large buds suggest that it's not a weed.
+I can't find any
+indication of planting something there.
+Maybe the flower will help identify it.
+Also found
+what I had thought were multiple
+“Cathedral”
+trees, but which prove to be only two:
+One had sprung up in very little soil in
+the
+“bunker”
+to the north-east of the
+house, and I found the other one when tidying up the shade area.
+I still don't know what
+they are either, but I suppose we should plant them somewhere.
+Thursday, 15 September 2011
+Dereel
+Images for 15 September 2011
+Top of page
+previous day
+next day
+last day
+Gardening documentation
+Topic: technology, gardening, opinion
+Link here
+Over the last few weeks I have bought a number of plants and also planted seeds and
+propagated other plants.
+With spring coming, it's time to decide where to plant them.
+In the past this has meant going into the greenhouse, looking at what's there and deciding
+where it might go.
+The problem with this approach is that I don't have an overview: not all
+plants are in the greenhouse, and I don't have information about the conditions they want or
+how big they will get.
+I have all this information in my diary, for example for the plants
+we bought at the market at the
+end of last month .
+So I
+could just print out the page, right?
+Well, there's a problem there of my own making.
+That's part of the month's diary, and
+it's
+long .
+How long?
+That depends, but at least 30 pages.
+Clearly a candidate for
+selective printing, something I should think about.
+In the meantime, though, all web
+browsers offer an option to print only specific pages of a document.
+That's straightforward
+enough for a PDF document, but what do you do if it's a web page?
+What's the starting page
+number of that entry?
+Decided that it would probably be easier just to print the document to PDF and then print
+from
+xpdf .
+Did that and came up
+with the most
+horrible
+PDF I have ever seen:
+How did
+firefox
+manage such a
+mess?
+It's clearly deliberate, because the marginal markings are OK.
+I've seen this before
+when printing things out, and blamed it on the printer drivers on
+boskoop , my aging
+Apple, to which the printer is connected.
+Clearly that's not the problem.
+And clearly the
+output quality is unacceptable.
+I should look at the causes, but on this occasion I just
+wanted to print out the pages.
+So: tried it on the Apple, with “Safari”.
+If there's a way to print to a file there, I'm
+clearly too stupid to see it.
+But there's a “print preview”, so tried that.
+And the text
+seemed tiny, at least because Apple likes to present windows smaller than they are.
+In this
+case, though, the text was less than half the page width.
+Increased the text size until it
+looked like this:
+That's clearly too large.
+But the resultant printout was tiny!
+It used fractionally over
+half the width of the paper, though the text is slightly wider in proportion.
+The text
+itself was in about 7 pt.
+OK, this is an old version of “Safari”, but not that old, and I wouldn't want to bet that
+the latest version does it better.
+Why should the text width on the screen have any effect
+on the dimensions of a printout on paper?
+And why do none of the browsers have typical
+metrics like (real) font size?
+The “page setup” just gives me the options of “Settings”
+(not really an option, just “Page attributes”) and a scale factor, which in my case is
+100%.
+But what does that mean?
+As usual, the “Help” is no help:
+Type the percentage you want to reduce or enlarge the printout in the Scale text box.
+Percentages are relationships.
+What does this percentage relate to?
+This has been an
+ongoing problem for as long as I have used scalable printers on computers, about 25 years.
+Is it really that difficult?
+Friday, 16 September 2011
+Dereel → Ballarat → Dereel
+Images for 16 September 2011
+Top of page
+previous day
+next day
+last day
+More Leucandenrons
+Topic: gardening, photography, opinion
+Link here
+Looked in at
+Formosa Gardens
+on the way back, looking for inspiration.
+Found
+more
+Leucadendrons , including a
+variety called (I think)
+“Cordifolium” :
+This one shows the buds on a single plant in a big pot; I think the label at bottom left is
+an image of what it should look like when it's in flower, but of course I messed up the
+composition on this horrible toy camera.
+The original shows bright red inflorescences.
+I
+prefer the appearance to that of the other Leucospermums I saw
+two weeks ago :
+The problem is the size: clearly this is a well-grown plant in a big pot, and they want $60
+for it.
+The smaller ones only cost $18.
+And then I found a Leucospermum Cordifolium in the
+same size small pot for only $13.
+Why the difference in the latter two prices?
+Except for the flower colour, they're pretty
+much the same, and judging by the labels they appear to come from the same grower.
+I can
+think of two possibilities: either they just don't have enough of the strange coloured ones,
+or they're more difficult to raise.
+Either speaks in favour of the Cordifolium.
+But
+unfortunately the small ones are all yellow, and I want a red one.
+Off to
+Dahlsens , a place I normally don't visit, to see if
+they had any.
+Their plant department has gone very much downhill since I was last there,
+and the only Leucospermum they had was the same as at Formosa, but looked stressed and cost
+$2 more.
+It'll be a while before I go there again.
+Saturday, 17 September 2011
+Dereel
+Images for 17 September 2011
+Top of page
+previous day
+next day
+last day
+Smart phones: just what I need
+Topic: technology, opinion, gardening
+Link here
+Mail from Tom Maynard today, suggesting a solution to my
+problems identifying plants in the greenhouse : use a smart phone
+and a web browser to display my diary in the greenhouse.
+At least it would get around the
+breakage with web browser print output.
+But why a smart phone?
+Because I will have some mobile coverage in the greenhouse.
+Theoretically I could use a laptop, but then I wouldn't be able to make phone calls with it.
+In fact, I don't have mobile coverage in the greenhouse, thanks to cranks like the
+“Dereel Anti-Tower Alliance” .
+I do
+have
+802.11
+coverage, and I did consider
+using a laptop.
+I didn't, mainly because of the light: it's difficult to recognize anything
+on modern displays in bright sunshine.
+But it would have been a solution.
+The high-end
+devices have a maximum display size of 640×900, compared to a display size of 1024×768 or
+higher with a laptop.
+And I've found that even a single 1920×1200 display is cramped.
+So
+it's not for me.
+And assuming I did have mobile coverage?
+We can still hope.
+But it's more expensive, and a
+smart phone with such “high” resolution will cost me about $800.
+For that I can buy a
+laptop and a phone and have money over for a night on the town.
+The real advantage of the
+smart phone is the size and the fact that it has multiple functionality.
+So why did Tom suggest a smart phone?
+It clearly fits his lifestyle.
+It doesn't fit mine,
+but I'm apparently in the vast minority.
+What's the attraction?
+My best bet is that people
+can use them when commuting, at least in countries like Australia where there's reasonable
+public transport.
+In other cases, people seem to frequently be under way and need net
+access.
+For them, smart phones are almost certainly a good idea.
+But looking at the sales figures, they're the biggest thing since sliced bread.
+Why do they
+sell so many?
+Clearly lots of people are on the move, and this caters to it.
+But that
+begs the question: why are they on the move?
+One of the advantages of the Internet era
+should be that people don't need to go anywhere to meet up with other people, or to do their
+job.
+I personally stopped commuting over 20 years ago.
+Somehow smart phones seem to be a
+symptom of the failure to adapt to the Internet age.
+Planting and irrigating
+Topic: gardening
+Link here
+Finally got around to planting some of the plants we bought
+last month :
+They're barely recognizable at the moment, of course, but it's good to keep record of where
+they went.
+They're marked by bamboo poles, only visible in the enlargement.
+From left to
+right they're
+Felicia
+angustifolia, the
+painfully syntactically incorrect
+Coleonema
+pulchrum
+aureum , which I think I'm going to have to call Coleonema pulchra, and
+the
+Convolvulus sabatius :
+Also attended to the drippers in that area; over 50% of them were clogged up.
+No wonder
+some of the seedlings were looking less than happy.
+Put more hanging baskets on the verandah, and did some trimming.
+Petunias seem to propagate
+relatively well from cuttings, and since there are continual cuttings, it looks as if I will
+have quite a few in the course of time.
+Also tried propagating
+a
+Alyogyne huegelii
+branch
+which had been broken off in the wind.
+Sunday, 18 September 2011
+Dereel
+Images for 18 September 2011
+Top of page
+previous day
+next day
+last day
+Garden photos in variable weather
+Topic: photography, opinion
+Link here
+Yesterday was very windy, so I postponed my
+weekly
+garden photos
+(which, for no good reason, I've called “house photos” in the past)
+until today.
+Today was less windy, but to make up for that, the light kept changing from
+overcast to full sun.
+One such transition hit me while taking the critical verandah photos:
+first, there are 72 individual images, and 24 of them are with full power flash.
+Even with
+fully charged batteries, the flash recycle time goes from 5 seconds to about 12 seconds by
+the end of the session, or about 4½ minutes.
+And by then the time I got round to the end,
+the first image had changed:
+How do you handle that?
+The image is composed of two rows of 12 merged images, bottom row
+first, so I repeated the bottom row (the second image above is the first of those images).
+Then I made two different panoramas, first with the first 12 images, then with the last 12
+images, in each case with the same top row (middle 12 images).
+I was fully expecting the
+first to be badly exposed, but in fact it didn't work out so badly:
+More irrigation work
+Topic: gardening
+Link here
+Finally got round to sorting out the irrigation in the ex- Cathedral .
+Not that much work, but for some reason
+surprisingly tiring.
+At least now everything has a dripper, and I don't seem to have any
+leaks any more.
+Next step is to cover the bases of the trees with weed mat.
+Monday, 19 September 2011
+Dereel
+Images for 19 September 2011
+Top of page
+previous day
+next day
+last day
+Ballarat Gardens in Spring
+Topic: gardening, technology
+Link here
+So finally the ( PDF )
+brochure
+for
+Ballarat Gardens in Spring
+is complete, and it's
+up on the web site.
+And, apart from a brief mention on the
+home page , that was all.
+There's a general
+feeling amongst friends the that PDF documents are enough, but it's clear to me that the web
+is for web content, so set to writing a couple of pages.
+That's not as simple as it sounds.
+The current home page for the friends has a number of
+validation errors, and as an HTML file it needs to contain all its invariant markup as well.
+I started some time ago to convert the stuff to
+PHP , but was by no means finished.
+On the other hand, I didn't want to publish anything that
+didn't validate, so spent a lot of time first completing the work I had done.
+In the end,
+it took a large part of the day to get the two pages up and iron out some of the
+strangenesses in the
+Google Map .
+But hopefully
+I now have a framework that will work for other pages too.
+And for that I'll be going to
+town tomorrow to show it to people.
+Unusually warm weather
+Topic: gardening, opinion
+Link here
+Spring seems to be coming earlier than usual this year.
+The birch trees in the eastern
+garden have as many leaves as they did at the beginning of October last year, and today the
+temperature hit 28.1°, much higher than we had in all of September last year:
+mysql>
+SELECT year(date), min(outside_temp), avg(outside_temp), max(outside_temp)
+FROM observations
+WHERE month(date) = 9
+GROUP BY year(date);
++------------+-------------------+-------------------+-------------------+
+| year(date) | min(outside_temp) | avg(outside_temp) | max(outside_temp) |
++------------+-------------------+-------------------+-------------------+
+|       2010 |               0.5 |  9.74286180425605 |              22.7 |
+|       2011 |               1.7 |  11.2671125956877 |              28.1 |
++------------+-------------------+-------------------+-------------------+
+It was also quite windy, and for the first time I needed to put the shade cloth over the
+greenhouse.
+High time to get the shade area sorted out.
+Tuesday, 20 September 2011
+Dereel
+Top of page
+previous day
+next day
+last day
+To the Friends again, with surprises
+Topic: technology, gardening, animals
+Link here
+In preparation for going to the
+Friends of the
+Ballarat Botanical Gardens
+this afternoon, spent the morning removing birch seedlings
+( Betula pendulis ) from the
+garden, in total about 30 of them.
+Also took a seedling of the
+Cathedral
+tree and both a seedling and a branch of
+another mystery plant:
+On the way into town, nearly drove into the back of the car in front of me when he suddenly
+stopped while leaving the
+roundabout
+in the
+middle of
+Sebastopol .
+That
+proved to be because three tiny dogs were running around on the street.
+Got out and tried
+to help others catch them.
+Finally caught all three: two which might have been long-haired
+Chihuahuas
+and
+another black-and-white one which looked something like a
+tiny
+Jack Russell Terrier .
+The Chihuahuas had collars with identification on them, so one of the few people remaining
+called the number on them, and they were able to give us the name of the dog, but neither
+the name nor the address of the owner.
+Finally they told us we could drop them at any vet,
+so off to the
+Ballarat Veterinary Practice ,
+nominally in
+Sturt St , and on my way to the
+Botanical Gardens.
+They're not really on Sturt St at all; they're in a side street, and in the past I've had
+difficulty finding it.
+But what's a GPS navigator for?
+Yes, it had the information, and
+took me straight to Alfred St. North,
+5 streets and
+650 metres away .
+View
+in a larger map
+It took me more than 5 minutes to find the correct place, where they happily took the dogs.
+It wasn't until we were done that I realised I had forgotten to take any photos.
+At the friends, gave the birches to Yvonne, who identified the mystery flowers as “Locust”,
+and effectively a weed.
+It looks as if it could
+be
+Robinia pseudoacacia , but
+the leaves are wrong.
+She wasn't sure about the “Cathedral” tree.
+The two people I really wanted at the meeting were Julie Bradbury and Jenny Burrell, but
+they both weren't there.
+Instead spoke to Liz Gilfillan, Helen Vincent, Mike Sorrell and
+Raoul Dixon.
+People are concerned about what we would call version control, and so they
+wanted separation of responsibilities.
+The result: I get the responsibility, and we'll ask
+Jenny to do the layout things, at which she's better than I am.
+On the other hand, Mike wanted to write web content (a term I had to explain) too, and I
+wanted to show him.
+We went to the computer (directly connected to the ADSL modem), and I
+put in a switch that I had brought with me.
+No connection to the modem.
+Much further
+investigation showed that the modem was not talking to the network.
+It had LEDs
+marked
+Ethernet
+and
+USB , and both were on, even when nothing was plugged in.
+Microsoft's confusingly spelt
+ipconfig
+told me simply “ Media State . . . Media
+Disconnected” .
+Called up
+TransACT
+support and got
+connected pretty quickly to Mavrick.
+Told him that we had no Ethernet connection and he
+said “No worries, we'll sort that out.
+Open a browser and go to
+192.168.1.1 ”.
+I
+told him a couple of time that I had no carrier, but he insisted that I try it.
+Surprise!
+It didn't work.
+Finally I told him about the LEDs, and he said “OK, the modem is fried.
+You'll need to get a replacement”.
+That proved to be simpler than I thought.
+He told me I should get a free replacement, and
+TransACT has a (relatively large) office in
+Mitchell
+Park , Ballarat.
+Off there, one of the few times I have been to the place of business
+of an ISP, where they told me—not surprisingly—that I would have to pay for the modem or
+commit to another year's line rental, neither of which I wanted to do.
+Told her that
+Mavrick had told me I could get one for free, so she called him up
+(in
+Canberra ), and he confirmed he had
+said it.
+So I got the free modem after all.
+Back to the Friends and installed the modem.
+Total time since identifying the problem: 40
+minutes.
+But of course I needed to configure the modem, something I had been told I
+wouldn't need to do, so called up the support line again.
+After 1 minute I got the
+information “your call will be answered by the next available consultant”.
+And then, a few
+minutes later, the first of many “Due to an unprecedented influx of calls we cannot answer
+in a timely manner.
+Press 1 to leave a message”.
+That wasn't what I wanted to do, but
+after a total of 20 minutes (on mobile), I finally tried it, only to get a further message
+“You cannot leave a message now, mailbox full”.
+A couple of bad points to TransACT.
+I'll
+have to try it some other time.
+It's also interesting to note that I did not need to
+provide any authentication at any time.
+The only information they needed was the name of
+the subscriber and the account number.
+So: an unusual and not very satisfying day.
+We'll have to configure the modem next week.
+People are, perhaps correctly, confident that nobody will notice.
+Wednesday, 21 September 2011
+Dereel
+Images for 21 September 2011
+Top of page
+previous day
+next day
+last day
+One more plant planted
+Topic: gardening
+Link here
+Again I didn't get much done today.
+We still have lots of plants to plant, but apart from
+some random weeding, I only planted
+a
+Banksia ericifolia
+at the
+south of the eastern bed (next to the bamboo rod), and
+a
+Primula
+that I had picked up at the
+Friends
+yesterday:
+The
+Calendula
+behind the Banksia will
+go away some time when the Banksia has grown larger.
+Thursday, 22 September 2011
+Dereel
+Images for 22 September 2011
+Top of page
+previous day
+next day
+last day
+Back to school
+Topic: technology, general, gardening
+Link here
+To the
+University
+today to attend my first
+lecture in decades, and possibly the first ever about Computer Science.
+Sasha Ivkovic is
+doing a class on “ Open Source ”, and
+Chris Yeardley suggested I came to listen.
+First, though, to
+Gays
+to
+buy some timber and shade cloth for the planned shade area in the garden.
+Paid a total of
+$75, which seems more than reasonable.
+Getting from there to the University
+proved
+much slower than I had expected.
+It's less than half an hour
+from Dereel , and I was expecting about 5 to 10 minutes,
+but in fact it took 25, and I was late (something I
+hate ).
+Doubtless Chris
+will give me hell on Saturday.
+I had intended to just lurk, but Sasha saw me and asked me a
+number of questions on the topic.
+He wants me to come back and do a presentation of the
+matter from my point of view, which I might do if anybody is interested enough.
+The students also have a practical to
+do:
+CVS .
+I suppose
+for people using Microsoft, it must be something completely different.
+New Leucospermum
+Topic: gardening
+Link here
+I've been looking for a small
+red
+Leucospermum
+cordifolium
+for some time now.
+I had found them in big at
+Formosa Gardens , and they also had small
+yellow ones.
+I later asked if they could get me a small red one, and yes, maybe they could.
+But on the way into town I stopped by another nursery on Main Road.
+I've
+been there before , but for some reason they don't show up
+in any lists, neither online nor in the phone book.
+In this case,
+Google Maps Street View
+comes to the rescue:
+So they're Pearson's Nursery, and the address appears to be
+730 Geelong Road .
+With that information, I was finally
+able to find it on
+Truelocal : the
+address is
+728 Main Road , though both Google
+Maps and my GPS navigator want to call it Geelong Road.
+In any case, they did have a red
+Leucospermum cordifolium, and despite their sign saying “lowest prices in town” (partially
+out of focus on the Google street view), they wanted $3 more for it than Formosa did.
+Still, there's the “bird in the hand” consideration, and the example I found looked very
+nice and will hopefully flower in the next month or so, so I took it.
+Installing the Friends' ADSL modem
+Topic: technology, gardening
+Link here
+Next off to the Botanical Gardens to set up the ADSL modem that I had picked up on
+Tuesday .
+There was really not much to set
+up: this appears to be a really bare-bones modem.
+Enter user name and (new) password as
+given to me on the phone, press “Connect”.
+Got a message saying “Connecting in 30 seconds”,
+counting down until 0, then the message “You are ready to connect.
+Press
+Connect
+to
+connect”.
+Same again.
+And again.
+Looking at the modem display, the
+PPP
+LED was out.
+Was this the modem's way of
+saying “PPP authentication failed”?
+What a pain!
+I didn't have a phone with me, and we
+know how difficult it is to contact
+TransACT
+support.
+I considered going to the Robert Clark Centre and calling from there, but first
+I considered an alternative: it seems that the user name was also the mail user name.
+What
+if they hadn't changed the password after all?
+Tried the old password (which, fortunately,
+I had checked yesterday), and it worked!
+What
+a pain TransACT is!
+And they didn't tell me that resetting that password would
+also affect access to the email system, so in fact it's just as well they didn't.
+So far
+I've been saying about the ADSL connection “If it ain't broke, don't fix it”.
+Gradually I'm
+coming to the conclusion that it's broke.
+Irrigation for the shade area
+Topic: gardening
+Link here
+On the way home, stopped in at
+Midland
+Irrigation
+and picked up some tap fittings for the shade area.
+Just a couple of
+connectors and the tap itself.
+Total cost: $68, almost as much as the timber and shade
+cloth.
+Somehow that seems wrong.
+Friday, 23 September 2011
+Dereel
+Images for 23 September 2011
+Top of page
+previous day
+next day
+last day
+New shade area
+Topic: gardening
+Link here
+Started working on the new shade area today.
+There are two things to do: supply water and
+put up the shade cloth.
+The water proved to be more of a problem than I thought, since the
+pipe needs to go along a stable wall, and there's a water tank up against it.
+The water
+tank needs to go, but currently it has 1000 l of water in it, so I need to use up the water
+before moving it.
+Instead put the tap near the pump at the end of a short piece of pipe.
+I'll move it later when the tank is empty.
+Putting up the joists was even more frustrating.
+Some of the timber to which I need to
+attach the joist holders is so hard that I couldn't hammer in the nails.
+Tried screws, with
+similar problems.
+Tried pre-drilling the screw holes, and the drill bit got stuck in the
+wood, and I had to remove it with a mole wrench.
+That was enough frustration for one day, and I gave up and planted
+the
+Leucospermum
+cordifolium
+in the far east garden:
+That required much weeding; this is one of the most overgrown parts of the garden.
+It was
+relatively easy, though, easier than when I tried two years ago (last year I was
+incapacitated by my
+accident at the dam ): the
+thick grass had taken over and made it impossible for anything else to grow.
+So: why am I
+removing it?
+I've seen similar things where I did some weeding to the north of the main
+garden area
+a couple of months ago .
+The area
+that I easily weeded then is now completely overgrown again with many smaller weeds.
+I
+think I'll just pull it out and leave it there as a loose mulch to stop anything else coming
+through.
+Canon camera quality
+Topic: photography, opinion
+Link here
+Yvonne 's
+new camera 	has given up the ghost, after only four months.
+“Lens error”, apparently meaning a
+mechanical problem with the lens extension.
+It jammed with the lens extended, and nothing
+can get it to come back in again.
+Called up Canon technical support, once I fought my way
+through their obstructive web site—the “support” page had no support, just a link to
+“support”, which pointed back at itself—and was told to bring the thing to Canon service.
+That's a particular problem because we bought it in Hong Kong, and we will have to send it
+back.
+Tried to contact the seller via
+eBay ,
+but their horrible web software didn't want to know about it: after all, it was four months
+ago.
+Sent off a “general query”, but by evening didn't get a reply.
+Why do Yvonne's
+cameras always have problems?
+The last one was also only a year old when it died with
+similar symptoms.
+Saturday, 24 September 2011
+Dereel
+Images for 24 September 2011
+Top of page
+previous day
+next day
+last day
+I need better rechargeable batteries
+Topic: photography, opinion
+Link here
+Today was day for taking photos of the
+exterior of
+the house .
+It's gradually becoming a routine, but that gives smaller things the
+opportunity to irritate me.
+Today it was the flash unit.
+Apart from the fact that it takes
+so long to recycle, a set of (NiMH) batteries barely survives the 24 shots I need for the
+verandah
+panorama .
+Last week I recharged the batteries after the shots, but although I didn't
+use them after charging, today the unit claimed “low battery” after only a couple of shots.
+I've found that things are better if I charge the batteries the night before, and
+potentially it's an indication of the quality of
+ALDI 's “according to our stringent quality specifications” rechargeable batteries.
+They work well enough in less demanding situations, so maybe they're not designed to deliver
+the current that the flash unit wants.
+I should probably buy some elsewhere.
+But where?
+How do I find good batteries?
+What about Lithium?
+As usual, went to
+eBay
+and looked there.
+Yes, there are rechargeable
+Lithium AA batteries on the market, with a nominal voltage of 3.7 V.
+That's hardly likely
+to be compatible with devices expecting 1.5 V AA.
+If they were at least 3.0 V there would
+be a possibility of replacing two normal batteries with one Lithium battery, but that
+doesn't seem to be the way they do things.
+But then I found something I've never heard
+of:
+Nickel-zinc batteries .
+They seem to have an internal resistance of 5 mΩ, compared to 50 mΩ for NiMH batteries, and
+they have a nominal voltage of 1.65 V.
+Is that acceptable?
+I've already established that
+brand new non-rechargeable alkaline batteries have a voltage of 1.6 V or so, so probably the
+1.65 V wouldn't be a problem.
+But freshly charged the NiZn batteries have a voltage of 1.8
+V, which is possibly a little high.
+Everything I read says that they're suitable for the purpose, and I suppose that the exact
+voltage is not as critical for battery-driven devices as it is for main-driven devices, but
+it would be nice to have some confirmation before I destroy my flash unit.
+In this
+particular case, the option of trying them in a cheaper unit doesn't help: working in one
+device is no guarantee that it would work in another.
+Returning the defective Canon
+Topic: photography, opinion
+Link here
+Got a reply from the seller of the
+IXY 200F , regretting the problem and enclosing a form to fill out—in Microsoft
+“Word”
+format.
+Under the circumstances, decided not
+to complain about that, and moved it to
+boskoop , my Apple, to process.
+That their
+application “TextEdit” can handle it, up to a point.
+I found it extremely difficult to
+avoid overwriting invisible markup.
+I wonder if that's the case for the real Microsoft
+“Word”.
+In the end, attached it to the reply, but also put up a
+web page
+as well.
+Hopefully they'll be able to
+read my reply.
+Sunday, 25 September 2011
+Dereel
+Images for 25 September 2011
+Top of page
+previous day
+next day
+last day
+Garden flowers at end of September
+Topic: gardening
+Link here
+Today's the last Sunday in September, time for a stock-taking of
+flowers in the garden .
+This year we have a whole lot of
+new flowers that weren't there before, along with some plants that have bloomed for the
+first time.
+In particular, the
+Echium
+(first two photos), which we bought
+last
+October , is only just coming into bloom, but it's already very pretty.
+Other plants
+are more recent.
+Here
+the
+Felicia
+angustifolia, which
+we bought
+last month :
+Another plant we bought at the same time is
+the
+Coleonema pulchra .
+And
+the
+Polemonium
+we bought in March is
+now flowering happily:
+In addition, the Japanese
+Iris ,
+which we've had for over 2 years, is finally flowering profusely, and
+the
+Corydalis
+has weathered the winter
+nicely.
+It has been blooming almost since we got it, and it has also self-sown a number of
+seedlings.
+The
+Azaleas
+that we transplanted planted
+only a couple of weeks ago
+are also looking
+much happier than I expected:
+We planted them years ago, when the
+Cathedral
+was still looking healthy, but they never quite won the battle with the weeds.
+This is
+the best they have ever bloomed.
+A number of
+Grevilleas
+are in bloom,
+including one that we brought with us from
+Wantadilla ,
+which has been hanging around doing nothing for the last 4 years, and which has now been
+overtaken by an
+Acacia .
+Then there's this
+Grevillea longistyla 	× johnsonii “Elegance” thing which we bought in Bendigo
+2½ years
+ago , and some of the plants we planted in the south bed
+a
+year ago :
+The
+tulips
+are also in full bloom.
+I can't
+recall seeing his many of them last year, though that may be because they're earlier this
+year:
+Then there's the question of annuals or perennials.
+According to many sources, such as the
+ProFlowers
+Flower Guide , they're different kinds of plants.
+But we have a number of annuals
+which are several years old.
+The
+Alyssum
+has straggled through the winter and is now coming back:
+We also have a surprising number
+of
+Petunias , some of them in their third
+spring:
+The
+Sparaxis
+(or are
+they
+Freesias ?) are also still blooming
+freely, and finally the mystery seedling is flowering:
+Monday, 26 September 2011
+Dereel
+Images for 26 September 2011
+Top of page
+previous day
+next day
+last day
+Shade area, continued
+Topic: gardening
+Link here
+More work on the shade area today.
+Somehow everything is ten times as complicated as it
+should be.
+Still, now I have the brackets in place, and I need
+Yvonne
+to help me measure the joists.
+Instead addressed another area where I wanted shade cloth, this time really as a wind break:
+to the left of the north verandah of the house, next to the car parking area.
+That showed
+that these fancy plates I have for attaching cloth are not ideal, and I'm going to have to
+get some other way to hold it in place.
+It's holding, but it looks ugly:
+Metz: We don't need customers
+Topic: photography, opinion
+Link here
+I have two, maybe three
+Mecablitz
+electronic flash units, made by
+Metz , one of the
+oldest names in electronic flash.
+My oldest one was a two-piece system with a charger hung
+over the shoulder, made some time in the 1950s.
+They've been around for ever, and their
+name is almost synonymous with electronic flash.
+Currently I want to know whether my latest one
+supports
+Nickel-zinc
+batteries .
+It's a Mecablitz 58 AF-1 O digital, already 2 years old, so obviously the
+product description
+has been removed.
+I have a choice of the description of the
+barely different
+replacement
+or a
+download page
+for new firmware.
+Clearly I can't find any information about which
+batteries it supports.
+But I probably couldn't anyway: the description of the replacement
+model doesn't say anything either.
+Maybe Metz hasn't heard of NiZn batteries yet.
+OK, that's what support lines are for, right?
+Fought my way through their web site looking
+for support.
+Somehow German web sites seem to be particularly clever in the way they make
+you click all over the place to find what should be obvious.
+It's so difficult that I had
+to start all over again looking for it to write this article, and it took me 5 minutes to
+realise that I had to select “Kontakt” at the very bottom left, and none of the menus at the
+top.
+Then I
+found :
+The phone number is accessible only from inside Germany (even excluding neighbouring
+German-speaking countries like Austria and Switzerland), and they want € 0,24 per minute
+even for product enquiries!
+Further searching showed that they had a
+web form
+to fill out, all of two lines of 21 characters:
+This is all in German, of course, because they don't offer
+any
+support in other
+languages.
+Germany was once the world's leading producer of photographic equipment.
+Where are they
+now?
+Where
+is
+Rollei ?
+Minox ?
+Edixa ?
+Voigtländer ?
+I've had this kind of
+treatment from Edixa decades ago, when they still existed.
+How long does Metz have to go?
+Tuesday, 27 September 2011
+Dereel
+Images for 27 September 2011
+Top of page
+previous day
+next day
+last day
+More USB disk problems
+Topic: technology, photography
+Link here
+Yvonne
+into my office this afternoon to say that the cursor
+on her display wasn't moving.
+After confirming that she had tried a bigger hammer, checked
+and found that the system had frozen.
+After reboot,
+/var/log/messages
+showed lots
+of:
+Sep 27 13:47:11 lagoon kernel: (da0:umass-sim0:0:0:0): AutoSense failed
+Sep 27 13:47:11 lagoon kernel: g_vfs_done():da0p1[WRITE(offset=1318222561280, length=131072)]error = 5
+Sep 27 13:47:11 lagoon kernel: g_vfs_done():da0p1[WRITE(offset=1318222692352, length=114688)]error = 5
+That's from my USB-connected photo backup disk.
+I thought the USB problems were over and
+done.
+High time to debug the hot plug issues with
+the
+eSATA
+adapter that I bought
+months ago, but in the meantime needed to do a backup.
+So ran
+fsck
+and discovered
+that I had a big
+lost+found
+directory.
+Since I do my backups with
+rsync , I didn't need to worry about that: just
+blow it away and run
+rsync
+again.
+And the system froze again.
+This time no console messages.
+Is this the
+dreaded
+soft updates
+memory issue?
+Possibly, and there's no reason for soft updates on this drive anyway, so tried to turn them
+off:
+=== root@lagoon (/dev/pts/2)
+/dereel/home/grog
+1
+->
+tunefs -n disable /photobackup/
+tunefs: soft updates cleared
+tunefs: /dev/ad4s1a: failed to write superblock
+Huh?
+That's not the device:
+=== root@lagoon (/dev/pts/2)
+/dereel/home/grog
+2
+->
+grep photo /etc/fstab
+/dev/da0p1             /photobackup     ufs     rw,noauto      0        0
+With the correct drive, it worked:
+=== root@lagoon (/dev/pts/2)
+/dereel/home/grog
+3
+->
+tunefs -n disable /dev/da0p1
+tunefs: soft updates cleared
+At first, I thought
+message “failed to write superblock” was an incorrect error message,
+but looking at the device name, that's the root file system:
+=== root@lagoon (/dev/pts/2)
+/dereel/home/grog
+4
+->
+df /
+Filesystem  1048576-blocks Used Avail Capacity  Mounted on
+/dev/ad4s1a           9916 7930  1192    87%    /
+So clearly
+tunefs
+reacts differently from, say,
+fsck
+when given a mount
+point.
+fsck
+looks up the device in
+/etc/fstab ;
+tunefs
+appears to get
+the device name from the specified directory name.
+You can't reset soft updates when the
+device is mounted (that's why the superblock update failed), so what it finds is the
+underlying file system, in this case the root file system.
+I'm still not convinced that all is well with the backup disk.
+One of the problems is
+that
+rsync
+normally considers files to be the same if the file size and modification
+timestamp are the same.
+After a crash, that's not necessarily sufficient.
+Running
+rsync
+with the
+--checksum
+option would probably take longer than
+just starting from scratch, so I suppose I should rebuild the file system.
+But I'll wait
+until I have something faster than USB before I do that: even at a sustained 50 MB/s,
+writing 1 TB of data takes nearly 6 hours.
+Shade area: progress
+Topic: gardening
+Link here
+Continued work on the shade area today, and got pretty much finished.
+The first image is
+from two weeks ago:
+The shade cloth I bought was considerably longer than needed; I had intended to use the rest
+for the west end of the north verandah.
+But now I think I might cut it to size as an
+entrance, so that we can cover it completely on hot days.
+Once again I had problems with the tack strips.
+They're 1.25×5 cm, with 8 barbs to go
+through the shade cloth into the wood, and come in packs of 5:
+The problem is that they're considerably wider than a hammer, and hammering them in tends to
+knock in only one side.
+Unless the wood is very soft, you end up with something like this,
+on the west side of the north verandah:
+And if things go wrong, they become worse than useless:
+Tried it again today with similar results, and decided that I should use wood strips and
+screws instead:
+That worked quite well, except that the cloth was wider than the advertised “metric” 1.8
+metres (the resemblance to 6 feet is purely coincidental), so we had to bunch it a bit on
+the right.
+I'll replace the strips on the verandah with something similar in full length.
+Metz speaks
+Topic: photography, technology, opinion
+Link here
+Nobody on the lists seems to know anything
+about
+Nickel-zinc batteries ,
+but everything I've seen suggests that they're worth trying.
+Bought 8 batteries and a
+charger on
+eBay .
+I'll try them out on my
+power-hungry
+Nikon
+“Coolpix” L1 , which wouldn't pose such a problem if it were to die.
+Also finally got round to sending an enquiry via their
+web form , which displayed about a quarter of the short text:
+Peter Jeremy has pointed me to the triangle at bottom left of the input field.
+Pull on it
+and it expands the field.
+But that's not the point: like so many mainstream “applications”,
+which frequently open windows that are far smaller than the content, the default size seems
+to say something about the intentions of the programmer.
+This was written during the German night.
+To my surprise, and to their credit, I got a
+reply written at 9:40 the same morning.
+They can't recommend NiZn batteries, but they're
+currently testing them in their laboratories, and I should ask again in November.
+That says a number of things: firstly, they know what I'm talking about, since they're
+testing them.
+The “can't recommend” means exactly that: they haven't gained enough
+experience with them yet.
+And having to ask again in November suggests that they don't
+maintain context after answering a query; it would be better if they would say “we will
+reply again when we have finished our testing”.
+Still, it addresses my main concern: is the
+voltage too high?
+It seems reasonable to assume that this reply says “no”.
+Wednesday, 28 September 2011
+Dereel
+Images for 28 September 2011
+Top of page
+previous day
+next day
+last day
+Shade area infrastructure
+Topic: gardening
+Link here
+The weather was pretty terrible today, and I spent most of the day inside, but did manage to
+get some shelves put in the shade area.
+A couple of years ago, David Yeardley bought the
+same kind of toy greenhouse from
+ALDI
+that we
+bought
+three years ago , and which catastrophically
+self-destructed
+three months later :
+David had had the good sense not to try to erect it, but the shelving is usable, and he gave
+it to me a couple of months ago.
+I'm still using the old shelves, but they're pretty
+overloaded, so put the shelves together and effectively in the same place as the ones I put
+in three years ago (first photo):
+Thursday, 29 September 2011
+Dereel
+Images for 29 September 2011
+Top of page
+previous day
+next day
+last day
+Populating the shade area
+Topic: gardening
+Link here
+Moved most of the seedlings and cuttings from the greenhouse to the shade area.
+It's
+amazing how dry some of them were, although I water them profusely every day.
+And today it
+was grey, overcast and moist.
+Hopefully they'll feel better in their new position.
+One plant that gives me cause for concern is our dwarf Meyer lemon tree.
+We've had trouble
+with it in the past, but it really came back to life last autumn when I put it in the
+greenhouse (first photo, taken on
+20 April 2011 ).
+But
+then we saw yellowing leaves, and now I see (pot on the left in the middle photo):
+There are lots of flowers, but it's losing all its leaves.
+Why?
+Did some ambient light measurements in the shade area.
+Today was particularly cloudy and
+dark, and I got the following results.
+The values are in lux, taken with my incident light
+meter:
+vertical
+horizontal
+Garden 1
+20,000
+5,000
+Garden 2
+18,000
+6,000
+Greenhouse
+10,000
+3,000
+Shade area
+1,300
+800 - 1200
+It's really difficult to get accurate measurements; even the slightest movement of the
+sensor changes the values significantly.
+But what I see here is that the greenhouse is
+about half as bright as outside
+(1
+EV , which surprises me), and
+the shade area about 12% to 25% as bright as in the greenhouse (3 or 2 EV).
+That's in line
+with the 70% reduction that they claim for the shade cloth.
+I'll keep observing things.
+Friday, 30 September 2011
+Dereel
+Images for 30 September 2011
+Top of page
+previous day
+Late flowers
+Topic: gardening
+Link here
+I took my monthly
+garden photos
+a few days ago , but since then I've
+found a couple I have forgotten, and a few others have popped up.
+The
+Paulownia kawakamii
+isn't
+quite in flower yet, but it's trying, as is the
+red
+Mandevilla :
+The
+Bougainvilleas
+have really come
+into their own:
+The
+Pelargoniums
+are also making
+progress:
+And to my particular joy, both
+the
+Delphinium
+“Völkerfrieden” and
+the
+Clematis recta
+are growing.
+Only a couple of weeks ago I had thought that both were dead, but the Clematis in particular
+is growing very rapidly:
+Dryness and wetness
+Topic: gardening, photography
+Link here
+They're predicting lots of rain tomorrow, so took my weekly photos today.
+The rain is
+welcome: after “the drought broke” (and caused severe flooding) in the summer, things are
+drying out again, as indicated by the dam.
+When we moved in there was hardly any water, and
+regularly every summer it dried out completely.
+But at the end of August last year the two
+halves joined up, and shortly after that it overflowed into the lagoon.
+It stayed that way
+into the new year, but since then it has gradually been drying out again.
+Today we have a
+clear division into two halves again.
+Here
+a year ago 	and today:
+Top of page
+Previous month
+Greg's home page
+Today's diary entry
+Next month
+Greg's photos
+Copyright information
+$Id: diary-sep2011.php,v 1.65 2015/10/15 01:19:12 grog Exp $

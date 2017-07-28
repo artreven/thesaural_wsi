@@ -1,0 +1,3490 @@
+Greg's diary--May 2011
+animals
+language
+brewing
+multimedia
+cooking
+music
+fiction
+health
+opinion
+gardening
+photography
+general
+technology
+history
+Stones Road house
+politics
+Greg 's diary
+May 2011
+Translate this page
+Select day:
+Mo
+Tu
+We
+Th
+Fr
+Sa
+Su
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Select month in 2011:
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Today's diary entry
+Diary index
+About this diary
+Previous month
+Next month
+Greg's home page
+Greg's photos
+Network link stats
+Greg's other links
+Copyright information
+This view of the diary is limited to these topics: technology, health, gardening.
+There may be lack of
+continuity in the text, and some days may be completely missing.
+In case of doubt, please
+enable the complete display.
+Sunday, 1 May 2011
+Dereel
+Images for 1 May 2011
+Top of page
+next day
+last day
+Autumn with a vengeance
+Topic: gardening
+Link here
+The mild autumn weather stopped abruptly with the change of month:
+That was coupled with rain, so did almost nothing in the garden.
+Hopefully I'll find time
+to regain the momentum of the last few days.
+Refining panorama processing
+Topic: photography, technology, opinion
+Link here
+Yesterday's panorama photo of the verandah wasn't quite as good as usual; I suspect that
+hugin
+chose some inappropriate
+control points.
+It's surprising how different the automatic control points are from the
+ones I would have chosen.
+Normally I would have refined it, but I had other experiments in
+store.
+In particular, lens distortion must be an issue in the matter, and I can compensate for that
+with
+DxO Optics
+"Pro" .
+In addition, there are possibilities to do
+the
+HDR
+processing
+directly with
+hugin , and I could do all the processing in 16 bit mode.
+Started by creating some
+JPEGs
+of the
+images:
+DxO `grep verandah-centre makejpeg | sed 's: .*::; s:JPG:ORF:'`
+makejpeg
+is the file that I create with a mapping between camera image name
+(first the camera name, then my own).
+DxO
+is a script that then links them
+to a new, empty directory and allows me to start the DxO application against it.
+That wasn't enough, though: DxO insists on remembering the previous things I have done.
+They're
+done , dammit!
+But after I processed the JPEGs, I was confronted with
+(partial window):
+Image title: DxO 1
+Dimensions: 505 x 394, 88 kB
+Dimensions of original: 505 x 394, 88 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 1 May 2011:
+thumbnails
+small images
+diary entry
+Now I would have had to choose every second image, 72 times.
+What a pain!
+Moving the JPEG
+images out of the directory didn't help; DxO knows better.
+Still, I was able to change to a different directory ( click ) and back again
+( click ), and the images were no longer there.
+But
+I still wasn't out of the woods.
+DxO claimed that the images had already been processed,
+and refused to do it again:
+Image title: DxO 2
+Dimensions: 421 x 281, 26 kB
+Dimensions of original: 421 x 281, 26 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 1 May 2011:
+thumbnails
+small images
+diary entry
+Finally I deleted all “projects”, in the process also deleting any other
+settings.
+It seems that there's an easier way: select “New Project”, not from
+the “Project” tab (that would be too easy) but from the “File” tab.
+But that probably means that it will accumulate lots of useless cruft in some unexpected
+place.
+Then moved on to
+hugin .
+The panorama consists of two rows of 12 views each
+(spaced at 30°), and each view consists of 3 images bracketed
+1
+EV
+apart, a total of 72 images.
+My current technique is to merge the images for each view
+using
+align_image_stack
+and
+enfuse ,
+but
+hugin
+has its own HDR functionality, so tried it directly, rather
+stupidly with the
+TIFFs
+(total size a little
+over 5 GB).
+That sort of worked, though the preview image looked funny:
+Image title: hugin 1
+Dimensions: 742 x 364, 128 kB
+Dimensions of original: 1914 x 938, 480 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 1 May 2011:
+thumbnails
+small images
+diary entry
+Selected HDR, which greatly improved the preview image:
+Image title: hugin 2
+Dimensions: 742 x 364, 136 kB
+Dimensions of original: 1914 x 938, 544 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 1 May 2011:
+thumbnails
+small images
+diary entry
+Went off to do something else.
+Came back and found:
+May  1 17:18:54 dereel kernel: pid 51513 (hugin), uid 1001: exited on signal 6 (core dumped)
+The last thing I want to do is analyze that, so tried again with JPEG.
+This time it started
+stitching, but there was still no joy:
+Loading next image: 00-710017.tif
+Creating blend mask: 1/6 2/6 3/6 4/6 5/6 6/6
+Optimizing 0 distinct seams.
+Strategy 2:
+enblend: an exception occured
+Mask is entirely black, but white image was not identified as redundant.
+gmake: *** [00-71.tif] Error 1
+Looking at that output, it was at image 17 of 72.
+I've seen this kind of message before,
+and I suspect that it relates to the dynamic range in some strange manner.
+But for the
+moment, this approach seems to be a dead end.
+Monday, 2 May 2011
+Dereel
+Images for 2 May 2011
+Top of page
+previous day
+next day
+last day
+Panoramas with images processed by DxO
+Topic: photography, technology
+Link here
+My previous attempts at
+making
+HDR
+panoramas
+were less than successful, but they didn't really have anything to do with
+DxO Optics "Pro" .
+Today
+tried the old method, up to a point: my way of creating HDR images wasn't very portable, so
+first updated the
+HDR
+script to optionally group the images
+into a specific number of images of the same view, allowing me to create multiple HDR mapped
+images from a list of arbitrary names.
+Did that, and got worthwhile results.
+Here the verandah panorama from the weekend, and then
+the one done today.
+They look pretty much the same until you look at the details.
+The new
+one is still not perfect, but the discontinuities are considerably less.
+The dynamics are
+also better in the second (DxO) image, as the mouseover comparison of the first image shows:
+Image title: verandah centre equi
+Complete exposure
+details
+Dimensions: 775 x 348, 100 kB
+Dimensions of original: 9156 x 4115, 7104 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 30 April 2011:
+thumbnails
+small images
+diary entry
+Image title: verandah centre DxO
+Complete exposure
+details
+Dimensions: 775 x 348, 102 kB
+Dimensions of original: 9076 x 4075, 6352 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 30 April 2011:
+thumbnails
+small images
+diary entry
+Image title: verandah centre detail 1
+Complete exposure
+details
+Dimensions: 585 x 461, 70 kB
+Dimensions of original: 836 x 659, 112 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 30 April 2011:
+thumbnails
+small images
+diary entry
+Image title: verandah centre DxO detail 1
+Complete exposure
+details
+Dimensions: 559 x 484, 70 kB
+Dimensions of original: 781 x 676, 104 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 30 April 2011:
+thumbnails
+small images
+diary entry
+There's still more to do, notably playing around with 16 bit intermediate images.
+But it's
+slow, and it uses amazing amounts of memory.
+More garden progress
+Topic: gardening
+Link here
+The weather's better again, and both of us out into the garden.
+One good thing about lots
+of weeds is that when you take pull them out, you have something to show for it.
+I started
+the middle bay of the compost heap only a couple of days ago:
+Image title: Compost heap
+Complete exposure
+details
+Dimensions: 600 x 450, 102 kB
+Dimensions of original: 4032 x 3024, 2512 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 3 May 2011:
+thumbnails
+small images
+diary entry
+The north bed looks so different that we're reconsidering what to plant in it.
+No decisions
+made yet.
+Tuesday, 3 May 2011
+Dereel
+Images for 3 May 2011
+Top of page
+previous day
+next day
+last day
+Under the weather
+Topic: general, gardening
+Link here
+The weather is cool and moist again, and for some reason I didn't feel very well.
+Had
+planned to go into town today, but cancelled that and stayed at home watching TV instead.
+The moisture was enough that I didn't do more than a little token pottering in the garden.
+Panoramas made with TIFF images
+Topic: photography, technology
+Link here
+More work on panoramas today.
+As planned, tried making the verandah panorama
+from
+TIFFs
+images instead of
+from
+JPEGs .
+The results were surprising:
+Image title: verandah centre DxO
+Complete exposure
+details
+Dimensions: 775 x 348, 102 kB
+Dimensions of original: 9076 x 4075, 6352 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 30 April 2011:
+thumbnails
+small images
+diary entry
+Moving the cursor over the image switches from the JPEG-based panorama (cursor off) to
+TIFF-based one (cursor on).
+I can't see any difference apart from a slight difference in
+framing.
+hugin
+reports two
+values for control point alignment, the mean error and the maximum, both in pixels.
+They
+were:
+Image
+mean
+max
+error
+error
+Out-of-camera
+2.3
+84.6
+DxO JPEG
+2.1
+7.0
+DxO TIFF
+2.7
+14.3
+That's surprising, to be investigated yet further.
+I'm assuming that the maximum error with
+the out-of-camera images was due to distortion, but why should the results with TIFF be
+worse than the results with JPEG?
+I'd assume that the image geometry is the same.
+Maybe it
+has something to do with the strange way
+hugin
+chooses control points.
+Wednesday, 4 May 2011
+Dereel
+Images for 4 May 2011
+Top of page
+previous day
+next day
+last day
+Time for new hardware
+Topic: technology
+Link here
+Recently, while processing some photos, discovered some processes were crashing.
+Looking
+at
+top
+showed me:
+Mem: 2280M Active, 203M Inact, 370M Wired, 85M Cache, 112M Buf, 49M Free
+Swap: 3072M Total, 3063M Used, 9412K Free, 99% Inuse, 2372K In, 1012K Out
+That's telling me that, in addition to 3 GB of main memory (the maximum my i386 machine can
+address), I'm using another 3 GB of swap and running out, and I'm also paging heavily.
+I
+clearly need more memory, but the only way I can use it is to migrate to amd64.
+That's as
+simple as installing a 64 bit version of
+FreeBSD , so I'll probably do it.
+Did some investigation and discovered, to my surprise, that my current machine is 2½ years
+old, and since then people have moved
+from
+DDR2
+to
+DDR3
+memory, which of course is cheaper.
+Considered the alternative of replacing the machine, but it's more money than I want to
+spend right now, so it looks like I'll buy another 2 2 GB DIMMs and replace one of the 1 GB
+DIMMs, giving me a total of 6 GB—still not as much as I would like.
+But what memory speed?
+When I bought the
+hardware , I went through a lot of trouble investigating, but unfortunately I didn't
+write everything down.
+So went to the
+AMD
+web
+site to see what they recommended—and found nothing!
+The only references were very
+superficial specifications.
+There used to be much more, and it's probably still there, but
+there are no links, and nothing I can find on
+Google
+helped.
+Finally Daniel O'Connor found a
+document 	on
+Gigabyte 's Russian mirror, but that just
+gave a list of memory chips that had been tested with my motherboard.
+About the only
+indication is that the motherboard only handles one DDR2 1067 DIMM per channel, and mine are
+all the same.
+In the end gave up and relied on memory: I think it's DDR2 800.
+Why are
+these things so difficult to find?
+DxO improves your image
+Topic: photography, technology
+Link here
+While working on some old photos, found the collection for my
+60th birthday party
+(coincidentally about the
+same time I built the “new” machine).
+They didn't look too good, and on
+investigation it seems that I had taken them only in raw format and converted
+to
+JPEG
+with
+ufraw .
+At the time I had had some problems
+with those conversions, and so it seemed a perfect example to use
+DxO Optics "Pro"
+on.
+Ran through that, taking over an hour again, and somehow ending up
+with
+TIFF
+output—one of the settings I
+gave stuck, and I forget how to reset it.
+I wish these packages would only save settings
+when you ask them to.
+Spent some time running cursors over illegible icons, only to
+discover that the description popped up under the cursor arrow (something that I can't
+capture from the screen).
+Finally got the images, and... I couldn't see much difference
+between the images.
+On the other hand, I've already seen how difficult it is to compare different renditions of
+the same image, even when they're side by side.
+That's why I developed the mouseover
+compare technique, where you can swap the images in place.
+Cursor over the following image
+shows the old one ( ufraw ), cursor off shows the new one (DxO):
+Image title: celebration 3
+Complete exposure
+details
+Dimensions: 600 x 450, 94 kB
+Dimensions of original: 3648 x 2736, 1184 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 28 September 2008:
+thumbnails
+small images
+diary entry
+Now it's clear that DxO shows a great improvement.
+It looks as if it's worthwhile after
+all.
+If only it wasn't so emetic to use.
+Topic: gardening
+Link here
+It's cool again, and I didn't feel like doing much, but
+Yvonne
+wanted to get rid of the dead hops, so out to lend her moral support.
+When we installed
+the original wooden beds in the eastern garden about 3 years ago, we planted some
+spring-flowering
+bulbs— Narcissus , I
+think—in one of them.
+After removing all the weeds, I found them still there, and
+having multiplied nicely:
+Image title: Bulbs 1
+Complete exposure
+details
+Dimensions: 600 x 450, 108 kB
+Dimensions of original: 4032 x 3024, 2128 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Wednesday, 4 May 2011:
+thumbnails
+small images
+diary entry
+After separating them (far too late in the season, but what can you do?) I ended up with 32
+bulbs, a couple damaged enough that they might not survive:
+Image title: Bulbs 3
+Complete exposure
+details
+Dimensions: 600 x 450, 116 kB
+Dimensions of original: 4032 x 3024, 3392 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Wednesday, 4 May 2011:
+thumbnails
+small images
+diary entry
+Planted half of them, along with another 3 that I had found elsewhere.
+The rest will have
+to wait until tomorrow.
+Thursday, 5 May 2011
+Dereel
+Images for 5 May 2011
+Top of page
+previous day
+next day
+last day
+The remaining daffodils
+Topic: gardening
+Link here
+Again the weather was cool, so didn't do much outside.
+Planted the remaining daffodils;
+hopefully they'll come good.
+Saturday, 7 May 2011
+Dereel
+Images for 7 May 2011
+Top of page
+previous day
+next day
+last day
+Panoramas with DxO
+Topic: photography, technology
+Link here
+Photo day again today.
+The first Saturday of the month is special, since I take a few more
+photos than normal, and managed to just about completely fill up an 8 GB memory card.
+Decided to process the raw images with
+DxO Optics "Pro" , and
+after fighting my way through the windows, was presented with the information that the
+conversion (415 images) would take 6 hours, 20 minutes.
+Let that run and tried stitching them together from
+the
+JPEGs , intending to catch up with the
+real images later.
+That proved to be more work than I wanted, since many of them required
+masking.
+I need to look at the bleeding edge version of
+hugin
+to see whether they've fixed the mask
+handling.
+Currently it's painful.
+Wouldn't it be nice to have a mask that you could invert
+and apply to another image, so that you could put an image together exactly out of two
+partial images taken from the same position.
+As it is, I found it a little easier to take a
+screen shot of the mask on the first image of a pair
+with
+xv , and use that to set
+the second mask.
+Still not what you'd call computer-assisted.
+That got to be enough work that I gave it up and waited for the DxO run to finish.
+I think
+I'm going to have to do this in batches, one photo at a time, so DxO can do its thing in the
+background while I process the ones it has finished.
+Started doing that and found that the
+treatment of
+EXIF
+data is very irritating:
+it doesn't keep them, and when I
+use
+exiftool
+it doesn't seem to
+copy the
+Maker Notes ,
+so I don't get the crop factor in the data, and I have to enter it manually.
+I think I'll
+fake something when copying the data.
+That wasn't the only problem: I ran out of swap, and X crashed Yet Again.
+In the end had to
+give up with only a couple of panoramas completed.
+Next week should be less of a stress.
+Sunday, 8 May 2011
+Dereel
+Images for 8 May 2011
+Top of page
+previous day
+next day
+last day
+Bleeding edge Hugin
+Topic: photography, technology
+Link here
+Continued with my panorama processing today, and it took me until midday to complete—a
+day later than normal.
+This mask processing adds a lot to the time, as of course does
+DxO Optics "Pro" .
+Clearly time to investigate the development version of
+hugin .
+That's in a
+Mercurial
+repository, and it was relatively
+straightforward to get a clone.
+Building was another matter.
+It uses
+cmake , a program with which I haven't been able to
+make friends, and according to the somewhat confusingly named instruction
+file
+INSTALL_cmake , building is as simple as
+cmake -DCMAKE_INSTALL_PREFIX=/usr/local .
+make
+make install
+That didn't even get started: it couldn't find
+wxWidgets :
+CMake Error at /usr/local/share/cmake/Modules/FindPackageHandleStandardArgs.cmake:91 (MESSAGE):
+Could NOT find wxWidgets (missing: wxWidgets_FOUND)
+Call Stack (most recent call first):
+/usr/local/share/cmake/Modules/FindPackageHandleStandardArgs.cmake:252 (_FPHSA_FAILURE_MESSAGE)
+/usr/local/share/cmake/Modules/FindwxWidgets.cmake:831 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+CMakeLists.txt:154 (FIND_PACKAGE)
+Neither could I.
+You'd think that you'd have a port called
+wxWidgets
+or some such,
+but the closest I came was
+/usr/ports/x11-toolkits/p5-Alien-wxWidgets .
+But
+then I found, in
+/usr/ports/graphics/hugin/Makefile
+(the real
+hugin
+port):
+CMAKE_ARGS=	-DwxWidgets_CONFIG_EXECUTABLE=${WX_CONFIG}
+Clearly there's some magic there.
+Added a target to the
+Makefile
+to print
+out
+CMAKE_ARGS , and was surprised to find:
+cmake -DwxWidgets_CONFIG_EXECUTABLE=/usr/local/bin/wxgtk2u-2.8-config -DCMAKE_C_COMPILER:STRING=cc -DCMAKE_CXX_COMPILER:STRING=c++ -DCMAKE_C_FLAGS:STRING=-O2 -pipe  -fno-strict-aliasing -DCMAKE_CXX_FLAGS:STRING=-O2 -pipe -fno-strict-aliasing  -DCMAKE_INSTALL_PREFIX:PATH=/usr/local -DCMAKE_BUILD_TYPE:STRING=Release -DTHREADS_HAVE_PTHREAD_ARG:BOOL=YES -DCMAKE_THREAD_LIBS:STRING=-pthread -DCMAKE_USE_PTHREADS:BOOL=ON -DCMAKE_EXE_LINKER_FLAGS:STRING=-pthread -DCMAKE_VERBOSE_MAKEFILE:BOOL=ON .
+That failed too, for more normal reasons: it wanted a newer version
+of
+libpano13
+than I had installed.
+Mañana.
+Monday, 9 May 2011
+Dereel
+Images for 9 May 2011
+Top of page
+previous day
+next day
+last day
+Backup strategies for photos
+Topic: photography, technology, opinion
+Link here
+Mail from Michael Hughes today, asking how I back up photos.
+That's certainly an
+interesting topic.
+Digital technology has made many things easier than before, but it's
+also easier to completely lose images.
+Paradoxically, it's also easier to keep multiple
+backups, and that's what both Michael and I do.
+I've been backing up my computer for ever, of course.
+In the days
+of
+CP/M
+and
+MS-DOS
+I used floppies. They were
+slow, expensive and unreliable.
+Later I used tape,
+both
+QIC
+and some strange format that I now
+forget.
+It was slow, expensive and unreliable.
+About 18 years ago I moved
+to
+DDS
+storage, which proved
+to be a little faster, have a little more capacity, but it was still expensive and
+unreliable.
+I also briefly used
+a
+DLT
+tape drive, but it was
+an older model, and tapes were so expensive that I never tested the reliability.
+In the end, I gave up on tape altogether, and for nearly 9 years now I have been backing up
+to disk.
+The difference is surprising:
+from the
+outset
+I noticed an increase in speed, and it was clear that they were cheaper: at the
+time an 80 GB disk drive cost about as much as a 40 GB tape cartridge.
+They've also proven
+to be
+much
+more reliable—I can't recall a single loss of backup disk, though
+clearly that's possible.
+In that time, though, disk capacity has increased markedly.
+My total disk capacity at the
+time was about 80 GB.
+Now I have:
+Filesystem  1048576-blocks    Used  Avail Capacity  Mounted on
+/dev/ad4s1d           9916    7796   1326    85%    /
+/dev/ad4s1a           9916    7647   1475    84%    /destdir
+/dev/ad4s1e         439117  129710 274277    32%    /home
+/dev/ad6s1a         923856  735787 114160    87%    /Photos
+/dev/ad8s1d         923856  313848 536099    37%    /src
+/dev/ad1s1d         236579  232739   1473    99%    /dump
+total              2543241 1427530 928812    61%
+Those values are in MB, so I have a total of 2.5 TB of disk space, of which about 1.4 TB are
+in use.
+But looking more carefully, 230 GB are on
+/dump , clearly a backup
+disk (for other systems on the network), and 735 GB are on
+/Photos , not
+surprisingly my photo disk.
+/destdir
+is a second root file system, which I
+only use when I'm upgrading, so it doesn't need backup either.
+I'm left with a much more
+manageable:
+Filesystem  1048576-blocks   Used  Avail Capacity  Mounted on
+/dev/ad4s1d           9916   7796   1326    85%    /
+/dev/ad4s1e         439117 129710 274277    32%    /home
+/dev/ad8s1d         923856 313848 536099    37%    /src
+total              1372889 451355 811703    36%
+I used to back these file systems up to other systems on the net, but lately I've been using
+a USB drive directly connected to the system.
+I'm not sure I'm completely happy with that,
+but for the time being it seems to work.
+I dump the the root file system and
+make
+tar
+backups of
+individual file systems on
+/home
+and
+/src .
+The reason for
+the difference is due to the size of the file systems: a complete dump
+of
+/src
+would be about 200 GB in size after compression, and restoring files
+from an archive of that size takes forever.
+On the first day of each month I do a complete backup, on Saturdays I do a level 1 dump and
+tar backups since the beginning of the month, and on other days I do level 2 dumps and
+backups since the previous level 1 or level 0 dump.
+I keep two level 0 dumps (beginning of
+this month and beginning of last month) That works well, and I get by with about a total of
+500 GB.
+Photos are a different matter.
+They're as good as not compressible (though some of the
+smaller accompanying files are), so there's no point wasting time with a compressed dump.
+But that leaves me with (currently) nearly 1 TB of backup.
+That's different enough to take
+a different approach.
+Since compression doesn't have much effect, I keep duplicate file
+systems and use
+rsync
+to keep
+them synchronized with the online file system.
+I have two disks, one of which is always at
+Chris Yeardley's place.
+On Sundays or Mondays I swap the disks, so that the one at Chris'
+place is up to a week out of date, but since I take most of my photos at the weekend, that's
+not a big issue.
+That way I have a total of four copies of most photos: the one on my disk,
+the one on the external web site, and the two backup copies.
+Once I have at least one
+backup copy of the images, I erase the flash cards in my cameras.
+Michael does a number of things differently.
+He backs up DLT, and he keeps no less than 5
+backup copies.
+That would become very expensive with my amount of data.
+I haven't looked
+at tapes for nearly 10 years now, but it seems that the highest capacity DLT tape is DLT-S4,
+with 800 GB.
+They call it “800 GB/1.6 TB”, but the latter value is an estimate
+after compression, and that won't work for compressed images
+like
+JPEG
+and raw images.
+These tape
+cartridges are available on
+eBay
+for $140
+each.
+By comparison, you can get 2 TB external disk drives from about $110.
+He also keeps CRC signatures for each file on disk and regularly checks them for any
+corruption.
+That's certainly worth thinking about, though it's a lot of work for any
+reasonable data volume.
+A rose arch
+Topic: gardening
+Link here
+On the way home, stopped off
+in
+Napoleons
+to take a look at an arch
+for training roses that
+Yvonne
+had seen at the roadside plant
+sales yesterday.
+We've been thinking about that for some time, and the price ($30) was
+right, so I took it.
+But how?
+It was too wide to fit in the boot of the car, and I couldn't dismantle it.
+It
+originally came in 3 pieces which were screwed together, but of course the screws had seized
+up.
+In the end, stuck it sideways in the back window and drove home, very slowly:
+Image title: Car
+Complete exposure
+details
+Dimensions: 600 x 450, 62 kB
+Dimensions of original: 2816 x 2112, 656 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Monday, 9 May 2011:
+thumbnails
+small images
+diary entry
+Tuesday, 10 May 2011
+Dereel
+Images for 10 May 2011
+Top of page
+previous day
+next day
+last day
+First frost of winter
+Topic: general, gardening
+Link here
+It's been
+really
+cool lately:
+The lowest temperature measured by the weather station was 0.7°, and the highest was 13.6°,
+but it lies.
+We had a frost, and even inside the greenhouse, the temperature at the top
+dropped to -0.1°.
+That caught me by surprise: I had wanted to put
+the
+Mandevilla
+in the greenhouse
+before any frost, but fortunately it seems the frost wasn't heavy enough to affect most of
+the garden, just some of
+the
+Tropaeolums .
+I had thought that
+that would have been the earliest in the year we've ever had a frost, but I see that two
+years ago we had not one but two
+in April , and
+the lowest temperature I ever recorded with the weather station was on
+22 May 2010 .
+So why didn't the weather station report a lower temperature?
+Presumably because it's an
+inversion, and the temperature sensor was mounted too high.
+I need to move it further down.
+The cables are long enough, and it would make changing batteries a lot easier.
+The only
+problem is that the unit is designed to be mounted on the rod with the others, but there
+should be a way round that.
+DxO and Olympus "Viewer 2"
+Topic: photography, technology, opinion
+Link here
+Coincidentally to my investigation of
+DxO Optics "Pro" , I found
+an article about raw converters in the
+c't
+special
+Digitale Fotografie 02/2011 .
+This is a different article from
+the one
+I mentioned
+last month , and it pays more attention to the kind of operations you'd
+expect from a raw converter, notably correction for lens aberrations.
+It seems that there
+aren't many converters that do this kind of correction, but the article mentions that the
+Olympus converter (not tested) is one of them.
+I've used it before and have been
+impressed—negatively—but it's becoming clear that all photo processing software
+has significant issues.
+Went looking and after considerable searching on the
+Olympus web site
+found a reference to
+Olympus Master 2
+as an “accessory” for the E series cameras.
+Was that
+the free one or the one they wanted money for?
+The other one was called
+“Studio”, and the names are so meaningless that I can't recall which is which.
+All I could find was that it was no longer available for download, and that I should
+download
+Olympus
+Viewer 2
+instead.
+There's a name that means something, and it's clear that it's not
+what I want: I want to convert, not view.
+But that's what it does!
+It seems to be a replacement for both “Master” and
+“Studio”, and it's free (as it should be), though I had to enter the serial
+number of my camera to download it.
+That's easy: it's in
+the
+EXIF
+data of every photo.
+But why?
+Who
+would download the software if they didn't have Olympus images to convert?
+On the positive side, they seem to have improved things a lot.
+Last time
+it drove me mad.
+Now it just irritates me.
+They've made
+it look more like all other commercially available software, white on anthracite text and
+all, with a directory tree on the left to make you search instead of allowing you to just
+enter the directory name:
+Image title: oly tree
+Dimensions: 253 x 749, 14 kB
+Dimensions of original: 253 x 749, 14 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 10 May 2011:
+thumbnails
+small images
+diary entry
+This one had an additional trick up its sleeve, though: I couldn't slide the tiny scroll bar
+down to the directory I wanted.
+I tried 3 times, and in each case, shortly before I got to
+the bottom, the display popped up to the top again.
+I don't know whether I accidentally got
+off the scroll bar, or whether the software didn't expect that many directories—I
+suspect the later.
+Got round that problem by creating a
+directory
+00-is-what-Oly-Viewer-is-worth
+(highlighted), into which I was
+able to link the images I wanted, in much the same way as I have worked around the
+“features” of
+hugin 	and DxO.
+I had an immediate test case.
+In one of the photos I took of the panorama bracket, the
+left-hand flash unit didn't fire.
+That's a known problem: it's a slave unit, and the
+modelling light interferes with the receptor.
+Normally I turn the modelling light out, but
+this time I forgot.
+So clearly a case for raw conversion.
+Tried first with DxO, which was glacially slow.
+Finally got a result that looked relatively
+good, but it was also brighter than the others I had taken.
+Here the uncorrected image, the
+corrected image, and the one it's supposed to resemble:
+Image title: Pano head 10 jpeg
+Complete exposure
+details
+Dimensions: 450 x 600, 42 kB
+Dimensions of original: 3024 x 4032, 896 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 10 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Pano head 10
+Complete exposure
+details
+Dimensions: 450 x 600, 54 kB
+Dimensions of original: 3024 x 4032, 784 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 10 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Pano head 9
+Complete exposure
+details
+Dimensions: 450 x 600, 44 kB
+Dimensions of original: 3024 x 4032, 864 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 10 May 2011:
+thumbnails
+small images
+diary entry
+It was so painful adjusting with DxO that I gave up at this point.
+Started playing around
+with “Viewer 2”, but there are lots of things I needed to understand better.
+At
+least it's fast enough to be usable, and yes, it applies lens-specific corrections,
+presumably only for Olympus lenses, but with the exception of the old Macro-Takumar, that's
+all I use.
+More experimentation needed, but I suspect that when the free trial runs out, I
+won't buy DxO.
+Wednesday, 11 May 2011
+Dereel
+Images for 11 May 2011
+Top of page
+previous day
+next day
+last day
+eBay: Make it even more painful
+Topic: technology, opinion
+Link here
+As a result of the camera purchases, I was involved in
+eBay 's horrible messaging system much more than I would
+have liked.
+I got mail messages (in eBay's barely legible format) from two of the vendors
+and sent them replies.
+eBay refused one of them:
+Oops. We weren't able to send your message to some-vendor, because the email address you used to send this message, gurgle@lmeis.com, isn't linked to your eBay account.
+To keep eBay safe, we need you to send messages from a registered eBay email address. This will prevent your messages from being blocked in the future. This is easy enough to fix, just do one of the following:
+Set up gurgle@lmeis.com as an additional email address for sending messages. To do this:
+In My eBay, click the "Account" tab and then click "Communication Preferences" in the drop-down menu.
+In the section titled "Delivery Options", click the "Show" link next to "Notification Delivery Format".
+Enter the same email address to send member-to-member messages.
+Click Save.
+Change your registered eBay email address to gurgle@lmeis.com. Go to
+http://pages.ebay.com/help/account/updating-registration-information.html
+to learn how.
+Send your messages from groggedup@lmeis.com. This is the email address you already have registered with eBay.
+For assistance, you can contact eBay Customer Support at:
+http://pages.ebay.com/help/contact_us/_base/index_selection.htm
+OK, the intention is good, but which message?
+No
+Message-Id: , no content.
+I had
+to go back and check, and discovered that the address in question had
+been
+sa-member@ebay.com.au
+(not the name above), while the other one had been to a
+gmail
+address.
+So off to follow the
+instructions.
+They were wrong.
+You can't add additional email addresses, only change
+them.
+To be sure, I followed some kind of help link on the left and was redirected to an
+error page.
+Unfortunately, I don't know which; later the link was no longer there.
+I
+sometimes get the feeling that eBay tests their software on their customers.
+You'd think
+that they would have their act together by now.
+Thursday, 12 May 2011
+Dereel
+Images for 12 May 2011
+Top of page
+previous day
+next day
+last day
+More raw conversion comparisons
+Topic: photography, technology
+Link here
+I still haven't got my head (or my stomach) around
+Olympus
+Viewer 2 , but I do need to do some more comparisons before my test license for
+DxO Optics "Pro"
+runs out.
+In particular, I haven't done any comparison of lens distortion yet.
+I know
+from past experience that my
+Zuiko Digital ED
+12-60mm F2.8-4.0 SWD , otherwise an excellent lens, has severe barrel distortion at
+full wide-angle and close up.
+Here's an example, taken about 20 cm from an A4-sized test
+chart:
+Image title: Test chart 7
+Complete exposure
+details
+Dimensions: 600 x 450, 76 kB
+Dimensions of original: 4032 x 3024, 1152 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 12 May 2011:
+thumbnails
+small images
+diary entry
+Running the cursor over the image shows what DxO makes of it:
+much
+better.
+It's also
+better at longer focal lengths (also meaning further away, of course).
+Here it is at 60 mm
+focal length (left), still not as good as the
+Zuiko Digital ED 50mm F2.0
+Macro
+(right).
+It's clear that I'm right to use the macro lens for any close-up work.
+Image title: Test chart 8
+Complete exposure
+details
+Dimensions: 600 x 450, 80 kB
+Dimensions of original: 4032 x 3024, 1312 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 12 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Test chart 9
+Complete exposure
+details
+Dimensions: 600 x 450, 78 kB
+Dimensions of original: 4032 x 3024, 1200 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 12 May 2011:
+thumbnails
+small images
+diary entry
+But the images themselves, taken with on-camera flash, are terrible.
+I need to take better
+images and then compare them with Olympus.
+In the process, had to load a number of DxO “modules”.
+It proves to be very
+simplistic about that; it can't download the modules directly when it finds they're needed.
+At the very least you need to abort the processing, and then there was some way to get it to
+load the ones it wants, but it didn't show today.
+So I tried loading all 8 combinations: 4
+lenses for two cameras.
+I already had 3 of them, but that didn't stop it loading all 8
+anyway.
+They're quite big—I think I loaded about 120 MB in total.
+Friday, 13 May 2011
+Dereel
+Images for 13 May 2011
+Top of page
+previous day
+next day
+last day
+Olympus Viewer 2
+Topic: photography, technology
+Link here
+As planned, did some playing around with
+Olympus
+Viewer 2
+today.
+It's amazing how much reading I need to do for any of this stuff.
+Somehow the whole approach is different.
+I won't complain about the file name selection any more; all commercial software has that
+problem.
+But according to the help (which only showed up when I downloaded a 12 month old
+update—why didn't I get that version from the web site?), I need to process every
+image individually.
+Maybe that's what they mean by this silly word
+“develop”—they're still thinking in terms of darkrooms and chemicals.
+It's possible that I'll find a way to apply the corrections to a set of images, but it's not
+the way they present it, and I haven't found one yet.
+The conversions themselves?
+I didn't do many, and I haven't got round to doing the
+presentation yet.
+But it certainly does a good job with automatic correction of lens
+distortion, notably the close-up with the
+Zuiko Digital ED
+12-60mm F2.8-4.0 SWD
+at full wide-angle.
+Strangely, though, it didn't do an automatic
+correction of the chromatic aberration.
+If I really have to do that manually every time, I
+don't think I'll bother.
+But I'm not done yet.
+This takes an amazing amount of time to investigate.
+Web browser crashes: state of the art?
+Topic: technology, opinion
+Link here
+Over the last couple of days I've noticed a surprising number of segmentation violations on
+my system.
+Most are from my
+weather station software , which continues to die in nasty ways inside the USB stack, but there are a surprising
+number of browser-related crashes:
+May 10 12:00:03 dereel kernel: pid 29151 (npviewer.bin), uid 1001: exited on signal 11 (core dumped)
+May 10 15:16:41 dereel kernel: pid 28882 (firefox-bin), uid 1001: exited on signal 11 (core dumped)
+May 10 18:46:07 dereel kernel: pid 16828 (firefox-bin), uid 1001: exited on signal 11 (core dumped)
+May 11 11:10:35 dereel kernel: pid 81847 (firefox-bin), uid 1001: exited on signal 11 (core dumped)
+May 11 14:08:08 dereel kernel: pid 1799 (hald-probe-volume), uid 0: exited on signal 6 (core dumped)
+May 11 14:08:08 dereel kernel: pid 1800 (hald-probe-volume), uid 0: exited on signal 6 (core dumped)
+May 11 17:15:03 dereel kernel: pid 22489 (squid), uid 100: exited on signal 6 (core dumped)
+May 12 10:31:26 dereel kernel: pid 34298 (firefox-bin), uid 1001: exited on signal 11 (core dumped)
+May 12 13:29:29 dereel kernel: pid 11486 (npviewer.bin), uid 1001: exited on signal 11 (core dumped)
+May 12 13:45:03 dereel kernel: pid 11957 (operapluginwrapper.), uid 1001: exited on signal 11 (core dumped)
+May 13 13:04:18 dereel kernel: pid 9458 (firefox-bin), uid 1001: exited on signal 11 (core dumped)
+Is this really the best we can do?
+Officially winter
+Topic: gardening
+Link here
+The weather isn't as chilly as it has been, but there are warnings of more frosts.
+Finally
+got round to moving the
+Mandevilla
+into the greenhouse for winter.
+I'll consider that a sign that winter is here.
+Image title: Greenhouse
+Complete exposure
+details
+Dimensions: 600 x 450, 106 kB
+Dimensions of original: 4032 x 3024, 2240 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 14 May 2011:
+thumbnails
+small images
+diary entry
+It's still flowering happily.
+It'll be interesting to see how it survives the winter.
+In
+previous years it only just survived.
+Monday, 16 May 2011
+Dereel
+Images for 16 May 2011
+Top of page
+previous day
+next day
+last day
+Correcting underexposure
+Topic: photography, technology
+Link here
+I took two photos at the
+Buninyong
+Botanic Gardens : the first time round I discovered I had the camera set to manual
+exposure, which proved to be 3.7 EV underexposed:
+Image title: Buninyong Botanic Gardens 1 orig
+Complete exposure
+details
+Dimensions: 450 x 600, 62 kB
+Dimensions of original: 3024 x 4032, 1856 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Monday, 16 May 2011:
+thumbnails
+small images
+diary entry
+Not a problem, since I noticed it and took a correctly exposed version.
+But it's
+interesting to see what my software can do.
+Tried
+DxO Optics "Pro"
+and
+Ashampoo photo optimizer , both individually
+and in combination.
+The results, though not as good as correct exposure, and surprisingly
+good given the extreme underexposure.
+Here Ashampoo, DxO and both:
+Image title: Buninyong Botanic Gardens 1
+Complete exposure
+details
+Dimensions: 450 x 600, 76 kB
+Dimensions of original: 3024 x 4032, 2464 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Monday, 16 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Buninyong Botanic Gardens 1 DxO
+orig
+Complete exposure
+details
+Dimensions: 450 x 600, 88 kB
+Dimensions of original: 3024 x 4032, 1920 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Monday, 16 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Buninyong Botanic Gardens 1 DxO
+Complete exposure
+details
+Dimensions: 450 x 600, 90 kB
+Dimensions of original: 3024 x 4032, 2064 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Monday, 16 May 2011:
+thumbnails
+small images
+diary entry
+This was all with automatic settings.
+I suspect I could do even better with a few manual
+tweaks, but DxO is so horribly slow that I couldn't be bothered.
+Tuesday, 17 May 2011
+Dereel
+Images for 17 May 2011
+Top of page
+previous day
+next day
+last day
+USB reliability
+Topic: technology
+Link here
+Received a 5 m USB extension cable in the post today.
+That's just what I need to connect my
+3G modem to
+dereel , my main machine: the antenna cable is too short, and an extension
+would weaken the signal still further, so it made sense to use a digital connection.
+Things worked out of the box: disconnect the modem on the
+cojones , the other machine,
+connect to
+dereel
+via extension cable, and start PPP again.
+It worked so well that
+my TCP connections didn't even drop!
+Well, for a while.
+Then I discovered:
+May 17 13:03:10 dereel kernel: ugen5.2: <HUAWEI Technology> at usbus5 (disconnected)
+May 17 13:03:10 dereel kernel: u3g0: at uhub5, port 4, addr 2 (disconnected)
+May 17 13:03:10 dereel ppp[31895]: tun0: Warning: deflink: Unable to set physical to speed 0
+May 17 13:03:10 dereel ppp[31895]: tun0: Warning: deflink: tcsetattr: Unable to restore device settings
+...
+May 17 13:03:20 dereel root: Unknown USB device: vendor 0x12d1 product 0x140c bus uhub5
+May 17 13:03:20 dereel kernel: ugen5.2: <HUAWEI Technology> at usbus5
+May 17 13:03:20 dereel kernel: u3g0: <HUAWEI Technology HUAWEI Mobile, class 0/0, rev 2.00/0.00, addr 2> on usbus5
+There were many more.
+The device had gone away and come back.
+The PPP connection survived,
+at least this time.
+But it happened again and again in the course of the afternoon, and my
+network link statistics page
+shows 4 dropouts, one of
+which lasted nearly an hour: on that occasion the device didn't come back, and I had to
+manually remove and replace the device.
+What's causing it?
+I've had USB issues on
+dereel
+before, and when I connected my USB
+backup disk, some strange things happened:
+May 17 15:09:14 dereel kernel: ugen5.3: <Sunplus Technology Co.,Ltd.> at usbus5
+May 17 15:09:14 dereel kernel: umass2: <Bulk Only Interface> on usbus5
+May 17 15:09:14 dereel kernel: umass2:  SCSI over Bulk-Only; quirks = 0x4000
+May 17 15:09:15 dereel kernel: umass2:7:2:-1: Attached to scbus7
+May 17 15:09:40 dereel kernel: da1 at umass-sim2 bus 2 scbus7 target 0 lun 0
+May 17 15:09:40 dereel kernel: da1: <ST350041 8AS > Fixed Direct Access SCSI-2 device
+May 17 15:09:40 dereel kernel: da1: 40.000MB/s transfers
+May 17 15:09:40 dereel kernel: da1: 476940MB (976773168 512 byte sectors: 255H 63S/T 60801C)
+The messages are normal enough.
+But it took the system 25 seconds to recognize the device,
+which isn't normal.
+Then it had write errors, and the modem disconnected again:
+May 17 15:17:02 dereel kernel: (da1:umass-sim2:2:0:0): AutoSense failed
+May 17 15:17:02 dereel kernel: g_vfs_done():da1s1d[WRITE(offset=369902485504, length=131072)]error = 5
+...
+May 17 15:17:02 dereel kernel: g_vfs_done():da1s1d[WRITE(offset=369902354432, length=131072)]error = 5
+May 17 15:18:07 dereel kernel: ugen5.2: <HUAWEI Technology> at usbus5 (disconnected)
+Finally gave up and connected the modem back to
+cojones , still with the extension
+cable.
+And again I had the same problems.
+Removed the extension cable and all was stable
+again.
+So I have identified the “cause”.
+Or at least, I've identified a workaround.
+I've seen sporadic disconnects like this before, even without a cable, and there's no
+reason—yet—to believe that there's anything wrong with the cable.
+But clearly
+I'm going to have to rethink my connection strategies.
+Upgrading to 64 bit
+Topic: technology
+Link here
+Finally found some cheap RAM for
+dereel , 4 GB for $40.
+Now I can increase memory
+from 3 GB to 6 GB, which means upgrading to 64 bits.
+Downloaded a boot-only
+amd64
+ISO version of
+FreeBSD
+(in the record time of
+5 minutes, 56 seconds), and planned to boot it on
+cojones .
+The boot failed with the
+message “kernel doesn't support long mode”.
+Further investigation showed that
+this was a masterpiece of obfuscation: it means “Hardware doesn't have a 64 bit
+mode”.
+Why kernel?
+Looks like a bug to me.
+Tried another machine, which I also thought did 64 bits, but no luck.
+It's funny: when I
+only wanted 32 bits, all my hardware supported 64 bits.
+Now it's (almost) the other way
+round: I do have 4 machines that support 64 bits, but they're all in use.
+I'll wait until
+Yvonne
+leaves for a long dog weekend and install it on her
+machine first.
+Wednesday, 18 May 2011
+Dereel
+Top of page
+previous day
+next day
+last day
+Localizing USB flakiness
+Topic: technology
+Link here
+Yesterday I established beyond reasonable doubt that my Huawei E1762 USB modem doesn't work
+reliably with the new 5 m USB cable.
+But who is to blame?
+According to the
+standard , the combination
+should work.
+We've established that it's not the motherboard, since it happens with two
+different ones, including the one where it has been running relatively reliably for months.
+The new component is the cable.
+So, let's connect some other device with it.
+First I tried
+a disk drive.
+Complete failure:
+May 18 13:22:44 dereel kernel: usb_alloc_device: set address 2 failed (USB_ERR_STALLED, ignored)
+May 18 13:22:46 dereel kernel: usbd_req_re_enumerate: addr=2, set address failed! (USB_ERR_STALLED, ignored)
+May 18 13:22:48 dereel kernel: usbd_req_re_enumerate: addr=2, set address failed! (USB_ERR_STALLED, ignored)
+May 18 13:22:49 dereel kernel: ugen5.2: <Unknown> at usbus5 (disconnected)
+May 18 13:22:49 dereel kernel: uhub_reattach_port: could not allocate new device
+But, bad as that seems, it's a feature, not a bug.
+This is a 5 m
+extension
+cable,
+which means I also needed a short pigtail cable, bringing the total length to over 5 m.
+So
+the only things I can use with this cable are direct plug devices like USB modems, USB
+memory sticks and card readers.
+Tried an SD with the card reader.
+As Daniel O'Connor pointed out, you shouldn't really need
+to perform any I/O if the device just goes away.
+But it didn't: it connected just fine and
+stayed that way for well over an hour, longer than the Huawei modem ever managed.
+So I
+tried copying data from the card with
+dd .
+And there I ran into problems:
+=== root@dereel (/dev/pts/10)
+/src/ISOs
+74
+->
+while :; do dd if=/dev/da1 of=/dev/null bs=128k ; done &
+dd: /dev/da1: Input/output error
+761+0 records in
+761+0 records out
+99745792 bytes transferred in 107.906362 secs (924374 bytes/sec)
+May 18 14:54:52 dereel kernel: (da1:umass-sim1:1:0:0): READ(10).  CDB: 28 0 0 2 f9 0 0 0 80 0
+May 18 14:54:53 dereel kernel: (da1:umass-sim1:1:0:0): CAM status: SCSI Status Error
+May 18 14:54:53 dereel kernel: (da1:umass-sim1:1:0:0): SCSI status: Check Condition
+May 18 14:54:53 dereel kernel: (da1:umass-sim1:1:0:0): SCSI sense: ILLEGAL REQUEST asc:26,0 (Invalid field in parameter list)
+That looks like the kind of thing you'd expect, and it occurred several times in various
+flavours:
+May 18 15:15:33 dereel kernel: (da1:umass-sim1:1:0:0): READ(10).  CDB: 28 0 0 0 4b 0 0 0 80 0
+May 18 15:15:33 dereel kernel: (da1:umass-sim1:1:0:0): CAM status: SCSI Status Error
+May 18 15:15:33 dereel kernel: (da1:umass-sim1:1:0:0): SCSI status: Check Condition
+May 18 15:15:33 dereel kernel: (da1:umass-sim1:1:0:0): SCSI sense: ILLEGAL REQUEST asc:26,0 (Invalid field in parameter list)
+May 18 15:21:49 dereel kernel: (da1:umass-sim1:1:0:0): READ(10).  CDB: 28 0 0 2 d4 80 0 0 80 0
+May 18 15:21:49 dereel kernel: (da1:umass-sim1:1:0:0): CAM status: SCSI Status Error
+May 18 15:21:49 dereel kernel: (da1:umass-sim1:1:0:0): SCSI status: Check Condition
+May 18 15:21:49 dereel kernel: (da1:umass-sim1:1:0:0): SCSI sense: ILLEGAL REQUEST asc:26,0 (Invalid field in parameter list)
+May 18 15:35:56 dereel kernel: (da1:umass-sim1:1:0:0): READ(10).  CDB: 28 0 0 0 ab 0 0 0 80 0
+May 18 15:35:56 dereel kernel: (da1:umass-sim1:1:0:0): CAM status: SCSI Status Error
+May 18 15:35:56 dereel kernel: (da1:umass-sim1:1:0:0): SCSI status: Check Condition
+May 18 15:35:56 dereel kernel: (da1:umass-sim1:1:0:0): SCSI sense: ILLEGAL REQUEST asc:26,0 (Invalid field in parameter list)
+But is that the cable or the SD card?
+The SD card is
+over 6
+years old , and potentially it's flaky.
+In addition, it's a different kind of problem.
+The device doesn't go away.
+Tried again without the cable, and again ran into trouble,
+though possibly a little less.
+So it seems that USB is just flaky, at least in my
+experience.
+How I'd like to see something more reliable.
+It's also interesting to note the transfer speeds.
+They're not spectacular, but that can be
+due to the old card.
+But with the cable the successful transfers had speeds between 922956
+and 934461 b/s, while without the cable they were in the range 880813 to 884423 b/s.
+That's
+a significant difference; what causes it?
+Can it have a bearing on the problem?
+Slowly in the garden
+Topic: gardening
+Link here
+The weather hasn't been conducive to garden work lately, but there's plenty to be done.
+Removed another hop rhizome, taking about an hour to do so.
+It's tiring work, and there are
+still another two to be done.
+Put them off to some other time and attended to the overgrown bed that I last worked on
+two weeks ago .
+Spent yet more time trying to
+remove the stump of the River Red Gum that we tried to remove
+18 months ago .
+Got through the lateral roots, but it's still firm as a
+rock.
+Looks like I'll have to cut down under it.
+Also found yet more bulbs:
+Image title: Bulbs
+Complete exposure
+details
+Dimensions: 600 x 450, 92 kB
+Dimensions of original: 4032 x 3024, 1904 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 19 May 2011:
+thumbnails
+small images
+diary entry
+I had difficulty finding space for the ones I found two weeks ago, and I still don't know
+what to do with these ones.
+It's amusing to think that at the time I bought them, I was
+concerned how few there were.
+Preparing for 64 bit upgrade
+Topic: technology
+Link here
+Yvonne
+is off to the High Country on Friday for a weekend
+playing with dogs, and in that time I hope to be able to upgrade at least her machine to
+AMD64.
+Last time I did an upgrade I ended up downloading lots of tarballs, and by chance my
+monthly traffic quota runs out tomorrow, so it made sense to upgrade
+defake , my
+background installation VM, to the latest and greatest kernel and ports.
+That worked fine,
+but I was still amazed to note that I managed to download 1 GB of tarballs, including
+another version of this amazingly large Qt Everywhere, for which the canonical site is
+apparently
+still under construction :
+-rw-r--r--  1 root  lemis  211768512 Nov  9  2010 /src/FreeBSD/ports/distfiles/KDE/qt-everywhere-opensource-src-4.7.1.tar.gz
+-rw-r--r--  1 root  wheel  213659173 May  4 18:10 /src/FreeBSD/ports/distfiles/KDE/qt-everywhere-opensource-src-4.7.3.tar.gz
+Next I need a disk.
+I think I'll put the new system on an external USB disk so that I can
+easily test it on different machines.
+Thursday, 19 May 2011
+Dereel
+Images for 19 May 2011
+Top of page
+previous day
+next day
+last day
+More 64 bit upgrade preparations
+Topic: technology
+Link here
+I can't actually start installing my amd64 version of
+FreeBSD
+until tomorrow, because I need
+Yvonne 's
+computer to do the bootstrap, and she's not leaving until tomorrow.
+But I still had some
+time to prepare the disk I was going to use.
+I have a surprising number of external USB disks: three 1 TB and one 500 GB.
+I use two of
+the big ones for photo backups and currently the little one for other backups, but both that
+disk and the third 1 TB disk contain older copies of my
+/src
+file system and various
+other junk.
+My intention was to move the backups to the third 1 TB disk and use the 500 GB
+disk as a bootstrap disk for amd64.
+That's simple: copy the backups across, wipe the file system, and we're done.
+But what if
+there's other stuff on there that I had forgotten about?
+Years ago I wrote a program,
+mklinks , that does various comparisons and
+editing of similar source trees.
+In this case, it made sense to remove all files from the
+USB disks that existed in the same form on
+/src , so started doing that.
+It's not a
+fast job at the best of times, and I further slowed things down by monitoring the progress.
+Then I saw a message fly past on the log window, something about fatal swap_pager errors.
+The
+top
+window showed that I had plenty of free swap space, but the system froze
+solid—not the first time I've seen that.
+Swap management seems to be a weak point in
+FreeBSD.
+Theoretically it could be I/O problems, but I've seen too many occurrences of this
+syndrome (and very little elsewhere) to believe that.
+Unfortunately the way the machine
+crashed means that the log messages got lost.
+I half expected that, and should have taken a
+photo.
+Continued with the
+mklinks , and after a couple of hours the second disk was finished.
+But the one that started first was only half way through.
+Checked and found that the second
+was running
+soft updates ,
+so
+umount ed the first, set soft updates, and started again.
+Went out to help Yvonne, who has been rebuilding the car to ensure that
+Nemo
+doesn't wander round to the front seat.
+When I got back,
+the machine had frozen.
+No error messages, just dead.
+I've
+seen this before , but I had thought it was fixed.
+And once
+again an overflowing
+lost+found
+directory.
+In the end, decided it wasn't worth the
+trouble.
+Confirmed that, apart from the
+/src
+copy, there was nothing of interest on
+the disk, so ran
+newfs
+on it.
+But what a day!
+Two unrelated crashes!
+It helps
+confirm my prejudices against USB.
+Maybe I should
+check
+eSATA —one of the
+disks has a connector.
+Slow progress in the garden
+Topic: gardening
+Link here
+Somehow I'm not making much progress in the garden.
+It's been windy lately, and I've had to
+tie down the
+Alyogyne huegelii ,
+which has nearly been uprooted.
+Did a bit of weeding—I really should be planting
+things.
+Friday, 20 May 2011
+Dereel
+Images for 20 May 2011
+Top of page
+previous day
+next day
+last day
+Installing AMD64
+Topic: technology
+Link here
+Yvonne
+off with
+Nemo 	this morning to visit Jenny Judson
+near
+Myrtleford , leaving her
+computer behind for me to play around with.
+The plan was to boot with my new 8.2-RELEASE
+bootonly disk and then build a
+STABLE
+kernel from sources.
+It didn't quite work
+out that way.
+It seems that this “bootonly” disk contains, well, only
+/boot : the kernel
+and a couple of helper files for the bootstrap.
+And it's 50 MB in size.
+Well, what's on
+the CD is.
+It's a lot more once it's properly installed.
+The bloat of ages looks like
+this:
+#
+du -sk /boot /src/UNIX/Sixth-Edition/rkunix
+326962  /boot
+28      /src/UNIX/Sixth-Edition/rkunix
+A modern kernel with helpers is over 10,000 times the size of the kernel of the Sixth
+Edition of
+Unix !
+From my point, however,
+the problem was different: I didn't have enough to get the machine up and running.
+What's
+the purpose of this disk?
+It has all the scripts to install a complete system, but the
+userland isn't there.
+Checked on the download sites: the next smallest CD image is about
+750 MB, and I only had 550 MB quota left for the rest of the “month” (midnight
+today).
+That's a hard limit: when I hit it, I lose connectivity.
+So I would have had to
+wait until tomorrow, and even then use over 8% of my month's traffic quota to download it.
+Went looking and found a collection of
+7.0-RELEASE
+AMD64 CDs, probably sent from
+Peter Jeremy some time ago.
+The obvious thing to do would be to install from them and then
+build from source as before.
+Problem: the bootstrap died on me.
+It seems that there has
+been some change in hardware in the intervening 3 years, and the boot doesn't know how to
+handle it.
+Tried a number of different approaches (it's nice to have a functional system on
+the other disk):
+Run the install script on the
+7.0-RELEASE
+CD (it's effectively unchanged since
+the days of floppies and the first release of
+“The Complete FreeBSD” ).
+That worked, but the boot loader still
+died.
+Replace the
+/boot
+hierarchy on disk with the 8.2 version.
+Still no go; it seems
+that the part of the boot was in the boot blocks.
+From the 8.2 CD, rewrite the boot blocks with the newer ones.
+That worked.
+FreeBSD isn't really designed so that userland and kernel from different releases should
+work together.
+But it did, and I was able to build a new system without any further
+problems.
+Started building ports, again with relatively few problems, though one looked
+ominous:
+===>  Cleaning for cvsup-16.1h_4
+===>  cvsup-16.1h_4 does not support GUI on amd64, please disable X11 option or use net/cvsup-without-gui instead.
+I don't need
+cvsup 's GUI, of course, but it's been concerns with incompatibilities
+between
+i386
+and
+amd64
+that have kept me from upgrading for so long.
+Didn't even try to configure the machine—yet.
+I had other things to do.
+More garden progress
+Topic: gardening
+Link here
+The weather's nicer again, and so more work in the garden.
+Finally got all the bulbs
+planted, both the ones I dug out the other day and the ones we bought at
+Lambley Nursery
+nearly a
+month ago .
+Most of them are in the garden area east of the verandah.
+Also more
+attention to the weeds in the north bed; there's some satisfaction in removing large
+quantities of weeds, though there's no point unless I get out all the roots too.
+Saturday, 21 May 2011
+Dereel
+Images for 21 May 2011
+Top of page
+previous day
+next day
+last day
+New system build, continued
+Topic: technology
+Link here
+Carried on running the ports build of the
+amd64
+system in the background all day
+long, in the process modifying my
+method 	somewhat.
+Many years ago I
+changed the layout of my
+file systems .
+Traditionally the systems are
+/ ,
+/usr ,
+/var
+and
+maybe
+/home .
+I have incorporated
+/usr
+with
+/
+and split
+/var
+between
+/
+(system-related directories such as
+/var/db
+and
+/var/run )
+and
+/home
+(user-related directories such as
+/var/mail ,
+/var/spool
+and
+/var/tmp ).
+Over the years I've increased the size of the root partition.
+In the
+last edition of
+“The Complete FreeBSD”
+I recommended 4 to 6 GB.
+My current machine has 10 GB, and for the new machine I chose
+20 GB.
+Nevertheless the file system filled up during the build: the
+Ports Collection
+is in
+/usr/ports , and in
+the course of building it accumulated about 12 GB of files before overflowing the file
+system.
+Clearly I need to move the ports to
+/home
+as well, though it doesn't really
+fit that well.
+Other things irritate, of course, particularly this emetic Java stuff, where you
+must
+download the tarball via a web browser (tough luck if you haven't built one), and accept a
+positively stupid license agreement:
+Image title: license
+Dimensions: 761 x 355, 96 kB
+Dimensions of original: 856 x 399, 50 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 21 May 2011:
+thumbnails
+small images
+diary entry
+Image title: license detail
+Dimensions: 709 x 89, 22 kB
+Dimensions of original: 709 x 89, 22 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 21 May 2011:
+thumbnails
+small images
+diary entry
+A licensee of
+FreeBSD ?
+What's that?
+Since
+this particular tarball is only of use for FreeBSD, this is almost completely meaningless.
+And yet it's on the
+FreeBSD foundation
+web site.
+Clearly this is some requirement
+by
+Sun Oracle 's ivory tower lawyers.
+It wasn't helped by
+firefox ,
+which now gives no indication that it has actually started a download.
+After clicking on
+“Submit” a few times, went to look if anything was coming in.
+Yes:
+-rw-------  1 grog  lemis  28508160 May 21 15:15 diablo-caffe-freebsd7-amd64-1.6.0_07-b02(1).tar.bz2.part
+-rw-------  1 grog  lemis  26836992 May 21 15:15 diablo-caffe-freebsd7-amd64-1.6.0_07-b02(2).tar.bz2.part
+-rw-------  1 grog  lemis  27557888 May 21 15:15 diablo-caffe-freebsd7-amd64-1.6.0_07-b02(3).tar.bz2.part
+-rw-------  1 grog  lemis  43778048 May 21 15:15 diablo-caffe-freebsd7-amd64-1.6.0_07-b02.tar.bz2.part
+Not only had it started a download, it had started four of them.
+And the key
+binding
+c-y
+no longer brings up the download window, so I couldn't stop it.
+Finally
+I found that they have changed the binding to
+c-s-y .
+Somehow this browser is getting
+more and more irritating
+Configuration is proving to be more of a problem than I expected.
+I've
+already complained
+that the FreeBSD port of
+GIMP
+doesn't install the documentation.
+Now there's a
+configuration option to install it (but it still defaults to
+off ).
+Checked that and
+discovered that by default (there's another configuration screen that you don't get
+presented) it installs the documentation in 13 different languages!
+And each documentation
+pack is about 30 MB.
+Stopped the damned thing after it had loaded 150 MB of largely
+irrelevant data.
+Why should anybody want more than one of these things?
+Too windy for photos
+Topic: photography, technology
+Link here
+Today should have been garden photo day, like every Saturday, but it was too windy.
+I
+should have done them yesterday: the weather forecast was correct, and they're forecasting
+more wind tomorrow and rain on Monday.
+Still, did some photo processing, notably the egg photos.
+And for some reason the
+Ashampoo
+photo optimizer didn't want to run.
+It just hung there, and when I aborted with
+^C , I got the message:
+err:module:attach_process_dlls "winspool.drv" failed to initialize, aborting
+What caused that?
+I really have no idea.
+Tried a new version of
+wine , but got the same problem I noted on
+18 March 2011 :
+ELF interpreter /libexec/ld-elf.so.1 not found
+Abort trap: 6
+This appears to be related to the value of
+kern.maxdsiz , which I have set to
+2048000000 bytes.
+Jürgen Lock tells me that that's no longer needed, but it's not something
+I feel like testing right now.
+We'll see what problems I run into with the new system.
+Reinstalled the old version of
+wine
+and discovered that it wasn't a complete hang: it
+took several minutes to start up, and then it ran.
+No idea why.
+I'll see if I run into the
+same problems with the new system.
+Sunday, 22 May 2011
+Dereel
+Images for 22 May 2011
+Top of page
+previous day
+next day
+last day
+Ports build complete
+Topic: technology
+Link here
+Managed to complete the ports build today, modulo some problems:
+wget
+failed with
+a configuration problem:
+===>  wget-1.12_3 GNUTLS and OPENSSL are mutually exclusive, enable at most one of them.
+All well and good, but why didn't the configuration dialogue notice that?
+gimp
+tried to install twice.
+That's
+because it's too leet to install a binary called
+gimp ; instead it installs one
+called
+gimp-2.6
+(and not the more correct
+gimp-2.6.11.2 ).
+How I hate
+silly programs that carry their revision history in their name.
+wine
+was a non-starter:
+===>  wine-1.3.20,1 is only for i386, while you are running amd64.
+Apart from the grammar of the message, it's one of the things I had been afraid of.
+Fortunately it's one of only two that have
+reported
+this problem.
+I suppose I'll
+have to run it in a VM if I need it at all.
+The
+ss
+port seems to have died, but there is still an empty directory there, so
+when I went to it I got:
+cd /usr/ports/math/ss && make -i clean; make install
+make: don't know how to make clean. Stop
+luminance
+doesn't build:
+c++ -c -O2 -pipe -fno-strict-aliasing -funroll-loops -fstrength-reduce -fschedule-insns2 -felide-constructors -frerun-loop-opt -fexceptions -fno-strict-aliasing -fexpensive-optimizations -ffast-math -pipe -msse2 -O2 -Wall -W -DQT_NO_DEBUG_OUTPUT -DHAVE_FFTW3F -DI18NDIR=\"/usr/local/share/luminance/i18n\" -DQT_NO_DEBUG -DQT_WEBKIT_LIB -DQT_XML_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/local/share/qt4/mkspecs/freebsd-g++ -I. -I/usr/local/include/qt4/QtCore -I/usr/local/include/qt4/QtGui -I/usr/local/include/qt4/QtXml -I/usr/local/include/qt4/QtWebKit -I/usr/local/include/qt4 -Isrc -I/usr/local/include/exiv2 -I/usr/local/include/OpenEXR -I/usr/local/include -I/usr/local/include/gsl -Igenerated_moc -Igenerated_uic -I/usr/local/include -o generated_obj/mtb_alignment.o src/HdrCreation/mtb_alignment.cpp
+In file included from /usr/include/c++/4.2/cmath:54,
+from src/HdrCreation/createhdr.h:30,
+from src/HdrCreation/HdrCreationManager.h:32,
+from src/HdrCreation/HdrCreationManager.cpp:32:
+/usr/include/math.h:238: error: expected `)' before '/' token
+/usr/include/math.h:322: error: expected `)' before '/' token
+Possibly this is an issue with
+amd64 , but I don't care enough to investigate.
+Maybe some other time
+And that's all I did.
+Other things, including distaste, kept me from updating the
+configuration.
+Removing the Verbena
+Topic: gardening
+Link here
+We've had our eye on removing
+the
+Aloysia citrodora
+(Lemon
+Verbena) for some time, but it's really more like moving: we don't want to get rid of the
+plant altogether.
+Last month
+I took some
+cuttings, and finally a couple are showing signs of taking, so today was the big day:
+Image title: Aloysia citrodora before 1
+Complete exposure
+details
+Dimensions: 600 x 450, 126 kB
+Dimensions of original: 4032 x 3024, 2656 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 22 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Aloysia citrodora before 2
+Complete exposure
+details
+Dimensions: 600 x 450, 112 kB
+Dimensions of original: 4032 x 3024, 2480 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 22 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Aloysia citrodora after 1
+Complete exposure
+details
+Dimensions: 600 x 450, 124 kB
+Dimensions of original: 4032 x 3024, 3232 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 22 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Aloysia citrodora after 2
+Complete exposure
+details
+Dimensions: 600 x 450, 108 kB
+Dimensions of original: 4032 x 3024, 2464 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Sunday, 22 May 2011:
+thumbnails
+small images
+diary entry
+You can almost hear the
+Camellia
+behind
+breath a sigh of relief.
+The strike rate on the cuttings wasn't very high, so planted a few
+more as well.
+Tuesday, 24 May 2011
+Dereel
+Images for 24 May 2011
+Top of page
+previous day
+next day
+last day
+More eBay pain
+Topic: technology, general, opinion
+Link here
+Two weeks ago I accidentally bought the wrong camera for
+Yvonne
+on
+eBay .
+Discussed with the seller, who
+wanted a $15 restocking charge, which I paid, so I though that the matter was over.
+Not so.
+On Friday I received a mail message from eBay in typical obfuscated form.
+Hidden
+in the mess was:
+eBay opened an unpaid item case for Canon PSA3100IS Digital Compact Camera
+A3100 IS SILVER , because jrandomseller either hasn't recorded your payment
+or didn't receive it yet.
+Clearly a misunderstanding, and I sent a message to the seller, who didn't respond.
+Why
+not?
+One indication was another message that I sent to him
+a
+week ago .
+The courtesy copy arrived only today, 6 days later and completely broken.
+The text part was (probably broken) HTML:
+Content-Type: text/plain;charset=ISO-8859-1
+To : jrandomseller
+>From : groggyhimself
+Subject: Other: groggyhimself sent a message about Canon PSA3100IS Digital
+Compact Camera A3100 IS SILVER  #260705464584
+<html><head></head><body><div id="begin_delimiter_header"></div><div
+id="HeaderTextDilimiter1"><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
++;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></div><div id="Header"><div><table border="0" cellpadding="0"
++cellspacing="0" width="100%"><tr><td width="100%" style="word-wrap:break-word"><table cellpadding="2" cellspacing="3"
++border="0" width="100%"><tr><td width="1%" nowrap="nowrap"><img
+(etc)
+I like the ID
+HeaderTextDilimiter1 .
+But somehow eBay's site is completely broken,
+and new breakage continually occurs.
+Normally these messages are formatted well enough
+modulo the mess around them.
+And it seems impossible to send messages via their
+“email” system, so tried to find the phone number of the seller.
+Found
+a
+page
+which linked to
+http://help.ebay.com.au/Help/Getting_Started/eBay_community/Contacting_members#contact
+and promised to give the information.
+But it's 404.
+After much more frustrating
+searching, finally found another page, since lost again, which did finally get me the phone
+number.
+Called up, spoke to the vendor, and he promised to do something about it today; and
+he did.
+But it cost me 1½ hours of messing around, and I still don't know what to do next
+time.
+What a pain!
+Wednesday, 25 May 2011
+Dereel
+Images for 25 May 2011
+Top of page
+previous day
+next day
+last day
+Picking up the PDP-11
+Topic: technology, general
+Link here
+In April 1997, while we were in the process of moving from Germany to Australia, Hartmut
+Brandt gave me his PDP-11 (really an LSI-11/73).
+Despite the best of intentions, I never
+got round to powering it on, and well over a year I offered it to Alastair Boyanich.
+That
+was the background to the
+Hackers' barbecue
+that we held
+last year .
+But
+Alastair didn't show: he had trouble with the old car he was restoring.
+He finally made it
+here today with his father George to stay the night and take the computer tomorrow.
+Much
+fun was had by all:
+Image title: Dinner 1
+Complete exposure
+details
+Dimensions: 600 x 450, 56 kB
+Dimensions of original: 4032 x 3024, 1232 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Wednesday, 25 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Dinner 2
+Complete exposure
+details
+Dimensions: 600 x 450, 72 kB
+Dimensions of original: 4032 x 3024, 1312 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Wednesday, 25 May 2011:
+thumbnails
+small images
+diary entry
+Thursday, 26 May 2011
+Dereel
+Images for 26 May 2011
+Top of page
+previous day
+next day
+last day
+Goodbye PDP-11
+Topic: technology
+Link here
+Spent most of the day loading the
+PDP-11 ,
+documentation, disks and software into Alastair's car:
+Image title: PDP 11 transfer 21
+Complete exposure
+details
+Dimensions: 600 x 450, 74 kB
+Dimensions of original: 4000 x 3000, 1376 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+Image title: PDP 11 transfer 28
+Complete exposure
+details
+Dimensions: 450 x 600, 64 kB
+Dimensions of original: 3000 x 4000, 1184 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+He had a trailer for the cabinets, but wanted to put the hardware in the back of his car:
+Image title: PDP 11 transfer 5
+Complete exposure
+details
+Dimensions: 600 x 450, 60 kB
+Dimensions of original: 4000 x 3000, 1296 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+Image title: PDP 11 transfer 7
+Complete exposure
+details
+Dimensions: 600 x 450, 90 kB
+Dimensions of original: 4000 x 3000, 1856 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+Image title: PDP 11 transfer 14
+Complete exposure
+details
+Dimensions: 600 x 450, 80 kB
+Dimensions of original: 4000 x 3000, 1472 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+That required significant dismantling, and it took its time.
+From
+the
+Wikipedia page , this CPU appears to be
+the JAWS-11.
+This is the first time I've seen it.
+If we identified and counted the memory
+chips correctly, the machine has 4 MB main memory.
+It proved that the storage conditions had been less than idea, and Alastair had to evict one
+rat from its home, much to the interest of
+Piccola .
+Clearly the others got out earlier.
+Here some of the remains, along with the Tandem LXN and
+a
+MicroVAX II
+which were also there, and
+which proved to be more difficult for rats to build their nests:
+Image title: PDP 11 transfer 9
+Complete exposure
+details
+Dimensions: 450 x 600, 68 kB
+Dimensions of original: 3000 x 4000, 1248 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+Image title: PDP 11 transfer 24
+Complete exposure
+details
+Dimensions: 450 x 600, 66 kB
+Dimensions of original: 3000 x 4000, 1264 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+Even after loading everything, we weren't done.
+Alastair had been rather generous with the
+size of the tarpaulin that he wanted to tie over the trailer.
+The first photo shows it
+folded fourfold.
+It took quite a while to shrink it to the size of the trailer and tie it
+down firmly:
+Image title: PDP 11 transfer 6
+Complete exposure
+details
+Dimensions: 600 x 450, 82 kB
+Dimensions of original: 4000 x 3000, 1728 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+Image title: PDP 11 transfer 35
+Complete exposure
+details
+Dimensions: 600 x 450, 80 kB
+Dimensions of original: 4000 x 3000, 1552 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+Image title: PDP 11 transfer 36
+Complete exposure
+details
+Dimensions: 450 x 600, 76 kB
+Dimensions of original: 3000 x 4000, 1296 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 26 May 2011:
+thumbnails
+small images
+diary entry
+Finally everything was done, and they left.
+It had taken most of the day.
+And he only took
+one computer!
+More USB problems?
+Topic: technology
+Link here
+Backing up photos today was less than reassuring.
+Lots of messages like:
+rsync: recv_generator: failed to stat "/photobackup/Photos/grog/20090321/housephoto-notes": Device not configured (6)
+rsync: recv_generator: failed to stat "/photobackup/Photos/grog/20090321/makejpeg": Device not configured (6)
+rsync: recv_generator: failed to stat "/photobackup/Photos/grog/20090321/n-to-house-w-to-house.pto": Device not configured (6)
+rsync: recv_generator: failed to stat "/photobackup/Photos/grog/20090321/n-to-house-w-to-house.pto.mk": Device not configured (6)
+rsync: recv_generator: failed to stat "/photobackup/Photos/grog/20090321/verandah-e-verandah-se.pto": Device not configured (6)
+It wasn't repeatable: after aborting the backup, disconnecting and reconnecting the USB
+cable, all was well.
+There were also no console messages, but I wonder if I shouldn't
+migrate to some more reliable method of backup,
+maybe
+eSATA .
+Time to check all
+the files, anyway.
+Saturday, 28 May 2011
+Dereel
+Images for 28 May 2011
+Top of page
+previous day
+next day
+last day
+Garden flowers in late autumn
+Topic: gardening
+Link here
+Took my monthly
+garden flower photos
+today.
+It's clear that summer is over—in fact, autumn is nearly over—and
+there aren't nearly as many flowers as last month.
+Of those that are still looking happy,
+the
+Alstroemerias
+and
+the
+Begonias
+are particularly obvious:
+Image title: Alstroemeria 1
+Complete exposure
+details
+Dimensions: 600 x 450, 64 kB
+Dimensions of original: 4032 x 3024, 1328 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Alstroemeria 2
+Complete exposure
+details
+Dimensions: 600 x 450, 74 kB
+Dimensions of original: 4032 x 3024, 1248 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Begonia 1
+Complete exposure
+details
+Dimensions: 600 x 450, 60 kB
+Dimensions of original: 4032 x 3024, 1248 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Begonia 2
+Complete exposure
+details
+Dimensions: 600 x 450, 64 kB
+Dimensions of original: 4032 x 3024, 1344 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Those are the volunteer Begonias; the expensive tuberous one still has a couple of flowers
+on, but it's nothing to look at.
+Flowers that seem to be really coming into their own now seem to be
+the
+Alyogyne ,
+the
+Dahlia imperialis
+and the
+unknown ginger sort that had been looking relatively unhappy
+last month :
+Image title: Alyogyne
+Complete exposure
+details
+Dimensions: 600 x 450, 60 kB
+Dimensions of original: 4032 x 3024, 1056 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Dahlia imperialis
+Complete exposure
+details
+Dimensions: 600 x 450, 84 kB
+Dimensions of original: 4032 x 3024, 1312 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Ginger
+Complete exposure
+details
+Dimensions: 450 x 600, 66 kB
+Dimensions of original: 3024 x 4032, 1248 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Some of the
+Grevilleas
+are still
+flowering, and the
+Hardenbergia
+violacea
+is just starting:
+Image title: Grevillea 1
+Complete exposure
+details
+Dimensions: 600 x 450, 84 kB
+Dimensions of original: 4032 x 3024, 1440 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Grevillea Robyn Gordon 2
+Complete exposure
+details
+Dimensions: 600 x 450, 70 kB
+Dimensions of original: 4032 x 3024, 1232 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Hardenbergia violacea
+Complete exposure
+details
+Dimensions: 600 x 450, 78 kB
+Dimensions of original: 4032 x 3024, 1456 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Some
+Hebe
+or another seems to flower most of
+the time, though they're gradually dying back:
+Image title: Hebe 1
+Complete exposure
+details
+Dimensions: 600 x 450, 72 kB
+Dimensions of original: 4032 x 3024, 1552 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Hebe 3
+Complete exposure
+details
+Dimensions: 600 x 450, 104 kB
+Dimensions of original: 4032 x 3024, 1616 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Hebe 4
+Complete exposure
+details
+Dimensions: 600 x 450, 90 kB
+Dimensions of original: 4032 x 3024, 1552 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Some of the
+Salvias
+are also doing well,
+the
+Salvia microphylla
+that we
+have had here since the beginning, and
+the
+Salvia leucantha
+that we
+bought only
+a couple of months ago :
+Image title: Salvia 1
+Complete exposure
+details
+Dimensions: 450 x 600, 62 kB
+Dimensions of original: 3024 x 4032, 1184 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Salvia 2
+Complete exposure
+details
+Dimensions: 450 x 600, 120 kB
+Dimensions of original: 3024 x 4032, 2400 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Salvia 4
+Complete exposure
+details
+Dimensions: 600 x 450, 70 kB
+Dimensions of original: 4032 x 3024, 1552 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Other things that are looking relatively happy are some of
+the
+Pelargoniums ,
+the
+Tradescantia
+and the
+Vinca minor :
+Image title: Pelargonium 5
+Complete exposure
+details
+Dimensions: 600 x 450, 54 kB
+Dimensions of original: 4032 x 3024, 1008 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Tradescantia
+Complete exposure
+details
+Dimensions: 600 x 450, 58 kB
+Dimensions of original: 4032 x 3024, 1200 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Vinca minor
+Complete exposure
+details
+Dimensions: 599 x 451, 54 kB
+Dimensions of original: 4096 x 3084, 1712 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+In the greenhouse, this season's tomatoes are gradually dying back, though we still have
+flowers, and some of the new ones are also flowering.
+So is the lemon, and the creeper
+cuttings that
+Yvonne
+brought back
+from
+Albury
+seem not to
+have noticed that they have been cut and replanted.
+And
+the
+Mandevilla
+is still flowering
+happily:
+Image title: Solanum lycopersicum
+Complete exposure
+details
+Dimensions: 600 x 450, 60 kB
+Dimensions of original: 4032 x 3024, 1424 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Lemon
+Complete exposure
+details
+Dimensions: 600 x 450, 52 kB
+Dimensions of original: 4032 x 3024, 1328 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Mystery solanum 1
+Complete exposure
+details
+Dimensions: 600 x 450, 46 kB
+Dimensions of original: 4032 x 3024, 1024 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Image title: Mandevilla
+Complete exposure
+details
+Dimensions: 600 x 450, 50 kB
+Dimensions of original: 4032 x 3024, 1216 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Saturday, 28 May 2011:
+thumbnails
+small images
+diary entry
+Sunday, 29 May 2011
+Dereel
+Top of page
+previous day
+next day
+last day
+Sourdough in Dereel
+Topic: general, cooking, brewing, gardening
+Link here
+I started my next batch of
+sourdough bread 	yesterday, and by chance somebody on
+Freecycle
+asked for a starter today.
+Even more unusually, the person was
+in
+Dereel .
+Sent a reply offering to show
+them how I made the bread, but they didn't call back until I had started: it seems that
+Freecycle has significant delays in sending messages.
+The person in question turned out to be Peter Dilley, with whom I had spoken about brewing
+last month .
+He came by with his wife Victoria
+and picked up the starter, lending me a couple of books while he was at it.
+He also left
+with one of the Pride of Ringwood hop rhizomes and a number of garden cuttings.
+Had an
+interesting discussion.
+We're planning to do some cooperative brewing sessions.
+64 bit upgrade, one small step
+Topic: technology
+Link here
+Yvonne
+off to dog training this morning, so continued with
+the upgrade to 64 bits that had got interrupted last week.
+Things didn't work too much
+better today: got as far as checking out some configuration files when I got interrupted by
+Real Life.
+This is taking for ever, even though I'm nearly finished.
+I dread getting
+X
+up and stumbling.
+Monday, 30 May 2011
+Dereel
+Images for 30 May 2011
+Top of page
+previous day
+next day
+last day
+Another USB crash
+Topic: technology
+Link here
+Somehow these USB disks aren't really reliable enough.
+I don't seem to lose any data, but
+there are continual strange messages that suggest things aren't all going well.
+Today the
+message was very clear:
+once again
+I
+froze the entire system.
+That's enough.
+From now on I revert to doing my backups over the
+LAN to some other machine that doesn't need to be up all the time.
+While the system was down, put in the 4 GB of memory that I recently received.
+Now I have 6
+GB, of which I can only use 3 until I finally get the machine running in 64 bit mode.
+But
+the extra memory had an unpleasant side effect: although it's all DDR-2 800 memory, and all
+from the same manufacturer (Kingston), the machine came back up running at 667 MT/s.
+Why?
+I didn't have time to play around, but clearly I need to check the BIOS settings.
+Tuesday, 31 May 2011
+Dereel
+Images for 31 May 2011
+Top of page
+previous day
+Strange camera problems
+Topic: photography, technology
+Link here
+Yvonne
+asked me to take some photos of her riding Carlotta,
+so out onto the road.
+Carlotta is gaited, so it made sense to take some high-speed
+sequences.
+In all photos I used manual focus, because I can't count on the autofocus to do
+the right thing so quickly.
+I have a “focus once” function button on the
+camera, which performs an autofocus when in manual mode.
+Pressed that and took some photos.
+First took a single photo, then switched to high speed sequence.
+Here the first (normal
+mode) and the first of the sequence:
+Image title: P5316639
+Complete exposure
+details
+Dimensions: 600 x 450, 92 kB
+Dimensions of original: 4032 x 3024, 2128 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 31 May 2011:
+thumbnails
+small images
+diary entry
+Image title: P5316640
+Complete exposure
+details
+Dimensions: 600 x 450, 88 kB
+Dimensions of original: 4032 x 3024, 1424 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 31 May 2011:
+thumbnails
+small images
+diary entry
+Not only was the complete sequence out of focus, but it was overexposed by 2 stops.
+What
+went wrong?
+Took at look at the
+EXIF
+data,
+but there wasn't anything obvious to note.
+Here extracts of a
+diff :
+-File Name                       : P5316639.JPG
++File Name                       : P5316640.JPG
+-Exposure Time                   : 1/200
+-F Number                        : 6.3
++Exposure Time                   : 1/125
++F Number                        : 4.0
+-Special Mode                    : Normal, Sequence: 0, Panorama: (none)
++Special Mode                    : Fast, Sequence: 1, Panorama: (none)
+Focus Mode                      : MF; MF
+-Focus Process                   : AF Used; 16
+-AF Search                       : Ready
+-AF Areas                        : (111,106)-(144,149)
+-AF Point Selected               : (50%,50%) (50%,50%)
++Focus Process                   : AF Not Used; 16
++AF Search                       :
+Not Ready
++AF Areas                        : none
++AF Point Selected               : undef undef undef undef
+-Noise Reduction                 : Auto
++Noise Reduction                 : (none)
+-Drive Mode                      : Single Shot
++Drive Mode                      : Continuous Shooting, Shot 1
+-Zoom Step Count                 : 16
+-Focus Step Count                : 561
+-Focus Distance                  : 7.07 m
+-AF Point                        : Center (horizontal); Single Target
++Zoom Step Count                 : 31
++Focus Step Count                : 562
++Focus Distance                  : 7.915 m
++AF Point                        : Unknown (0x1f); Unknown (0xe0)
+-Light Value                     : 12.0
++Light Value                     : 10.0
+But why can the focus suddenly be “Not ready”?
+Did I maybe change the focus
+when I set the multiple exposure mode?
+Or is this what it says when I didn't manually
+autofocus before taking the image?
+Comparing with other images taken in sequence in manual
+mode, it seems not to be the case.
+Only later did I discover that one of the sequence was recorded as having been rotated by
+270°.
+Here a comparison with the following image, taken in sequence.
+Image title: P5316644
+Complete exposure
+details
+Dimensions: 450 x 600, 84 kB
+Dimensions of original: 3024 x 4032, 1232 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 31 May 2011:
+thumbnails
+small images
+diary entry
+Image title: P5316645
+Complete exposure
+details
+Dimensions: 600 x 450, 80 kB
+Dimensions of original: 4032 x 3024, 1200 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 31 May 2011:
+thumbnails
+small images
+diary entry
+These are sequential images, as the
+Special Mode
+below shows, and taken in
+the same second.
+Not only does it claim rotation, but also that the focal length and focus
+distance (in manual? how does that work?) had changed:
+-File Name                       : P5316644.JPG
++File Name                       : P5316645.JPG
+-Orientation                     :
+Rotate 270 CW
++Orientation                     : Horizontal (normal)
+-Exposure Time                   : 1/125
++Exposure Time                   : 1/100
+-Focal Length                    : 50.0 mm
+- Special Mode
+: Fast, Sequence:
+5 , Panorama: (none)
++Focal Length                    : 49.0 mm
++ Special Mode
+: Fast, Sequence:
+6 , Panorama: (none)
+-Zoom Step Count                 : 26
++Zoom Step Count                 : 25
+-Focus Distance                  : 7.77 m
++Focus Distance                  : 7.735 m
+-Focal Length                    : 50.0 mm (35 mm equivalent: 100.2 mm)
++Focal Length                    : 49.0 mm (35 mm equivalent: 98.2 mm)
+-Light Value                     : 10.0
++Light Value                     : 9.6
+Fortunately I noticed the overexposure at the time and did a bit of checking.
+First the
+thing told me I had no card in the slot.
+Powered off, popped and reseated the card, and
+after that (and powering on, of course) it worked again, and I got some reasonable photos:
+Image title: P5316658
+Complete exposure
+details
+Dimensions: 600 x 450, 98 kB
+Dimensions of original: 4032 x 3024, 2512 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Tuesday, 31 May 2011:
+thumbnails
+small images
+diary entry
+That worries me, though.
+Why did it happen?
+Will it happen again?
+How will I know in
+time?
+Reboot solves Microsoft problems
+Topic: technology
+Link here
+Another strange thing happened during processing the images.
+A while back
+my
+wine
+emulation of
+Ashampoo
+photo optimizer
+started to hang.
+I found a workaround, but never the cause.
+Now, since yesterday's reboot,
+things are back to normal.
+I wish I knew why.
+It seems to be the Microsoft Way to solve
+problems by rebooting, even prophylactically, but this is almost certainly a
+FreeBSD
+issue, and it shouldn't happen there.
+Preparing for winter
+Topic: gardening
+Link here
+Gradually the combination of cool weather and the winds of the past week have transformed
+the garden, and it's looking quite wintery.
+While looking around, discovered a plant that I
+had thought was an
+Iris .
+It's
+blooming for the first time, and it looks nothing like an Iris:
+Image title: Mystery plant 1
+Complete exposure
+details
+Dimensions: 450 x 600, 94 kB
+Dimensions of original: 3024 x 4032, 1696 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Wednesday, 1 June 2011:
+thumbnails
+small images
+diary entry
+Image title: Mystery plant 2
+Complete exposure
+details
+Dimensions: 450 x 600, 58 kB
+Dimensions of original: 3024 x 4032, 1008 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Wednesday, 1 June 2011:
+thumbnails
+small images
+diary entry
+I thought it was one of the plants I bought at the
+Melbourne
+International Flower and Garden Show
+two years ago, and indeed I have a photo of
+something like that in my diary entry for the day:
+Image title: succulents 2
+Complete exposure
+details
+Dimensions: 701 x 386, 52 kB
+Dimensions of original: 3428 x 1888, 768 kB
+Display this image:
+thumbnail
+hidden
+alone on
+page
+Display all images on this page as:
+thumbnails
+this size
+Show for Thursday, 2 April 2009:
+thumbnails
+small images
+diary entry
+Unfortunately, the description isn't in sequence with the photos: according to the
+description the plant in question (second from right) would be
+a
+Sedum
+“gold mound”, which it
+most certainly isn't (the Sedum is in the middle).
+I also know the
+Liriope muscari
+and
+the
+Sedum
+“gold mound”, so that
+only leaves the
+Carex
+morrowii
+varieagata
+and
+the
+Iris
+japonica
+variegata .
+Clearly the suffix
+variegata
+fits.
+On the face of it, it has to be the Iris, and
+that would mean that I had just transposed the Iris and the Sedum, but it just doesn't look
+right.
+In any case, the plant was hidden under one of
+the
+Buddleja globosas .
+The Buddlejas
+later
+proved to
+be
+Buddleja × weyeriana ,
+not globosa.
+I had intended to trim the whole hedge back in a month or so when it had finished flowering,
+but clearly I couldn't wait that long.
+Trimmed the end back, in the process discovering a
+number of
+Helleborus , which had also
+been smothered by grass, and also another bulb of some description.
+I'm going to have to be
+stricter about how far I allow the Buddleja to grow.
+Also a lot of weeding in front of the dining room (south-east of the verandah).
+Found some
+clump of roots which I vaguely recall planting, but which I think I thought had died, maybe
+some kind of
+Salix .
+It doesn't look too
+unhappy, though of course at this time of year it has no leaves.
+One thing I notice, though: a lot of these plants aren't flowering.
+The Japanese Iris (if
+that's what it is) has produced dozens of offspring in the last 2 years, but this is the
+first flower I've seen.
+None of the other plants aren't flowering, and neither is
+the
+Canna -like plant near the birdbath.
+As
+far as I can tell, it has never flowered.
+Am I being too miserly with fertilizer?
+To be on
+the safe side, spread some now, though clearly it's not much use to the Canna, which won't
+flower before summer.
+Top of page
+Previous month
+Greg's home page
+Today's diary entry
+Next month
+Greg's photos
+Copyright information
+$Id: diary-may2011.php,v 1.68 2014/05/02 02:23:44 grog Exp $

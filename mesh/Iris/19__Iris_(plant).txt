@@ -1,0 +1,911 @@
+KDY Daily Notes
+K.D.Young
+DailyNotes
+2010-04-05:   We're in
+Midland.  Mum's not doing well and we're sitting with her at the
+hospital.
+§
+I've almost finished reading
+Michio Kaku's ,
+Beyond Einstein . Great book if you want a comprehensive albeit brief
+description of what physicists have struggled through in thought for the
+last several hundred years.
+2010-03-30:   Freaky day
+today.  I felt like hell and slept like a dead man until after
+noon.  It was yummy and I'm feeling a bit refreshed.  Back to
+work tomorrow though.  I didn't have any meetings scheduled today
+so I didn't worry about work at least.
+§
+Ike is sick, cathy is sick, I can't tell if I'm sick or not.
+§
+I flew the cp around a bit tonight without much success.  I'm going
+to have to spend some time on the simulator to figure it out.
+§
+It was a weird night.  Mum called us accidentally from her cell
+phone.  She's okay.  Then Dory ran out the back gate because I
+didn't shut it right.  She ran around like a crazy  dog and it
+was a bit of an adrenaline nightmare for a few minutes.  She
+finally ran up to cat and cat was to get dory back in the yard.
+§
+Cat spent a long time making a complicated Mexican food dish (It was
+stuffed Anaheim peppers) but dory tripped her and cat dropped the plates
+on our glass coffee table.  It scared us both real bad.
+2010-03-29:   Back to work
+today.  Worried about mum.
+§
+I put a few minutes of flight time on the helo today.  Damn, that's
+not easy to fly at all. I spent about 30 minutes doing repairs.  I
+had to change out the main rotor blades.  I'm not sure how much
+that cost but it's much less than $500 bucks per flight. I think it must
+have cost about 5 bucks.
+=>
+I'm even more impressed with r/c helo pilots now.  That's a weird
+thing to try to understand.  I was able to do an uncontrolled hover
+for a couple of seconds.  I did it several times.  I just made
+it hop around a bit.
+2010-03-27:   I just
+watched a news story about an 80-something year-old woman named Viola
+that has terminal cancer and when asked if there was something she
+wanted to do said, "I want to jump out of an airplane."  Well she
+did and she had a great time and it was very touching to see that story.
+§
+I'm in Midland tonight.  Mum and dad are asleep and I'm chattin on
+IM (yahoo actually) with cat.  I had a strange day.  I walked
+about a mile away to
+The Bar
+for lunch.  It was excellent however I had to walk a
+mile back to the house afterwards.  It was an absolute beautiful
+day in West Texas today.  That made it pretty cool. But now my
+right hip is shot.
+§
+The boundary error in my rotation project has been corrected.
+Actually it wasn't a boundary problem but a common problem with
+object-oriented programming.  I was manipulating the same point
+more than once because the same point was in more than one line-segment.
+All of these objects; points, lines, shapes are made of components that
+are themselves objects. (i.e.  A 'cube' is made out of 'lines' and
+'lines' are made out of 'points'.)  On the new shapes I've been
+playing with, some of the points are shared between more than one
+line-segment.  When my algorithm rotated the points, the ones that
+were shared were rotated more than once because they were shared between
+more than one line.  In fact once for each segment.  So the
+shape was being distorted by the transformations in a weird way.  I
+fixed it by adding a flag; a flag for each coordinate of each point.
+That flag says that this point has already been rotated around this
+axis, so don't do it again if it's shared between multiple segments.
+=>
+I was happy that it fixed the problem but it slowed the algorithm down
+noticeably.
+2010-03-24:   Just a day at
+the office today.  Nothing special.
+§
+Our German Sheppard's name is Dory now.
+§
+I've ordered new parts for the CP helo.  It's tail rotor is messed
+up.
+§
+Spent some time tonight working on my projections program.  I'm
+making some progress but do see a problem with some of the shapes I've
+downloaded.  The rotational math seems to be introducing some sort
+of distortion in the results.  It's interesting to watch because it
+animates the shape and over time, the shape starts to distort.  I
+think it could easily be a
+boundary-error
+but the more simple objects work perfectly so perhaps
+it's a problem with the math or the precision of java doubles.
+=>
+I'm not enough of a java dude to be able to easily check out exactly
+what's happening.  I know there's a debugger and at my peak I would
+have jumped right in there and started trying to figure out exactly what
+is going on.  But I'm 48 now and I don't even do this for a living
+anymore.  I have lots of other things to figure out and all I can
+hope for is being able to catch a ride on this wave for a few hours at a
+time.
+=>
+It would be pretty cool to suck into that particular ride for a month or
+two.  Awwwww...  Some day I will retire or hit the lotto or
+something.
+2010-03-22:   Beca is
+writing me emails.  That's pretty fun.  Her brain is
+interested in writing an
+ebook .
+I've had that same thought before but I'm so lazy I can't make it
+happen.  I write lots of words all the time.  I can't seem to
+make myself write a book and I think beca can.
+§
+I surprised cat and ike at the vet today.  I knew there was an
+11:30 appointment so I drove over there at lunch, walked in and told the
+lady that I was looking for my wife and my
+Rottweiler .  I think he's doing well.  He has a cold or
+something.
+2010-03-21:   Today was a
+nice lazy day.  It wasn't lazy for cat. She was busy doing laundry
+and wiping Ike's nose (He has a cold or something).  I tried to fly
+my little helicopter today but I I've damaged the tail rotor.  I'm
+ordering new parts tomorrow.
+§
+I got an email from
+Scott Kim
+today.  How cool is that!  I told him that me and cat are
+wanting tats with an inversion of our initials.  Those are called
+Ambigrams .  He wrote
+me a nice personal email.  It was very cool.
+§
+I've not thought about physics much lately.
+2010-03-13:   We had great
+friends come over today.  Lots of activity and craziness.  Ren
+and Kathy came over; she's just gotten her left knee replaced and is
+moving a bit slow.  She'll be up and running very soon.  Stuka
+got out of an open door while I was away and we almost lost her.  A
+nice man talking on a cell phone grabbed her and all was well; except
+for the grey hairs.  Cindy and her daughter, Kiara came over and it
+was a pretty fun time.  The kiddos drove us all crazy and
+everything was perfectly fine.
+=>
+I love the sound of the quietness right now.  11:15pm
+Einstein's Birthday , 2010.
+2010-03-13:   We drove to
+Wichita Falls
+today, met Steve and Jessee and picked up the kiddos.
+Amanda and Cody are here for a visit this week.  I hooked up the Wii and grilled burgers tonight.  We watched an animated movie
+called Up that was pretty good actually.
+§
+We've got this new
+German Sheppard . Her name was
+Iris , then we started calling her
+Caroline .
+Now she is named
+Stuka
+and I think the name has stuck.
+2010-03-12:   I updated the
+Projections
+page with the source code for
+the Rotate demo.  It's starting to look good.  I'll keep
+adding and hopefully I'll put the class files there and you'll be able
+to run the demo on your computer.
+2010-03-11:   I got my new
+helo yesterday. I can't really play with it because I said that the helo
+was My gift from cat and the index-finger ring she has on layaway is her
+gift from Me. She must get her ring before I get to play with My helo.
+So while I'm waiting, I'm going to get an aluminum carrying case from
+Harbor Freight .
+I'm going to have to study this thing too.  It's a freakishly
+complicated contraption.
+2010-03-10:   I'm posting
+some stuff about my 3 -dimensional rotation program
+written in java
+tonight. It seems to be working well and it's been a struggle.  But
+it's a good working demo of 3d projections.  Just the words
+tonight. In the days to come I will post the code.
+§
+I received my new r/c helo today.  I haven't tried to fly it yet.
+2010-03-06:   Lots of
+things happening just now.  Mel and her Husband, Barry, are in the
+hospital.  I wont go into the details because it's
+a rather private thing .
+=>
+I'm exchanging emails with Melody's mum, Lue.  It's a nice
+conversation.
+=>
+Mum is comfortable although she gets tired easily.  I didn't talk
+to her on the phone today and I think her sister, Erne, flew back to
+Florida today.  I'm sure that was a hard departure.
+=>
+spooky has been not feeling well and we haven't had a chance to chat in
+a few days.  Get well soon My love.
+=>
+I bought an
+r/c helicopter
+on
+ebay
+today.  It's a good deal compared to buying a new one.
+I ordered parts from
+Tower Hobbies
+as well.
+§
+Yesterday I burned a downloaded copy of Einstein's, " Relativity:
+The Special and the General Theory ".  There's a very cool site
+that Stevo told me about.
+Project Gutenberg
+has lots of books that you can download for free.
+=>
+So I left work a bit early last night, popped in the Einstein cd and
+listened to the first 15 minutes of it.  I've read this book about
+12 times.  I don't know if it's the way that the German language is
+or the fact that he thought in a very complex manner, but Dr. Einstein
+is a hard dude to understand.  He wrote in 100 word sentences with
+compounded "and's" and "therefore's".  It makes me want to draw
+Karnaugh map's
+to figure out the implications of what he's saying.
+=>
+So 15 minutes into this cd on the drive home, the cd player crapped out
+and powered completely off.  I had to reset the clock.  Now
+that cd is stuck in my non-cd player.  The radio still works
+though.
+2010-03-01:   We received
+word that my cousin Melody and her husband were involved in a bad wreck.
+They drive a long haul big rig all around the country and I'm afraid
+they've had a really bad crash and are severely injured.  I don't
+have many details but our thoughts and prayers are with their whole
+family.  Melody is the daughter Lue.  Lue is the sister of
+Jimmy, Clyde, and Teddy Lee who just paid us a visit.
+§
+Our last day and night here in Midland started with me taking Isabelle
+to the vet for x-rays at 8:30 this morning.  Then me and cat had
+eye doctor appointments and the bastard dilated our eyes.  So we
+walked around with blown eyes all day.  Luckily it was cloudy.
+It rained all night last night.
+=>
+We stumbled into La Bodega at 12:30 for lunch figuring that by the time
+we finished eating our eyes would be back to normal.  That didn't
+work and the food was a bit off today.  It's okay.  Sometimes
+that happens. Either our "tasters" were off or their food was off today.
+=>
+We visited tonight and I played my banjo for mum, aunt erne and cat.
+I tried to play yesterday for everyone but had an onset of stage-fright
+or something and couldn't play at all.  There were too many
+important people in the room I imagine.  I could play much better
+today.
+=>
+We had burgers from Bob's tonight.  cat had the steak fingers.
+Damn, I miss that food.  It was wonderful.
+§
+Tomorrow we head back to Dallas.
+2010-02-27:   What an
+interesting day it was today.  Clyde and Teddy Lee stopped by for a
+visit.  Their wives Phyllis and Teresa are a hoot.  We all
+piled up in the RV with the kids and made a Wal-Mart run.  It's
+been a long time since I've had a chance to spend time to Clyde and
+Teddy.  Teddy was my boss when I worked for Furr's at the produce
+distribution warehouse.  He told me today that I was a good worker
+back then but I know he was just being kind.  I hated that job.
+It was by far the most physical thing I've ever had to do.  It kicked
+my ass.  That durn cuz of mine assigned me and this big dude the
+chore of unloading this truck full of potatoes.  100 pound burlap
+sacks.  I used to be pissed off at Teddy for making
+me do that but now I think that Angel was probably the one more pissed
+off.  He pretty much had to unload that whole truck by himself.
+The first bag I tried to pick up didn't even move.  Then I started
+picking it up sort of how you'd have to pickup an injured person.
+You know...  "I'll put my left hand under here and my right arm
+under here."  Then I lifted up and it didn't move at all.
+About that time some dumbass yelled "Be sure and use your knees!
+You can hurt your back like that."  I think that was Teddy but I'm
+sure he'd waved the whole bay over to this truck to watch the skinny
+computer nerd try to lift 100-pound sacks of potatoes.  So anyone
+could have yelled it.  As I recall I was able to be of "some" help.
+I loved the ones on top of the stack but hated the sacks on the floor of
+the tailor.  It seems like that always happened when the stack on
+the pallet was stacked high.
+2010-02-26:   Were in
+Midland tonight.  We left Dallas about 11:30 and got here about
+5:30.  Aunt Erne is here visiting mum so we sat around and talked
+and laughed.
+2010-02-25:   What a weird
+thing it is to live so far away from home.  That sentence doesn't
+even make sense because this is my home here.  I love West Texas
+though.  It's in my genetic makeup.
+§
+I read an interesting chapter in the book I'm reading about quantum
+physics (go figure).
+2010-02-24:   When I was
+young and my first wife and I were living at the cabin, sometimes I
+would lay on the roof of the house and look for satellites.  I was
+a bit obsessed with it of course so I had a little notebook and wrote
+down every time I saw one.  I was hoping to establish some pattern
+where as I could predict exactly when to look up and see one.
+Here's a little article that explains
+looking for satellites .
+§
+Heading to Midland soon.
+2010-02-21:   Interesting
+night last night.  Steve stayed the night and I loved the
+experience.  We talked about crazy stuff all night.  At 1am he
+had me boiling water on the stove to check the boiling point of water
+here as compared to there (Amarillo).  For the record it boils at
+205 in amarillo (He knows that for sure because he's an alcohol maker.)
+and it boils at 210 here.  Now I have to figure out the altitude
+difference.  I've asked spooky and Don to boil water and report the
+results back to me.  I haven't a clue what spooky's elevation is
+but Don is in Houston.  He's at sea level so the result should be
+212 degrees F.  We'll see.
+2010-02-18:   Long day at
+work.  It's actually just been long and arduous.
+2010-02-15:   Cat's knee is
+doing well.  We went to the doc and he glanced down and said she
+looked better than he thought she would after less than a week out of
+surgery.
+§
+Look
+Jamie
+McMurray
+is on
+Dave .
+2010-02-13:   Lots of stuff
+going on here.
+=>
+Cat's had knee surgery.  It was elective and she's recovering
+nicely.
+=>
+My mum is slowing down and I think about her 24-7.
+=>
+We got a foot of snow, day before yesterday, and I did a bunch of
+doughnuts in a pristine parking lot in front of the hospital at 6am
+whilst taking my wife to the hospital for knee surgery.
+§
+For some reason I haven't been getting ANY email for the last 3 or 4
+days.
+=>
+I haven't heard from Don.  That's unusual.
+=>
+I chatted with spooky last night but not tonight.  That's unusual
+because the Daytona 500 is tomorrow and we usually cuss and discuss
+about the goings-on there.
+§
+I wish some of those Porter's in Midland would email me.  I miss
+them and haven't even heard from Caity lately.
+2010-02-07:   The saints
+won the super duper bowl tonight.
+§
+Don sent me a very brilliant link to a NASA place that has
+panoramic photos of the Apollo missions .
+§
+I've heard from spooky.  She's getting along.
+2010-02-05:   It's been a
+few days since I wrote anything here.  It's just been a long week
+at work.  I haven't been doing anything fun at all except watch
+American Idol.
+§
+I've posted a bunch of
+new
+links on the main page .  I had a chance to actually play around
+on the net a bit and found some interesting stuff.
+§
+Don's feeling better (He's been sick apparently although I suspect he's
+been just laying around developing his helicopter flying skills.
+Spooky's been doing nothing but working lately.  I hope we get to
+chat soon.  The
+Bud
+Shoot-Out
+is tomorrow night. I love that race.  I've not spoken
+to Marilyn for several days now.  I should go into
+Second Life
+tonight and see how she is.
+§
+Time to watch tv....
+2010-01-31:   Well I
+couldn't get my
+puli website
+updated tonight dammit.  I've changed laptops and
+my ftp password ddint work so I changed it and they said it would take
+affect in 30 minutes but apparently that didn't happen.  I'll fix
+it tomorrow.
+§
+I'm reading
+Leon Hale
+tonight.  You'll have to click on " home "
+to find his most recent articles. Look down toward the bottom where I
+post links I've been going too.
+§
+It sounds like Chris and Ree are going to Vegas in February.  He
+said it to me when I talked to him on the phone on his birthday and mum
+said something about it tonight when I talked to her.  They bought
+mum and dad new telephones. (Landlines, not "cell")  Mum loves
+them.
+2010-01-28:   Tomorrow is
+my
+brother's
+birthday.  He's 6 years older than me.  I will
+call him tomorrow.  We haven't talked in a while.
+2010-01-26:   David sent me
+a link to
+the r/c airplane I want .
+The thing I like about it is that with the radios they have these days,
+you can make as mild or as wild as you want.  I still haven't finished that
+damn back storm door nor have I cleaned up my garage.  I will soon.
+2010-01-25:   Back to work
+today.  I'm about to have to hunker down and do a bunch of work on
+a proposal for a new software module.
+2010-01-24:   I was lazy
+today and just sat around and watched tv.  There's more to that
+story that I reveal.  Today was a WONDERFUL day.
+§
+I've been watching sports.  I hate it that the
+vikings
+lost
+today.  They were the better team but they beat themselves with
+turnovers
+=>
+I've been watching AMA
+supercross
+the last few weeks. I guess I'm itchy waiting for
+Daytona .  Back in high school there was this dude named John
+Myers that ran the local
+motocross
+series.  He did very well and me and him got along
+great so we'd swap motorcycle stories.  About 10 years ago or so he
+called me up out of the blue and said he was at some bar in midland.
+Me an cat went there and I saw John for the first time in 20 or so
+years.  He told me that night that he'd been following
+Moto250 .  He said that he'd noticed those guys do the same
+thing in the corners (blocking and such) as he did whenever he was in
+motocross.  I'd never even noticed the corner work, so now I'm
+hyper-sensitive to it.  The last couple of weeks I've seen some
+great motocross racing.  Especially noting the corner-work, I
+watched last week as
+James Stewart
+had a terrible crash in the supercross event.
+He's young, so I didn't worry too much about him.  I damn sure
+watched him today though.  He did well.  I even hear the names
+of some of the guys I watched when I was a  pup, like
+Roger Decoster.
+It's a trip.
+2010-01-23:   Don called me
+today and sucked me right up out of a nap.  I love naps so it
+wasn't something I was happy about.  Saturday afternoons are
+perfect for napping ya know.  I have to say it was a grand
+conversation though; much better than taking a nap anyway.  He's a
+bit "opinionated".  That's okay because I am as well.  So him
+and I can talk all damn day long and be entertained simply by listening
+to each other's opinions.  No one else has that luxury (except for
+cat.)  He's my friend and we have some "thing".  He's knows
+that I'm an idiot and I know he is too.  But in our regular lives
+we are both able to pull it off in a fashion that mitigates our own
+misery.
+=>
+We both worry about the same things at least.
+2010-01-21:
+Conan
+is interesting tonight; perhaps tomorrow night too.  I
+saw a
+Lotus
+today at the
+Jaguar
+dealership.
+2010-01-19:   Nothing to
+report.
+2010-01-16:   I installed a
+storm door today.  I didn't get finished however.  I've got to
+figure out how to drill an opening for the key-lock assembly.  My
+moto-tool will have to be utilized to do that.  It's been a fun
+project and it will be cool to be able to open the back door and let
+some air in the house.
+=>
+See,  if I can do this and then finish building the drawers for my
+work-bench and clean out the garage, then put all of my old r/c stuff up
+for action on eBay, I'll be able to get back in the r/c airplanes.
+So far my plan is working ;-)  =>
+But now
+that I'm thinking about it I've got a few words to say about the actual
+door that we purchased.  It's manufactured by a company called
+Anderson Windows and Doors .  The one we got is a 3000 series
+(24106) with the retractable insect screen.  I've gone in and out
+of the door several times now and it seems to be a well constructed
+nicely heavy door.  But damn, they could have pre drilled some of
+the holes and machined out the space where the key lock assembly goes.
+It needs a drill about and eighth of an inch bigger than my 1/2 drill
+will provide and I've had to resort to using my
+Dremel Mototool
+to grind out it out to the size I need.  It's
+slow work and it got dark so I had to stop.  What an easy thing it
+would have been for them to pre-machine that opening.  I'll work on
+it more tomorrow after the
+Cowboys
+beat
+Minnesota .
+2010-01-15:   It's 2 weeks
+before
+Dayton Speed Weeks
+starts.  I heard that the
+restrictor plates
+are going to be larger and they are going to
+replace the rear wings
+on the
+COT
+with a spoiler.
+§
+I'm looking at the
+Dallas R/C Club
+tonight.  I will start inventorying my old r/c stuff and put it all
+up for auction on
+eBay
+in order to fund this little idea I have .
+§
+I've been exchanging emails with my ex-wife, Diane.  We've only
+exchanged 2 emails actually.  It's pleasant to talk to her after
+all these years.
+2010-01-14:   It was a
+weird day.  I'm not really certain why.
+§
+Here's some interesting links I've been reading...  The Mars rover,
+Spirit is on it's
+last legs .  It looks like the shuttle dudes are having a
+bit of fun .
+Nikola Tesla
+is becoming known by more people than just me.
+Here's a couple of
+satellite photos of Haiti .  They are studying
+tattoos
+at Texas Tech .
+2010-01-13:   I'm getting a
+new laptop at the office but its a complete hassle.  I have to pack
+my old one up and ship it to "Laptop-Central" where the dude will call
+me and ask for my password when he needs to fire it up.  Then he
+configures everything, restores all my stuff and ships it back.
+While this happens... I have no laptop.  He tells me "he knows its
+a bit inconvenient."
+§
+After being off for Christmas and flying my little helicopter around
+I've found a little itch to dabble in some r/c stuff again.  I've
+been thinking a lot as well about working through the
+Tripoli
+certifications in High Powered Rocketry  as well.  Of course I
+recognize this new interest in things.  This happens sometimes and
+in the past has caused me spend lots of money on things I never
+use.  This time I have a plan however.  A prerequisite for me
+to pursue either r/c plans or rocketry will be for me to finish my work
+bench and clean up that garage.
+2010-01-11:   I've been
+sick as a damn dog lately.  I missed work all last week and today
+wasn't much better except I was able to stay until 6pm.
+§
+I got an email from Don with a cool link to
+Yale University . They
+have lectures that you can download.
+Open Yale Courses .
+2010-01-06:   I got a
+little r/c helicopter for Christmas this year.  Then it got busted
+up and it's not really that, its that it just doesnt really give me the
+degree of control I want.  So I talked to Don and he sent me this
+link for
+micro
+helios .
+2010-01-05:   I've not been
+doing much lately.  Monday I spent most of the day the E.R.  I
+thought that maybe my
+Pancreatitis
+was flaring back up.  The blood tests came back
+negative.  I'll spend another day in bed tomorrow.
+2009-12-31:   Marilyn and
+Dawn are both coming to the house tomorrow.  Dawn from West Texas
+and Marilyn from South Ft. Worth.  I think only dawn will spend the
+night.
+§
+We were very lazy and did nothing today.  It was so damn sweet.
+§
+I've spent a bit of time flying my helicopter around in this big living
+room.  It was very fun.
+§
+I don't know that I said much about it, but me and cat, on our
+adventures this Christmas, have been listing to this book on CD called
+"Dog On It" .  lol  It's a flipping cool story.  I
+can't say much more about it just now and I don't know if I'll ever pick
+up the thread again so my advice is if you want to read something fun,
+pick that up.  That person writes exactly like a dog thinks.
+(Night nite.  Happy new year to all...)
+2009-12-30:   One more day
+of this year to go.  I'm usually glad to see the old year come to
+an end, and this one is no exception.  Its much more fun to think
+about the days to come.
+§
+I don't really have much to say.  Today was a relaxing, calm day
+and not much happened.  That's what I desire.
+2009-12-29:   Home now.
+It was an adventure.
+2009-12-27:   Whoohoo!
+The boy's beat washington.
+§
+I finally got to chat with spooky a bit tonight.  She had a
+nice Christmas.
+2009-12-26:   We slept late
+this morning and went to eat at La Bodega for a late lunch.  There
+was a girl and her son in front of us that told the old man (that owns
+the restaurant), "You probably, don't remember but used to work for you
+30 years ago.  My son here was 4 years old and now he's 34."
+It was pretty cool. Cat talked to him later and asked when he started
+the bidness and he said he did it in 1971.
+=>
+Tonight we went over to Tony and Cheri's.  It was such a nice time.
+We walked in the door, flopped down at the kitchen table and just talked
+for 3 hours.  Michael was there and loaned me a book that he
+thought I might like.   That very seldom happens to me.
+It's called
+"Anathem"
+by
+Neal
+Stephenson .  We'll see but that book doesn't seem like the sort
+of stuff that I read.
+2009-12-25:   Merry
+Christmas!  We're in Midland.  We got here about 2 this
+afternoon.  I-20 was fine and we had no problems driving in.
+It was cold though.  I got an r/c helicopter and I've been flying
+it around so much tonight that the pups are too scared to be in the room
+with us.  Ike got his nose caught in the helicopter rotor and now
+thinks it is Diablo. Nice to be home.  Merry Christmas to all my
+friends and My loves!
+2009-12-24:   Merry
+Christmas Eve.  We are stuck in Abilene Texas.  Texas had a
+bit of a blizzard today.  We got up this morning, packed and was on
+the west side of Ft. Worth before noon.  Cat was driving and I fell
+asleep for a bit.  When I woke up it was snowing bad and the
+windshield wipers wouldn't scour.  Traffic was at a standstill on
+I-20 west of Eastland and we sat as they cleared a truck that had
+jackknifed.  I think we sat for about 3 hours just inching forward
+a bit from time to time. When we finally got to Cisco, we stopped at a
+dairy queen that was actually closed but they were letting people use
+their bathroom.  Damn it was a mess.  I-20 was not moving at
+all so we made the decision to drive from Cisco to Cross Plains.
+So we drove south about 30 miles to this little town in an attempt to
+avoid I-20 between Cisco and Abilene.  That was a freaky drive.
+Lots of cars off the road.  The snow was only on the south side of
+the trees but there was a lot of snow on the ground.  Between Cross
+Plains and Abilene we saw a truck or car that was upside down in
+the ditch.  The DPS dudes were there.  It was after dark by
+the time we got to Abilene.  I got us some subway for supper and
+now we're in a Days-Inn kicking back and reliving the weirdness of the
+day; Me, Cathy, Isaac, and Isabelle.
+2009-12-22:   I am off.
+I mean I don't have to go back to work for a loong time; like until
+January the 5th!  Don't expect any good posts here for the next few
+days because I'm kicking back and doing nothing.
+2009-12-21:   Well, it's
+been a nice day.
+=>
+Don and Ana got home from Mexico okay over the
+weekend, and I've upgraded these laptops to Win 7.  (They seem to
+work fairly well actually.  It surprises me.)
+=>
+I copied all of my personal files from my old laptop to this
+one although I can't find to where I copied it.  Actually I did
+found it earlier tonight but everything is in a new place now; I had to
+make some compromises as to how I would name the place I was copying to.
+Tomorrow I will struggle to find it again.
+2009-12-20:   Last night
+before we went to bed, we upgraded our laptops to Windows 7.  It
+went pretty smooth.  I think we've got the problems with 2ndLife
+figured out.
+=>
+I think as far as upgrading to a new OS it's gone well.  As long as
+my FTP program still works so I can update this website.
+§
+I've started re-reading the
+Crazy Horse
+book.
+For Christmas, I gave the girls at the office that
+book
+I just finished about the old Indian man.  I want to send
+that same book to spooky but its getting late.  She gets the one I
+read :-)  This new laptop doesn't have all of my files and I don't
+have her address at hand.  I have to look on my old laptop (I'm
+copying the hard drive now as I type this.) for that and its one of
+those things I can see that I'm going to slip on.  It gets wrapped
+tomorrow and goes in the mail Tuesday.  I promise!
+2009-12-19:   Don wrote
+something that I thought was cool.  He said "I like to watch the
+sun rise and the sun set.  I like to think of it as my way of
+honoring the day."  I've watched lots of sunrises and sunsets but
+never really thought of it like that.  I should pay much more
+attention to the important things in life.
+2009-12-17:   So I played
+around just a bit with C++ Builder 2010.  It seem to work well.
+Maybe I'll write my 3d rotation program so I can figure out how to do
+graphics in this version of C++.
+2009-12-16:   That book I
+just finished about the old Indian man and the writer guy was incredibly
+good.  One of the reasons I love physics is because of the
+incredibly precise statements and logical thoughts that come from those
+guys trying to explain what they are doing.  That aspect is as
+interesting as the physics itself to me.  That's probably why I'm
+not a physicist.  The concepts explained by "Dan" are as complex
+yet simple as can be.  Its like being on the leading-edge of the
+"common-sense" wave.
+2009-12-15:   I guess one
+of the big problems I had in the hospital was the fact that I didn't
+sleep at all that first night. The doc told me I was getting out the
+next day so I sat around all day waiting for him to come by and release
+me.  Every hour I picked up the little breathing thing that
+probably cost 100 bucks, and worked on my lung functions knowing that my
+doc would listen to me before he'd let me out.  I wanted to make
+sure my lungs were working perfectly.  I'm 48 years old and I've
+spent 48 years manipulating my life in a manner such that now I enjoy
+everything about it.  When I get trapped in some situation that
+destroys all of the influence I have upon my own life it upsets me and
+that's what was happening to me.  About 7 or 8 o'clock I started
+thinking he wasn't going to show up and let me go home.  I asked
+the nurse, "What's the latest you've ever seen him release someone?"
+She said as late as 11pm.  That gave me a glimmer of hope.  I
+didn't get out until about 4 the next day.
+=>
+I'm tired of talking about the gut surgery.
+2009-12-14:   It's hard for
+me to keep telling the story about the hospital visit.  I just want
+to forget about it. I'm feeling better btw. I think maybe that doc fixed
+me but it still seems a bit early.  I'm still having pain but I
+can't separate the original pain from the new pain that's there now from
+the procedure.  It'll fade and I'll know soon enough if all this
+was worth it.
+=>
+The next morning I watched the
+number and frequency of photons
+entering my room increase as the sun
+came up.  I'd gotten up a couple of times during the night and
+found that I'd been catheterized at some point during my procedure and
+just what a pain such a thing causes.  No one had said anything
+about that happening however but looking back I should have known that
+would happen.  I just never thought about it.  I've definitely
+never felt that "pissing razorblades" pain before and it would have been
+nice to have had a warning.  That's when I started noticing that
+there were things I wished someone would have talked to me about
+post-op.  I didn't really have much memory of the events of the
+prior day.  The sun was coming up and all I really noticed was this
+"hisssss, chooooo, sssssssss (quiet.....)  hisssss,
+chooooo, sssssssss (quiet.....)'' from those tubes wrapped around my
+legs, now entangled irreparably in my sheets.  Its funny because 30
+hours after I'd been there one of the nurses made it a point to tell me
+not to get out of my bed; that I should call and ask for assistance.
+I told her I'd been out of my bed several times throughout the day and
+me saying that seemed to upset her somehow.  I was pissed off
+because the way they had handcuffed me pretty much prevented me from
+reaching the bathroom.  The bathroom is on the left.  My right hand
+is tethered by a pulse-ox monitor attached to my right index finger.
+In the top of my right hand an IV going into one of those
+IV
+contraptions
+which has been placed on the right side of my bed
+defines my range of motion.  Even meals were a hassle there.
+Meals didn't just show up like every other time I've been in the
+hospital.  You had to remember to "order" your food or you'd go
+without.  In the end it absolutely pissed me
+off when after I finally started complaining about the 1 or 2 things I
+actually bitched about, that from that point every person that came in
+my room was hyper-aware of my "I's and O's" and whether my bed rails
+were raised or not.  Prior to my complaints no one thought of those
+things and those things were the least important to me.  (Strike 2)
+2009-12-13:   I'm home from
+the hospital.   It was a terrible ordeal; one which will take
+me some time to ponder in order to truly understand what all happened.
+It was ironically strange.  We got to the hospital at 6am last
+Wednesday, they took us back to the pre-op area and I got into my gown.
+The chick that was starting the IV asked if I was left or right handed.
+I answered "right" and she preceded to put that IV in my right wrist.
+Later I'd be tethered most uncomfortably by both an IV and a pulse-ox
+sensor attached to my right hand.
+(Strike 1)
+=>
+I don't remember much about the procedure.  In fact I don't
+remember much after leaving cat.  Those drugs they gave me did
+their job and I'm glad off it.  The next memory I have is waking up
+in my hospital room.  Cat was there and told me that everything
+went pretty well.  I remember her at that time as a mysterious
+memory.  You know how it is when you get out of surgery?  No?
+I didn't either.  This was my first time really.  I just
+wanted to go to sleep and wake up and not to have to deal with
+anything.  The problem was, I didn't sleep at all that first night
+after the procedure.
+=>
+So here's the situation.  Like lots of other nights in my life, I'm
+not sleeping and I'm bored and I hurt and so as often as I can I pick up the
+the circa 1980 hospital bed communication device that not only serves as
+a communicator to the nursing station but also controls 2 functions of
+the bed positioning, and call to request the most amount of drugs
+(Morphine) I can possibly have.  I have leggings on and they
+squeeze my legs rhythmically so that I don't throw off any blood-clots.
+Of course 30 years ago they didn't realize yet that
+having this, "hisssss, chooooo, sssssssss (quiet.....)  hisssss,
+chooooo, sssssssss (quiet.....)'' could possibly harm the ability for
+someone to sleep.  However, someone did (and I bet after 1980),
+convince this hospital that if they were to play wonderfully soft
+happy-music at each and every 1/2-hour in order to mark the passage of
+time, it would be beneficial to the patient.  So every 30 minutes
+while I was rolling around in agony, I got a chance to listen to the
+first 30 seconds of the most childlike/"Oh we don't want them to be
+offended by playing a real version of the song." compromise of
+Brahms Lullaby .
+§
+I finally finished that book while I was in the hospital.  That
+Kent Nerburn
+book,
+Neither Dog Nor Wolf
+is one of the most thought provoking things I
+have ever read.  Last night when I went to bed I had the last 30
+pages to finish reading.   I later woke up and had some late
+night "visions".  Thanks Kent.
+2009-12-08:
+Pearl Harbor Day
+went by with out me even realizing it.  Dammit.
+We should all remember those times and for some reason I like to review
+that history.
+§
+I was busy with the DAU repackaging which I finished tonight.
+There was a bit of worry for a while that I wouldnt be able to get the
+new libraries from that remote server because the
+FTP
+program I was using gave me some bogus error about an object
+name with a dash in it.  I downloaded a new
+FTP
+program and it didn't give me the bogus error message.  I
+think everything is pretty much finished.  At least the part on the
+IBM server is done.
+§
+Tomorrow is the morning I get holes poked in me to fix my Hiatal Herina.
+I should get some good drugs tomorrow.  You should be jealous.
+2009-12-07:   I worked most
+of the evening on DAU.   I broke it for a while because of how
+I was doing the libraries.  But I got it working and started take
+screen shots for the documentation.  Its close to being finished.
+I'll do the final repackage and download the object libraries tomorrow.
+I even tested my install and uninstall programs and they seem to work.
+Damn I wish I had a few more days though.
+§
+Cat and I have been playing around in
+SecondLife . It's
+pretty cool to me because I love the graphics.  You may recall I've
+written some programs that do the 3d rotational math that is very
+similar to what's being done on SL.  Plus its rather erotic there.
+I like erotic.  lol SL is super graphics intensive and my brand-new
+HP super-duper laptop is not as fast as cat's brand-new HP super-duper
+laptop.  We got diff laptops and hers is much better at the
+graphics stuff than mine.
+2009-12-05:   I worked on
+DAU for a few hours today.  It's going a bit slower than I would
+like; mostly because I've been lazy and stayed up too late with cat.
+Have I said that I love her dearly lately? We have such a brilliant time
+together.
+§
+We bought a Christmas tree today.  It's a little tree in a pot that
+is alive and we (that means cat) will take care of it.  We've going
+to decorate it tomorrow.  It's been many years since we've had
+Christmas tree.
+2009-12-03:   I tested for
+about 4 hours today.  Everything seems to be working.  I'm
+going to change the name of it however.  The old i5 name has sort
+of slipped away and IBM calls that box the System i.  So I'll call
+it DAU/i Version 3.6.  I started updating the user manual.  I
+still need to get new screen shots for everything in the manual.
+That might take a while.  I'll try to finish that tomorrow.
+2009-12-02:   I was lazy
+today and didn't work on DAU.  I had other things to do and the
+project seems to be going well.  I'll do 8 hours on it tomorrow.
+§
+Everyone keeps asking what I want for Christmas.  I can't think of
+a thing.  Its not that I have everything.  I'm just not
+interested in much these days so I have nothing that I desire.  I
+want the complete
+Feynman's Lectures on Physics .  Cat is getting me a little r/c
+helicopter.  I've been wanting one for years.
+2009-12-01:   DAU/i version
+3.6 is up and running!  I had to make some changes and I think I
+will make even more tomorrow but it's nice to have it running.
+I've still got lots and lots of testing to do so hopefully I'll finished
+my changes tomorrow and then I can use the rest of the week for testing.
+§
+I'm going in tomorrow for my pre-op tests for my gut surgery.  That
+should be interesting.
+Daily Notes
+What's New!
+April 4, 2010
+- It's mum's birthday today.
+March
+24, 2010
+- Updated notes.  Changed Dory's name away from Stuka.
+March
+13, 2010
+- Added a picture of Stuka on the home page and I've added
+the source code to my projection program.  Of course I also updated
+the daily notes as well.
+March
+10, 2010
+- Updated notes and updated the section on
+Rotations .
+March
+6, 2010
+- I added to the daily notes.
+February 24, 2010
+- I added some links on the front page and updated
+the link archive.  Updated notes.  Today was no fun.
+February 15, 2010
+- I wrote on the Quantum page tonight and updated
+my daily notes.
+Copyright
+2009 - K.D. Young Never
+underestimate the insignificance of almost everything.

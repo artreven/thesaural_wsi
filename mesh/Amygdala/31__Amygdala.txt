@@ -1,0 +1,176 @@
+The Olfactory System - Bethopedia
+Bethopedia
+do ALL the study!
+Help
+Recent changes
+List all pages
+Page Tags
+Site Manager
+Create account
+or
+Sign in
+2014
+Semester 1
+COMP2121
+COMP3231
+COMP3821
+2013
+Semester 1
+BABS1201
+(Dropped 4 weeks in)
+CHEM1011
+(Dropped 4 weeks in)
+PSYC1001
+(Dropped 4 weeks in)
+ARTS3691
+COMP3901
+Semester 2
+COMP3421
+COMP3431
+(Dropped 1 week in)
+COMP4920
+ARTS3695
+2012
+Semester 1
+ARTS2692
+COMP2041
+COMP3411
+COMP9417
+Semester 2
+ARTS2693
+COMP2911
+PSYC1011
+2011
+Semester 1
+ARTS1361
+ARTS1690
+MATH1081
+MATH1131
+Semester 2
+ARTS1691
+COMP1927
+ECON1101
+MATH1231
+11s1
+algebra
+allomorph
+arts1690
+arts1691
+arts-degree
+bernoulli
+calculus
+cases
+computerscience-degree
+first-year
+linguistic-jargon
+linguistics
+math1231
+maths
+partial-derivatives
+philosophy
+review
+vector-space
+The Olfactory System
+PSYC1011
+»
+Psychophysics
+» The Olfactory System
+Olfaction
+is the sensory system of smell. Olfaction, along with taste, is a form of chemoreception. The chemicals that activate the olfactory system, in general at very low concentrations, are called odorants.
+Odorants
+Odorants
+are small chemical compounds with an associated odor. They're small enough to be volatile, enabling signaling over long distances (i.e. can be transported into the olfactory system). Humans are sensitive to molecules between about 20 and 400 molecular weight. (E.g. alcohol is 46, sugar 342).
+Basic Anatomy
+Each nostril contains, in its roof, a region known as the nasal mucosa. This contains the
+olfactory epithelium
+(type of tissue), which is covered in mucus.
+Odorants are carried along the mucosa until they hit the
+sensory neurons
+- the epithelium is kind of like the retina for the nose. It's 5-10cm 2
+in humans (much bigger in cats, and again in dogs).
+Chemical receptors regenerate themselves continuously; olfactory receptors regenerate every 5-7 weeks.
+Olfactory sensory neurons (olfactory receptor cells) are activated by their receptors and pass signals to the
+mitral cells
+of the
+olfactory bulb .
+From the olfactory bulb, neural signals get sent to the:
+Piriform cortex
+(Primary Olfactory) in the temporal lobe
+Oribitofrontal cortex (Secondary Olfactory) in the frontal lobe
+Amygdala
+( Limbic system ) - important for emotional/associative properties of olfactory cognition.
+Olfaction is unusual because it is not âgatedâ by the thalamus before the sensory signal enters the cortex.
+Linking Chemical Shapes to Perceived Smell
+Odor receptor nerve cells function like a key-lock system; If the airborne molecules of a certain chemical can fit into the 'lock', the nerve cell will respond. There are, at present, a number of competing theories regarding the mechanism of odor coding and perception.
+Vibrations Theory
+The original theory was
+Vibration Theory ; the concept that the vibrations of a molecule caused receptors to fire and hence we perceive a scent. It is not the mainstream theory, but does explain why some odours are similar/different (but not intensity of odours).
+Shape Theory
+Moncrieff's 1951
+Shape Theory
+suggests that the shape of a compound determines its scent. Problems with this include the lack of a convincing way to predict scent, and the existence of similar molecules with different smells, and distinct molecules with similar smells (e.g. pineapple).
+Amoore built upon this theory and proposed that 10,000+ smells could be composed of seven primary odors, including: sweaty, spermous, fishy, malty, urinous and musky.
+Shape-Pattern Encoding
+To deal with the problem of similar/different molecules/scents, we have the theory of coding across receptors. I.e. oderants are combinations of patterns that a receptor will recognise, meaning we need multiple receptors to each take a section of the smell and activate in various combinations. This combination is called a
+recognition profile
+- sometimes time order of activation is important, and sometimes specific receptors may be required.
+Identification of Odours
+Human Odour Detection Thresholds
+Our recognition threshold (the concentration of an amount needed to determine the quality of an odorant) is 3 times higher for recognition as opposed to detection of a scent, and discrimination between scents.
+We can discriminate between 100,000 odours, but cannot label them all.
+We are better at recognising (and we prefer these) familiar smells; babies recognise their mother's scent within a few weeks, and will suck more if he/she smells their own mother rather than a stranger - Macfarlane, 1975
+Odour Preferences
+Odour preferences start very young. Steiner (1977, 1979) and Soussignan et al (1997) measured the facial expressions of 3-8 hour old infants in response to some food related odours and found averse facial responses to unpleasant smells (and concluded that some responses to odours are hard-wired).
+Human Odour Identification
+Russel's 1976 study of undershirts worn for 24 hours without showring/deoderants revealed that 75% of the time people can identify their own odour, and identify the sex of an odour.
+Fear vs Happiness
+Chen & Haviland-Jones (2000) experiment on fear revealed that humans can identify the difference between odours of fear and happiness.
+Scent-Tracking
+Porter's 2007 Scent-Tracking Experiment revealed that the zig-zag pattern found in animals is also spontaneously exhibited in humans, presumably to counteract the quick adaptation to a scent.
+page revision: 4, last edited:
+02 Sep 2012 05:08
+Edit
+Tags
+History
+Files
+Print
+Site tools
++ Options
+Edit Sections
+Append
+Edit Meta
+Watchers
+Backlinks
+Page Source
+Parent
+Lock Page
+Rename
+Delete
+Help
+|
+Terms of Service
+|
+Privacy
+|
+Report a bug
+|
+Flag as objectionable
+Powered by
+Wikidot.com
+Click here to edit contents of this page.
+Click here to toggle editing of individual sections of the page (if possible).
+Watch headings for an "edit" link when available.
+Append content without editing the whole page source.
+Check out how this page has evolved in the past.
+If you want to discuss contents of this page - this is the easiest way to do it.
+View and manage file attachments for this page.
+A few useful tools to manage this Site.
+See pages that link to and include this page.
+Change the name (also URL address, possibly the category) of the page.
+View wiki source for this page without editing.
+View/set parent page (used for creating breadcrumbs and structured layout).
+Notify administrators if there is objectionable content in this page.
+Something does not work as expected? Find out what you can do.
+General Wikidot.com documentation and help section.
+Wikidot.com Terms of Service - what you can, what you should not etc.
+Wikidot.com Privacy Policy.

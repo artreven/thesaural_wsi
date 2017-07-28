@@ -1,0 +1,466 @@
+Hepatitis C (virus) - HEPATITIS and YOU!
+HEPATITIS and YOU! Search this site
+Home Vitamin C Hepititis C (disease) Hepatitis C (virus) Vitamins Sitemap
+Recent site activity Home edited by Nick Tilberg Vitamin C edited by Nick Tilberg Vitamins edited by Nick Tilberg Vitamin C edited by Nick Tilberg Home edited by Nick Tilberg View All
+Home ‎ > ‎
+Hepatitis C (virus)
+Hepatitis C (virus)
+From Wikipedia, the free encyclopedia
+Jump to:
+navigation ,
+search
+Hepatitis C virus
+Electron micrograph of Hepatitis C virus. The bar = 50 nm
+Virus classification
+Group:
+Group IV
+( (+)ssRNA )
+Family:
+Flaviviridae
+Genus:
+Hepacivirus
+Type species
+Hepatitis C virus
+This page is for the virus. For the disease, see
+Hepatitis C .
+Hepatitis C virus
+( HCV ) is a small (55-65
+nm
+in size), enveloped,
+positive sense
+single strand
+RNA
+virus in the family
+Flaviviridae . Although
+Hepatitis A virus ,
+Hepatitis B virus , and Hepatitis C virus have similar names (because they all cause
+liver
+inflammation), these are distinctly different viruses both genetically and clinically.
+Contents
+[ hide ]
+1
+Structure 2
+Genome 3
+Replication 4
+Diagnosis 5
+Genotypes 6
+Vaccination 7
+Current research 8
+See also 9
+References 10
+External links
+[ edit ]
+Structure
+Simplified diagram of the structure of the Hepatitis C virus particle
+The structure of the hepatitis C virus consists of a core of genetic material (RNA), surrounded by an
+icosahedral
+protective shell of
+protein , and further encased in a lipid (fatty) envelope of cellular origin. Two viral envelope
+glycoproteins , E1 and E2, are embedded in the lipid envelope. [ 1 ]
+[ edit ]
+Genome
+Genome organisation of Hepatitis C virus
+Hepatitis C virus has a positive sense
+RNA
+genome
+that consists of a single
+open reading frame
+of 9600
+nucleoside
+bases. [ 2 ]
+At the 5' and 3' ends of the RNA are the UTR regions, that are not
+translated into proteins but are important to translation and
+replication of the viral RNA. The 5' UTR has a
+ribosome
+binding site [ 3 ]
+(IRES - Internal Ribosomal Entry Site) that starts the translation of a
+3000 amino acid containing protein that is later cut by cellular and
+viral
+proteases
+into 10 active structural and non-structural smaller proteins. [ 4 ]
+[ edit ]
+Replication
+A simplified diagram of the HCV replication cycle
+Replication of HCV involves several steps. The viruses need a
+certain environment to be able to replicate, and must therefore first
+move to such areas.
+HCV has a high rate of replication with approximately one trillion
+particles produced each day in an infected individual. Due to lack of
+proofreading by the HCV RNA polymerase, HCV also has an exceptionally
+high mutation rate, a factor that may help it elude the host's immune
+response.
+HCV mainly replicates within
+hepatocytes
+in the liver, although there is controversial evidence for replication in
+lymphocytes
+or
+monocytes . By mechanisms of
+host tropism , the viruses reach these proper locations. Circulating HCV particles bind to
+receptors
+on the surfaces of hepatocytes and subsequently enter the cells. Two putative HCV receptors are
+CD81
+and human
+scavenger receptor class B1
+(SR-BI). However, these receptors are found throughout the body. The
+identification of hepatocyte-specific cofactors that determine observed
+HCV liver
+tropism
+are currently under investigation.
+Once inside the hepatocyte, HCV initiates the
+lytic cycle . It utilizes the intracellular machinery necessary to accomplish its own replication. [ 5 ]
+The HCV genome is
+translated
+to produce a single protein of around 3011 amino acids. The polyprotein
+is then proteolytically processed by viral and cellular
+proteases
+to produce three structural (virion-associated) and seven nonstructural
+(NS) proteins. Alternatively, a frameshift may occur in the Core region
+to produce an Alternate Reading Frame Protein (ARFP). HCV encodes two
+proteases, the NS2 cysteine autoprotease and the NS3-4A serine
+protease. The NS proteins then recruit the viral genome into an RNA
+replication complex, which is associated with rearranged cytoplasmic
+membranes. RNA replication takes places via the viral RNA-dependent
+RNA polymerase
+NS5B, which produces a negative-strand RNA intermediate. The negative
+strand RNA then serves as a template for the production of new
+positive-strand viral genomes. Nascent genomes can then be translated,
+further replicated, or packaged within new virus particles. New virus
+particles are thought to bud into the secretory pathway and are
+released at the cell surface.
+[ edit ]
+Diagnosis
+Diagnosis of HCV can occur via
+DNA analysis
+of the 5′-noncoding region (5′-NCR). However results vary according to the HCV genotype and
+viral load .
+Non-western HCV genotypes have not been studied as much. In 2009 it was
+shown that the 3′-X-tail element of the HCV genome is highly conserved
+across genotypes. It could be tested for $US8.70 within a couple of
+hours and could also be a valuable tool for screening of
+blood supplies . [5]
+[ edit ]
+Genotypes
+Based on genetic differences between HCV isolates, the hepatitis C virus species is classified into six
+genotypes
+(1-6) with several subtypes within each genotype (represented by
+letters). Subtypes are further broken down into quasispecies based on
+their genetic diversity. The preponderance and distribution of HCV
+genotypes varies globally. For example, in
+North America , genotype 1a predominates followed by 1b, 2a, 2b, and 3a. In
+Europe , genotype 1b is predominant followed by 2a, 2b, 2c, and 3a. Genotypes 4 and 5 are found almost exclusively in
+Africa . Genotype is clinically important in determining potential response to
+interferon -based therapy and the required duration of such therapy. Genotypes 1 and 4 are less responsive to
+interferon -based treatment than are the other genotypes (2, 3, 5 and 6). [ 6 ]
+Duration of standard interferon-based therapy for genotypes 1 and 4 is
+48 weeks, whereas treatment for genotypes 2 and 3 is completed in 24
+weeks.
+Infection with one genotype does not confer immunity against others,
+and concurrent infection with two strains is possible. In most of these
+cases, one of the strains removes the other from the host in a short
+time [ 7 ] . This finding opens the door to replace strains non-responsive to medication with others easier to treat.
+[ edit ]
+Vaccination
+Unlike hepatitis A and B, there is currently no
+vaccine
+to prevent hepatitis C infection.
+In a 2006 study, 60 patients received four different doses of an experimental hepatitis C vaccine. All the patients produced
+antibodies
+that the researchers believe could protect them from the virus. [ 8 ]
+Nevertheless, as of 2008 vaccines are still being tested. [ 9 ] [ 10 ]
+[ edit ]
+Current research
+In 2007 the
+World Community Grid
+launched a project where, by computer modelling of the Hepatitis C
+Virus (and related viruses), thousands of small molecules are screened
+for their potential anti-viral properties in fighting the Hepatitis C
+Virus. This is the first project to seek out medicines to attack the
+virus directly once a person is infected. This is a distributed process
+project similar to
+SETI@Home
+where the general public downloads the World Community Grid agent and
+the program (along with thousands of other users) screens thousands of
+molecules while their computer would be otherwise idle. If the user
+needs to use the computer the program sleeps. There are several
+different projects running, including a similar one screening for
+anti-AIDS drugs. The project covering the Hepatitis C Virus is called
+"Discovering Dengue Drugs – Together," because
+Dengue
+virus and HCV belong to the same family, together with
+West Nile
+and
+Yellow fever
+viruses.
+[ 11 ]
+The software and information about the project can be found at the World Community Grid web site. [ 12 ]
+Current research is focused on viral
+protease inhibitors , with drugs such as
+Telaprevir , and
+monoclonal antibodies
+like
+MBL-HCV1 [ 13 ] . Barriers to the study of HCV include the narrow host range of HCV, and the only animal model for HCV study is the
+chimpanzee . The use of
+replicons
+has been successful but these have only been recently discovered. [ 14 ]
+HCV, as with most all
+RNA
+viruses, exists as a
+viral quasispecies , making it very difficult to isolate a single strain or receptor type for study. [ 15 ]
+[ edit ]
+See also
+Hepatitis C virus stem-loop VII Hepatitis C virus 3'X element Hepatitis C virus (HCV) cis-acting replication element (CRE)
+[ edit ]
+References
+^
+Op De Beeck A, Dubuisson J (2003). "Topology of hepatitis C virus envelope glycoproteins".
+Rev. Med. Virol.
+13
+(4): 233–41.
+doi : 10.1002/rmv.391 .
+PMID 12820185 .   ^
+Kato N (2000). "Genome of human hepatitis C virus (HCV): gene organization, sequence diversity, and variation".
+Microb. Comp. Genomics
+5
+(3): 129–51.
+PMID 11252351 .   ^
+Jubin R (2001). "Hepatitis C IRES: translating translation into a therapeutic target".
+Curr. Opin. Mol. Ther.
+3
+(3): 278–87.
+PMID 11497352 .   ^
+Dubuisson J (2007). "Hepatitis C virus proteins".
+World J. Gastroenterol.
+13
+(17): 2406–15.
+PMID 17552023 .   ^
+Lindenbach B, Rice C (2005). "Unravelling hepatitis C virus replication from genome to function".
+Nature
+436
+(7053): 933–8.
+doi : 10.1038/nature04077 .
+PMID 16107832 .   ^
+Simmonds
+P, Bukh J, Combet C, Deléage G, Enomoto N, Feinstone S, Halfon P,
+Inchauspé G, Kuiken C, Maertens G, Mizokami M, Murphy D, Okamoto H,
+Pawlotsky J, Penin F, Sablon E, Shin-I T, Stuyver L, Thiel H, Viazov S,
+Weiner A, Widell A (2005). "Consensus proposals for a unified system of
+nomenclature of hepatitis C virus genotypes".
+Hepatology
+42
+(4): 962–73.
+doi : 10.1002/hep.20819 .
+PMID 16149085 .   ^
+Laskus T, Wang LF, Radkowski M, Vargas H, Nowicki M, Wilkinson J, Rakela J..
+Exposure
+of hepatitis C virus (HCV) RNA-positive recipients to HCV RNA-positive
+blood donors results in rapid predominance of a single donor strain and
+exclusion and/or suppression of the recipient strain .
+PMID 11160710 .   ^
+Edell, Dean (2006). " Hepatitis C Vaccine Looks Promising ". ABC7/KGO-TV .
+http://abclocal.go.com/kgo/story?section=edell&id=4278043 . Retrieved on 2006-07-04 .   ^
+Strickland GT, El-Kamary SS, Klenerman P, Nicosia A. Hepatitis C
+vaccine: supply and demand. Lancet Infect Dis. 2008
+Jun;8(6):379-86.Click here to read
+PMID 18501853 ^
+HCV Vaccine Development
+[1] ^
+Website
+[2] ^
+Website
+[3] ^
+Infection By Hepatitis C Virus Prevented By Novel Antibody
+[4] ^
+Meier V, Ramadori G (April 2009). " Hepatitis C virus virology and new treatment targets ".
+Expert Rev Anti Infect Ther
+7
+(3): 329–50.
+doi : 10.1586/eri.09.12 .
+PMID 19344246 .
+http://www.future-drugs.com/doi/abs/10.1586/eri.09.12?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dncbi.nlm.nih.gov . Retrieved on 2009-04-16 .   ^
+Manns MP, Foster GR, Rockstroh JK, Zeuzem S, Zoulim F, Houghton M. "The
+way forward in HCV treatment - finding the right path." Nat Rev Drug
+Discov. 2007 Dec;6(12):991-1000.
+[ edit ]
+External links
+Academic articles about the HCV six genotypes Hepacivirus Genomes
+database search results from the
+Hepatitis C Virus Database at the Viral Bioinformatics Resource Center HCV Sequence and Immunology Databases
+at Los Alamos National Laboratory
+[ hide ]
+v   •   d   •   e
+Infectious diseases  ·
+Viral diseases
+( A80-B34 ,
+042-079 )
+Oncovirus
+DNA virus :
+HBV
+( Hepatocellular carcinoma )  ·
+HPV
+( Cervical cancer )  ·
+Kaposi's sarcoma-associated herpesvirus
+( Kaposi's sarcoma )  ·
+Epstein-Barr virus
+( Nasopharyngeal carcinoma ,
+Burkitt's lymphoma ,
+Primary central nervous system lymphoma )  ·
+MCPyV
+( Merkel cell cancer )  ·
+SV40
+RNA virus :
+HCV
+( Hepatocellular carcinoma )  ·
+HTLV-I
+( Adult T-cell leukemia/lymphoma )
+Immune disorders
+HIV
+( AIDS )
+Central
+nervous system
+Encephalitis /
+meningitis
+DNA virus :
+JCV
+( Progressive multifocal leukoencephalopathy )
+RNA virus :
+MeV
+( Subacute sclerosing panencephalitis )  ·
+LCV
+( Lymphocytic choriomeningitis )  ·
+Arbovirus encephalitis  ·
+Orthomyxoviridae (probable)
+( Encephalitis lethargica )  ·
+RV
+( Rabies )
+Myelitis
+Poliovirus
+( Poliomyelitis ,
+Post-polio syndrome )  ·
+HTLV-I
+( Tropical spastic paraparesis )
+Eye
+Cytomegalovirus
+( Cytomegalovirus retinitis )  ·
+HSV
+( Herpetic keratitis )
+Cardiovascular
+CBV
+( Pericarditis ,
+Myocarditis )
+Respiratory
+system /
+acute viral
+nasopharyngitis /
+viral pneumonia
+DNA virus
+Epstein-Barr virus
+( EBV infection / Infectious mononucleosis )  ·
+Cytomegalovirus
+RNA virus
+IV :
+SARS coronavirus
+( Severe acute respiratory syndrome )
+V ,
+Orthomyxoviridae :
+Influenzavirus A / B / C
+( Influenza / Avian influenza )
+V,
+Paramyxovirus :
+Human parainfluenza viruses
+( Parainfluenza )  ·
+RSV  ·
+hMPV
+Digestive system
+Oropharynx / Esophagus
+MuV
+( Mumps )  ·
+Cytomegalovirus
+( Cytomegalovirus esophagitis )
+Gastroenteritis /
+diarrhea
+DNA virus :
+Adenovirus
+( Adenovirus infection )
+RNA virus :
+Rotavirus  ·
+Norovirus  ·
+Astrovirus  ·
+Coronavirus
+Hepatitis
+DNA virus :
+HBV
+( B )
+RNA virus :
+CBV  ·
+HAV
+( A )  ·
+HCV
+( C )  ·
+HDV
+( D )  ·
+HEV
+( E )  ·
+HGV
+( G )
+Pancreatitis
+CBV
+Skin
+and
+mucous membrane
+lesions ,
+including
+exanthem
+DNA virus
+Herpesviridae
+HSV
+( Herpes simplex ,
+Herpetic whitlow )  ·
+VZV
+( Chickenpox ,
+Herpes zoster )  ·
+Human herpesvirus 6 / Roseolovirus
+( Exanthema subitum )  ·
+KSHV
+( Kaposi's sarcoma )  ·
+Herpes B Virus
+Poxviridae
+Variola
+( Smallpox )  ·
+MoxV
+( Monkeypox )  ·
+CV
+( Cowpox )  ·
+VV
+( Vaccinia )  ·
+MCV
+( Molluscum contagiosum )
+Other
+HPV
+( Wart / Plantar wart )  ·
+Parvovirus B19
+( Erythema infectiosum ,
+Reticulocytopenia )
+RNA virus
+MeV
+( Measles )  ·
+Rubella virus
+( Rubella ,
+Congenital rubella syndrome )
+picornavirus :
+CAV
+( Hand, foot and mouth disease ,
+Herpangina )  ·
+FMDV
+( Foot-and-mouth disease )
+Urogenital
+BK virus  ·
+MuV
+( Mumps )
+Retrieved from " http://en.wikipedia.org/wiki/Hepatitis_C_virus "
+Categories :
+Flaviviruses
+|
+Microbiology
+Comments
+Sign in | Recent Site Activity | Report Abuse | Print Page | Powered By
+Google Sites

@@ -1,0 +1,2546 @@
+BEPS
+Update:
+2012-01-02 09:10 PM +0630
+TIL
+Sanskrit English Dictionary
+ku-p052top-2.htm
+from: Online Sanskrit Dictionary, February 12, 2003 .
+http://sanskritdocuments.org/dict/dictall.pdf   090907
+Downloaded, set in HTML, and edited by U Kyaw Tun,
+M.S. (I.P.S.T., U.S.A.), and staff of TIL Computing
+and Language Centre, Yangon, Myanmar.
+Not for sale.
+No copyright. Free for everyone.
+index.htm
+|
+Top
+SED-con-r1-indx.htm
+Contents of this page
+{ ku. } कु
+{ ku.ka. }
+{ koak~ka. }
+कुक्क : UKT - unless I make extreme vowel changes from <u> to <oa->
+transcription become unreliable - 100603
+{ ku.sa. }
+कुच
+{ ku.Ta. }
+कुट
+{ ku.ta. }
+कुत
+{ koan~ } कुन्
+{ ku.pa. }
+कुप
+{ ku.ya. }
+कुय
+{ ku.ra. }
+कर
+Noteworthy passages in this file:
+• "Though a well known 	monarchical people in earlier period,
+the Kurus are known to have switched to republic form of government
+during sixth/fifth century BCE. Fourth century BCE
+Kautiliya 's
+Arthashastra
+also attests the Kurus as following
+the
+Rajashabdopajivin
+(king consul) constitution
+(11/1/1-4)."
+UKT: In the West we see the republican
+governance changing to monarchical with the Romans,
+but in India (at least among the Kurus) the reverse
+took place only to be replaced again by the monarchical
+which ended with the British occupation of India in
+the 18th century. Now India is a republic. What
+about the land of Myanmar? We must look back to
+the times of Pyus well before their final destruction
+by the Mons (in the 5th century ?) and the eventual
+absorption by the Burmese in the Pagan period. --
+UKT 100425
+UKT notes
+•
+Bhishma
+•
+Kundulini
+- coiled energy
+•
+Kuntibhoja
+•
+Kuru Kingdom
+•
+Kuruksetra
+(place)
+•
+Kurukshetra War
+कुरुक्षेत्र
+युद्ध
+Contents of this page
+{ ku. } कु
+{ ku.ka. }
+कुक
+not entered in OnlineSktDict
+¤ कुंकुम्य-
+केत्विक
+शुल्बीय
+kuṃkumya-ketvika
+śulbīya
+Skt:  कुंकुम्य-
+केत्विक
+शुल्बीय
+kuṃkumya-ketvika śulbīya
+n.
+croceo- cobaltic sulphate  [ Chem. ]
+- SpkSkt
+¤ कुख्याति
+kukhyāti
+Skt: कुख्याति
+kukhyāti
+f .   infamy - SpkSkt
+Contents of this page
+p052top-2
+• कुपरीक्षक
+(kupariikShaka)
+Skt: कुपरीक्षक
+(kupariikShaka) - one who cannot judge value correctly - OnlineSktDict
+• कुंजरः (ku.njaraH)
+Skt: कुंजरः
+(ku.njaraH) -
+m.nom.S   elephant - OnlineSktDict
+Pal: kuñjara
+m .  an elephant - UPMT-PED075
+Pal:
+{koañ~za.ra.} -
+- UHS-PMD0324
+UKT note: I am not satisfied with my above Romabama transcription. -
+UKT100624
+•
+कुकुटासन
+(kukuTaasana)
+Skt: कुकुटासन
+(kukuTaasana) - the cockerel (rooster) posture - OnlineSktDict
+See my note on
+-
+kukutasana
+Contents of this page
+{ koak~ka. }
+कुक्क
+not entered in OnlineSktDict
+UKT: In going from कुकु (kuku} to
+कुक्कु (kukku),
+transcription change is simple in Devanagari. However,
+in Myanmar, unless I make extreme vowel changes as
+{ku.ku.} to
+{koak~ku.}, transcription is unreliable. - UKT 100602
+Problem of transcription in Burmese-Myanmar
+English speakers not used to Burmese-Myanmar language
+and script generally complain of the unreliability of
+Burmese transcription of place and people names. To
+throw some light on this problem, I have looked into
+a sister script, the Devanagari. As an example, in going
+from कुकु (kuku) to
+कुक्कु (kukku) ,
+the change is simply to add a (k) without any change
+to the preceding vowel (u). I do not find such a simple
+change in Myanmar. The change is: {ku.ku.} to {koak~ku.}
+with an extreme vowel change in the first syllable.
+Please note that Burmese is monophthongal and {oa} is
+not a diphthong, but only a digraph.
+Posted by U Kyaw Tun aka Joe Tun, 100603,
+www.tuninst.net
+Contents of this page
+p052top-3
+• कुक्कुट
+(kukkuTa)
+Skt: कुक्कुट
+(kukkuTa) - rooster - OnlineSktDict
+Pal: kukkuṭa
+m .  a cock - UPMT-PED075
+Pal:
+{koak~ku.Ta.}
+-
+UHS-PMD0322
+• कुक्कुटः
+(kukkuTaH)
+Skt: कुक्कुटः
+(kukkuTaH) - (m) cock - OnlineSktDict
+Contents of this page
+p052b1
+• कुक्कुटी
+(kukkuTii)
+Skt: कुक्कुटी
+(kukkuTii) - (f) - OnlineSktDict
+• कुक्कुरः
+(kukkuraH)
+Skt: कुक्कुरः
+(kukkuraH) -
+m . dog - OnlineSktDict
+Pal: kukkura
+m .  a dog - UPMT-PED075
+Pal:
+{koak~ku.ra.}
+-
+UHS-PMD0323
+• कुङ्मलः
+(ku.nmalaH)
+Skt: कुङ्मलः
+(ku.nmalaH) -
+m . button - OnlineSktDict
+Contents of this page
+{ ku.sa. }
+कुच
+UKT: Do not get confused with
+{ku.þa.}
+कस , nor with
+{ku.Sa.}
+कष.
+{ ku.sa. }
+कुच is formed with palatal stop {sa.}, but
+{ku.Sa.}
+कष is formed
+with dental fricative {sa.}. Though it would have been better to introduce a
+different grapheme for one, however it is not necessary for Burmese-Myanmar, because
+the
+palatal phoneme usually occurs as the coda and the dental as the onset. -
+UKT 100604
+¤
+कुच  kuca
+Skt:
+कुच  kuca
+m . breast [of human being] -
+SpkSkt
+Pal:  kuca
+m . the female breast, the pomegranate - UPMT-PED075
+Pal:
+{ku.sa.}
+-
+UHS-PMD0323
+¤
+कुचफल
+kucaphala
+Skt: कुचफल
+kucaphala
+m . pomegranate - SpkSkt
+¤
+कुचरित  kucarita
+Skt: कुचरित  kucarita
+n .
+abuse of office, malpractice [in office] - SpkSkt
+¤
+कुछ
+kucha
+Skt: कुछ
+kucha
+m .  female breast  - SpkSkt
+Contents of this page
+p052b1-2
+• कुज (kuja)
+Skt: कुज (kuja) - [the planet]
+Mars - OnlineSktDict
+Skt: कुज  kuja
+m .
+tree;
+n . horizon  - SpkSkt
+Pal: kuja
+m .  a tree - UPMT-PED075
+Pal:
+{ku.za.}
+-
+UHS-PMD0323
+• कुजदोष (kujadoshha)
+Skt: कुजदोष (kujadoshha) - affliction caused
+by Mars in the 2nd, 4th, 7th, 8th or 12 houses - OnlineSktDict
+Contents of this page
+{ ku.Ta. } कुट
+p052b1-3
+• कुटी (kuTii)
+Skt: कुटी (kuTii) -
+f .
+a small hut - OnlineSktDict
+Pal: kuṭī
+f . a house, hut,
+tent, shed - UPMT-PED075
+Pal:
+{ku.Ti}
+-
+UHS-PMD0324
+• कुटीचक (kuTiichaka)
+Skt: कुटीचक (kuTiichaka) - the hut-builder - OnlineSktDict
+• कुटील्बुद्धी
+(kuTiilbuddhii)
+Skt: कुटील्बुद्धी
+(kuTiilbuddhii) - adj. heinous, attrocious, nefarious - OnlineSktDict
+• कुटुंबकं
+(kuTuMbakaM)
+Skt: कुटुंबकं
+(kuTuMbakaM) - small family - OnlineSktDict
+• कुटुम्ब
+(kuTumba)
+Skt: कुटुम्ब
+(kuTumba) - family - OnlineSktDict
+Pal: kuṭumba -
+n . family, property,
+estates - UPMT-PED075
+Pal:
+{ku.Toam~ba.}
+-
+UHS-PMD0325
+Contents of this page
+p052b2
+• कुटुम्बक
+(kuTumbaka)
+Skt: कुटुम्बक
+(kuTumbaka) - family - OnlineSktDict
+• कुट्टति
+(kuTTati)
+Skt: कुट्टति
+(kuTTati) - to grind, to pound - OnlineSktDict
+• कुण्ड (kuNDa)
+Skt: कुण्ड (kuNDa) - starting place of kundalini -
+OnlineSktDict
+Skt: कुण्ड  kuṇḍa
+n .  bowlshaped vessel, water-pot, pot,
+pitcher, bowl, basin - SpkSkt
+Pal: kuṇḍa
+m . an iguana;
+n . a water-pot, well - UPMT-PED076
+Pal:
+{koaN~ða.}
+-
+UHS-PMD0325
+• कुण्डल
+(kuNDala)
+Skt: कुण्डल
+(kuNDala) - coil of rope, ring - OnlineSktDict
+Pal: kuṇḍala
+n . a ring, earring - UPMT-PED076
+Pal:
+{koaN~ða.la.}
+-
+UHS-PMD0326
+• कुण्डलि
+(kuNDali)
+Skt: कुण्डलि
+(kuNDali) - The Wheel or Horoscope Chart - OnlineSktDict
+•
+कुण्डलिनी
+(kuNDalinii)
+Skt: कुण्डलिनी
+(kuNDalinii) - a coiled female snake, the latent energy at the base of the spine
+- OnlineSktDict
+See my note on
+Kundalini
+(Skt:
+कुण्डलिन
+kuṇḍalinī
+, Thai: กุณฺฑลินี)
+Contents of this page
+{ ku.ta. }
+कुत
+p052b2-2
+• कुतः (kutaH)
+Skt: कुतः (kutaH) - from where - OnlineSktDict
+• कुत्र (kutra)
+Skt: कुत्र (kutra) - where - OnlineSktDict
+• कुत्सय (kutsya)
+Skt: कुत्सय (kutsya) - despicable - OnlineSktDict
+¤ कुथ  kutha
+Skt: कुथ  kutha
+m . carpet - SpkSkt
+Pal: kutha
+mn . a woolen blanket, howdah - UPMT-PED076
+• कुन्चिका
+(kunchikaa)
+Skt: कुन्चिका
+(kunchikaa) - (f) key - OnlineSktDict
+Contents of this page
+{ koan~ } कुन्
+p052b3
+• कुन्तः (kuntaH)
+Skt: कुन्तः (kuntaH) -
+m . spear - OnlineSktDict
+Pal: kunta
+mf .  a lance, insect -
+UPMT-PED076
+Pal:
+{koan~ta.}
+-
+UHS-PMD0327
+• कुन्तिभोजः
+(kuntibhojaH)
+Skt: कुन्तिभोजः
+(kuntibhojaH) - Kuntibhoja - OnlineSktDict
+See my note on
+Kuntibhoja
+- father of Kunti the mother of Pandavas
+• कुन्तीपुत्रः
+(kuntiiputraH)
+Skt: कुन्तीपुत्रः
+(kuntiiputraH) - the son of Kuntiv - OnlineSktDict
+• कुन्द (kunda)
+Skt: कुन्द (kunda) -
+night lily - OnlineSktDict
+Pal: kunda
+n . the many-flowered jasamine -
+UPMT-PED076
+Pal:
+{koan~da.}
+-
+UHS-PMD0327
+Contents of this page
+{ ku.pa. }
+कुप
+p052b3-2
+• कुपित (kupita)
+Skt: कुपित (kupita) - angered - OnlineSktDict
+• कुपितं (kupitaM)
+Skt: कुपितं (kupitaM) - angry - OnlineSktDict
+•
+कुप्यति (kupyati)
+Skt: कुप्यति (kupyati) (4 pp) to be
+angry - OnlineSktDict
+•
+कुप्यसि
+(kupyasi)
+Skt: कुप्यसि
+(kupyasi) - you get angry - OnlineSktDict
+•
+कुमार (kumaara)
+Skt:
+कुमार (kumaara) -
+m . boy, young -
+OnlineSktDict
+Pal: kumāra
+m . a child, youth, the god of war;
+adj . young -
+UPMT-PED076
+Pal:
+{ku.ma-ra.}
+- UHS-PMD0327
+•
+कुमारः (kumaarah)
+Skt: कुमारः (kumaarah) - boy - OnlineSktDict
+Contents of this page
+p052b4
+•
+कुमारिका
+(kumaarikaa)
+Skt: कुमारिका
+(kumaarikaa) - (f) girl - OnlineSktDict
+Contents of this page
+p053top
+• कुमारी (kumaarii)
+Skt: कुमारी (kumaarii) - (f) girl, young - OnlineSktDict
+• कुम्भ (kumbha)
+Skt: कुम्भ  (kumbha) m. the Zodiacal sign of Aquarius - OnlineSktDict
+Skt: कुम्भ  kumbha
+m .  water-pot  - SpkSkt
+Pal: kumbha
+m .  a water-pot, elephant's forehead, a measure of
+capacity - UPMT-PED077
+Pal:
+{koam~Ba.}
+UHS-PMD0328
+UKT note to Myanmar Astrologers: All the 12 Zodiacal signs have Western
+equivalents which are denoted by dedicated logos which reflect their names:
+01.♈, 02.♉, 03.♊; 04.♋, 05.♌, 06.♍; 07.♎, 08.♏, 09.♐; 10.♑, 11.♒, 12.♓.
+Thus, the logo for #11. ♒ Aquarius the Water-carrier shows the waves on the
+surface of a body of water. - UKT100619
+• कुम्भक (kumbhaka)
+Skt: कुम्भक (kumbhaka) - holding the breath
+- OnlineSktDict
+Contents of this page
+{ ku.ya. }
+कुय
+not entered in OnlineSktDict
+p053top-2
+•
+कुरङ्ग (kura.nga)
+Skt:
+कुरङ्ग (kura.nga) - deer - OnlineSktDict
+Pal: kuruṅga
+m .  an antelope - UPMT-PED077
+Pal:
+{ku.rïn~ga.}
+-
+UHS-PMD0329
+•
+कुरु (kuru)
+Skt: कुरु (kuru) - do - OnlineSktDict
+•
+कुरुते (kurute)
+Skt: कुरुते (kurute) - does (from kRi) - OnlineSktDict
+UKT: "Kuru" can mean many things including
+a fatal human disease. It can also mean a kingdom of
+Iron Age India. Archaeologically, it most likely
+correspond to the
+black and red ware
+culture of the 12th to 9th
+centuries BC. See
+Kuru kingdom
+in my notes.
+Contents of this page
+{ ku.ra. }
+कर
+p053top-3
+•
+कुरुनन्दन
+(kurunandana)
+Skt: कुरुनन्दन
+(kurunandana) - O beloved child of the Kurus - OnlineSktDict
+•
+कुरुप्रवीर
+(kurupraviira)
+Skt: कुरुप्रवीर
+(kurupraviira) - O best among the Kuru warriors - OnlineSktDict
+•
+कुरुवृद्धः
+(kuruvRiddhaH) See my notes on
+Bhishma
+.
+Skt: कुरुवृद्धः
+(kuruvRiddhaH) - the grandsire of the Kuru dynasty (Bhishma) - OnlineSktDict
+•
+कुरुश्रेष्ठ
+(kurushreshhTha)
+Skt: कुरुश्रेष्ठ
+(kurushreshhTha) - O best of the Kurus - OnlineSktDict
+Contents of this page
+p053b1
+•
+कुरुष्व(kurushhva)
+Skt: कुरुष्व(kurushhva) - do - OnlineSktDict
+•
+कुरुसत्तम
+(kurusattama)
+Skt: कुरुसत्तम
+(kurusattama) - O best amongst the Kurus - OnlineSktDict
+•
+कुरुक्षेत्रे
+(kurukShetre) .
+Skt: कुरुक्षेत्रे
+(kurukShetre) - in the place named Kuruksetra - OnlineSktDict
+See my notes on
+Kuruksetra
+(place) and
+Kurukshetra War
+(कुरुक्षेत्र युद्ध)
+•
+कुरून् (kuruun.h)
+Skt: कुरून् (kuruun.h) - the members of the
+Kuru dynasty - OnlineSktDict
+Contents of this page
+UKT notes
+Bhishma
+From Wikipedia:
+http://en.wikipedia.org/wiki/Bhishma
+100423
+(For Vasu, see
+wa-163b1-3.htm
+downloaded from Wikipedia:
+http://en.wikipedia.org/wiki/Vasu
+100128
+Bhishma
+or
+Bheeshma
+is one of the strongest characters of the
+Mahabharata. He was the grandfather of both the
+Pandavas and
+the Kauravas.
+An unparalleled archer, he once vanquished the mighty
+Parasurama .
+UKT: Bhishma was not a "grandfather". "Granduncle" is more proper since
+Bhishma had no progeny because he had taken the oath of life-long celibacy -
+hence the name "Bhishma" or
+He of the terrible oath
+. See below.
+Birth and early life
+The legend behind Bhishma's birth is as follows — once the eight
+Vasus
+("Ashtavasus")
+visited
+Vashishta 's ashram accompanied by their wives. One of the wives took a fancy
+to
+Nandini ,
+Vashishta's wish-bearing cow and asked her husband Prabhasa , and to steal it from
+Vashishta. [UKT ¶]
+UKT: Prabhasa meaning "shining dawn" in Mahabharata, or Dyaus meaning
+"sky" in
+Brihadaranyaka Upanishad. He is one of the 33 gods attending Indra or Sakka.
+After studying BEPS aksharas for some years, I've come to entertain a notion
+that these gods represent the consonants modifying the "flow" of sound
+[represented by Saravati] coming out of the vocal apparatus. If so what does
+Prabhasa represent? Please remember, this is just a "day dream" which I may
+drop anytime. -- UKT 100424
+Prabhasa then stole the cow with the help of the others who were all
+consequently cursed by Vashishta to be born in the world of men. Upon the Vasus
+appealing to Vashishta's mercy, the seven Vasus who had assisted in stealing
+Nandini had their curse mitigated such that they would be liberated from their
+human birth as soon as they were born; however, Prabhasa being protagonist of
+the theft, was cursed to endure a longer life on the earth. The curse, however
+is softened to the extent that he would be one of the most illustrious men of
+his time. It was this Prabhasa who took birth as Devavratha (Bhishma).
+Bhishma was born as the youngest son of the illustrious King
+Shantanu
+and
+Ganga . As per the Mahabharata, Shantanu saw Ganga [UKT: the goddess of the
+river in the guise of a human] on the banks of River
+Ganga and enamored by her beauty, asked her to marry him. She agreed but with
+the condition that Shantanu would never question her, no matter what her actions
+— if he ever broke his promise, she would leave him, never to be a part of his
+life again. Shantanu readily agreed to this seemingly harmless condition and was
+thus married to Ganga. Eight children were born to this union, the eighth of
+which was Bhishma himself. The seven siblings born before him were drowned by
+their mother Ganga in order to break their curse — as they were incarnations of
+the aforementioned Vasus, who do not like to live the life of Humans. Shantanu
+silently bore the torture of watching his wife drown his offspring seven times.
+However, when Ganga was about to drown Bhishma, Shantanu could no longer contain
+his anguish and burst into protest. Ganga, aware of the eighth child's destiny
+to live a long life on earth, did not drown the child. However, since Shantanu
+had broken his promise given to her at marriage, she left Shantanu promising to
+return the child to him once he is grown up.
+During his time with his mother [UKT: the goddess Ganga], Bhishma learnt political science from
+Brihaspati , the guru of the Devas, Vedas and Vedangas from Rishi
+Vasishta , and archery from
+Parashurama , also known as Bhargava, thus becoming an exceptionally skilled
+administrator. His banner in battle was a golden palm tree.
+He was known as 'Bhishma Pitamaha' ( Pitamaha
+meaning the grandfather
+or grandsire) among the
+Pandavas and
+the Kauravas.
+Bhishma's vow
+Bhishma means
+He of the terrible oath , referring to his vow of
+life-long celibacy. Originally named Devavratha, he became known as Bhishma
+after he took the
+bhishan pratigya
+('terrible oath') — the vow of
+life-long celibacy and of service to whoever sat on the throne of his father
+(the throne of
+Hastinapur ).
+He took this oath so that his father, Shantanu could marry a fisherwoman
+Satyavati
+— Satyvati's father had refused to give his daughter's hand to Shantanu on the
+grounds that his daughter's children would never be rulers as Shantanu already
+had a son (Devratha). This made Shantanu despondent and upon discovering the
+reason for his father's despondency, Devratha sought out the girl's father and
+promised him that he would never stake a claim to the throne, implying that the
+child born to Shantanu and Satyavati would become the ruler after Shantanu. At
+this, Satyavati's father retorted that even if Devratha gave up his claim to the
+throne, his (Devratha's) children would still claim the throne. Devratha then
+took the terrible vow of life-long celibacy, thus sacrificing his 'crown-prince'
+title and denying himself the pleasures of conjugal love. This gave him
+immediate recognition among the gods and his father granted him the boon of
+Swachhanda Mrityu
+(control over his own death — he could choose the time of
+his death, but he was not immortal). Bhishma also took another vow shortly after
+the marriage of Shantanu and Satayavati. Bhishma vowed he would see his father's
+image in whoever sat on the throne of Hastinapur and would serve him without
+question. This vow ended up being the main cause of his problems later on when
+his nephew
+Dhritarashtra
+took the throne and wished to make his own son,
+Duryodhana
+the crown prince instead of Dhritarashtra's brother Pandu's son
+Yudhishtira
+who was the elder to Duryodhana (and reckoned by all to be the
+most worthy to become king). As a result Bhishma was forced to comply with all
+of Dhritarashtra's orders no matter what injustice was done to the Pandavas.
+Bhishma was a great archer and a warrior. In the process of finding a bride
+for his half-brother the young king Vichitravirya, Bhishma cleverly abducted
+princesses
+Amba ,
+Ambika
+and
+Ambalika
+of Kashi ( Varanasi )
+from the assemblage of suitors at their
+swayamvara . Salwa, the ruler of Saubala, and Amba (the eldest princess) were
+in love. Upon reaching Hastinapura, Amba confided in Bhishma that she wished to
+wed Salwa. Bhishma then sent her back to Salwa who turned her down as it was
+humiliating for a man to accept a woman who had been so long in the company of
+another man. She then naturally approached Bhishma for marriage who refused her,
+citing his oath. Amba, humiliated and enraged beyond measure, vowed to avenge
+herself against Bhishma even if it meant being reborn over and over again.
+Legend has it that at her maternal grandfather's suggestion Amba sought
+refuge with
+Parasurama
+who ordered Bhishma to marry Amba. Bhishma politely refused
+saying that he was ready to give up his life at the command of his teacher but
+not the promise that he had made. Upon the refusal, Parasurama called him for a
+fight at Kurukshetra. At the battlegrounds, while Bhishma was on a chariot,
+Parasurama was on foot. Bhishma requested Parasurama to also take a chariot and
+armor so that Bhishma would not have an unfair advantage. Parasurama blessed
+Bhishma with the power of divine vision and asked him to look again. When
+Bhishma looked at his guru with the divine eye-sight, he saw the Earth as
+Parasurama's chariot, the four Vedas as the horses, the
+Upanishads
+as the reins,
+Vayu
+(wind) as the Charioteer and the Vedic goddesses Gayatri, Savitri & Saraswati as
+the armor. Bhishma got down from the chariot and sought the blessings of
+Parasurama to protect his dharma, along with the permission to battle against
+his teacher. Parasurama was pleased and said to Bhishma that if he had not
+behaved in this manner, Parasurama would have cursed him, for it is the duty of
+warriors who fight against elders to not abandon the traditions of humility and
+respect for elders. Parasurama blessed him and advised him to protect his dharma
+of brahmacharya as Parasurama himself must fight to fulfil his dharma of
+fighting to uphold his word as given to Amba. They fought for 23 days without
+conclusion — Parasurama was chiranjeevi (immortal) and Bhishma had a boon that
+let him choose the time of his death. Two versions exist about how their battle
+came to and end.
+As per one, On the 22nd night, Bhishma prayed to his ancestors to help him
+end the battle. His ancestors gave him a weapon which was not known to
+Parasurama. They told him that it would put Parasurama to sleep in the
+battlefield. A person who sleeps in the battlefield is considered to be dead as
+per Vedas. They advised Bhishma to call back the weapon at the end of day after
+sunset so that Parasurama will come back to his sense and that shall bring the
+end to war. However the weapon was never used as Bhishma walked out of the war.
+As per the other version, on the 23rd day, Bhishma summoned the infallible
+celestial weapon ( astra )
+Prashvapastra , the method of using which was known to him and him alone.
+Neither did a counter-attack exist, nor was a defense against it known to
+Parasurama. As Bhishma mounted the astra on his bow, a divine voice (ākāshavānī)
+implored Bhishma not to fire the weapon as its use would lead to the humiliation
+of Bhishma's guru (Parasurama himself). Bhishma refrained from using the weapon
+that would have brought him certain victory. Upon witnessing this, Parasurama
+was overcome with adulation for his disciple and proclaimed Bhishma as the
+victor.
+Parasurama thus told Amba that he could not win over Bhishma and gave her the
+boon of "mahakal shiva". Amba did penance to please Lord Shiva. Shiva gave her
+the boon that she would be instrumental in the death of Bhishma. Amba would
+later be reborn as the eunuch prince
+Shikhandi
+in the household of king
+Drupada .
+Personality, talents and achievements
+Bhishma had a stature and personality that in those times were fit for kings.
+He was a true Kshatriya as well as a disciplined ascetic - a rare combination.
+He never unnecessarily exhibited the passion and anger that were identified with
+a Kshatriya. A symbol of truth and duty, the benevolent Bhishma was in all
+senses a true human.
+It is unfortunate that a person as noble as Bhishma saw a life full of
+loneliness, frustration and grief. But that was how Vashishta's curse was
+supposed to unfold. Bhishma's human birth was destined to be marked with
+suffering, and that was how his life transpired right till the last moment; even
+his death was very painful. But the strong as steel character which he possessed
+ensured that he never shied away from his duty, and never stopped loving those
+dear to him.
+Bhishma was not only a good warrior, but also highly skilled in political
+science. He tried his best to bring reconciliation between Pandavas and Kauravas
+to prevent the war. Even in the Kurukshetra war while he was the general he
+tried his best to keep the war low key by minimising confrontation between the
+two camps. Even as he fell he tried to use the opportunity to persuade both
+camps to put an end to the war. After the war, while on his deathbed he gave
+deep and meaningful instructions to Yudhishthira on statesmanship and the duties
+of a king.
+In the Mahābhārata War
+Bhishma is the one who witnessed the Mahābhārata
+completely from the beginning since the rule of
+Shantanu .
+In the great battle at Kurukshetra, Bhishma was the supreme
+commander of the Kaurava forces for ten days compared to
+Drona's five, Karna's two and Salya's one-the last day. He
+fought reluctantly on the side of the Kauravas; nevertheless,
+he gave it his best effort. At one stage Arjuna's
+disinclination to fight him, nearly made Krishna break his
+vow not to raise a weapon in the war. Not even Arjuna was
+able to defeat Bhishma because in addition to being a
+peerless warrior he was blessed with choosing the moment
+of his death.
+In this war, Bhishma vowed not to kill any of the Pandavas,
+as he loved them, being their grandsire. Duryodhan often
+confronted Bhishma alleging that he was not actually
+fighting for the Kaurava camp as he wouldn't kill any Pandava
+but would let them kill Kauravas. But in fact, Bhishma
+was the strongest barrier that had protected the Kaurava
+camp from impending defeat.
+The war was thus locked in a stalemate. As the Pandavas mulled over this
+situation, Krishna advised them to visit Bhishma himself and request him to
+suggest a way out of this stalemate. Bhishma knew in his heart that the Pandavas
+were righteous and chaste, and that he stood as the greatest obstacle in their
+path to victory, so when they visited Bhishma, he told them that if faced by a
+woman in battle he would cease to fight and not lift weapons against her.
+The Pandavas were initially not agreeable to such a ploy, as by bringing a
+woman to the battleground they would disgrace themselves, but Krishna suggested
+a clever alternative. And thus, on the next day - the tenth day of battle -
+Shikhandi
+accompanied Arjuna on the latter's chariot and they faced Bhishma who put his
+bow and arrows down. He was then felled in battle by a reluctant, ashamed and
+tearful Arjuna
+pierced by innumerable arrows. As Bhishma fell, his whole body was held above
+the ground by the shafts of Arjuna's arrows which protruded from his back, and
+through his arms and legs. Seeing Bhishma laid on such a bed of arrows humbled
+even the gods who watched from the heavens in reverence, silently blessing the
+mighty warrior.
+Bhishma was succeeded by
+Drona
+as the
+Commander-in-Chief. Bhishma lay on the 'bed of arrows' till the end of the
+battle, bound by his vows and chose to die only after learning that the
+Pandavas had won. One of his last acts was to impart his final instructions
+on administration and kingcraft to Yudhisthira.
+Strategic Formations: the Vyuha
+Bhishma was well versed with tactical formations of the
+military in those days and only Arjuna could be compared to the
+vast knowledge that Bhishma possessed. A few formations
+mentioned in the epic
+Mahabharata are listed below.
+• 	 Krauncha Vyuha : the crane-shaped formation of an army;
+forces are distributed to form spanning wing-sides, with a
+formidable, penetrating center depicting the crow's head and
+break.
+•
+Padma Vyuha
+or the
+Chakra Vyuha : a winding,
+ever-rotating circular formation; considered impenetrable
+during the Mahabharata age by all warriors except Arjuna,
+Bhisma, Drona, Krishna, Pradyumna and Abhimanyu. Abhimanyu,
+had learnt how to break into the formation (in the womb of
+Subhadra) but not how to break out of it and is trapped
+inside in the Mahabharata war.
+•
+Sarpa Vyuha : winding snake formation.
+•
+Makara Vyuha : Crocodile Formation
+•
+Sakata Vyuha : Cart Formation
+•
+Shukar Vyuha : Pig Formation
+Death
+It is believed that Bhishma died after the age of 350 years.
+The relation between Bhishma and Pandavas/Kauravas is described
+as that of a grandsire.
+Although their descendence was in the following generations
+Maharaj HASTIN (founder or the Great HASTINAPUR empire) ->
+(many generations) -> Bharat ->
+Shantanu
+-> Bheeshma, Chitrangada, Vichitraveerya ->
+Dhritarashtra
+&
+Pandu
+->
+Pandavas
+&
+Kauravas
+but practically, Bhishma and the Pandavas would be 4
+generations apart as Bhishma was himself a prince of marriagable
+age when his father Shantanu married Satyavati, so Chitrangad
+and Vichitravirya were more like sons than brothers to Bhishma.
+When both Chitrangad and Vichitravirya died heirless, Maharshi
+Ved Vyas
+was called upon to revive the lineage. Then
+Dhritarashtra, Pandu and Vidura were born. The Pandavas and
+Kauravas were the next generation, so although addressed as
+grandfather, Bhishma was equivalent to their Great-Grandfather.
+When Bhishma died, he was the eldest living ancestor to the
+equivalent of 5 generations as the Pandavas themselves were
+grandparents. Their only living heir was
+Parikshit ,
+Arjuna 's grandson, the son of
+Abhimanyu
+and
+Matsya princess Uttara .
+Passing away of Bhishma
+Bhishma was a great warrior and a wonderful personality. As
+the Kauravas were losing the battle, Duryodhana approached
+Bhishma one night and accused him of not fighting the battle to
+his full strength because of his affection for the Pandavas.
+Bhishma, greatly angered, immediately he picked up five golden
+arrows and chanted mantras declaring, "tomorrow I will kill the
+Pandavas with these five golden arrows". Duryodhana, not having
+faith in Bhishma's words, asked Bhishma to give him custody of
+the five imbued golden arrows saying that he would keep them
+with him and return them the next morning.
+Long back when Pandavas were in living in the forest
+Duryodhana once came to the forest to flaunt his material
+opulence in contrast with the Pandavas who were living in exile
+due to his wicked usurption of their kingdom, thus displaying
+his venom and hubris. He placed his camp on the opposite side of
+a pond where the Pandavas used to stay. Once while he was taking
+bath in that pond there the heavenly princes named Gandharvas
+came to take bath.
+Duryodhana could not tolerate this and he had a fight in
+which the Gandharvas captured him. On the request of Yudhisthir,
+Arjuna saved Duryodhana and set him free. Duryodhana was ashamed
+but being a kshatriya he asked Arjuna what benediction or boon
+would Arjuna like. Arjuna replied that he would ask for the
+honor gift later when he needed it.
+It was during that night that Krishna reminded Arjuna of his
+unsatisfied boon and told him to go to Duryodhana and ask for
+the five golden arrows. When Arjuna came and asked for the five
+golden imbued arrows Duryodhana was shocked, but knowing full
+well his honor and duty as a kshatriya declared "I will give you
+the five golden arrows but can you please tell me who told you
+the five golden imbued arrows existed in the first place?"
+Arjuna smilingly replied "Who else other than Shri Krishna could
+have advised me". After Duryodhana honorably kept his word and
+gave the five golden arrows imbued with a lifetime of austerity
+and power by Bhishma, the haughty arrogant prince Duryodhana
+broke his customary manner and conceded to himself privately
+"All of the rishis say Krishna is the Supreme God, maybe they
+are right", being thus shocked and convinced by Arjuna's
+knowledge of the very existence of the five golden arrows,
+Duryodhana secretly got on his knees and said a quick prayer to
+Krishna.
+Duryodhana again goes to Bhishma, informing him of all that
+happened and requesting another five golden imbued arrows. To
+this Bhishma laughed and replies "That is not possible child.
+The will of the Lord is Supreme and undeniable. I have already
+spent the merits of my lifetime of celibacy and austerity in
+those five arrows, a potency strong enough to end all the five
+Pandavas. However, Krishna, being the Supreme Lord has foreseen
+this, knowing past, present, and future as He alone can, and has
+thus arranged for you to voluntarily give up the five golden
+arrows, imbued with the power and potency of my lifelong
+austerities. I cannot imbue another five arrows, having spent
+all of the merits of my austerities. However, tomorrow I shall
+fight like a lion, and this time either I will kill Arjuna or I
+will make Lord Krishna break His promise of not picking up any
+weapons during the war". On the next day there is an intense
+battle between Bhishma and Arjuna. Although Arjuna was very
+powerful, but he was no match for Bhishma. Bhishma soon shot
+arrows which cut Arjuna's armour and then also his Gandiva bow.
+Arjuna was helpless before the wrath of the grandsire.
+As Bhishma was about to kill Arjuna with his arrows Lord
+Krishna could not tolerate his devotees plight and He
+immediately threw down the chariot reins and jumped off the
+chariot onto the battlefield, lifted a chariot wheel and charged
+Bhishma, determined to send Bhishma to Death's abode. Arjuna
+tried to stop Lord Krishna but the Lord says that in order to
+protect my devotee I must break my own promise. Eventually
+however, Arjuna convinces Krishna to return to the chariot and
+put down the wheel, promising to redouble his determination in
+the fight, all the while Bhishma stood with folded palms and
+tears in his eyes, awed by the beauty of the wrath of the Lord
+and the intense love that God bears for his friends, so great
+that He is willing to endure the censorship of ignorant foolish
+men. Later the Lord tells Arjuna how he may bring down the old
+grandsire, through the help of Sikhandhi the woman-man, using
+Sikhandi as a shield, thus shot merciless arrows at Bhishma
+piercing his entire body, thus finally did Bhishma give up the
+fight, focusing his life force and breath, sealing the wounds,
+and waiting for the auspicious moment to give up his body.
+Source(s): Srimad Bhagavatam 1st Canto Chapter 9, slokas 1 -
+49 by His Divine Grace AC Bhaktivedanta Swami Prabhupada
+UKT: End of Wikipedia .
+Go back
+Bhishma-note-b
+Contents of this page
+Kukutasana
+- Cockerel pose
+Excerpt from:
+http://yogaposesasanas.suite101.com/article.cfm/kukkutasana_resists_arthritis_and_rheumatism
+100602
+Kukkutasana Resists Arthritis and Rheumatism
+The Rooster Pose of Yoga Nourishes Your Wrists, Elbows and Shoulders
+Share Article
+|
+Dec 27, 2009
+Ajeenkya Birodkar
+This pose also improves your poise and posture with your
+chest thrust out and head held erect. Your abdominal
+organs too are nourished and secrete better.
+In the Rooster Pose, or the Kukkutasana (also known as the Cockerel
+Pose), you rest your entire body weight on your wrists. This pose looks
+quite similar to the Crane Pose (Bakasana) and the Crow Pose (Kakasana),
+but there are finer differences. The pressure points in each of these
+poses are different. In the other two poses the pressure points are your
+armpits in Bakasana and your elbows in Kakasana, while in the
+Kukkutasana it is your wrists which are the pressure point. This pose
+builds up your body’s resistance against arthritis, rheumatism and other
+orthopedic ailments if you do this pose from a young age.
+How to do the Kukkutasana - Rooster Pose
+You begin by sitting on a carpet with your legs placed straight from
+your hip. Your back is ramrod straight. You place your arms by your
+sides and breathe normally. Lift your right foot and place it on your
+left thigh and place your left foot on your right thigh. Use your hands
+to do this. You shall need some practice to enable you to do this step.
+Those blessed with a supple body and are used to doing the Lotus Pose (Padmasana)
+will be able to do this step with ease. This is also the first step in
+the Lotus Pose.
+You may now proceed to the next step by lifting your right arm and
+maneuvering it into the space between the thigh and calf muscle of your
+right leg. After you insert your palm through this gap, place it on the
+floor. Make this step easier by using your other hand to lift your legs
+a bit from your knees. This increases the gap between your thighs and
+calves. Do likewise using your left arm and insert your left palm
+through your left leg. Your arms are now held fast by the pincer of your
+thighs and calf muscles.
+After placing your palms flat on the mat spread them to reveal the
+wedges between them and give yourself as broad a base as possible. Now
+stiffen your shoulders and arms and use all the power you have to heave
+your hip aloft along with your folded legs. As a learner you might not
+be able to lift yourself by more than a few centimeters. After you
+master this exercise the maximum height you would lift your legs to
+would be around five to six inches.
+Hold to this position despite the tremendous strain, on your wrists,
+shoulders, spine, thighs and calf muscles. Now you may come out of the
+Kukkutasana.
+Read more at Suite101:
+Kukkutasana Resists Arthritis and Rheumatism: The Rooster Pose of Yoga
+Nourishes Your Wrists, Elbows and Shoulders
+http://yogaposesasanas.suite101.com/article.cfm/kukkutasana_resists_arthritis_and_rheumatism#ixzz0pfIvBJZ0
+In the Rooster Pose, or the Kukkutasana (also known as the Cockerel
+Pose), you rest your entire body weight on your wrists. This pose looks
+quite similar to the Crane Pose (Bakasana) and the Crow Pose (Kakasana),
+but there are finer differences. The pressure points in each of these
+poses are different. In the other two poses the pressure points are your
+armpits in Bakasana and your elbows in Kakasana, while in the
+Kukkutasana it is your wrists which are the pressure point. This pose
+builds up your body’s resistance against arthritis, rheumatism and other
+orthopedic ailments if you do this pose from a young age. Go back
+kukutasana-note-b
+Contents of this page
+Kundalini
+Skt:
+कुण्डलिनी
+-
+kuṇḍalinī
+Bur:
+Thai:
+กุณฺฑลินี
+From Wikipedia:
+http://en.wikipedia.org/wiki/Kundalini
+110918
+Kundalini
+(Skt:
+कुण्डलिनी
+-
+kuṇḍalinī , Bur:  , Thai:
+กุณฺฑลินี ) literally means
+coiled .
+In
+yoga , a
+"corporeal energy" [1]
+- an unconscious, instinctive or
+libidinal
+force
+or
+Shakti , lies
+coiled at the base of the spine. [2] [3] [4]
+It is envisioned either as a goddess or else as a sleeping serpent, hence a
+number of English renderings of the term such as 'serpent power'. The kundalini
+resides in the
+sacrum
+bone in three and a half coils and has been described as a residual
+power of pure desire. [5]
+Description
+Kundalini is described as a sleeping, dormant potential force in the human
+organism. [6]
+It is one of the components of an esoteric description of man's 'subtle body',
+which consists of
+nadis
+(energy channels),
+chakras
+(psychic centres),
+prana
+(subtle
+energy), and
+bindu
+(drops of essence).
+Kundalini is described
+as being coiled up at the base of the spine, usually within
+muladhara
+chakra . The
+image given
+is that of a serpent coiled three and a half times around a smokey grey lingam.
+Each coil is said
+to represent one of the three
+gunas , with the half coil signifying transcendence.
+Through meditation, and various esoteric practices, such as
+kundalini yoga ,
+laya-yoga , [7]
+and kriya yoga, the kundalini is awakened, and can rise up through the central
+nadi , called
+sushumna , that rises up inside or alongside the spine. The progress of
+kundalini through the different
+chakras
+leads
+to different levels of awakening and mystical experience, until the kundalini
+finally reaches the top of the head,
+Sahasrara
+chakra, producing an extremely profound mystical experience.
+A number of descriptions exist that attempt to describe exactly what the
+kundalini experience is.
+Sri Ramana Maharshi
+maintained that the kundalini energy is nothing but the
+natural energy of the Self, where Self is the universal consciousness ( Paramatma )
+present in every being, and that the individual mind of thoughts cloaks this
+natural energy from unadulterated expression.
+Advaita
+teaches that
+Self-realization ,
+enlightenment , God-consciousness,
+nirvana
+and
+kundalini awakening are all the same thing, and self-inquiry meditation is
+considered a very natural and simple means of reaching this goal. [8]
+Swami Vivekananda
+described kundalini briefly in London during his lectures
+on
+Raja Yoga
+as follows: [
+"According to the
+Yogis , there
+are two nerve currents in the spinal column, called Pingalâ and Idâ, and a
+hollow canal called
+Sushumnâ
+running through the spinal cord. At the lower end of the hollow
+canal is what the Yogis call the "Lotus of the Kundalini". They describe it
+as triangular in form in which, in the symbolical language of the Yogis,
+there is a power called the Kundalini, coiled up. When that Kundalini
+awakes, it tries to force a passage through this hollow canal, and as it
+rises step by step, as it were, layer after layer of the mind becomes open
+and all the different visions and wonderful powers come to the Yogi. When it
+reaches the brain, the Yogi is perfectly detached from the body and mind;
+the soul finds itself free. We know that the spinal cord is composed in a
+peculiar manner. If we take the figure eight horizontally (∞) there are two
+parts which are connected in the middle. Suppose you add eight after eight,
+piled one on top of the other, that will represent the spinal cord. The left
+is the Ida, the right Pingala, and that hollow canal which runs through the
+centre of the spinal cord is the Sushumna. Where the spinal cord ends in
+some of the
+lumbar vertebrae , a fine fibre issues downwards, and the canal runs up
+even within that fibre, only much finer. The canal is closed at the lower
+end, which is situated near what is called the sacral plexus, which,
+according to modern physiology, is triangular in form. The different
+plexuses that have their centres in the spinal canal can very well stand for
+the different "lotuses" of the Yogi. "
+UKT: More in the Wikipedia article.
+Go back
+Kundalini-note-b
+Contents of this page
+Kuntibhoja
+From Wikipedia:
+http://en.wikipedia.org/wiki/Kunti-Bhoja
+100423
+Kunti-Bhoja
+(Kuntibhoja) was the foster-father of
+Kunti
+the mother
+of
+Pandavas, as per the epic
+Mahābhārata. He was the ruler of the
+Kunti
+Kingdom . The name Kunti denotes the kingdom. Pandavas's mother's maiden name
+was
+Pritha . She was one of the sisters of Vasudeva, a
+Yadava
+chief, who was also the father of
+Krishna . Pritha was later given to Kuntibhoja since he was devoid of
+children. Kuntibhoja raised Pritha as his own daughter. Later she was married to
+Pandu
+the king of
+Kuru
+Kingdom , where she was addressed by the Kauravas as
+Kunti . Kuntibhoja
+took part in the
+Kurukshetra War, siding with the
+Pandavas.
+UKT: End of Wikipedia article.
+Go back
+Kuntibhoja-note-b
+Contents of this page
+Kuru kingdom
+From Wikipedia:
+http://en.wikipedia.org/wiki/Kuru-kingdom   100425
+Kuru
+(कुरु) was the name of an Indo-Aryan
+kshatriya
+tribe
+[1]
+and their kingdom in the
+Vedic period
+of India, and later a
+republican
+Mahajanapada
+state. Their kingdom was located in the area of modern
+Haryana
+and
+Delhi . They
+formed the first political center of the Indo-Aryans after the
+Rigvedic
+period, and after their emergence from the Punjab,
+and it was there that the codification and redaction of
+the Vedic texts began. Archaeologically, they most likely
+correspond to the
+black and red ware
+culture of the
+12th to
+9th centuries BC. At this time,
+iron
+first appears
+in western India. Iron is still absent from the Rigvedic hymns, and makes its
+first appearance as "black metal" ( śyāma ayas ) in the
+Atharvaveda .
+The
+Atharvaveda
+(XX.127) refers to
+Parikshit
+as the king of the Kurus. [2]
+His son Janamejaya figures in
+Satapatha Brahmana
+as well as in the
+Aitareya Brahmana . The Kurus in association with the Panchalas
+are frequently mentioned in the later Vedic literature.
+Geographical location of Kuru
+In the epic
+times (8th-6th centuries BC), the region between the triangle of Thaneshwar,
+Hissar and Hastinapur was distinguished by three different names: (1)
+Kuru-Jangala equal to Rohtak, Hansi, Hissar; (2) Kuru-rashtra proper between the Ganges and
+Yamuna with its
+capital at Hastinapura and (3) the Kuru-kshetra comprising Thaneshwar, Kaithal
+and Karnal.
+The whole kingdom roughly corresponded to modern Thanesar, Delhi and the
+greater part of Upper Gangetic Doab.
+UKT insert: A
+Doab
+(Persian,
+Urdu:
+dō , "two" +
+āb , "water" or "river") is a term used
+in India and
+Pakistan
+for a "tongue" or tract of land lying between two confluent rivers. ... Doab
+figures prominently in history and myths of
+Vedic period; the epic
+Mahabharata, for example, is set in the
+Doab , around the city of
+Hastinapur. -
+http://en.wikipedia.org/wiki/Doab
+100425
+The rivers Aruna, Ashumati, Hiranvati, Apaya, Kausiki,
+Sarasvati
+and
+Drishadvati or Rakshi washed the lands of Kurus.
+UKT: The Sarasvati river mentioned above is probably the present day
+river, a small tributary of the Sindu - not the mighty river of the Rig
+Veda. See insert below. - UKT 100425
+"The Sarasvati River is one of the chief Rigvedic rivers mentioned
+in ancient Hindu texts. The
+Nadistuti
+hymn in the Rigveda (10.75) mentions the Sarasvati between the Yamuna in
+the east and the
+Sutlej
+in
+the west, and later Vedic texts like Tandya and Jaiminiya Brahmanas as well
+as the Mahabharata mention that the Sarasvati dried up in a desert." -
+http://en.wikipedia.org/wiki/Thar_Desert
+100425
+Kurus of Buddha's times
+The Kuru kingdom figures in the list of the sixteen
+great kingdoms, the
+Mahajanapadas
+of the early Buddhist
+Anguttara Nikaya . At the time of
+Buddha , the Kuru realm was only three hundred leagues in
+extent. Legendary Buddhist stories - the
+Jatakas attest that the capital of the Kurus was
+Indraprastha
+(Indapatta) near modern Delhi. It extended for
+seven leagues. The other city in the realm was Hatthinipura i.e.
+Hastinapura . The reigning king
+Dhananjaya
+is stated as prince from the race of
+Yudhishtra . But he was merely a titular chieftain
+(king consul). During Buddha's time, Ratthapala, son of
+the Kuru ruler had embraced Buddhism.
+The Buddha taught important and profound discourses in the Kurus
+such as the "Mahāsatipaṭṭhāna Sutta",
+the Great Discourse on the Foundation of Mindfulness,
+"Mahānidāna Sutta", The Great Discourse
+on Causation, and "Āneñjasappāya Sutta",
+the Way to the Imperturbable. Other discourses, as recorded
+in the Pali Canon, taught by the Buddha in the Kurus are
+Māgaṇḍiya Sutta,
+Raṭṭhapāla Sutta, Sammasa Sutta, Dutiya Ariyāvāsa Sutta.
+The Kurus of the
+Buddhist period did not occupy the same position as they did
+in the Vedic period but they continued to enjoy their ancient
+reputation for deep wisdom and sound health. The Kurus had
+matrimonial relations with
+Yadavas , the
+Bhojas
+and the Panchalas.
+Though a well known
+monarchical people in earlier period, the Kurus are known to
+have switched to
+republic form of government during sixth/fifth century BCE.
+Fourth century BCE
+Kautiliya 's
+Arthashastra
+also attests the Kurus as following the
+Rajashabdopajivin
+(king consul) constitution (11/1/1-4).
+Kurus are mentioned by [the great phonetician usually
+referred to as grammarian]
+Pāṇini ( Astadhyayi
+4.1.168-75) as one of the fifteen powerful
+Kshatriya
+Janapadas
+of his times, with
+Hastinapura
+as its
+capital.
+Pāṇini refers to the house-holders' way of life as against
+ascetic way obtaining amongst the Kurus. Kuru Dharma
+UKT: "Dharma" or {Dam~ma.} mentioned here is not "Buddha's teachings" the
+usual meaning given in Myanmar. It means "what is right and what is proper":
+{ta.ra: mhya.ta.mhu. rhi. hkring:}. "Improper" would be such as a soldier
+being set upon by more than one opponent with with superior weapons. -
+100425
+In Buddhism, "Kuru Dharma" specifically refers to the
+Five
+Precepts
+of moral restraints which every Buddhist must take along with the
+Triple Gem. Buddhists trace the origins of the 5 precepts in the "Kuru
+Dhamma
+Jataka ".
+Kurus have frequently been coupled with the Panchalas in later Vedic and
+Puranic literature. The Kurus were followers of
+Brahmanical way of life, and the early kingdom in all probability is the
+location of the codification of the
+Vedas and the
+establishment of major schools of
+Vedic priesthood . They insisted on the purity of family life and cultivation
+of proper domestic relations and virtues, a way of life and
+philosophy
+that are reflected in the basic doctrine of
+Bhagvadgita
+expounded at
+Kurukshetra . In the land of Kurus-Panchalas, the
+speech
+is said to
+have its particular home. The mode of sacrifice among the Kuru-Panchalas is
+proclaimed to be the best. The Kuru Panchala kings are said to have performed
+Rajasuya
+sacrifice. There are numerous references to the
+Brahmanas
+of Kuru-Panchala country. Kurus were noted for deep wisdom and
+purity of life.
+Speculation on origin:
+Kuru-Puru-Bharata connection
+Epic
+traditions reveal that the kings of Kuru belonged to the
+Puru –
+Bharata
+family.
+The
+Kuru-Puru connection
+is suggested by Rigveda
+(10.33.4) which attests Kuru-Sravana as the descendant
+of famous Puru king Trasadasyu. (4.38.1, 7.19.3).
+A connection of the
+Bharatas
+with
+Kurukshetra
+is attested by Rigveda 3.23,
+Shatapatha Brahmana
+13.5.4,
+Aitareya Brahmana
+8.23 as well as the
+Mahabharata
+7.66.8. The former Purus, Bharatas and several other minor
+clans
+were later
+fused together and amalgamated into the powerful Kurus who expanded east from
+the Punjab.
+Mahabharata refers to kings
+Puru-ravas Aila, Ayu, Yayati Nahushya,
+Puru-Bharata Dauhshanti Saudyumni, Ajamidha, Riksha, Samavarana, Kuru,
+Uchchaihsravas Kaupayeya, Prati sutvana, Bahlika Pratipeya, Santnu and
+Dhritarashtra
+in the ancestral line of
+Parikshit ,
+the grandson of Pandava
+Arjuna .
+Speculations on origin of Kuru kingdom and Kurus
+UKT: Wikipedia editiors have questioned many of the statements
+below with "citation needed", "clarification
+needed", "who?", "where", etc. The
+reader should read the article again online which is bound
+to be another updated later. I have reformat the text below
+for better reading. - 100425
+Kuru dynesty kings were called med-bhuti or med kshatriyas
+and Kuru forces were med or mair rajputs from ancient time
+in India. According to Bhagvata and Vishnu Puran, Medes or
+Mair Kshatriyas are one of the oldest warriors . Mair Kshatriyas
+are originally from Lord Brahama dynesty King Ajmenid
+अजमीढ़. Badmer, Ajmer,
+Jesalmer are some of ancient cities of old Aryans Medes, mer
+or mair. After Golden age the Mahabharat fall of the Mairs
+Empire a power vacuum shortly existed in the region. (In the
+Sanskrit Mahabharat The Word MAIRBHUTI
+मैढ़-भूति,
+Ajmenid-nandan अजमीढ़-नंदन,
+KURU-KULAM कुरु कुल वंशी
+used for Rajas so many times), Kurukshetra War against
+the Kuruavas which is detailed in the Hindu epic, the Mahabharata.
+In this war, the Kshatriyas assumed the role of warriors
+for either side of the battle, after the war of Mahabharat Pandavs had gone for
+Swargarohan (Battle of heven) with all armies. Dispersal and dissolving of Mairs
+resulted medes had gone for movement to ancient Median Empires of Indian mair
+kshatriyas in Iran. The Medes are credited with the foundation of the first
+Iranian empire, the largest of its day until Cyrus (KURUS)कुरु the Great
+established a unified Iranian empire of the Medes (Indian origin) and Persians,
+often referred to as the Achaemenid Empire, ( KING Ajmenid of India great
+grandfather of all Medes ). by defeating his grandfather and overlord, Astyages
+the Raja of Media. In present time med kshatriyas of India claims that they are
+from KURU dynasty and in Iran and rest of the world
+Kurdish
+community also claim to related with ancient meds. [UKT ¶]
+Kurdish are from Indo-European language origin , they can be from ancient Kurukshetra .
+Mahabharata and the
+Puranas
+attest the Kurus as the most important branch of the Ailas i.e.
+descendants of king Puru-ravas Aila.
+The princes of Aila lineage are also designated as Karddameyas. This designation connects the
+Ailas
+to river
+Karddama, located in
+Persia (Arthashastra, p 76, n.5). Hence the home of the
+Karddameyas
+or the
+Aila princes
+(Kurus) is often identified with
+Bahlika
+or
+Balkh
+( Bactria ) in
+Iran and not in
+India proper ( Studies in Antiquities , 234).
+Puru-ravas Aila , first king in the line of ancestors of the Kurus
+above, is mentioned in
+Ramayana
+stories as the son of a ruler who came, in some remote antiquity, from Bahli (Balkh)
+in
+Central Asia to Mid India (Ramayana, VII,103.21-22).
+Mahabharata locates the birth place of king
+Puru-ravas Aila
+on a hill
+near the source of a river called Ganga (3.90.22-25).
+This ancient Ganga is said to be different from the main Ganga and finds
+reference in ancient Sanskrit
+texts like
+Raghuvamsa , where it is found located in the neighborhood of the
+Kambojas
+of
+Pamirs/ Badakshan .
+This river and river Sita ( Yarkand )
+are said to be originating from
+Anavtapat Sarovar
+(in Pamirs or in
+Karakoram
+Jot, somewhere)
+[1]
+Papancha-sudanai
+also refers to the Kurus, as
+colonists
+from trans-
+Himalayan
+region known as
+Uttarakuru
+(Dr B. C. Law,
+Ancient Indian Mid-Indian
+Kshatriya Tribes , p 16). .
+The Kurus are associated with the Mahavrishas (See: Vedic
+Index, II, 279n) and the Bahlikas according to Mahabharata
+(II.63.2-7).
+This association of the Kuru, Mahavrishas and the Bahlikas
+powerfully supports the northern origin of the Kurus.
+Shatapatha Brahmana
+also attests one king called
+Bahlika
+Pratipiya
+whom it designates as Koravya i.e. one from Kuru
+lineage .
+We also know that
+Bahlika Pratipiya
+is an important
+epic
+king
+of the Kurus. He was from the Puru-rava Aila lineage and hence from the line of
+Kurus of Kurukshetra.
+The word
+Bahlika
+in the name of Kuru king
+Bahlika Pratipiya
+is
+his
+personal designation
+and points to northern (Bahlika or Bactria)
+origin of the Kurus of
+Middle country , in accordance with ancient naming
+conventions.
+A section of the Kurus, known as
+Uttarakurus , is stated to be living
+beyond the Himalayan region in the days of Mahabharata and Aitreya Brahmana as
+we learn from Aitareya Brahmana verse (VIII.14).
+It is also to be noted that the
+Himalaya
+of the ancient Indian traditions extended from the east ocean
+to the west ocean, and even today is not separated from it (See:
+Kumarasambhavam
+by Kalidasa).
+Mahabharata also attests that the ancestors of the Kauravas and Pandavas
+originally migrated from
+Uttarakuru
+(MBH 1/187/28).
+Buddhaghosa
+also records a tradition which states that,
+when Vedic king Mandhata returned to
+Jambudvipa
+from his sojourn in the four
+Mahadipas , there were, in his retinue, a
+large number of the people of
+Uttarakuru . They all settled down in
+Jambudípa, and their settlement became known as Kururattha (Kuru Rashtra).
+Majjhima
+Commentary (Vol I, p 184) also attests that the people of Kururatha
+had originally belonged to the
+Uttarakuru .
+The above several references would indicate that the ancestors of the Kurus
+of
+Middle India
+had migrated from Bahlika/Uttarakuru which was a region
+stated to be to the north of Himalaya /Hindukush.
+But Przyluski
+has also shown that Bahlika or Balkh was the original home the
+Madra
+peoples
+known as the
+Uttaramadras . This shows that
+Uttarakuru , the original home of the Kurus, was not precisely located in
+Bahlika, but probably in some nearby region, north of Bahlika in Central
+Asia, possibly bordering with it. We know that on the east side of Bahlika
+i.e. the
+Uttaramadra , was located the
+Parama-Kamboja
+(say
+Uttara-Kambojas ) branch of the
+Kambojas .
+Thus it appears likely that the Uttarakurus as immediate
+neighbors to the Uttaramadras/Bahlikas were located to
+north-east of Uttaramadras and to north of Parama-Kambojas
+(Badakshan/Pamir).
+By the way , if Bahlika is to be
+insisted upon to be same as Uttarakuru, , then one can assume
+that the Madras and Kurus in the remote antiquity were one
+people.
+Later, the Kurus of the Middle country became known as
+Kuru
+proper or the
+Dakshina Kuru
+(MBH I, 109-10).
+None of the above sources claim knowledge or information
+from any of the four Vedas, nor do they cite references.
+Therefore they must understood in a presumptive manner rather
+than as facts.
+Puranic View of Kuru Origin
+The
+Puranas
+trace the lineage of the
+Pauravas , the line
+of kings who are related to the Kuru-Panchalas, to king
+Puru-rava Aila , who is stated to be king of
+Pratishthana .(This
+Pratishthana is near modern
+Allahabad and is not to be confused with the western Indian
+one, now called
+Paithan ). It is stated that Kuru was the son of king
+Samvarna and Tapti. He had given his name to
+Kurukshetra . At Kurukshetra, he had performed
+tapasya
+(penance) and pleased
+Indra.
+Kuru's descendants became known as Kauravas (Brahmanda Purana
+III.68.21).
+This Puranic view, in view of the evidence presented before,
+is not considered reliable. UKT: End of Wikipedia article.
+Go back
+Kuru-kingdom-note-b
+Contents of this page
+Kuruksetra
+(place)
+From Wikipedia:
+http://en.wikipedia.org/wiki/Kurukshetra
+100426
+Kurukshetra
+(Hindi:
+कुरुक्षेत्र ) is a district in
+Haryana
+state
+of India. It is a
+holy place and is also known as
+Dharmakshetra
+(" Holy City ").
+According to the Puranas, Kurukshetra is named after King Kuru, the ancestor of
+Kauravas and Pandavas, as depicted in epic
+Mahabharata. The importance of the place is attributed to the fact that the
+Kurukshetra War
+of the
+Mahabharata was fought on this land and the
+Bhagavad Gita
+was preached on this land during the war when Lord Krishna
+found Arjuna in a terrible dilemma. [1]
+Rashtrakavi
+Ramdhari Singh 'Dinkar'
+has written an
+epic poem
+by the title of
+Kurukshetra . It is a narrative poem based
+on the
+Santi Parva
+of the
+Mahabharata. [2]
+It was written at a time when the memories of the
+Second World War were fresh on the mind of the poet. [2]
+Thanesar
+or
+Sthaneswar
+is a historical town located adjacent to what is now the newly created
+Kurukshetra city. Thanesar derives its name from the word "Sthaneshwar", which
+means "Deity of the Place". The Sthaneshwar Mahadev Temple, whose presiding
+deity is Lord Shiva, is believed to be the oldest temple in the vicinity. Local
+hearsay identifies the legendary "Kurukshetra" with a nearby obscure hamlet, and
+with the active abetment of the state government. It is presently experiencing a
+tourist boom. A few kilometeres from Kurukshetra is the village known as
+" Amin ",
+where there are remnants of a fort which is said to be
+Abhimanyu 's
+fort.
+In some ancient Hindu texts, the boundaries of Kurukshetra correspond roughly
+to the state of Haryana. Thus according to the
+Taittiriya Aranyaka
+5.1.1., the Kurukshetra region is south of Turghna (Srughna/Sugh
+in
+Sirhind , Punjab), north of Khandava (Delhi and
+Mewat
+region),
+east of Maru (=desert) and west of Parin. [3]
+History
+It is written in
+Puranas that
+Kurukshetra is named after the King
+Kuru
+of
+Bharata
+Dynasty, ancestor of Pandavas and Kauravas.
+The
+Vamana Purana
+tells how King Kuru came to settle on this land. He chose this
+land at the banks of
+Sarasvati River
+for embedding spirituality with 8 virtues: austerity ( tapas ),
+truth ( satya ),
+forgiveness (kshama), kindness ( daya ),
+purity ( sucha ),
+charity ( dana ),
+yagya
+and
+brahmacharya . Lord
+Vishnu
+was
+impressed with the act of King Kuru and blessed him. God gave him two boons, one
+that this land forever will be known as a Holy Land after his name as
+Kurukshetra (the land of Kuru) and the other that anyone dying on this land will
+be going to heaven. The land of Kurukshetra was separated between two rivers —
+the Sarasvati and the Drishadvati.
+This land has been known as Uttravedi, Brahmavedi, Dharamkshetra and
+Kurukshetra at different periods. When King Kuru came on this land it was called
+Uttarvedi. Over the period this land has been ruled by many empires.
+Bharata
+Dynasty came and settled on this land.
+Later the Battle of
+Mahabharata was fought on this land, during which Lord
+Krishna
+preached
+Bhagavad Gita
+to
+Arjuna .
+It reached the zenith of its progress during the reign of King
+Harsha , during
+which Chinese
+scholar
+Hieun Tsang
+visited this land at
+Thanesar .
+By the archaeological grounds it has been proved that
+Ashoka the Great made Kurukshetra a centre of learning for people from all
+over the world.
+Mughals
+also ruled this land. Sufi saint Sheikh Chehli's tomb on this land
+is an evidence of this fact.
+UKT: More in the original Wikipedia article.
+Go back
+Kurukshetra-note-b
+Contents of this page
+Kurukshetra War
+कुरुक्षेत्र युद्ध
+From Wikipedia:
+http://en.wikipedia.org/wiki/Kurukshetra_War
+100421
+The
+Kurukshetra War
+(कुरुक्षेत्र युद्ध)
+is the war between the
+Kauravas and
+Pandavas, which forms an essential component of the Hindu epic
+Mahābhārata . According to
+Mahābhārata , a dynastic struggle
+between sibling clans of Kauravas and the Pandavas for the throne of
+Hastinapura
+resulted in a battle in which a number of ancient kingdoms
+participated as allies of the rival clans. The location of the battle was
+Kurukshetra
+in the modern state of Haryana in India.
+Mahābhārata
+states that the war lasted eighteen days during which vast
+armies from all over the Indian Subcontinent fought alongside the two rivals.
+Despite only referring to these eighteen days, the war narrative forms more than
+a quarter of the book, suggesting its relative importance within the epic, which
+overall spans decades of the warring families.
+The narrative describes individual battles of various heroes of both sides,
+battle-field deaths of some of the prominent heroes, military formations
+employed on each day by both armies, war diplomacies, meetings and discussions
+among the heroes and commanders before commencement of war on each day and the
+weapons used. The chapters ( parvas ) dealing with the war (from chapter
+six to ten) are considered amongst the oldest in the entire
+Mahābhārata .
+Bhagavad Gita , a sacred text of Vedic philosophy, which recounts the
+conversation between the Pandava
+Arjuna
+and
+Krishna
+arising out of Arjuna's reluctance to fight members of his own family, is
+considered a later addition to
+Mahābhārata .
+The Kurukshetra War is believed to date variously from 5561 BC to 800 BC [UKT:
+at least 300 years before the birth of the Gaudhama Buddha - need to know what
+the Buddhist sources said about the war.], based on the astronomical and
+literary information from
+Mahābhārata . The history of the Kurukshetra War
+is also traced to the
+Battle of the Ten Kings
+mentioned in
+Rigveda .
+[2]
+Background
+Mahābhārata , one of the most important
+Hindu epics, is an account of the life and deeds of
+several generations of a ruling dynasty called the
+Kuru
+clan. Central to the epic is an account of a
+great war that took place between two sibling families
+belonging to this clan. Kurukshetra (literally
+"field of the Kurus"), was the battleground on
+which this war, known as the Kurukshetra War, was fought.
+Kurukshetra was also known as "Dharmakshetra"
+(the "field of
+Dharma "), or field of righteousness. Mahābhārata
+tells that this site was chosen for the war because a sin
+committed on this land was forgiven on account of the
+sanctity of this land.
+The two sides to the war were the families of Pandavas
+and the Kauravas. The dispute between the Kauravas and
+the Pandavas arose from a game of dice, which the Kauravas
+won by deceit, forcing their Pandava cousins to go into exile
+for thirteen years. The dispute escalated into a full scale war when
+Duryodhana , the eldest of the Kauravas, driven by jealousy,
+refused to restore the Pandavas their throne after the exile.
+Prior to the war, the Pandavas, advised by Krishna,
+tried to find a diplomatic and peaceful solution to the conflict.
+Balarama ,
+Krishna's older brother, advised the Pandavas to send an emissary to get the
+support of the elders of the family like
+Bhishma ,
+Dhritarashtra ,
+Drona ,
+Karna ,
+and even
+Shakuni ,
+with the message "Let us avoid armed conflict as much as possible. Only that
+which is accrued in peace is worthwhile. Out of war, nothing but wrong can
+issue". [3]
+While the emissary was in the Kaurava court, the Pandavas continued with war
+preparations. They sent messages requesting assistance to a number of
+neighbouring kingdoms. Their ambassador of peace was insulted and turned away by
+Duryodhana, who was intent on war, defying the counsel of elders like Bhishma.
+After several failed attempts on peace, war seemed inevitable.
+Krishna's peace mission
+As a last attempt at peace,
+Krishna
+traveled to Hastinapur to persuade the Kauravas to embark upon a peaceful path
+with him. At Hastinapur, Krishna took his meals and stayed at the house of the
+minister,
+Vidura
+[UKT: This personage should be compared to one with the same name in Buddhist
+birth stories.], a religious man and a devotee of Krishna.
+Duryodhana
+was insulted that Krishna had turned down his invitation to dine with him and
+stay in his royal palace. Determined to stop the peace mission, Duryodhana
+plotted to arrest Krishna.
+At the formal presentation of the peace proposal by Krishna at the court of
+Hastinapur, Krishna's peace proposals were ignored, and Duryodhana publicly
+ordered his soldiers to arrest Krishna. Krishna laughed and displayed his divine
+form, radiating intense light. Furious at the insult inflicted upon Him, Lord
+Krishna cursed Duryodhana that his downfall was certain and He, as Lord
+Narayana's Divine Form, will see to it that his entire clan is destroyed from
+the Universe much to the shock of Dhirtharastra who tried to pacify the Lord.
+But Sri Krishna would have none of it. The beautiful divine form of the Lord
+could be perceived only by those pure in heart,
+Bhishma ,
+Drona , and
+Vidura . The
+peace mission rejected by Duryodhana, Krishna returned to Upaplavya to inform
+the Pandavas that the only course left to uphold the principles of virtue and
+righteousness was inevitable - war.
+War preparations
+Krishna had one of the largest armies and was Himself a great warrior.
+Duryodhana
+and
+Arjuna
+thus
+both went to Krishna at
+Dwarka
+to ask
+for His help. This is a famous part of the story, especially dear to Krishna
+devotees. Duryodhana arrived first, and found Krishna asleep. Being arrogant and
+viewing himself as equal to Krishna, Duryodhana chose a seat at Krishna's head
+and waited for Him to rouse. Arjuna arrived later, and being a humble devotee of
+Krishna, chose to sit and wait at Krishna's feet. When Krishna woke up, He saw
+Arjuna first and gave him the first right to make his request. Krishna told
+Arjuna and Duryodhana that He would give His mighty Narayani sena, 'opulent,
+Lordly army' to one side, and Himself unarmed to the other. Since Arjuna was
+given the first opportunity to choose, Duryodhana was worried that Arjuna would
+choose the mighty army of Krishna. When given the choice of either Krishna's
+army or Krishna Himself on their side, Arjuna on behalf of the Pandavas chose
+Krishna, unarmed on His own, relieving Duryodhana, who thought Arjuna to be the
+greatest fool. Later Arjuna requested Krishna to be his charioteer, and Krishna,
+being an intimate friend of Arjuna, agreed wholeheartedly, and hence received
+the name Paarthasaarthy, or 'charioteer of the son of Prithaa'. Both Duryodhana
+and Arjuna returned satisfied.
+While camping at a place called Upaplavya, in the territory of
+Virata , the
+Pandavas gathered their armies. Contingents arrived from all parts of the
+country and soon the Pandavas had a large force of seven divisions. The Kauravas
+managed to raise an even larger army of eleven divisions. Many
+kingdoms of ancient India
+such as
+Dwaraka ,
+Kasi ,
+Kekaya ,
+Magadha ,
+Matsya ,
+Chedi ,
+Pandya
+and the
+Yadus
+of
+Mathura
+were allied with the
+Pandavas ;
+while the allies of the
+Kauravas
+comprised the kings of Pragjyotisha,
+Anga ,
+Kekaya ,
+Sindhudesa, Mahishmati,
+Avanti
+in
+Madhyadesa,
+Madras ,
+Gandharas ,
+Bahlikas ,
+Kambojas
+(with the
+Yavanas ,
+Sakas
+and
+Tusharas ) and many others. At this point Lord Krishna advises Arjuna to pray
+to Goddess
+Durga
+the Goddess of Warriors and Warfare, and seeks Her Divine blessings. Pleased
+with Arjuna's devotion to Her the Goddess grants him that She will be at the
+side of Pandavas and will ensure that not single weapon can harm them. This is
+considered a decisive point leading to the war.
+An ancient measure of man power, Akshohini is used to enumerate the armies on
+both sides. One Akshohini consists of 21,870 chariots, 21,870 elephants, 65,610
+horses and 109,350 foot soldiers.
+Pandava army
+Seeing that there was now no hope for peace,
+Yudhisthira , the eldest of the Pandavas, asked his brothers to organize
+their army. The Pandavas accumulated seven
+Akshauhini
+army with the help of their allies. Each of
+these Akshohinis or divisions were led by
+Drupada ,
+Virata ,
+Dhristadyumna ,
+Shikhandi ,
+Satyaki ,
+Chekitana
+and
+Bhima . After
+consulting his commanders, the Pandavas appointed
+Dhristadyumna
+as the supreme commander of the Pandava army.
+Mahābhārata
+says that kingdoms from all over ancient India supplied troops or provided
+logistic support on the Pandava side. Some of these were:
+Kekaya ,
+Pandya ,
+Cholas ,
+Keralas ,
+Magadha , and many more.
+Kaurava army
+The Kaurava army was consisted of eleven
+Akshauhinis
+or divisions. Duryodhana requested
+Bhishma
+to
+command the
+Kaurava
+army. Bhishma accepted on the condition that, while he would fight
+the battle sincerely, he would not harm the five Pandava brothers. In addition,
+Bheeshma said that Karna would not fight under him as long as he is in the
+battlefied. It is believed by many that Bhishma pushed Karna into taking this
+decision due to his affection towards the Pandavas - the Kauravas would be
+overwhelmingly powerful if both he and Karna appeared in battle simultaneously.
+However the excuse he used to prevent their simultaneous fighting was that his
+guru ( Parshurama )
+was insulted by
+Karna .
+But the real fact was that Bhisma knew that Karna was a Kaunteya(Son of Kunti)
+from the day he met him in Ranakshetra when Karna offered Arjuna to fight
+against him. Regardless, Duryodhana agreed to Bhishma's conditions and made him
+the supreme commander of the Kaurava army, while Karna was debarred from
+fighting. . Apart from the one hundred Kaurava brothers, headed by Duryodhana
+himself and his brother
+Dushasana ,
+the second eldest son of
+Dhritarashtra , the Kauravas were assisted on the battlefield by
+Drona
+and his son
+Ashwathama , the Kaurava's brother-in-law
+Jayadratha ,
+the
+brahmin
+Kripa ,
+Kritavarma ,
+Shalya ,
+Sudakshina, Bhurisravas, Bahlika,
+Shakuni , and
+many more who were bound by their loyalty towards either
+Hastinapura
+or Dhritarashtra.
+Neutral parties
+The kingdom of
+Vidarbha , with its King Rukmi, and
+Balarama
+were the only neutrals in this war.
+[4]
+Army divisions and weaponry
+Each army consisted of several divisions; the Kauravas
+had 11 while the Pandavas controlled 7. A division
+( akshauhini )
+includes 21,870
+chariots
+and chariot-riders, 21,870
+elephants
+and riders, 65,610
+horses and riders ,
+and 109,350 foot-soldiers (in a ratio of 1:1:3:5). The combined number of
+warriors and soldiers in both armies was approximately 3.94 million.
+[5]
+Each
+Akshohini
+was under a commander or a general, apart from the
+Commander in chief or the generalissimo who was the head of the entire army.
+During the Kurukshetra War, the weapons used included: the bow
+and arrows, the
+weapon of choice for Arjuna, Bhishma, Drona, Karna and
+Abhimanyu ;
+the
+mace ,
+chosen by Bhima and Duryodhana, the
+spear
+and the
+dagger
+or
+sword .
+If the text is taken as historically accurate, this war
+was the bloodiest in history as most of the warriors and
+soldiers perished during a period of only eighteen days.
+Arjuna, in a fit of extreme anger over the death of his son
+Abhimanyu , alone killed one
+akshauhini
+of Kaurava soldiers in a single day. The war left an extremely large number of
+widows and orphans and led to an economic depression and beginning of
+Kali Yuga .
+Military formations
+At various times during battle, the supreme commander of either army ordered
+special formations ( "vyuhas" ). Each formation had a specific purpose;
+some were defensive while others were offensive. Each formation had its specific
+strengths and weaknesses. Mahābhārata' list the following:
+01.
+Krauncha vyuha
+(heron formation)
+02.
+Makara vyuha
+(crocodile formation)
+03.
+Kurma vyuha
+(tortoise or turtle formation)
+04.
+Trishula vyuha
+(the trident formation)
+05.
+Chakra vyuha
+(wheel or discus formation)
+06.
+Kamala vyuha
+or
+Padma vyuha
+(lotus formation)
+07.
+Garud vyuha
+(Eagle formation)
+08.
+Oormi vyuha
+(Ocean formation)
+09.
+Mandala vyuha
+(Galactic formation)
+10.
+Vajra vyuha
+(diamond/ thunderbolt formation)
+11.
+Shakata vyuha
+(Box/Cart formation)
+12.
+Asura vyuha
+(Demon formation)
+13.
+Deva vyuha
+(Divine formation)
+14.
+Soochi vyuha
+(Needle formation)
+15.
+Sringataka vyuha
+(Horned formation)
+16.
+Chandrakala vyuha
+(Crescent/ Curved Blade formation)
+It is not clear what the formations actually indicate. They may be formations
+bearing resemblance to animals, or they may be names given to strategies and
+formations. [6]
+Rules of engagement
+The two supreme commanders met and framed "rules of ethical conduct",
+dharmayuddha , for the war. The rules included:
+• Fighting must begin no earlier than sunrise and end exactly at sunset.
+• Multiple warriors may not attack a single warrior.
+• Two warriors may "duel", or engage in prolonged personal combat,
+only if they carry the same weapons and they are on the same mount
+(no mount, a horse, an elephant, or a chariot).
+• No warrior may kill or injure a warrior who has surrendered.
+• One who surrenders becomes a prisoner of war and will then be subject
+to the protections of a prisoner of war.
+• No warrior may kill or injure an unarmed warrior.
+• No warrior may kill or injure an unconscious warrior.
+• No warrior may kill or injure a person or animal not taking part in the 	war.
+• No warrior may kill or injure a warrior whose back is turned away.
+• No warrior may attack a woman.
+• No warrior may strike an animal not considered a direct threat.
+• The rules specific to each weapon must be followed. For example,
+it is prohibited to strike below the waist in mace warfare.
+• Warriors may not engage in any "unfair" warfare.
+Most of these laws were broken at least once by both sides.
+Course of war
+The Kurukshetra War lasted eighteen days. It was fought only during daylight
+hours; fighting ceased at sunset. The armies met on a vast field in
+Kurukshetra; each day the battle was characterised by numerous individual
+combats, as well as mass raids against entire enemy divisions. The victor or the
+vanquished on each day was determined not by any territories gained, but by the
+body count. This was a war to the death. The victor was the survivor.
+Before the battle
+It has been observed that the year in which the Mahabharata War took place,
+the year had three
+eclipses
+on
+earth in a span of thirty days. Eclipses are considered ill for the life giving
+planets such as Sun and Moon in Hindu Mythology. Lunar and Solar Eclipses bring
+Sun-Earth-Moon in one line one way or the other so that the earth experiences
+some kind of imbalance to the environment as well as inhabitants on earth. It is
+widely noted that though such year with three eclipses causes great harm, it can
+cause great benefit to mankind. This war, resulted into a gift called
+Bhagavad Gita
+to the mankind.
+On the
+first day
+of the war, as would be on all the following days, the
+Kaurava army
+stood facing west and the
+Pandava
+army
+stood facing east. The Kaurava army was formed such that it faced all sides:
+elephants formed its body; the kings, its head; and the steeds, its wings.
+Bhishma , in
+consultation with his commanders
+Drona ,
+Bahlika
+and
+Kripa ,
+remained in the rear.
+The Pandava
+army was organised by
+Yudhisthira
+and
+Arjuna
+in the
+Vajra
+formation. Because the Pandava army was smaller than the Kaurava's,
+they decided to employ the tactic of each warrior engaging as many enemies as
+possible. This involved an element of surprise, with the bowmen showering arrows
+from hidden behind the frontal attackers. The attackers in the front were
+equipped with short-range weapons like maces, battle-axes, swords and lances.
+Ten divisions ( Akshauhinis ) of the Kaurava army were arranged in a
+formidable phalanx. The eleventh was put under the immediate command of Bhishma,
+partly to protect him. The safety of the supreme commander Bhishma was central
+to
+Duryodhana 's strategy, as he had placed all his hope on the great warrior's
+abilities.
+Dushasana , the younger brother of Duryodhana, was the military officer
+in-charge of Bhishma's protection.
+When the war was declared and the two armies were facing each other,
+Arjuna realised
+that he would have to kill his dear great-granduncle
+( Bhishma ),
+on whose lap he had played as a child, and his respected teacher
+( Drona ),
+who had held his hand and taught him how to hold the bow and arrow, making him
+the greatest archer in the world. Arjuna felt weak and sickened at the prospect
+of killing his entire family, including his 100 cousins, and friends such as
+Ashwathama . Despondent and confused about what is religious, what is right
+and what is wrong, Arjuna turned to Krishna for divine advice and teachings.
+Krishna, who Arjuna chose as his charioteer, advised him of his duty. This
+conversation forms the
+Bhagavad Gita , one of the most respected religious and philosophical texts
+in the Hindu religion. Krishna instructs Arjuna not to yield to degrading
+impotence and to fight his kin, for that was the only way to righteousness. He
+also reminded him that this was a war between righteousness and unrighteousness
+(dharma and adharma), and it was Arjuna's duty to slay anyone who supported the
+cause of unrighteousness, or sin. Krishna then revealed his divine form and
+explained that he is born on earth in each aeon when evil raises its head. It
+also forms one of the foremost treatise on the several aspects of Yoga and
+mystical knowledge.
+Before the battle began,
+Yudhisthira
+did something unexpected. He suddenly dropped his weapons, took
+off his armour and started walking towards the Kaurava army with folded hands in
+prayer. The Pandava brothers and the Kauravas looked on in disbelief, thinking
+Yudhisthira was surrendering before the first arrow was shot. Yudhisthira's
+purpose became clear, however, when he fell on Bhishma's feet to seek his
+blessing for success in battle. Bhishma, grandfather to both the Pandavas and
+Kauravas, blessed Yudhisthira. Yudhisthira returned to his chariot and the
+battle was ready to commence.
+Day one
+When the battle commenced, Bhishma went through the Pandava army wreaking havoc
+wherever he went.
+Abhimanyu ,
+Arjuna's son, seeing this went straight at Bhishma, defeated his bodyguards and
+directly attacked the commander of the Kaurava forces. The Pandavas suffered
+numerous losses and were defeated at the end of the first day.
+Virata 's sons,
+Uttara
+and
+Sweta, were slain by
+Shalya
+and
+Bhishma .
+Krishna consoled the distraught Yudhisthira saying that eventually victory would
+be his.
+Day two
+The
+second day
+of the war commenced with a confident Kaurava army facing the
+Pandavas. Arjuna, realising that something needed to be done quickly to reverse
+the Pandava losses, decided that he must try to kill Bhishma. Krishna skillfully
+located Bhishma's chariot and steered Arjuna toward him. Arjuna tried to engage
+Bhishma in a duel, but the Kaurava soldiers placed around Bhishma to protect him
+attacked Arjuna to try to prevent him from directly engaging Bhishma. Arjuna and
+Bhishma fought a fierce battle that raged for hours.
+Drona
+and
+Dhristadyumna
+similarly engaged in a duel during which Drona broke
+Dhristadyumna's bow numerous times.
+Bhima
+intervened
+and rescued Dhristadyumna. Duryodhana sent the
+Kalinga
+forces to attack Bhima and most of them lost their lives at his
+hands. Bhishma immediately came to relieve the battered Kalinga forces.
+Satyaki , who
+was assisting Bhima, shot at Bhishma's charioteer and killed him. Bhishma's
+horses, with no one to control them, bolted carrying Bhishma away from the
+battle field. The Kaurava army had suffered great losses at the end of the
+second day.
+Day three
+On the
+third day , Bhishma arranged the Kaurava forces in the formation of an eagle
+with himself leading from the front, while Duryodhana's forces protected the
+rear. Bhishma wanted to be sure of avoiding any mishap. The Pandavas countered
+this by using the crescent formation with
+Bhima
+and Arjuna
+at the head of the right and the left horns, respectively. The Kauravas
+concentrated their attack on Arjuna's position. Arjuna's chariot was soon
+covered with arrows and javelins. Arjuna, with amazing skill, built a
+fortification around his chariot with an unending stream of arrows from his bow.
+Abhimanyu
+and Satyaki combined to defeat the
+Gandhara
+forces of
+Shakuni .
+Bhima and his son
+Ghatotkacha
+attacked Duryodhana in the rear. Bhima's arrows hit Duryodhana,
+who swooned in his chariot. His charioteer immediately drove them out of danger.
+Duryodhana's forces, however, saw their leader fleeing the battlefield and soon
+scattered. Bhishma soon restored order and Duryodhana returned to lead the army.
+He was angry at Bhishma, however, at what he saw as leniency towards the five
+Pandava brothers and spoke harshly at his commander. Bhishma, stung by this
+unfair charge, fell on the Pandava army with renewed vigour. It was as if there
+were more than one Bhishma on the field.
+[7]
+The Pandava army soon began to retreat in chaos.
+Arjuna and Krishna attacked Bhishma trying to restore order. Arjuna and
+Bhishma again engaged in a fierce duel, however Arjuna's heart was not in the
+battle as he did not like the idea of attacking his great-uncle. During the
+battle, Bhishma killed numerous soldiers of Arjuna's armies. This enraged Lord
+Krishna, who grabbed a chariot wheel to kill Bhishma. Bhishma wanted Lord
+Krishna to break his vow not to pick up any weapon in the battle. Bhishma at
+once fell at his feet and requested Krishna to kill him, as there would be
+nothing greater than attaining death at the hands of the supreme lord himself.
+Seeing this, Krishna calmed down and smiled and the battle between Arjuna and
+Bhishma continued.
+Day four
+The
+fourth day
+battle was noted for the valour shown by Bhima. Bhishma commanded
+the Kaurava army to move on the offensive from the outset. Arjuna's son,
+Abhimanyu, was surrounded and attacked by a number of Kaurava princes. Arjuna
+joined the fray in aid of Abhimanyu. Bhima appeared on the scene with his mace
+aloft and started attacking the Kauravas. Duryodhana sent a huge force of
+elephants at Bhima. When Bhima saw the mass of elephants approaching, he got
+down from his chariot and attacked them single handedly with his iron mace. They
+scattered and stampeded into the Kaurava forces killing many. Duryodhana ordered
+an all-out attack on Bhima. Bhima withstood all that was thrown at him and
+attacked Duryodhana's brothers, killing eight of them. Bhima was soon struck by
+an arrow on the chest and sat down in his chariot dazed.
+Ghatotkacha
+seeing this, fell upon the Kaurava army in anger. Bhishma,
+realizing that no one could stand against the angry Ghatotkacha, sounded
+retreat. Duryodhana was distraught at the loss of his brothers.
+Duryodhana, overwhelmed by sorrow at the loss of his brothers, went to
+Bhishma at the end of the fourth day of the battle, and asked his commander how
+could the Pandavas, facing a superior force against them, still prevail and win.
+Bhishma replied that the Pandavas had justice on their side and advised
+Duryodhana to seek peace.
+Days five through nine
+When the battle resumed on the
+fifth day , the slaughter continued. The Pandava army again suffered against
+Bhishma's attacks. Satyaki bore the brunt of
+Drona 's attacks
+and soon could not withstand them. Bhima drove by and rescued Satyaki. Arjuna
+fought and killed thousands of soldiers sent by Duryodhana to attack him. The
+unimaginable carnage continued during the ensuing days of the battle. The
+sixth day
+was marked by a prodigious slaughter.
+Drona
+caused
+immeasurable loss of life on the Pandava side. The formations of both the armies
+were broken. On the
+eighth day
+Bhima killed eight of Dhritarashtra's sons and Arjuna's son
+Iravan
+was
+killed by the Kauravas. On the
+ninth day
+Krishna, once again overcome by anger at the apparent inability of
+Arjuna to defeat Bhishma, rushed towards the Kaurava commander, but Arjuna
+stopped him. Realising that the war could not be won as long as Bhisma were
+standing, Krishna suggested the strategy of placing a woman in the field to face
+him.
+Day 10
+On the
+tenth day
+the Pandavas, unable to withstand Bhishma's prowess, decided to
+put
+Shikhandi ,
+who had been a woman in a prior life in front of Bhishma, as Bhishma has taken a
+vow not to attack a woman. Shikhandi's arrows fell on Bhishma without hindrance.
+Arjuna positioned himself behind Shikhandi, protecting himself from Bhishma's
+attack, and aimed his arrows at the weak points in Bhishma's armour. Soon, with
+arrows sticking from every part of his body, the great warrior fell from his
+chariot. His body did not touch the ground as it was held aloft by the arrows
+protruding from his body.
+The Kauravas and Pandavas gathered around Bhishma and, at his request, Arjuna
+placed three arrows under Bhisma's head to support it. Bhishma had promised his
+father, King Shantanu, that he would live until Hastinapur were secured from all
+directions. To keep this promise, Bhishma used the boon of "Ichcha Mrityu" (self
+wished death) given to him by his father. After the war was over, when Hastinapur
+had become safe from all sides and after giving lessons on politics and
+Vishnu Sahastranama
+to the Pandavas, Bhishma died on the first day of
+Uttarayana .
+Day 11
+With Bhishma unable to continue, Karna entered the battle field,
+much to Duryodhna's joy. He made
+Drona
+the supreme
+commander of the Kaurava forces. Karna and Duryodhana wanted to capture
+Yudhisthira alive. Killing Yudhisthira in battle would only enrage the Pandavas
+more, whereas holding him as hostage would be strategically useful. Drona
+formulated his battle plans for the
+eleventh day
+to this aim. He cut down Yudhisthira's bow and the Pandava army
+feared that their leader would be taken prisoner. Arjuna rushed to the scene,
+however, and with a flood of arrows made Drona retreat.
+Day 12
+With his attempts to capture
+Yudhisthira
+failed, Drona confided to Duryodhna that it would be difficult
+as long as Arjuna was around. The king of Trigartadesa,
+Susharma
+along with his 3 brothers and 35 sons who were fighting on the
+Kaurava side made a pact that they would kill Arjuna or die. They went into the
+battle field on the
+twelfth day
+and challenged Arjuna. Arjuna gave them a fierce fight in which
+the brothers fell dead after fighting a brave fight. Drona continued to try and
+capture Yudhisthira. The Pandavas however fought hard and delivered severe blows
+to the Kaurava army.
+Day 13
+Duryodhana
+summoned King Bhagadatta, the monarch of Pragjyotisha (modern day
+Assam, India). Bhagadatta had thousands of gigantic elephants in his stable and
+was considered the strongest warrior on this planet in elephant warfare.
+Bhagadatta attacked Arjuna with his gigantic elephant named Suprateeka. It was a
+fierce battle in which Bhagadatta matched Arjuna
+astra
+for astra.
+On the other side of the battlefield, the remaining four Pandavas and their
+allies were finding it impossible to break Dronacharya's Chakravyuha formation.
+As Arjuna was busy fighting with the Trigartadesa princes and the Prajayogastha
+monarch on the other side of the battlefield, he could not be summoned
+to break the
+Chakravyuha
+formation, which could only be broken by entering and exiting
+the formation. Yudhisthira instructed,
+Abhimanyu ,
+one of Arjuna's sons to break the Chakravyuha formation. Abhimanyu knew the
+secret of entering the Chakravyuh formation, but did not know how to exit it.
+Eventually he was trapped in the Chakravyuha, which led to his death.
+Upon learning of the death of his son, Arjuna vowed to kill
+Jayadratha
+on the morrow before the battle ended at sunset, otherwise he would throw
+himself into the fire.
+Day 14
+While searching for Jayadratha on the battlefield, Arjuna slew an
+akshouhini
+(hundreds of thousands (109,350)) of Kaurava soldiers. The
+Kaurava army tightly protected Jayadratha, however, preventing Arjuna from
+attacking him. Finally, in late afternoon, Arjuna found Jayadratha guarded by
+the mighty kaurav army. Seeing his friend's plight, Lord Krishna
+raised his
+Sudarshana Chakra
+to cover the sun, faking a sunset. Arjuna fought a
+powerful battle with Jayadrtha and finally defeated him. Then, Arjuna shot a
+powerful arrow decapitating Jayadratha.
+The battle continued past sunset. When the bright moon rose,
+Ghatotkacha
+, son of Bhima slaughtered numerous warriors,
+attacking while flying in the air. Karna stood against him and
+both fought fiercely until Karna released the Indrastra,
+a celestial dart given to him by
+Indra .
+Ghatotkacha increased his size and fell dead on the Kaurav army
+killing thousands of them.
+UKT: Ghatotkacha was mothered by a demi-goddess (a demon or "Asura")
+while Bhima was in her country. Can this place be on the border between
+India and Myanmar? What I have in mind is the Myanmar-province of Yaw which
+even to this day is considered by the people from the Myanmar mainland to be
+the area of witches and wizards. As a young child in 1942, my parents and I
+had lived for some six months in Pauk, a town on the outskirt of the proper
+Yaw. - UKT 100422.
+Day 15
+After King
+Drupada
+and King
+Virata
+were
+slain by
+Drona ,
+Bhima , and
+Dhristadyumna
+fought him on the fifteenth day. Because Drona was very
+powerful and inconquerable having the irresistible brahmadanda, Krishna hinted
+to Yudhisthira that Drona would give up his arms if his son Ashwathama was dead.
+Bhima proceeded to kill an elephant named Ashwathama, and loudly proclaimed that
+Ashwathama was dead. Drona approached Yudhisthira to seek the truth of his son's
+death. Yudhisthira proclaimed
+Ashwathama Hatahath, naro va Kunjaro va ,
+implying Ashwathama had died but he was nor sure whether it was a Drona's son or
+an elephant, The latter part of his proclamation (Naro va Kunjaro va) were
+drowned out by trumpets sounded in triumph, on Krishna's instruction (a
+different version of the story is that Yudhisthira pronounced the last words so
+feebly that Drona could not hear the word elephant). Prior to this incident, the
+chariot of Yudhisthira, proclaimed as
+Dharma raja
+(King of
+righteousness), hovered a few inches off the ground. After the event, the
+chariot landed on the ground as he had knowingly uttered a falsehood.
+Drona was disheartened, and laid down his weapons. He was then killed by
+Dhristadyumna
+to avenge his father's death and satisfy his vow. Later, the
+Pandava's mother
+Kunti
+secretly met her abandoned son
+Karna
+and
+requested him to spare the Pandavas, as they were his younger brothers. Karna
+promised Kunti that he would spare them except for Arjuna.
+Day 16
+On the sixteenth day,
+Karna
+became
+supreme commander of the Kaurava army, killing countless warriors during the
+day.
+Karna fought valiantly but was surrounded and attacked by Pandava generals,
+who were unable to prevail upon him. Karna inflicted heavy damage on the Pandava
+army, which fled. Then Arjuna successfully resisted Karna's weapons with his
+own, and also inflicted casualties upon the Kaurava army. The sun soon set, and
+with darkness and dust making the assessment of proceedings difficult, the
+Kaurava army retreated for the day.
+[8]
+On the same day, Bhima swung his mace and
+shattered Dushasana's chariot. Bhima seized Dushasana, ripped his right hand
+from shoulder and killed him, tearing open his chest and drinking his blood and
+carrying some to smear on Draupadi's untied hair, thus fulfilling his vow made
+when Draupadi
+was humiliated.
+Day 17
+On the seventeenth day,
+Karna
+defeated
+Bhima
+and
+Yudhisthira
+in battle but spared their lives. Later, Karna resumed duelling
+with
+Arjuna.
+Day 18
+On the 18th day, Yudhishthira killed king
+Shalya ,
+Sahadeva
+killed
+Shakuni ,
+and
+Bhima
+killed
+Duryodhana's remaining brothers. Realizing that he had been defeated,
+Duryodhana
+fled the battle field and took refuge in the lake, where the Pandavas caught up
+with him. Under the supervision of the now returned
+Balarama , a
+mace battle took place between
+Bhima
+and
+Duryodhana
+in which
+Duryodhana
+was mortally wounded. Ashwatthama, Kripacharya, and Kritavarma
+met
+Duryodhana
+at his deathbed and promised to avenge him. They attacked the
+Pandavas' camp later that night and killed all the Pandavas' remaining army,
+besides
+Dhristadyumna ,
+Shikhandi
+Aftermath
+At the end of the 18th day, only Twelve warriors survived the war — the five
+Pandavas ,
+Krishna ,
+Satyaki ,
+Ashwatthama ,
+Kripacharya ,
+Yuyutsu ,
+Vrishakethu
+and
+Kritvarma . Vrishakethu was the only son of Karna who survived the horrific
+slaughter. He later came under the patronage of the Pandavas. During the
+campaign that preceded the Ashvamedha –yaga, Vrishakethu accompanied Arjuna and
+participated in the battles with Sudhava and Babruvahana. During that campaign
+Vrishakethu married the daughter of king Yavanatha (perhaps a king of the
+western regions). It is said, Arjuna developed great affection for Vrishakethu,
+his nephew. Yudhisthira was crowned king of
+Hastinapur .
+He renounced the throne after ruling for more than 30 years, passing on the
+crown
+to Arjuna's
+grandson
+Parikshit . He then left for the
+Himalayas
+with
+Draupadi
+and his brothers in what was to be their last journey.
+Draupadi
+and four Pandavas —
+Bhima ,
+Arjuna ,
+Nakula , and
+Sahadeva
+— died
+during the journey.
+Yudhisthira , the lone survivor and being of pious heart, was invited by
+Dharma
+Historicity
+Attempts have been made to find the exact date for the occurrence of this war
+based on astronomical and literary records, such as the
+Mahābhārata
+and
+later literature. There have been a number of theories put forward [9] :
+• S. Balakrishna concluded a date of
+2559 BCE
+using consecutive lunar eclipses.
+• I. N. Iyengar concluded a date of
+1478 BCE
+using double eclipses and Saturn+Jupiter
+conjunctions .
+• B. N. Achar states a date of
+3067 BCE
+using planetary positions listed in the
+Mahābhārata .
+• P. V. Holey states a date of November 13,
+3143 BCE
+using planetary positions and calendar systems.
+Vartak calculates a date of October 16,
+5561 BCE
+using planetary positions. [10]
+• Based on translation work by K. Sadananda, on November 22
+3067 BCE , Kurukshetra War started.
+[11]
+• "The findings in Dwarka and archeological evidence found are compatible
+with the Mahabharata tradition and removes the lingering doubt about the
+historicity and poisions Mahabharata war date to around 1500 BCE
+[12]]
+also see
+[2]
+Go back
+Kurukshetra-War-note-b
+Contents of this page
+End of TIL file

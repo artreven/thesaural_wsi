@@ -1,0 +1,375 @@
+A Prion is not a Compact Hybrid from Japan
+Register
+Help
+Remember Me?
+Stream
+Forum
+FAQ
+Calendar
+Forum Actions
+Mark Forums Read
+Advanced Search
+Forum
+Sociocide Forums
+Articles of Confederation
+A Prion is not a Compact Hybrid from Japan
+If this is your first visit, be sure to
+check out the
+FAQ
+by clicking the
+link above. You may have to
+register
+before you can post: click the register link above to proceed. To start viewing messages,
+select the forum that you want to visit from the selection below.
+Page 1 of 2
+1 2
+Last
+Jump to page:
+Results 1 to 10 of 13
+Thread:
+A Prion is not a Compact Hybrid from Japan
+Thread Tools
+Show Printable Version
+Email this Page…
+Subscribe to this Thread…
+21st January 10
+#1
+jubei33
+View Profile
+View Forum Posts
+Will she be set upon you?
+Join Date
+Feb 2004
+Posts
+4,725
+Yes
+|
+No
+A Prion is not a Compact Hybrid from Japan
+A Prion is not a Compact Hybrid from Japan
+This time our tale begins in the 1970’s with the supposed existence of “slow viruses” as proposed by Bjorn Sigurdsson in 1954 to explain the long incubation period of certain neuro-degenerative diseases called
+transmissable spongiform encephalopathies .
+This group includes diseases like scrapie in sheep, BSE in cows (“mad cow disease”) and Creutzfeldt-Jakob disease in humans.
+Noting the similarities between the above diseases, the hunt was on for the pathogen that caused them.
+Most at the time believed in the existence of a virus with an extremely long latency as the cause, hence the name ‘slow virus’.
+At that point, research had failed to find any virus or similar pathogen complicit in the disease.
+Two British researchers, John S. Griffith and Tikvah Alper noticed that TSE cultures stayed infectious even after being blasted with doses of radiation that would destroy normal DNA/RNA containing samples.
+The bonds in DNA or RNA are easily broken by this method, whereas the bonds in proteins are generally stronger and more resistant to high levels of radiation.
+This led them to suggest a new, radical hypothesis: that the disease-causing agent was made of proteins rather than of nucleic acids.
+This was controversial at the time, because it was widely believed that only DNA or RNA could transfer hereditary information like diseases, a belief typified in
+Francis Crick’s
+seminal “ Central Dogma ”.
+As such it was ignored and the search went on for a virus or a more acceptable culprit.
+In certain parts of Papua New Guinea the disease
+Kuru
+reached epidemic proportions and the pathology of it in the Fore people was similar to the others the TSE group of diseases.
+It shared the same long latency period and caused similar neural damage manifesting as a sponge-like appearance of the brain as neurons died.
+Daniel Carleton Gajdusek
+spent several years studying the disease’s progression and performed autopsies on the victims.
+He developed the theory that the contagion was transferred by blood through open wounds and by eating the cadaver during the Fore’s cannibalistic funeral rites.
+They would eat the dead of their tribe so their collected spirit would manifest and protect the tribe.
+The disease was especially prevalent among children and women, supposedly because they got the less prized cuts of ‘meat’ like the brains and organs.　This was particularly unfortunate as these portions were the ones most heavily infected with the later discovered pathogen.
+He transplanted infected tissue into chimpanzees causing the same symptoms over an extended period of time, showing that the diseased tissue could infect healthy individuals.
+Clearly, this was not an issue of a genetic malady, but a transmissible pathogen.
+His efforts won him the Nobel prize in Medicine in 1976, even though he was unable to determine the specific entity that caused the disease.
+This task was left to another scientist a few years later.
+Enter the Prusiner
+Stanley B. Prusiner had long been involved with scrapie research and developed a strong interest in Griffith and Alper’s previous research.
+By the late 70’s scientists had still not identified a virus or similar nucleic acid containing culprit.
+They were at a loss to describe the cause and the obvious similarities in this class of diseases. 　The general consensus was that the virus had special qualities that allowed it to evade every kind of detection available.
+For example, the virus was thought to have such a high resistance to UV radiation, because it encased itself inside a strong protein shell.
+Suspiciously, it even resisted techniques to detect this and for such a large entity, it evaded electron microscopy as well.
+Another theory proposed was the exact opposite: that it was extremely small, but this came with its own problems as well.
+Prusiner grew skeptical of the idea of a mystery virus and his first paper on the subject is truly brilliant.
+It takes the viral based position and systematically attacks it, clearing away possibilities like weeds in an unkempt yard.
+He establishes that a protein must be required for infection and describes the qualities it must have to fit the known evidence.
+Prusiner’s big leap came when they tried to purify the infectious substance based upon known qualities of the agent in hamster and mice brains, in particular the
+LD50’s
+of homogeneous preparations.
+Using information gleaned from its sedimentation profile they found that the agent in question would have to fall within a small range of sizes and weights.
+Given these constraints, it was shown that even if the supposed virus was contained inside a protein shell, its nucleic acid content must be quite small and “too small to code for a protein.”
+Later, he used
+Sarkosyl aragose gel electrophoresis
+to separate the proteins from the nucleic acids in the purified samples.
+The only samples that maintained their toxicity were those that contained protein.
+This was useful information and fueled further searches and the narrowing of possibilities.
+Solubility is a central concept in chemistry, as such Prusiner invested a lot of time to discover what it was soluble in leading to even more clues to its identity.
+He used a variety of compounds that typically dissolve nucleic acids, but achieved mixed results.
+He found many of the compounds used were ionic or suggested that a negatively charged compound was at the root of the issue.
+The amino acids in proteins have negatively charged end groups, so this seemed to suggest, albeit inconclusively, that it was a protein.
+Curiously, he found that
+nucleases
+had no effect on the agent as would be expected of a virus containing them.
+In light of this, he tried to digest the preparation with
+protease K , an enzyme that inactivates proteins, finding a positive result.
+He repeated the same experiment with trypsin, another protease, with the same results.
+This was strong evidence that the compound in question was, in fact, a protein.
+Similarly, he tried to find what chemicals would deactivate its toxic properties.
+He found that chemicals like phenol and urea, both very strong protein denaturants, destroyed the infectivity of the purified preparations.
+He also tried to reverse the reactions to attempt to restore the toxicity without success, showing that what happened to the solution wasn’t a predictable A + B = C type reaction, but the product of a reaction the destroyed the toxic essence of the chemical in question.
+The information above shows that a protein must be necessary for infection.
+After establishing these findings, he promotes a new idea: the cause of these diseases is not a virus or other similar entity, but rather a new infectious agent.
+“The molecular properties of the scrapie agent differ from those of viruses, viroids and plasmids.
+Its resistance to procedures that attack nucleic acids, its resistance to inactivation by heat, and its apparent small size suggest the scrapie agent is a novel infectious agent.”
+This novel agent later came to be known as a
+prion .
+“Prions are small proteinaceous infectious particles which are resistant to most procedures that modify nucleic acids.”
+Not only did Prusiner establish a protein-based mechanism for the disease, but two years later he also purified the protein involved.
+Toxic prions were discovered to be an evil doppelganger of a naturally occurring protein, which purpose is unknown, but thought to have a basis in the maintenance of memory and certain stem cells.
+The toxic protein is misfolded and by nature of its poor shape induces similar proteins to bind and form insoluble clumps of protein called amyloid-beta plaques in neural tissue.
+This could explain its apparent ability to reproduce without a set of nucleic acid instructions and its long latency period.
+Recent research has connected these plaques with a wide range of diseases, including the big one: Alzheimer’s disease.
+Researchers Adriano Aguzzi and Stephen Strittmatter have published a study of the damaging effects of smaller, semi-soluble plaques on neurons in mice.
+They showed that the prion proteins are necessary for the damaging effects of the semi-soluble plaques.
+“Researchers removed the prion protein middleman from mice and examined brain slices. When the team washed A-beta
+oligomers * over the brain slices, the oligomers no longer had an effect on cell activity in the hippocampus.”
+In a similar study, other researchers got the same results using an antibody primed to block the section of prion protein that binds to the A-beta oligiomer.
+Without the prion proteins the damaging effects of the disease weren’t seen.
+“Blocking prion protein binding may be a new therapeutic target for Alzheimer’s disease. Get rid of the prion protein middleman, or its ability to bind A-beta oligomers, and get rid of the disease, said Strittmatter.
+Exciting times these are, perhaps....
+1. http://www.sciencenews.org/view/gene...80%99s_disease
+Pirons may be complicit in Alzheimer's disease article
+2.
+http://www.pnas.org/content/95/23/13363.full
+P’s 1991 reiteration
+3. http://www.idm.pitt.edu/IDM2004LecturePPT/Prusiner.pdf .
+Prusiner’s first prion paper
+Last edited by jubei33; 21st January 10 at
+09:19 AM .
+Where have all the hobos gone to?
+RESOLVE IS A DISHONEST PERSON.
+http://woodwardswhiskey.wordpress.com/
+Reply With Quote
+21st January 10
+#2
+Ajamil
+View Profile
+View Forum Posts
+Join Date
+May 2006
+Posts
+18,195
+Yes
+|
+No
+Thanks for the write-up.
+Interesting to see how they tracked down the pathogen.
+(Wasn't going to leave a useless reply, but must spread rep around before...)
+Reply With Quote
+21st January 10
+#3
+littleoldme
+View Profile
+View Forum Posts
+Join Date
+Feb 2008
+Posts
+312
+Yes
+|
+No
+Daniel Carleton Gajdusek
+spent several years
+studying the disease’s progression and performed autopsies on the
+victims.
+He developed the theory that the contagion was transferred by
+blood through open wounds and by eating the cadaver during the Fore’s
+cannibalistic funeral rites.
+They would eat the dead of their tribe so
+their collected spirit would manifest and protect the tribe.
+The
+disease was especially prevalent among children and women, supposedly
+because they got the less prized cuts of ‘meat’ like the brains and
+organs.　This was particularly unfortunate as these portions were the
+ones most heavily infected with the later discovered pathogen.
+He
+transplanted infected tissue into chimpanzees causing the same symptoms
+over an extended period of time, showing that the diseased tissue could
+infect healthy individuals.
+Clearly, this was not an issue of a genetic
+malady, but a transmissible pathogen.
+His efforts won him the Nobel
+prize in Medicine in 1976, even though he was unable to determine the
+specific entity that caused the disease.
+This task was left to another
+scientist a few years later.
+Gajdusek was a very interesting and controversial figure.
+A brilliant scientist and an unrepentant child abuser.
+http://www.latimes.com/news/science/...,4063264.story
+Reply With Quote
+21st January 10
+#4
+jubei33
+View Profile
+View Forum Posts
+Will she be set upon you?
+Join Date
+Feb 2004
+Posts
+4,725
+Yes
+|
+No
+Yes, he was.
+Last edited by jubei33; 21st January 10 at
+09:35 AM .
+Where have all the hobos gone to?
+RESOLVE IS A DISHONEST PERSON.
+http://woodwardswhiskey.wordpress.com/
+Reply With Quote
+21st January 10
+#5
+SFGOON
+Guest
+Yes
+|
+No
+All they gotta do is either find or synthesize the right enzyme and POW!
+it's over for this shit.
+Reply With Quote
+21st January 10
+#6
+Zendetta
+Guest
+Yes
+|
+No
+If you were going to invade another planet, viruses would be a great way to do it.
+Reply With Quote
+21st January 10
+#7
+Wounded Ronin
+Guest
+Yes
+|
+No
+Prions have already been scaring the shit out of me since public health grad school.
+Reply With Quote
+22nd January 10
+#8
+SFGOON
+Guest
+Yes
+|
+No
+Originally Posted by
+Zendetta
+If you were going to invade another planet, viruses would be a great way to do it.
+Prions are eviler.
+<TLH>You spinless jackboot licking coward</TLH>
+Reply With Quote
+22nd January 10
+#9
+Kein Haar
+View Profile
+View Forum Posts
+Registered Member
+Join Date
+Oct 2003
+Posts
+9,822
+Yes
+|
+No
+Originally Posted by
+Zendetta
+If you were going to invade another planet, viruses would be a great way to do it.
+You wanna get sick as hell?
+Helicoptors are gonna spray your ass with viruses, yo!
+http://www.hulu.com/watch/113213/sat...round-festival
+If your daughter isn't wearing her hijab, you can see it and slap her.
+-Creativo
+Reply With Quote
+22nd January 10
+#10
+Blue Negation
+View Profile
+View Forum Posts
+Registered Member
+Join Date
+Aug 2006
+Posts
+530
+Yes
+|
+No
+Originally Posted by
+Wounded Ronin
+Prions have already been scaring the shit out of me since public health grad school.
+Why? If you ever are infected, just douse your neural system in protease K!
+Yeah, I temporarily went pescatarian every time the mad cow scares cropped up in the last decade.
+Reply With Quote
+Page 1 of 2
+1 2
+Last
+Jump to page:
+Quick Navigation
+Articles of Confederation
+Top
+Site Areas
+Settings
+Private Messages
+Subscriptions
+Who's Online
+Search Forums
+Forums Home
+Forums
+Sociocide Forums
+Ground Zero
+Articles of Confederation
+Geekdom
+Movies, Music, and Mayhem
+Funkyzeit
+NOM NOM NOM
+The Duhpartment of Motard Vehicles
+SPORTS SPORTS SPORTS
+Reviews
+Videos and MP3
+Support Forum
+Bullshido.net Forums
+«
+Previous Thread
+|
+Next Thread
+»
+Posting Permissions
+You
+may not
+post new threads
+You
+may not
+post replies
+You
+may not
+post attachments
+You
+may not
+edit your posts
+BB code
+is
+On
+Smilies
+are
+On
+[IMG]
+code is
+On
+[VIDEO]
+code is
+On
+HTML code is
+Off
+Forum Rules
+-- Sociocide Nova
+-- Default Mobile Style
+Contact Us
+Sociocide: Pop Culture in its Stupid Face
+Archive
+Top
+All times are GMT -5. The time now is
+04:05 PM .
+Powered by vBulletin Version Copyright ©2000 - 2015, Jelsoft Enterprises Image resizer by
+SevenSkins
+(C) Creative Combat
+S9 Nova | Dark Professional Premium Theme
+◮ Top

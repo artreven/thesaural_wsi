@@ -1,0 +1,426 @@
+ORANGEHOUSE: 07/01/2008 - 08/01/2008
+ORANGEHOUSE
+Life Observations of a Middle-Aged Fat Guy
+Wednesday, August 20, 2008
+Pico Bonito National Park, Honduras
+Our time in Honduras, especially the last few weeks, was very full. After six days of 12-14 hour work days, we needed some R&R. So on our last Sunday, we went to visit a beautiful national park called Pico Bonito. It's not far from La Ceiba, so we all loaded up in our somewhat beaten rental SUV and drove out about 18 km to the point we turn off the paved road and into a huge pineapple field. By this I mean a huge field of regular sized pineapples, not a field, large or small, of huge pineapples. From there we drove another kilometer or so to the entrance of the park. On the drive to the park we played 80's and 90's music from The M's iPod. Jonathan and AJ, in particular, enjoyed singing along. The picture above shows the entrance to the park. The mountains are close to the road here, but the strip of land between them and the road is chalk-o-block full of pineapples. In an earlier post, I showed a photograph of these fields taken from the air and mistakenly identified them as aloe vera. This only proves you shouldn't believe anything I say.
+There is a small waterfall near the entrance and we all enjoyed a little swim in the delightfully cool and amazingly clear water. If you were a strong enough swimmer, you could swim against the current and reach the point where the water crashed into the pool. The force of the water was nearly painful on your head, and it would push you under and out if you didn't fight against it constantly. It reminded me of the power we are capturing with the hydrogenerator; it's the same power of falling water. My boys enjoyed their day and the extra attention from the students. We really had great teams this year and I was glad that my family could be part of it! Fun was had by all, most of the time. I put together a little video that, I believe, captures the spirit of that day. Lighten up.
+No comments:
+Labels:
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Home Again
+Seven and a half weeks after we left our home in central Texas, we are safely and gratefully back home.
+Thanks for all of your prayers, encouragements, blood/sweat/tears, and donations!
+I'm going to bed...
+No comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Friday, August 15, 2008
+A Fix For The Techies
+You know what they say: you can't spell geek without double-E. This post is just for the engineers in the blogosphere.
+From left to right are my friends the circuit breaker panel, the inverter, and the dump load controller. Interesting story about the dump load - we needed a 2.3 Ohm resistor capable of dissipating 1000 Watts, but we didn't have the right part in the village because, frankly, I didn't think we would get that far in the construction. So I started looking around at various metallic items around the site. I found a piece of rebar, and a drill bit, but both of them measured to have less resistance than I needed. I tried to use the drill bit anyway, so I used electrical tape to attach it to some wires from the dump load controller. It didn't work, however. I considered putting the rebar in series with the drill bit, just so I could say I did it, but decided to use the coffee maker instead (which happened to be in the car). We electrical-taped the coffee maker plug prongs to the wires and gave it a try. It was just about right, and soon we had the hydro generating power and the dump load controller controlling the dump load. Since then, we have designed a new dump load consisting of seven, hot water heater elements in parallel.
+Here is the completed canal. On the left is a big metal box with the generator and Ryan, who, is technically not part of the system.
+In the middle is Walter standing on the pipes, and Jonathan standing on the bank behind them.
+The left-most vertical pipe is where the water flows out.
+The slanted pipe and the right-most vertical pipe are actually just concrete forms for the posts that support the structure.
+Here you can see the generator in the big metal box.
+We were able to optimize the performance (for our water conditions) to about 770 Watts. Ryan, AJ, me, Jonathan, and Matilde.
+Elizabeth was off working while we hung around and took pictures.
+[By the way, I began this post in Honduras, but I am finishing it in Houston. We have all returned now and left Sergio in charge of completing customer connections, paying the employees, and supervising the maintenance.
+I plan to call him in a day or so.]
+No comments:
+Labels:
+energy projects in the developing world ,
+Engineers with a Mission ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+In Such A Way
+The power is on! Our power lines are energized and homes are being connected to them daily. The batteries are being fed by the diesel generator in part, and, get this, the hydrogenerator too! That's right, we started generating power from water yesterday! We still have some minor bugs to work out, but essentially, we finished on our last possible day!
+This is Adolfo's pregnant wife, Waldina. She is cooking by candil. A candil is a kerosene-powered, home made, Molotov coctail style light. The light quality is on par with a large candle. This is what the houses are like at night now. It looks romantic, but it's hard to work or read by, and it's expensive and dangerous to operate.
+And here is one of our first electricity-connected buildings. It is a brand new church, built near the place where our generator is. It is lit by three compact fluorescent bulbs that, combined, use the power of one, sixty watt light incandescent bulb. Their light output, however, is much better than a single incandescent, and orders of magnitude better than candils. The families were gathering for Thursday night church. This is Walter's oldest daughter.
+This is Walter's younger daughter (left), and another little girl from down the road. This is the front of the church which is still under construction. You can see the glare off the top of my head!
+Ryan inside the church, taking a well-earned break at the end of the day.
+AJ, Jonathan, Walter, and Sergio are bunched up on the smallest church pews I have ever seen. I am surprised it held their weight. We have deployed the equipment and it is working. The employees have been trained and will continue to connect houses to our lines, to maintain the system, to educate the villagers, and to sell compact fluorescent light bulbs. Ryan and I are planning to return in October to check on progress, and we will be in weekly email contact with Sergio in the meantime. I am delighted that we were able to get this far. At times I thought we would not. I am relieved and excited about the future here, and I know the villagers are happy and excited too. That gives me much satisfaction. The guys that we know the best, Walter, Adolfo, and Matilde, are enthusiastic and full of smiles. My prayer for this work is best described by Mathew 5:14-16 where Jesus said: "You are the light of the world. A city set on a hill cannot be hidden. Nor do men light a lamp and put it under a peck-measure, but on the lamp stand; and it gives light to all who are in the house. Let your light shine before men
+in such a way
+that they may see your good works, and glorify the Father who is in heaven." May it be.
+10 comments:
+Labels:
+energy projects in the developing world ,
+Engineers with a Mission ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Noehmi's Update
+Good news! Noehmi's surgery went well. She spent one night in the hospital and has now gone home. When The M went to pay the last of the bill, her mother was very, very grateful and gave us her thanks. So I am passing that thanks on to you who made it possible! Be blessed all of you who gave and prayed!
+No comments:
+Labels:
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Monday, August 11, 2008
+Noehmi's Surgery, Take 2
+This is Noehmi. She is six and tiny and very cute. She has a double hernia and we are trying to help her get it fixed. Many of you have offered to contribute to this endeavor, and her mother and father appreciate it very much, as do I. Yesterday we went to pick her up with her parents and take her to the hospital.
+We drove to the center of town and picked them up. Her father, in addition to being a subsistence farmer, is the pastor of this little church in the village. It is the only other church besides the one we normally work with, the Baptist church that Santos pastors. This one is prettier. This is Noehmi outside her house yesterday. Hers is one of the poorer families in Pueblo Nuevo, I think. She had on her fanciest clothes for the trip, as did her parents. Unfortunately, when we got in the car, we noticed it had a flat tire. This delayed our departure BY NEARLY THREE HOURS! The reasons for this delay are too boring to write, but suffice it to say that it was both fun and stressful.
+Here is Jonathan and Noehmi's father trying to read the car's instruction manual in Spanish. The book used the words "mango" and "gato" but not in their normal sense. Apparently these words also mean some car part that none of us could identify, and yet is crucial for changing a flat tire in less than three hours. Everybody, including the villagers, found "mango" amusing, and the little boy on the right pointed up in the mango tree we were standing under.
+We put the warning triangle out while we changed the tire in case some high speed trafic might come up on us... on a horse or something. After we let the car down off the jack, we saw that our spare tire was also flat, although not as flat as the original. I decided we were going to try and drive out on it anyway, but the family stayed behind in case we weren't able to make it out, which we did, gratefully. I was a little concerned that crossing the river with a flat tire might be difficult, but it wasn't any more difficult than normal. So this morning, The M dropped the work crew at Danta Uno and then picked up the family at the suspension bridge. The mother gave her a big hug when she saw her, which was a surprisingly demonstrative display of affection. They all went to the hospital and got her examined and scheduled for tomorrow at 11 a.m.. The hospital is contributing 10,000 Lempiras (about $500) which will leave the bill at around $750 plus some expenses for food, and a hotel for a couple of nights. We have this covered now, thanks to you generous donors. We shared a scripture with the family, Galatians 6:10 which says: "So then, as we have opportunity, let us work that which is good toward all men, and especially toward them that are of the household of the faith." I told him that even though we work with a different church than the one he pastors, that we share the same father, and are therefore family. His face brightened at this, but then he mumbled something about mangos that I couldn't follow.
+3 comments:
+Labels:
+energy projects in the developing world ,
+Engineers with a Mission ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Saturday, August 9, 2008
+Saturday's Progress
+We have been going all-out for the last six days, trying to get the project complete in time. Today was pay day for the employees, and this made me feel more like we were a real company somehow.
+Sorry, no benefits guys.
+The canal team (Ryan and Jonathan) finished their concrete work and began the installation of the big honkin' tubes.
+It looks like a double-barrel shotgun to me.
+Take aim at poverty.
+OK, that was corny.
+Casita de Poder - the powerhouse.
+I worked in there for several hours today.
+It was really hot and humid and I was sweating like only a middle aged fat guy can.
+But it was worth it because by the end of the day, the inverter was making 120 Volts just like it was supposed to.
+We got the master breakers installed and were able to successfully charge batteries using the diesel generator.
+Next step,
+hydro generator. AJ and Elizabeth worked with the village guys (Santiago, Walter, and Adolfo) to install power poles and string wire.
+They have now run about 2000 feet of it.
+1 comment:
+Labels:
+energy projects in the developing world ,
+Engineers with a Mission ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Friday, August 8, 2008
+Friday Night Update
+I know that most of you read the blog because of the interesting technical details I give. You know, how many volts here, or how many inches in diameter there, but sometimes you techies need to stop and smell the roses. Here are some pictures from the last couple of days in the village of Danta Uno.
+Isn't she adorable? This is Adolfo and Jonathan bending rebar for the concrete columns. I saw them with their matching gloves and contrasting hats and was struck by the image. In ways, they are alike, but in others, they are worlds apart. Heavy.
+The flat area in the middle of the picture is a soccer field where, presumably, the children of Danta Uno play soccer, and the soccer moms of Danta Uno park their minivans and chitchat. This is a snake, I forget the name, con-bla-bla or something, that was in a tree hanging over the road near Walter's house where we had lunch. It was about 6 feet long. I was told it was non-poisonous.
+I drove to the hardware store in a nearby town called Jutiapa. Nearby was a butcher shop with meat hanging on hooks over the sidewalk! Inside there was a dude cutting steaks with - get this - a band saw. It was just like seventh grade wood shop but with meat.
+"What's your semester project?" "I'm making fajitas." "Cool, I'm making a rack of ribs." "Cool."
+At Walter's house where we had lunch, the chickens and dogs wander in and out of the doors. I have no idea how they know which chickens are theirs and which are their neighbors. This is AJ wearing his high tech shirt that breathes and dries quickly. I think I might have to get one. It has lots of pockets. This picture was taken at the power house after he used the drill to make mounting holes for the inverter. This baby cut through the cinder blocks like butter. They are easy compared to granite boulders.
+I put this picture on the blog because it has a lot of little details. You can see the big spool of cable - a bobina in Spanish (think bobbin). You can see our first tree/power pole behind AJ. And you can see the power house a little bit. Here we are starting to run the power lines.
+Santiago has no fear of heights. He leans his ladder up against the pole and up he goes. Walter and I are pulling the wires tight while AJ and Elizabeth begin their May pole dance.
+Elizabeth has been INCREDIBLY helpful and has many talents. We all think she is something special.
+Here Jonathan is sitting on the first concrete column. It will support the big honkin' pipes that will come from the dam behind him. We are not building a dam, but rather reusing an old one built for drinking water collection several decades ago.
+2 comments:
+Labels:
+energy projects in the developing world ,
+Engineers with a Mission ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Noemi's Surgery
+It looks like Noemi, the six-year-old girl from Pueblo Nuevo with a double hernia, will be well enough for surgery next Monday. We are planning to bring her family into the city on that day. She was too sick for surgery last time. Her mother told us it was a virus, but it turns out that it was a pretty severe virus:
+Dengue Fever . But she is passed that now, and smiles much more frequently, as you might imagine. I taught her how to give me five and I think she likes me. This is the best picture I have of her; sorry you can't see better. The surgery is going to cost about $750, and putting the family in a hotel and helping them with other miscellaneous costs might be another $50. I have had several folks tell me they want to contribute, and the total of these "email donations" is about $370. That leaves us about $430 short. Send me an
+email
+if you want to contribute. This is the final call... probably.
+No comments:
+Labels:
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Thursday, August 7, 2008
+Out Ridin' Fences
+After looking at the difference in cost and performance of buried wire and overhead wire, I have realized that overhead is much more practical. I had hoped to not have to use it since the sight of power lines is somewhat despoiling of the natural beauty of the place. However, I was told by one influential Honduran, who shall remain nameless, that the people don't care about seeing power lines anyway, and that they don't think like me in that way. I can believe this because they are in "survival culture" not a "comfort culture" like our own. Still, I found it hard to use overhead lines, and wanted to bury them. But when I saw how much cheaper they would be, I had to give in. We calculated that we needed about 150 poles which would be made from trees. At first I was concerned that all the trees in the area would be cut down for this purpose, but when we tasked two of our employees, Adolfo and Santiago, to get us a dozen poles to start with, they came up with a great solution. It was a great case of
+appropriate technology . Their solution came from the Madreado tree, which grows like crazy here. The people use their straight branches as fence poles for their barbed wire fences. When you cut off a branch of this tree and stick it in the ground, it does not die. Instead, it sprouts leaves and, presumably, roots. So almost all the barbed wire fences in this part of rural Honduras are constructed with these trees. New fences look like bare posts, but old fences look like rows of trees. I shot the following video of some cows walking by a fence like this. They look like uniformly sized trees in a straight line.
+Anyway, Adolfo and Santiago used these madreado trees as power poles. So in a few years, instead of having fewer trees, they will actually have more trees - albeit connected by wires. After they put in the first dozen poles, Adolfo and Walter began running the first spool of wire! Walter has a bad arm that resulted from a childhood injury, but he can lift more with his left arm than I can with both of mine.
+No comments:
+Labels:
+energy projects in the developing world ,
+Engineers with a Mission ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Wednesday, August 6, 2008
+Pipes, Prayers, Progress
+The last two days have seen much faster progress; thank you so much for your prayers and encouragements! Please keep them coming! Each day, we have between 3 and 6 employees plus the five of us, and things are getting done at a better rate. When I say "the five of us" I am referring to four students and I. Frequent readers will already know Ryan and Elizabeth who have been here 4 and 2 weeks, respectively. But now we also have Jonathan and A.J., who arrived on Sunday to relieve Lisa and David who returned to Texas. The power house is now fully constructed and we began "moving in" today. We built shelves for the eight, honkin', deep-cycle batteries that weigh about a zillion pounds each, even in Spanish. We bought a diesel generator as a backup to help maintain our batteries if/when the hydrogenerator is offline, and we store that in the power house too. Next we hung our plasma screen TV on the wall, and put in a hot tub and a recliner. Here is a picture of me looking overly serious with our new little power house, or casita de poder.
+Down at the river, we finally finished drilling all the holes in the granite boulders. Granite, for those of you who may be unaware, is hard. Hard as a rock. It makes concrete look like a cotton ball. I think it must have taken us 10 hours to drill 12 holes. Once the holes were drilled and then we used a strong, two-part epoxy to glue rebar into the boulders. Then we formed a rebar cage and poured concrete around it. This is how we are making the concrete pillars to support our canal. We expect the water to weigh about 1000 pounds when it is full, so they need to be pretty strong. The first picture above shows Chico (Fransico), Jesiel (who is 13), and Walter (!) as they tie the rebar for the first column. The second picture is a picture of Ryan - who I like to call Rhino now - forming more rebar for our second and third columns. Later we're going to build a full-size Stonehenge replica or maybe a runway. This is Ryan and Jonathan bringing a piece of PVC pipe to use as a form for the columns. We won't use this tiny size pipe for moving water; for that we will use 12 inch diameter PVC which is so big it makes me happy just to gaze upon. But I'm sure you are the same way. "Whoever gazes upon large pipes with lust in his heart has already committed civil engineering."
+4 comments:
+Labels:
+energy projects in the developing world ,
+Engineers with a Mission ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Sunday, August 3, 2008
+Lacking a Creative Title
+Yesterday I found myself frustrated and worried that we will not complete the project before we leave in two weeks. I expressed this to The M, and then the team. I decided to spend some extened time in prayer about it, and used Psalm 44 as a guide to my prayers. Would you please join me in praying for more rapid progress for our project? Would you please ask for God's blessing on our work, for his protection against the forces that would oppose us, for and for his wisdom in our decision making? We intend to do an intense, six-day surge this Monday through Saturday. A.J. and Jonathan arrived yesterday and are happy to be here.
+The M cooked us a huge breakfast of pancakes, cantelope, and refried beans, and after eating it we are heading out the door at 6:40 a.m..
+5 comments:
+Labels:
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Crazy Airport Experiences by David F. and Lisa
+A Plane Never Felt so Good (Part 1 and 2) What a great adventure we had on our mission trip to La Ceiba, Honduras; however, our experiences in Honduras were only part of the excitement.
+We certainly had some memorable travel moments. Part 1 Everything started smoothly in Houston at George Bush Intercontinental Airport.
+We made it through baggage check with Continental Airlines and security with great ease.
+Our plane left the terminal and we were on our way.
+After a relatively short 2+ hour flight to San Pedro Sula, Honduras, we exited the plane, made it through customs, and claimed our bags.
+After checking our bags with Taca Airlines and getting our boarding passes to La Ceiba, we grabbed a bite to eat, paid the tax, headed through security upstairs and began what was supposed to be a 3-4 hour layover.
+There we met a medical team whose final destination was also La Ceiba.
+Their flight had been cancelled the day before and had to stay in a hotel in San Pedro Sula; in total they were stuck for 22 hours.
+We could just hope that this would not happen to us.
+The longer it was without seeing the plane, the wearier we became.
+Eventually they called our names over the loud speaker and told us that we would not be able to be on our original plane.
+The group from the day before essentially took our spots, but Taca told us we could get on a later flight.
+As time passed on we got to know the San Pedro Sula Airport all too well.
+A couple of planes would take off from time to time and there we sat.
+They eventually brought us something to eat for supper and told us we would be on the 8:15 flight (Evidently Taca time is a little off).
+After a total of a 10 hour delay, we eventually got in the “school bus with wings welded on” and departed at about 9:30.
+The quote at the time was “a plane never felt so good.”
+What a day of travel we had already had and boy, was it good to see Professor Thomas and Ryan in La Ceiba, even if we didn’t have our luggage. A funny story to go along with this start of our trip involved the group that took our spots on our original plane.
+They had for some reason kept the key and TV remote from their bad hotel experience and gave it to us when they left “in case we ended up needing it.”
+Not wanting the stuff, we left it in the waiting area when we boarded the La Ceiba bound plane.
+But later, after boarding the plane and taking our seats,
+I notice that someone is throwing something through the cockpit window.
+Then the single flight attendant walked up and down the small plane with, sure enough, the key and remote, asking if anyone had left it.
+Obviously, no one else claimed it and we definitely were not going to say anything as we looked at each other.
+Since no one claimed it, they simply opened the emergency exit and threw them out on the runway ; I hope no one needed those.
+Anyways, just a little humor. Part 2 After a very interesting voyage to La Ceiba to begin our trip, we prayed for two weeks for our return journey to be a little smoother; let’s just say sometimes God answers prayers in interesting ways.
+Hoping everything would go smoothly Professor Thomas dropped us off at the airport early.
+We made it through check in and security again with ease.
+Getting there early we waited next to the gate before hearing the dreaded call of our names.
+“Due to over booking, we are not going to let you on this plane;
+we will put you on an Atlantic Airlines flight to San Pedro Sula and you will still make your connection.”
+After a little bit of frustrating conversation and concern, we waited for the next plane.
+Sweating a little bit now, we finally got on a plane leaving La Ceiba at 10:45, and hour and a half after the time on our ticket.
+Landing in San Pedro Sula a little after 11:15, we finally made it into the airport and began to express our urgency and concern for making our 11:55 Continental flight to Houston.
+Just wanting to make our plane we decided to forget about our luggage (which was not on the same plane we were) and began to run.
+We finally made it to the Continental desk where they told us that our flight was closed and that there was no way we could get on it.
+Persistent and determined we asked who we needed to talk to.
+Eventually we talked to a Taca representative since it was their fault we were late.
+By only God’s grace our luggage had come on our original flight and the Taca person was able to talk the Continental representative into letting us try to get on the plane.
+In record time we cut through the line and got our boarding passes and checked our bags.
+We then ran to the other end of the airport where we were able to talk to a guard who got us in front of most of the line to pay the traveler’s tax and then we continued to desperately talk our way to the front.
+We quickly paid the tax, got out receipt stamped and flew up the stairs to security.
+We tore our computers out of our bags and ripped off our shoes.
+We grabbed our belongings and ran to gate 3.
+We had made it to the line boarding for the plane to Houston.
+Backpack, laptop, passport, shoes, belt, boarding pass and change from the tax in hand we waited in the tarmac.
+Eventually we boarded sweating up a storm and took our seats.
+Once again, “a plane never felt so good.”
+For all practicality, we should still be in San Pedro Sula, but with God’s help we were lifting off the ground headed home! What an exciting adventure to end a terrific trip.
+2 comments:
+Labels:
+Engineers with a Mission ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Saturday, August 2, 2008
+David's Birthday
+My oldest son's name is not really D, it's David. I just call him D on the blog on account of stalkers, but I have decided to call him by his real name now. Last Tuesday he turned 12! Although we had a party for him back in June (before we left for Honduras) we wanted to make his calendar birthday a nice one.
+So we let him ride out to Pueblo Nuevo in the SUV with us, and let him sit in the front seat to take in the view and the crazy road as we crossed rivers and climbed hills. Here is a photo taken along that road at a scenic point.
+Fortunately, it had been dry for a few days so we didn't have any problems with the mud. While we were in the village reinstalling the hydrogenerator, David, Jason, and Elizabeth went to talk to the family of the sick little girl, Noemi, who we are trying to help.
+She was staying with someone else while her parents worked in the coffee fields on the other side of a nearby mountain.
+Someone called someone else and passed along the message that we were looking for her parents, and they ran back to the village, taking only an hour to do what normally takes two, and would take me three.
+We brought her family back to La Ceiba to see doctors, but that meant David, Ryan, and the other David had to hike back via the suspension bridge, get a ride from a local farmer, and then catch the bus at the main road.
+So David had quite the adventure for his 12th birthday!
+When he got home, The M had decorated the house and our friend Bridgette had baked him a cake!
+For dinner, I cooked David's favorite chicken dish, and tried to cook plantains to go with it.
+Some of the plantains were burned, some were mushy, but some were OK.
+I need more practice. I am so pround of the man David is becoming! He has such great character, a generous and sensitive heart, and is a blessing to many people, including myself.
+I am happy he is with me for this time in Honduras, and I'm glad he was able to have an adventure on his birthday.
+1 comment:
+Labels:
+family ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Friday, August 1, 2008
+Slow Progress Punctuated With a Snake
+We are doing some major construction now. We plan to mount pillars into boulders to support our canal, because when it floods the water is 3-4 feet deeper than it is now, and we don't want it to wash away. To mount the pillars, we are drilling 1/2 inch diameter holes, 4 inches deep, into granite boulders. As you might imagine, this is hard. We have a generator to power our hammer drill, and we pour river water in the hole as we drill to cool the bit and flush the debris. We can drill about 1/4 inch in 3 minutes, and then we need to let the drill and the driller rest for few. Even so, I think we burned up our hammer drill yesterday. We bought another one last night, the biggest we could find.
+Our 12 inch pipes were delivered. They are big and cool (and white) like me.
+This is the beginnings of the powerhouse. It is a little cinder block house near the river that will house our batteries, inverters, and so on. This is a snake that showed up at our work site. The Boy Scout mantra to identify coral snakes ran through my head: red and yellow, kill a fellow, red and black, friend of Jack. This one looked to me like the red and yellow stripes were adjacent, and my name isn't Jack anyway, so I killed it with a machete. Can you see it in the middle of these roots? Never a dull moment.
+4 comments:
+Labels:
+energy projects in the developing world ,
+Honduras
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Links to this post
+Reactions:
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Follow by Email
+Welcome to the Orangehouse
+My wife is an encourager. "You should start a blog", she says. "Who would read it", says I. "People would", she says. She's either a great encourager or she's delusional. Maybe both. Here's what my blog is about. I have a pretty cool family: Martha and I have been married over 20 years and we have two teenage boys, two sweet dogs, and a cat that bites. Martha says the cat is just misunderstood.
+I have a pretty cool job: I teach engineering students at Baylor University. We deploy renewable energy systems for poverty abatement in developing countries during summer breaks. We have installed solar panels in Uganda, Kenya, Honduras, and Haiti. I try to inspire my students to think differently about how nerdy engineers can do something of cosmic importance to build the very Kingdom of God.
+Do Justly, Love Mercy...
+africa
+(7)
+cats
+(8)
+children's stories
+(4)
+energy projects in the developing world
+(104)
+Engineers with a Mission
+(77)
+family
+(164)
+Haiti
+(10)
+Honduras
+(106)
+introspection
+(43)
+justice
+(7)
+my marrow donation
+(8)
+produce guy
+(4)
+spiritual
+(20)
+the fat man cooks
+(6)
+Walk Humbly with God.
+Blog Archive
+Sep 2015
+(1)
+Aug 2015
+(2)
+Jul 2015
+(1)
+Apr 2015
+(1)
+Oct 2014
+(1)
+Sep 2014
+(1)
+Aug 2014
+(5)
+Jul 2014
+(3)
+Jun 2014
+(1)
+May 2014
+(1)
+Feb 2014
+(2)
+Nov 2012
+(2)
+Jul 2012
+(2)
+Mar 2012
+(1)
+Feb 2012
+(1)
+Jan 2012
+(2)
+Dec 2011
+(1)
+Oct 2011
+(1)
+Sep 2011
+(1)
+Aug 2011
+(6)
+Jul 2011
+(6)
+May 2011
+(5)
+Apr 2011
+(3)
+Mar 2011
+(5)
+Jan 2011
+(1)
+Dec 2010
+(2)
+Sep 2010
+(1)
+Aug 2010
+(1)
+Jul 2010
+(2)
+Jun 2010
+(8)
+May 2010
+(9)
+Feb 2010
+(4)
+Jan 2010
+(5)
+Dec 2009
+(5)
+Nov 2009
+(5)
+Oct 2009
+(7)
+Sep 2009
+(12)
+Aug 2009
+(8)
+Jul 2009
+(10)
+Jun 2009
+(17)
+May 2009
+(8)
+Apr 2009
+(7)
+Mar 2009
+(15)
+Feb 2009
+(8)
+Jan 2009
+(15)
+Dec 2008
+(8)
+Nov 2008
+(12)
+Oct 2008
+(19)
+Sep 2008
+(12)
+Aug 2008
+(18)
+Jul 2008
+(25)
+Jun 2008
+(27)
+May 2008
+(30)
+Apr 2008
+(22)
+Mar 2008
+(14)
+Feb 2008
+(15)
+Jan 2008
+(19)
+Dec 2007
+(20)
+Nov 2007
+(6)
+Favorites
+Blog Home
+Favorite Posts
+My Best Videos
+Awesome Inc. template. Template images by
+molotovcoketail . Powered by
+Blogger .

@@ -1,0 +1,482 @@
+algorithm - Finding clusters of mass in a matrix/bitmap - Stack Overflow
+current community
+chat
+Stack Overflow
+Meta Stack Overflow
+Stack Overflow Careers
+your communities
+Sign up
+or
+log in
+to customize your list.
+more stack exchange communities
+company blog
+Stack Exchange
+Inbox
+Reputation and Badges
+sign up
+log in
+tour
+help
+Tour
+Start here for a quick overview of the site
+Help Center
+Detailed answers to any questions you might have
+Meta
+Discuss the workings and policies of this site
+stack overflow careers
+Stack Overflow
+Questions
+Tags
+Users
+Badges
+Unanswered
+Ask Question
+Sign up
+×
+Stack Overflow is a community of 4.7 million programmers, just like you, helping each other. Join them, it only takes a minute:
+Finding clusters of mass in a matrix/bitmap
+up vote
+5
+down vote
+favorite
+3
+This is in continuation with the question posted here:
+http://stackoverflow.com/questions/408358/finding-the-center-of-mass-on-a-2d-bitmap
+which talked about finding the center of mass in a boolean matrix, as the example was given.
+Suppose now we expand the matrix to this form:
+0 1 2 3 4 5 6 7 8 9
+1 . X X . . . . . .
+2 . X X X . . X . .
+3 . . . . . X X X .
+4 . . . . . . X . .
+5 . X X . . . . . .
+6 . X . . . . . . .
+7 . X . . . . . . .
+8 . . . . X X . . .
+9 . . . . X X . . .
+As you can see we now have 4 centers of mass, for 4 different clusters.
+We already know how to find a center of mass given that only one exists, if we run that algorithm on this matrix we'll get some point in the middle of the matrix which does not help us.
+What can be a good, correct and fast algorithm to find these clusters of mass?
+algorithm
+language-agnostic
+geometry
+share | improve this question
+asked
+Jan 4 '09 at 22:49
+Yuval Adam
+74.1k 49 212 315
+add a comment  |
+4 Answers
+4
+active
+oldest
+votes
+up vote
+3
+down vote
+accepted
+I think I would check each point in the matrix and figure out it's mass based on it's neighbours. The mass for points would fall with say the square of the distance. You could then pick the top four points with a minimum distance from each other.
+Here's some Python code I whipped together to try to illustrate the approach for finding out the mass for each point. Some setup using your example matrix:
+matrix = [[1.0 if x == "X" else 0.0 for x in y] for y in """.XX......
+.XXX..X..
+.....XXX.
+......X..
+.XX......
+.X.......
+.X.......
+....XX...
+....XX...""".split("\n")]
+HEIGHT = len(matrix)
+WIDTH = len(matrix[0])
+Y_RADIUS = HEIGHT / 2
+X_RADIUS = WIDTH / 2
+To calculate the mass for a given point:
+def distance(x1, y1, x2, y2):
+'Manhattan distance http://en.wikipedia.org/wiki/Manhattan_distance'
+return abs(y1 - y2) + abs(x1 - x2)
+def mass(m, x, y):
+_mass = m[y][x]
+for _y in range(max(0, y - Y_RADIUS), min(HEIGHT, y + Y_RADIUS)):
+for _x in range(max(0, x - X_RADIUS), min(WIDTH, x + X_RADIUS)):
+d = max(1, distance(x, y, _x, _y))
+_mass += m[_y][_x] / (d * d)
+return _mass
+Note: I'm using
+Manhattan
+distances (a k a Cityblock, a k a Taxicab Geometry) here because I don't think the added accuracy using Euclidian distances is worth the cost of calling sqrt().
+Iterating through our matrix and building up a list of tuples like (x, y, mass(x,y)):
+point_mass = []
+for y in range(0, HEIGHT):
+for x in range(0, WIDTH):
+point_mass.append((x, y, mass(matrix, x, y)))
+Sorting the list on the mass for each point:
+from operator import itemgetter
+point_mass.sort(key=itemgetter(2), reverse=True)
+Looking at the top 9 points in that sorted list:
+(6, 2, 6.1580555555555554)
+(2, 1, 5.4861111111111107)
+(1, 1, 4.6736111111111107)
+(1, 4, 4.5938888888888885)
+(2, 0, 4.54)
+(4, 7, 4.4480555555555554)
+(1, 5, 4.4480555555555554)
+(5, 7, 4.4059637188208614)
+(4, 8, 4.3659637188208613)
+If we would work from highest to lowest and filter away points that are too close to already seen points we'll get (I'm doing it manually since I've run out of time now to do it in code...):
+(6, 2, 6.1580555555555554)
+(2, 1, 5.4861111111111107)
+(1, 4, 4.5938888888888885)
+(4, 7, 4.4480555555555554)
+Which is a pretty intuitive result from just looking at your matrix (note that the coordinates are zero based when comparing with your example).
+share | improve this answer
+edited
+Jan 6 '09 at 11:22
+answered
+Jan 4 '09 at 22:57
+PEZ
+11.1k 5 26 52
+add a comment  |
+up vote
+2
+down vote
+You need a clustering algorithm, this is easy since you just have a 2 dimensional grid, and the entries are bordering each other. You can just use a
+floodfill algorithm . Once you have each cluster, you can find the center as in the
+2D center of mass article. .
+share | improve this answer
+answered
+Jan 5 '09 at 17:16
+martinus
+8,294 9 46 72
+add a comment  |
+up vote
+1
+down vote
+Here's
+a similar question with a not so fast algorithm, and several other better ways to do it.
+share | improve this answer
+answered
+Jan 5 '09 at 11:40
+krusty.ar
+3,531 1 14 25
+add a comment  |
+up vote
+1
+down vote
+My first thought would be to first find any cell with a non-zero value. From there do some
+flood-fill algorithm, and compute the center of mass of the cells found. Next zero out the found cells from the matrix, and start over from the top.
+This would of course not scale as well as the method from Google, that tuinstoel linked, but would be easier to implement for smaller matrices.
+EDIT:
+Disjoint sets
+(using path compression and union-by-rank) could be useful here. They have
+O ( α ( n )) time complexity for union and find-set, where
+α ( n ) = min {
+k
+: A k (1) ≥
+n
+}.
+A k ( n ) is the Ackerman function, so
+α ( n ) will essentially be
+O (1) for any reasonable values. The only problem is that disjoint sets are a one-way mapping of item to set, but this won't matter if you are going trough all items.
+Here is a simple python script for demonstration:
+from collections import defaultdict
+class DisjointSets(object):
+def __init__(self):
+self.item_map = defaultdict(DisjointNode)
+def add(self,item):
+"""Add item to the forest."""
+# It's gets initialized to a new node when
+# trying to access a non-existant item.
+return self.item_map[item]
+def __contains__(self,item):
+return (item in self.item_map)
+def __getitem__(self,item):
+if item not in self:
+raise KeyError
+return self.item_map[item]
+def __delitem__(self,item):
+del self.item_map[item]
+def __iter__(self):
+# sort all items into real sets
+all_sets = defaultdict(set)
+for item,node in self.item_map.iteritems():
+all_sets[node.find_set()].add(item)
+return all_sets.itervalues()
+class DisjointNode(object):
+def __init__(self,parent=None,rank=0):
+if parent is None:
+self.parent = self
+else:
+self.parent = parent
+self.rank = rank
+def union(self,other):
+"""Join two sets."""
+node1 = self.find_set()
+node2 = other.find_set()
+# union by rank
+if node1.rank > node2.rank:
+node2.parent = node1
+else:
+node1.parent = node2
+if node1.rank == node2.rank:
+node2.rank += 1
+return node1
+def find_set(self):
+"""Finds the root node of this set."""
+node = self
+while node is not node.parent:
+node = node.parent
+# path compression
+root, node = node, self
+while node is not node.parent:
+node, node.parent = node.parent, root
+return root
+def find_clusters(grid):
+disj = DisjointSets()
+for y,row in enumerate(grid):
+for x,cell in enumerate(row):
+if cell:
+node = disj.add((x,y))
+for dx,dy in ((-1,0),(-1,-1),(0,-1),(1,-1)):
+if (x+dx,y+dy) in disj:
+node.union(disj[x+dx,y+dy])
+for index,set_ in enumerate(disj):
+sum_x, sum_y, count = 0, 0, 0
+for x,y in set_:
+sum_x += x
+sum_y += y
+count += 1
+yield 1.0 * sum_x / count, 1.0 * sum_y / count
+def main():
+grid = [[('.' != cell) for cell in row if not cell.isspace()] for row in (
+". X X . . . . . .",
+". X X X . . X . .",
+". . . . . X X X .",
+". . . . . . X . .",
+". X X . . . . . .",
+". X . . . . . . .",
+". X . . . . . . .",
+". . . . X X . . .",
+". . . . X X . . .",
+)]
+coordinates = list(find_clusters(grid))
+centers = dict(((round(x),round(y)),i) for i,(x,y) in enumerate(coordinates))
+for y,row in enumerate(grid):
+for x,cell in enumerate(row):
+if (x,y) in centers:
+print centers[x,y]+1,
+elif cell:
+print 'X',
+else:
+print '.',
+print
+print
+print '%4s | %7s %7s' % ('i','x','y')
+print '-'*22
+for i,(x,y) in enumerate(coordinates):
+print '%4d | %7.4f %7.4f' % (i+1,x,y)
+if __name__ == '__main__':
+main()
+Output:
+. X X . . . . . .
+. X 3 X . . X . .
+. . . . . X 4 X .
+. . . . . . X . .
+. X X . . . . . .
+. 2 . . . . . . .
+. X . . . . . . .
+. . . . X X . . .
+. . . . X 1 . . .
+i |
+x
+y
+----------------------
+1 |
+4.5000
+7.5000
+2 |
+1.2500
+4.7500
+3 |
+1.8000
+0.6000
+4 |
+6.0000
+2.0000
+The point of this was to demonstrate disjoint sets. The actual algorithm in
+find_clusters()
+could be upgraded to something more robust.
+References
+Introduction to algorithms.
+2nd ed. Cormen et.al.
+share | improve this answer
+edited
+Jan 7 '09 at 0:55
+answered
+Jan 4 '09 at 22:59
+Markus Jarderot
+43.8k 7 83 101
+add a comment  |
+Your Answer
+draft saved
+draft discarded
+Sign up or
+log in
+Sign up using Google
+Sign up using Facebook
+Sign up using Email and Password
+Post as a guest
+Name
+Email
+Post as a guest
+Name
+Email
+discard
+By posting your answer, you agree to the
+privacy policy
+and
+terms of service .
+Not the answer you're looking for?							Browse other questions tagged
+algorithm
+language-agnostic
+geometry
+or
+ask your own question .
+asked
+6 years ago
+viewed
+2118 times
+active
+6 years ago
+Linked
+39
+Algorithm for detecting “clusters” of dots
+9
+Finding the center of mass on a 2D bitmap
+0
+Filtering away nearby points from a list
+Related
+24
+Puzzle: Find largest rectangle (maximal rectangle problem)
+9
+Finding the center of mass on a 2D bitmap
+23
+How to find two most distant points?
+8
+“Center of Mass” between a set of points on a Toroidally-Wrapped Map that minimizes average distance to all points
+10
+2d point clustering
+42
+Algorithm for finding the fewest rectangles to cover a set of rectangles
+545
+Find an integer not among four billion given ones
+14
+find the smallest containing convex polygon with a given number of points
+10
+Find triplets in better than linear time such that A[n-1] >= A[n] <= A[n+1]
+0
+How to find certain sized clusters of points
+Hot Network Questions
+Term for a roof pitch viewed from inside (Image included)
+How can astronauts float in space without affecting the gravitational force of nearby objects?
+A word for really thin book pages
+How do you catch a runaway blimp?
+Apex strange exception handling
+CDF notation explanation
+"Squeezing" a finite group between symmetric groups
+How do companies check *what* has been hacked?
+How to use `\phantom` to align equations along a sum operator?
+What is the best/most popular pipe-weed in middle earth?
+How to deal with recruiters who are prompting candidates with our questions?
+What does flying in Enceladus's plume accomplish?
+Is catching an exception by reference dangerous?
+English proverb for "They danced, but didn't take a bow", as for failing good work on a final step
+Students staying hours past end of office hours
+Should I include funny pictures in my slides?
+Jargon: What do company ad departments call the vector files?
+Anatomically Correct Phoenix
+Telephone Phobia
+Pumpkin Noodles is a thing or are a thing?
+Is a file shredder/secure erase necessary when you have full disk encryption turned on?
+Is the Munich Hbf Left Luggage facility available 24 hours?
+A balance and twenty weights
+Skyrim: Why does Astrid say "Well Done" when killed
+more hot questions
+question feed
+tour
+help
+blog
+chat
+data
+legal
+privacy policy
+work here
+advertising info
+mobile
+contact us
+feedback
+Technology
+Life / Arts
+Culture / Recreation
+Science
+Other
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Webmasters
+Game Development
+TeX - LaTeX
+Programmers
+Unix & Linux
+Ask Different (Apple)
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+SharePoint
+User Experience
+Mathematica
+Salesforce
+ExpressionEngine® Answers
+more (13)
+Photography
+Science Fiction & Fantasy
+Graphic Design
+Movies & TV
+Seasoned Advice (cooking)
+Home Improvement
+Personal Finance & Money
+Academia
+more (9)
+English Language & Usage
+Skeptics
+Mi Yodeya (Judaism)
+Travel
+Christianity
+Arqade (gaming)
+Bicycles
+Role-playing Games
+more (21)
+Mathematics
+Cross Validated (stats)
+Theoretical Computer Science
+Physics
+MathOverflow
+Chemistry
+Biology
+more (5)
+Stack Apps
+Meta Stack Exchange
+Area 51
+Stack Overflow Careers
+site design / logo © 2015 Stack Exchange Inc; user contributions licensed under
+cc by-sa 3.0
+with
+attribution required
+rev 2015.10.28.2915
+Stack Overflow works best with JavaScript enabled

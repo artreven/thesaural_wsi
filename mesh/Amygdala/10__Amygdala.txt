@@ -1,0 +1,46 @@
+janmoren
+Home
+Jan Morén
+I come from Sweden but live in Osaka in Japan where I work as a researcher in computational neuroscience.
+I'm interested in the subcortical areas of the brain, the site of many fundamental mechanisms that we share with other species. My undergraduate degree was in computer science, so I focus on computational models as a way to understand these areas. My Ph.D. - in cognitive science - was on a model of the  Amygdala
+and I have also worked on models of early attention and robot vision.
+In a previous project we created a large-scale model of the
+Superior colliculus , an area at the top of the brainstem that is mostly responsible for
+saccades , the fast eye movements we use to jump from one point of interest to another.
+With our current project we try to understand the precise neural mechanisms that underlies tremor symptoms in Parkinson's disease. If we can understand that in detail, it will be possible to create better, more targeted ways of treating such symptoms.
+The tremor is caused at the cell-to-cell interaction level, so we need detailed neuron-level models. But the faulty cell-cell interaction becomes a debilitating symptom through large-scale interaction among multiple areas of the brain, so we need detailed whole-area models of the Basal Ganglia, Thalamus, motor cortex and the spinal cord as well.
+Any model that encompasses both whole-system and spiking-neuron scales is going to be large and computationally heavy. We use the
+NEST
+simulator on the
+K supercomputer
+at
+RIKEN AICS .
+My affiliation is the
+Neural Computation Unit
+at
+OIST
+in Okinawa, but my place of work is at
+Riken AICS
+in Kobe.
+Non-Research Stuff
+I have a
+Blog :
+Janne In Osaka
+I really like
+Photography :
+My Flickr Stream
+My
+Google+
+page:
+Jan Moren
+Selected Publications
+Morén, J., Shibata, T., Doya, K. (2013).  The Mechanism of Saccade Motor Pattern Generation Investigated by a Large-Scale Spiking Neuron Model of the Superior Colliculus.
+PloS One
+8(2): e57134. doi:10.1371/journal.pone.0057134 ( PDF
+Morén, J., Ude, A., Koene, A., Cheng, G. (2008). Biologically Based Top-Down Attention Modulation for Humanoid Interactions.
+International Journal of Humanoid Robotics , Vol. 5, No. 1: pp. 3–24. ( PDF )
+Morén, J. (2002).
+Emotion and Learning - A Computational Model of the Amygdala.
+Ph.D. Thesis. ISBN 91-628-5212-4. ( PDF )
+Sign in | Recent Site Activity | Report Abuse | Print Page | Powered By
+Google Sites

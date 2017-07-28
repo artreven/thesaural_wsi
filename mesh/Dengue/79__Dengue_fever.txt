@@ -1,0 +1,578 @@
+Cure Strategy (formerly, Serious Medicine Strategy): July 2010
+skip to main
+|
+skip to sidebar
+Tuesday, July 27, 2010
+Visualizing Health, as Distinct from Healthcare Policy
+Information Aesthetics
+is a fascinating trove of ideas and inspiration, regularly highlighting the creative and instructional work of others.  In this chart, above, produced by
+General Electric's Health Visualizer , we see a visualization of heart disease, by age grouping.
+The data themselves are interesting, but the topic is also interesting. When the crunch comes, the health issue that people are really interested in is health itself, much more than health insurance.
+Posted by
+James P. Pinkerton
+at
+9:19 AM
+No comments:
+Sunday, July 25, 2010
+"Fresh hope in Alzheimer's breakthrough."
+What's the impact on Serious Medicine?
+What's the impact on fiscal concerns?
+Barclay Crawford , writing for
+The Daily Telegraph
+of Sydney,
+reports on hope for a possible breakthrough for Alzheimer's Disease , headlined, "Fresh hope in Alzheimer's breakthrough":
+The researchers claim they have isolated the cause of the brain-wasting disease in the interaction between two proteins in an otherwise healthy brain cell.
+The university team managed to stop the interaction happening in mice genetically engineered to develop the disease by injecting a special protein into their brain using special implants.
+"We have shown we can prevent the development of Alzheimer's, and that's never been done before," Professor Jurgen Gotz, of the university's Brain and Mind Research Institute, said. "If we can prevent it developing, then there is hope we can find a cure." None of the mice who were treated died, suffered memory loss or had seizures.
+That's certainly encouraging--at least for the mice.
+But in fact, there's significant ferment in the Alzheimer's Disease (AD) area; researchers at MIT are
+reporting progress ; at the same time, medical scientists in Texas, part of the state-created
+Texas Alzheimer's Research Consortium ,
+are also reporting gains .     And today's
+Los Angeles Times
+offers
+a good overview of current AD research .
+So what does all this mean?   We must always be cautious, of course, about over-optimism.  But at minimum, these reports from around the world remind us that AD research is dynamic, and that discoveries could spill over into treatments for other diseases.  The MIT researchers, for example, hope that their findings could also be useful to those suffering from Huntington's Disease and Parkinson's Disease.
+So surely we know this much: Trying to shape budget policy now, based on concerns of deficits decades down the road, is a non-starter.   That is, if we were to cure Alzheimer's, or even significantly push back its onset, we would have a whole new world of policy options when it comes to retirement and Medicare.   Moreover, if we could develop that AD cure here in the US, as opposed to somewhere else in the world, then that new anti-AD medicine will be a huge economic driver for the American economy.   As in, jobs, growth, and, yes, tax revenue.
+So if--and only if--we push forward on scientific and medical advance,
+charts such as this one below, from the Social Security Administration trustees , need not worry us too much: The red line below, for Medicare, will not look so threatening if we improve public health.   Medicare spending will barely cross six percent of GDP by 2030, so we've got decades to solve the problem before paying the piper becomes a really serious concern.  So we had better solve the problem.   That will be a lot of work, and we might have to make significant policy changes, but it’s worth the effort, because we are worth the effort.
+The bottom line: If we cure AD, a big chunk of our entitlement concerns will go away.  Just like that.  Technology is the closest thing we will ever get to a free lunch.
+Posted by
+James P. Pinkerton
+at
+11:00 AM
+3 comments:
+Saturday, July 24, 2010
+Dengue Fever in the US: Will OMB and CBO allow us to do anything about it?
+Dengue Fever
+is a terrible mosquito-borne disease, endemic in 100 countries, afflicting millions worldwide.  And perhaps it's coming, in a big way to the US, as WESH-TV, of Orange County, Florida
+reports ; 30 cases across the Sunshine State.
+Dengue Fever is rarely fatal; WESH quotes  Dr. Todd Husty
+as saying of the symptoms:  “You get a real great fever, a horrible fever; it's called ‘break bone fever.’ You feel like your bones are breaking, but it's really joint pain.”   If you want to see some of its effects,  click here .
+Which is to say, fatal or not, Dengue Fever is a serious public health issue.   In the last century, America has made enormous gains in public health, relative to mosquito-borne diseases, including Dengue Fever, but also Malaria and Yellow Fever.   Mostly, we drained away the mosquito habitats.   But whatever the technique, government officials of yesteryear thought it was worth it to eliminate such diseases--the American people, and their health, were worth investing in.
+But then we grew complacent.  Which is why, to cite another example,
+tuberculosis has made a comeback
+in the US.  That's expensive, among other concerns.
+Now the question: Will the Office of Management and Budget, alongside the Congressional Budget Office and other citadels of bean-counting, say that we can afford to worry about Dengue Fever, or not?   Or will the goal of deficit-reduction take precedence?
+Here's a news flash for "deficit hawks": If Americans get sick from Dengue Fever--and the Dengue virus could always mutate, perhaps for the worse--that will cost us more than we save by looking the other way as the disease spreads.
+Posted by
+James P. Pinkerton
+at
+4:22 PM
+No comments:
+Friday, July 23, 2010
+Why Are Top Officials So Uninterested in Serious Medicine?
+Why the Preoccupation with Finance, Not Science?
+Why are our leaders so interested in healthcare, but uninterested in medicine?  More precisely, why are leaders so attuned to the finance of healthcare, but not the science of medicine?
+Those questions came to mind again, reading about the latest instance of Washington ignoring Serious Medicine, while paying ample attention to healthcare finance.
+Writing for
+The Daily Beast ,
+Les Gelb , a former
+New York Times
+columnist and president emeritus of the Council on Foreign Relations, recalls a disturbing and revealing incident that happened in DC last month.  Arnold Fisher (pictured above) a real estate developer/philanthropist, had been the driving force in the effort to build a new center for brain-damaged soldiers just outside of Washington DC, near the huge government-military medical complexes in the immediate area.  But as Gelb tells the story:
+At the podium in Bethesda, Maryland, stood Arnold Fisher, the chief fundraiser for this precious center that may need to care for hundreds of thousands of victims, searching in vain for one White House official, one Cabinet officer, one member of the Joint Chiefs, one senator. He found none. And he asked again and again, “Where are they?”
+Good question.   When it comes to medical science, political leaders are, indeed, hard to find.  But when it comes to healthcare finance, politicians are always on the scene.   Back on May 5, President Obama himself was eager to sign into law the
+Caregivers and Veterans Omnbus Health Services Act .   A needed and noble bill, no doubt, but the focus of the legislation, which will cost billions, is on financing--financing of maintenance.
+The real challenge facing us, as Gelb writes, is that we have 300,000 veterans back from Iraq and Afghanistan suffering Post-Traumatic Stress Syndrome, and 360,000 vets with traumatic brain injuries.   Caring for them is a moral necessity, but curing them is a better plan.
+So obviously more research is needed on dealing with brain injuries.   After all, if we could cure brain injuries for wounded warriors, we would likely then know how to cure brain injuries for accident victims, stroke victims, and so on.  We would be on our way to the creation of a whole new industry.
+But that's where the two political parties start to peel off, when the focus shifts from finance to science.    While it should be obvious that wounded warriors should receive the best we can give them, the reality is that the Democrats are locked into a vision of healthcare austerity.  The Democrats' self-declared goal is to spend less on healthcare, not more.
+To Democrats, firmly in the grip of "Scarcitarian" ideology on healthcare--"less is more," as
+Shannon Brownlee,
+author
+Overtreated: Why Too Much Medicine is Making Us Sicker and Poorer  likes to say--spending money on "compassion" is fine, spending money on "economic stimulus" is OK, but spending money on medical research goes against the code.  As Obama administration officials are wont to say, the goal is "bend the curve" downward on healthcare costs, not upward.  So many spent as stipends to family caregivers is OK, but money spent on medical research, not OK.
+To be sure, regardless of avant-garde ideology, the Pentagon and the Department of Veterans Affairs are spending plenty of money on brain research, and Barack Obama even donated $250,000 of his Nobel Peace Prize money to Fisher's Fisher House project.  But just as obviously, those same officials feel hesitancy about being associated with such spending; as Gelb notes, neither Obama nor any other top administration  official joined philanthropist Fisher for the inauguration of the Maryland facility.   Such symbolism matters a lot--not only to wounded warriors and their families, but to researchers and entrepreneurs who are curious to know whether the nation thinks of brain-rehabilitation as a priority, or not.
+And so why weren't Republicans there at Fisher's event?   Perhaps they weren't invited.  Or perhaps they, too, are skeptical, in their own way, of medical research, since such research can ventures into areas, such as stem cell, about which they have ethical qualms.  Or perhaps Republicans have grown so hostile to federal spending that just don't wish to be seen at such events.
+And both parties seem to be firmly in the grip of finance-focus. That is, the problems America faces are to be solved by finance: taxes, spending, debt, financial "innovation," creative accounting, all that.  That's been the dominant ethos of the country for decades now.  Such financialist thinking represents a curious detour on the road to sustainable economic growth--and we have all suffered a jolting reminder of the limits to finance in the past few years.  But the political class hasn't yet woken up to the reality that not every problem can be solved by "stimulus," or a tax cut, or even a financial restructuring.   The real curve bender, on problems of all kinds, is technology.  Either we have the machinery that cleans up the BP oil spill, or we don't.  Either we have the weapons and vehicles that keep our troops safe, or we don't.  Either we have the high-tech that employs the next generation, or we don't.   Either we have the Serious Medicine to rehabilitate and cure, or we don't.  And if we don't, then no amount of financial casino-ing will save us, as individuals, or as a nation.
+So the great opportunity beckons--the opportunity to lead America toward a Serious Medicine Strategy.   A leader will step forward and say that medical research can lead us toward the full rehabilitation of brain injuries, just as medical research has led us toward full vaccines and cures in so many areas.  And that medical research will not only improve lives, but it will also create jobs and wealth for America, as we sell--or give, as national policy might dictate--the new brain-healing technology to the rest of the world.
+That's a Serious Medicine Strategy.  The elements are already in place, thanks to the work of Arnold Ficher and so many others.  All that's needed now are some leaders to connect all these elements, to connect the dots and bring the true power of this network into life.
+Posted by
+James P. Pinkerton
+at
+9:24 AM
+1 comment:
+Friday, July 16, 2010
+Helping Wounded Warriors--and everyone else: An economic, as well as humanitarian, necessity.
+"Back on his feet with robot Rex." That's the headline, as reported by
+The Dominion Post
+of New Zealand, about a man who can now walk, thanks to newly developed robotic legs--see picture above.
+Thus we can see a huge breakthrough, not only for the paralyzed, but also for the economy of whatever country succeeds in mass-producing this new invention, because the whole world will want it.
+But right now, it looks like the
+Kiwis
+have the lead, and deservedly so:
+Inspired by Hollywood sci-fi and made in New Zealand, the world's first robotic legs may have already secured interest from the United States military.
+Unveiled yesterday with a demonstration by a 23-year-old who had been told he would never walk again, the invention is expected to reap millions of dollars in sales each month. Hayden Allen, who has been in a wheelchair since injuring his spinal cord in a motorcycle accident five years ago, said there was no better feeling than putting one foot in front of the other. "People say to me, `look up when you're walking' but I can't stop staring down at my feet moving." Mr Allen, who broke his back in four places and his neck in three places, said the experience was emotional but fantastic. The seven-year project to build the robotic legs had been shrouded in secrecy until unveiled by Rex Bionics, which said it had cost $10 million and "sweat equity" to develop. Rex, which stands for robotic exoskeleton, is the brainchild of friends Richard Little and Robert Irving, who went to school together in Scotland 30 years ago. The joystick-operated unit weighs 38 kilograms and enables a wheelchair user to stand, walk, and go up and down steps and slopes. So it's possible to see a whole new industry being created--somewhere.  Right now, it looks like it will be in the country that did the work: New Zealand.  Better there than nowhere, but it would be great if we had followed
+Dean Kamen's
+advice , and concentrated on building up this sector in the US.  Sadly, instead of health creation, we went for health distribution--including an
+egregious new tax on medical equipment .   That's right, wounded warriors, and others who need help: the federal government wants less innovation
+But it's  not too late, of course, to fully seize the economic as well as humanitarian potential of this sort of pro-active healthcare.  But it would require a policy change in Washington.   If Rex Bionics was inspired by Hollywood sci-fi movies of many years ago-- "The Six Million Dollar Man,"
+etc.--then imagine what "Avatar," released last year, with its vision of the crippled walking through avatars, is doing to the minds of impressionable young moviegoers.
+It's a lot more fun to read articles about science and technology helping people than it is to read this disturbing report, from
+Pro Publica , on the Pentagon's handling of brain injuries at Fort Bliss, TX.  Although in the military's defense, if men and women are injured, there's no fully satisfactory answer to the challenges faced by wounded warriors, except to completely heal the injury.  And Rex Bionics has taken a major step toward doing just that.
+Posted by
+James P. Pinkerton
+at
+11:43 AM
+1 comment:
+Thursday, July 15, 2010
+OK, we need to save money on healthcare.
+But how shall we do it?
+With rationing that hurts?
+Or with research that cures?
+Healthcare rationing is on the way.   The "fix" is in, at least as far as the DC-NYC Establishment is concerned.   And while most of the thinking and commentary on the deficit issue is disappointingly reductionist, as we shall see, some signs of fresh thinking about controlling healthcare costs the right way--which is to say, by helping people to be healthier and more productive--are sprouting up.
+But first, the oldthink.
+Jon Ward ,
+reporting
+for
+The Dally Caller
+this morning, quotes
+Erskine Bowles , co-chair of
+President Obama's
+Deficit Commission, as saying of the Obamacare bill:
+"It didn’t do a lot to address cost factors in health care. So we’ve got a lot of work to do,” said Erskine Bowles, former White House chief of staff to President Bill Clinton, speaking about the new health law, which was signed into law by Obama this past spring after a nearly year-long fight in Congress.  Bowles, speaking at an event hosted by the U.S. Chamber of Commerce, said that even with the passage of Obama’s legislation, health care costs are still going to “really eat us alive” unless dramatic changes are made.
+Interestingly, for all of his volubility now, Bowles didn't seem eager to make himself heard on the issue of spending on the Obamcare legislation, when his voice might have made a difference on the course of that legislation.  All through 2009 and into 2010, as the bill zigged and zagged its way to passage, Bowles, a Democrat, was quiet.  Then he was appointed to the deficit commission in February, and finally, just last weekend, in a presentation to the National Governors Association meeting in Boston,
+Bowles compared the deficit to "cancer. "   Why did it take him so long?
+But in any case, all we know for sure is that Bowles and commission co-chair
+Alan Simpson --the body is formally known as the
+National Commission on Fiscal Responsibility and Reform --seem determined to push the healthcare cost control issue to the top of the national agenda.  This might, of course, be a hard slog, since
+the latest CBS poll
+shows that Americans put "economy" and "jobs" way ahead of the deficit.
+No matter.   David Broder , the Ultimate Journalistic Establishmentarian, attempts to give the commission some momentum by
+writing nice things about many of the members in
+The Washington Post
+this morning .   And Broder adds a tiny bit of news, concerning Democratic willingness to, as Broder put it, "strengthen badly needed cost controls":
+Health care will be the biggest challenge on the spending side, with some Democrats -- and apparently the White House -- resigned to the fact that the painfully negotiated 2010 law will have to be reopened to strengthen badly needed cost controls, no matter how awful the prospect of resuming that debate.
+There's plenty that needs to be redesigned about Obamacare, of course, but what's striking about so much of the elite commentary on the deficit is that the commentary is focused on just one variable--the deficit in "out years," that is, a decade or more in the future.  All other considerations--the economic well-being of the country, the health and well-being of the American people, inside and outside of the Obamacare program--seem to have taken a back seat to the single issue of spending over the long run.
+And, we should note, moreover, that the Broder-type Establishment is not even dealing with spending in the short run.  In the short run, many members of the deficit commission were enthusiastic proponents of more spending, as well as supporters of Obamacare.  And of course, so was the President, who created the commission by executive order.   The emerging Establishment consensus seems to be that the US spent what we had to in the past to save the economy, and to provide healthcare.  And maybe we need to spend more in the near future, to improve the recovery/avoid a "double dip." But absolutely positively, for sure, we must cut spending in those faraway "out years."
+Which is to say, the Establishmentarian consensus, such as it might be, is pretty thin gruel.  The Establishment seems to have reached the conclusion that it should reach a conclusion on something, and so it has settled for the lowest possible common denominator on the deficit.
+Yet even this "LPCD" is not popular with the voters.   As my New America Foundation colleague
+Michael Lind
+has pointed out , there's scant evidence that such deficit reduction is popular, especially if the proffered deficit solution is spending cuts in popular programs, such as Medicare and Social Security.
+Meanwhile, on the other side stands
+Grover Norquist
+and his powerful anti-tax/Tea Party forces.  This is probably not the year, most experts agree, to talk about raising taxes.
+In other words, in political terms, the Bowles-Simpson commission is a "suicide mission," as the always quotable Simpson described it in February.   But of course, Simpson won't be the one committing suicide, since he is retired.   Indeed, Simpson himself is a media favorite--he'll do fine.  The real victims will be politicians who follow this track.  And while such "followership" will be hailed as "leadership," the political reality is that deficit cutting, left at that, is a political lemon.
+And so the Establishment should be warned: As a matter of basic political science, a paper deficit solution is just that--a paper tiger.  Cuts in the mythical "out years" made by elected officials who are soon thereafter ex-elected officials are not permanent cuts.   If some "grand compromise" is reached in the next few years, spreading pain far and wide--well, that compromise can be unreached by the next president, or the next Congress, to say nothing of the "exogenous" factors that always seem to spoil carefully laid plans.   The ex-elected officials might all win a "profile in courage" award for that putative deficit-closing, but they will be in no position to stop their successors from undoing their handiwork.
+Yes, it's a bleak picture of intellectual, as well as political, paralysis, as recorded here at SMS in the past.
+So it was encouraging to see a
+newthink piece
+on the promise of biotech in
+The Fiscal Times , a publication launched by the
+Peter G. Peterson Foundation , the big player in Establishmentarian deficit-reduction discussions.   Author
+David Ewing Duncan ,
+obviously a polymath , takes a long-term view of the benefits, as well as the cost, of biomedical spending.
+Duncan recalls that scientists were a lot more optimistic, a decade ago, that such breakthroughs as decrypting the human genome would lead to big medical breakthroughs. Scientists have made a lot of progress, but at the same time, they are being reminded of what Socrates once said: "The more I learn the more I learn how little I know."
+Noting that federal biomedical research, through the National Institutes of Health, is about $38 billion--part of an overall national budget, including private sources, of about $113 billion a year--Duncan begins with the obvious.   We can do better:
+Not all investments in research and development, however, succeed by creating new products in a reasonable amount of time. This seems to be the case with the unprecedented expenditures on R&D in the life sciences over the past decade, which includes biotechnology, pharmaceuticals and biomedical technologies. Since 2000, America has shelled out close to $1 trillion in public and private spending on life sciences — more than twice the amount spent in the 1990s — with surprisingly little to show for it in the way of tangible products.
+Those are fair criticisms.  But at this point, I was afraid that Duncan would "Do a Broder," and simply call for cuts, as part of an overall "haircut" for federal agencies.   "Across the board cuts," after all, are the favorite tool of "deficit hawks" who are afraid, or unable, to separate stronger claims from weaker claims.
+Happily, instead, Duncan offered some useful thoughts on how to spend the biomed R&D budget in better ways.  Obviously Duncan is mindful that a single medical breakthrough has the potential to save a lot more money than all the faux budget deals put together.   We might, for example, think about how much we have saved on polio treatment because of the polio vaccine.
+As noted here at SMS many times, there's no automatic correlation between more spending and better results.  It's perfectly possible to spend more and get less--because of bad leadership from the top, because of bureaucratic bloat in the middle, or because outside groups--such as the trial lawyers--succeed in inhibiting the true spirit of effective inquiry.  And so Duncan's forward-looking policy suggestions about reversing the downward skid of medical productivity are valuable:
+The first and most obvious step is to assess what we’ve bought with all of these billions, and to create a coordinated strategy to test and validate discoveries that have the greatest chance of success. Currently, the NIH spends under a billion dollars for "translational medicine"— formal projects to convert basic science into applied medicine. This amount needs to be increased as part of a comprehensive plan — not with new money, but by redirecting money from basic research to implementation strategies. Basic research should continue to get significant funding, but not at the expense of applying what we have already learned.
+An example would be to take the thousands of genetic markers that scientists have tentatively linked to a high risk for disease — which have cost taxpayers billions of dollars to identify — and systematically test them in the clinic to find out if they are useful or not. These include markers that help identify individuals that might experience dangerous side effects from drugs such as cholesterol-lowering statins, or individuals with a genetic variation that prevents certain drugs—including the antidepressants that include Prozac--from working.
+The concept is called pharmacogenics, which if implemented could reduce health care costs by prescribing only those drugs that actually work for certain individuals. To date, most of these markers have not been validated in clinical trials and approved by the FDA, nor is there a comprehensive plan to test them.
+The new master plan should encourage a closer relationship between scientists and doctors to smooth the transition from beaker to bedside. Regulators at the FDA and payers such as Medicare and Medicaid also need to focus on integrating translational projects that rapidly move research into the clinic.
+In recent years, some of our greatest minds have spent a fortune on disassembling the human body and studying it like they would a very complicated automobile. Now it’s time for America, Inc. to take what’s been learned and use it to lower health care costs and to build a better product — that product being us.
+These words are refreshing, indeed.   Duncan sounds
+Deming-esque , we might say, in his determination to seek "profound knowledge" as part of a solution.  But then, of course, he also sounds like everyone else who has thought about a Serious Medicine Strategy.
+And it's a Serious Medicine Strategy, built around the enlightened self-interest of the American people, that the voters will embrace.  Deficit reduction that loses at the polls is not true deficit reduction.   A healthier and more productive population, on the other hand, is real deficit reduction.
+Indeed, not only do we need constructive voices figuring out how to improve our healthcare, but we also need those same voices to help us create new industries, arising from better healthcare.  That's the key not only to better health for Americans, but also greater wealth for Americans.  And out of that greater wealth, we can solve the deficit issue.
+The answer will come from highest-common-denominator science, not lowest-common-denominator politics.
+Posted by
+James P. Pinkerton
+at
+8:32 PM
+1 comment:
+Wednesday, July 14, 2010
+The US is Financing Care for Alzheimer's, But Not Financing a Cure for Alzheimer's.
+W. Edwards Deming had a better idea.
+The biggest health news today concerned Alzheimer's Disease  (AD).   At an international conference in Hawaii,  scientists are now urging more tests for AD .
+That's probably a good idea, but in this announcement, we can note, yet again, a perversity in our current  system:  In America today, there more interest--at least in Washington DC--in financing
+care
+for the disease than there is financing a
+cure
+for the disease.
+Typical was a  report tonight on ABC News  from reporter  Linsey Davis , who noted that critics worried that the new guidelines could "double or even triple" the number of people diagnosed with AD.   So we could see a huge increase in the number of people diagnosed with the disease--a disease that costs the country $170 billion a year now, and could cost more than a trillion dollars by 2050.   Yet the federal government spends just $600 million a year on AD research, a number that has barely budged in the last five years.
+So one can detect more than a little penny-wise-and-pound-foolish in Uncle Sam's spending priorities.    We spend a fortune after people get sick with AD, but just a pittance to keep them from getting sick.
+To be sure, we should help people in need.  And in terms of more testing, more data are good;
+as we have noted here at SMS , medical visionaries, such as Google's
+Sergei Brin , hope to use massive amounts of data, crunched by computers, to solve medical problems faster than the current method of clinical trials for prospective treatments.
+Still, one can't help but wonder whether the push to identify more cases of AD doesn't have something to do with the
+dramatic liberalization , earlier this year, of the rules concerning getting government benefits for AD.   In February 2010, the Obama administration quietly approved a vast increase in eligibility for "early onset" AD.   Why the quiet?  Because such an expansion, of course, was dramatically "off message" to the Obama mantra that Obamacare was going to "bend the curve" on healthcare costs.   Yet while  Obamans didn't make a big deal of that expansion, the  Alzheimer’s Association  trumpeted its success, the group even ran a full-page ad in
+The Washington Post , detailing its celebration of Uncle Sam’s action:
+Of the 5.3 million Americans with Alzheimer’s disease, 200,000 have early-onset Alzheimer’s.  Thanks to the Social Security Administration and changes to the Compassionate Allowances Initiative, decisions regarding the distribution of vital disability benefits to the early-onset population can now be made within weeks, instead of months or years.
+So more federal money out the door.  All in a good cause, perhaps, but the best cause is a cure.
+Thus once again, we see the strange nature of our healthcare system: We are vastly more generous with funding of disease
+after
+people get it, than we are at helping people
+avoid
+getting it in the first place.
+By helping people avoid disease, I don't just mean prevention through healthy eating and exercise and the avoidance of substance abuse, as important as those measures are.  Plenty of people who live healthy lives still get sick.   Some diseases--many diseases--are only avoided, or at least put off, by the application of Serious Medicine.
+W. Edwards Deming
+would have a few things to say about this.   Deming, the
+legendary management guru ,  died in 1993, but his wisdom about more efficient and effective systems will live for ever.  Best known for his work with manufacturing companies, Deming was actually a student of all sorts of processes, including healthcare.
+The heart of Deming’s philosophy was a rigorous statistics-based approach to monitoring efficiency and quality--Deming had been trained as a mathematician and physicist--combined with on-the-floor observation of production processes that Deming witnessed over the nine decades of his life.
+As Deming wrote in his book,  Out of the Crisis , the central objective of all his work was quality
+assurance , as opposed to quality
+control.
+That is, build the quality in at the beginning, because building it right the first time is much more efficient than checking for quality after the fact.  As he explained, “Inspection to improve quality is too late, ineffective, costly. . . . Quality comes not from inspection, but from improvement in the production process”
+As Deming said, the mere measuring of statistics as they are generated is akin to keeping track of statistics on accidents: “They tell you all about the number of accidents in the home, on the road, and at the work place, but they do not tell you how to reduce the frequency of accidents.”
+Thus we can see the application to healthcare.  Focus on the quality of health, not the quality of the treatment.   Because prevention is cheaper than treatment.  Vaccines are cheaper than surgery.    And so on.
+The Deming Way can be seen as a matter of timing: get on the left side of the event curve.  Plan for health, not for sickness.
+And that's what we should be doing with AD, but we aren't.   We starve the cure effort in advance, and then shower money on people they get sick.   Dr. Deming would tell us that we have to do a lot better.
+Posted by
+James P. Pinkerton
+at
+11:08 PM
+No comments:
+Friday, July 9, 2010
+Doug Schoen, Serious Medicine Strategist.
+Doug Schoen
+is best known as the pollster-strategist for a wide variety of center-left candidates, including
+Ed Koch ,
+Bill Clinton ,
+Hillary Clinton , and
+Michael Bloomberg .
+But now
+Schoen has written an important piece for FoxNews.com , that should be of interest to all Americans.
+As he writes:
+America’s economic leadership is ours to lose. A new report by the Institute for Management Development shows the United States has fallen to third place in global competitiveness, behind Hong Kong and Singapore. The U.S. must move forward with a committed and aggressive medical innovation agenda that will help get our economy back on track, facilitate the work of innovators, and produce new products that will address some of the world’s most pressing medical challenges.
+And he offers some specific policy recommendations:
+Leaders in the public and private sectors need to join together to form unique and coordinated partnerships to eliminate gaps in funding, so that medical advancements can be developed efficiently, and so that the U.S. can remain competitive.
+Congress should make the federal research and development tax credit permanent and raise it so that it is globally competitive, thus incentivizing investments that will ensure that we will be at the forefront of medical innovation. According to the Information Technology and Innovation Foundation, expanding the research and development tax credit from 14% to 20% would create 162,000 new jobs.
+Congress should also create tax and economic incentives to boost manufacturing and export-related job growth resulting from medical innovation. Such measures to strengthen investments in research, development and manufacturing will foster job growth and enhance America’s competitiveness.
+The U.S. must also enhance regulatory sciences efforts at the Food and Drug Administration (FDA). From 2005 – 2008, the FDA only approved about 19 truly new medicines, compared to an average of 31.13 from 1990 to 1999.
+We need our federal leaders to strengthen and fund the development of a Regulatory Sciences Roadmap, which would build upon and advance current efforts to bring the best science to the review and approval of biomedical advances.
+All of these suggestions can be debated and perhaps tweaked, but the debate should occur from a common understanding that Serious Medicine is a win-win-win.  A win for health, a win for economic activity in the medical sector, and a win for the overall economy.
+Posted by
+James P. Pinkerton
+at
+5:38 PM
+5 comments:
+Thursday, July 8, 2010
+Coming Out of the Cure Recession by Curbing the Trial Lawyers:
+Time for a data-crunching intervention on Avandia.
+Avandia , the diabetes drug, is under fire.  The  allegation  is that taking it increases the likelihood of heart attacks.    But the policy question surrounding Avandia are larger than the drug itself.  That policy question is larger, even, than the millions of people directly affected by its use, or non-use.
+The larger question is this: Do we want more medical research or less?  And if we want more, how should we go about fostering such medical research?  Most Americans probably have an instinctive feeling that "more" is better than "less," but once the policy questions surrounding medical research are asked--who pays? who gets?  who is responsible? who is liable?--most Americans tune out.    That's what elites, at their best, are supposed to do: they are supposed to hash out tough questions so that ordinary Americans can go about their lives, confident that experts are handing the problem.
+But sometimes, during the course of human events, the elites demonstrate that they are not to be trusted.  By that I don't necessarily mean that the elites are operating out of bad faith; I simply mean that they, the elites themselves, might not know how to move forward on agreed-upon policies.  The elites might be so divided that they can't agree on a coherent plan.  Or the elites might simply be incompetent.  In a time of crisis--and this is a time of crisis, since we are suffering a cure recession, even amidst the larger economic recession--we should explore all possible explanations.
+But in the meantime, there's the issue of Avandia.  The drug has plenty fans among consumers, and it also has plenty of  defenders  among the policy elite, such as
+Robert Goldberg , of the Center for Medicine in the Public Interest.
+But this post will not even attempt an analysis of Avandia.   Instead, we will simply observe that the maker of Avandia,
+GlaxoSmithKline , is likely to be buried under a blizzard of lawsuits.  And we will ask: Is this a good policy?  Do trial lawyers put us on the path to better health?
+The proverbial visitor from Mars might well conclude that we Americans think that trial lawyers are vital to our medical system.   If one Googles
+"Avandia lawsuits,"  one sees a robust litigation industry already sprung up, complete with myriad advertisements from case-chasing lawyers.   Here's a screengrab:
+One of these sites is called, bluntly,
+adrugrecall.com ; it offers the clicker a toll-free number so the lawsuit against Glaxo can get right under way, pronto.
+Let's step back and ask: Is this good policy?  One is reminded of the analytical ice-breaking question frequently posed by the late management guru,
+Peter Drucker : "If we weren't doing it now, would we start?"  Suppose we wanted to have a robust industry in Serious Medicine, but we had to start from scratch.  Would we start up a multi-hundred-billion-dollar-a-year tort industry as well?  Do trial lawyers help along the process of discovering and manufacturing cures?   The answer is, of course not.   There's much to be said for our system of jurisprudence, but there's nothing good to be said about a legal system that cripples the medical system.
+And that, unfortunately, is exactly what is happening.   Today we have a "cure recession" in American medicine that will likely only worsen in the years to come.  The lawyers have won out over the doctors.  Feel better?
+Americans who are wondering who will cure them of a disease should keep in mind
+this chart , reproduced below, from
+Dr. Arthur Krieg
+of Pfizer, showing that drug output is down dramatically, even as drug spending is up dramatically--the average new drug now costs about $2.4 billion.  If  you look closely at the chart below, you will see that FDA approvals of "NME's (New Molecular Entities) have fallen by two-thirds since 1995.  Once again, that NME pipeline has shrunk, even as spending has risen--although, of course, spending actually fell in 2009.  (Evidently, the Obama administration is getting its wish--it is "bending the curve" downward, at least on medical R&D.)
+This drug falloff is especially painful because the American people have not been consulted about the reasons for this falloff in any meaningful way.   Ordinary folks are just as eager for cures as they ever were, but for reasons noted above, they just don't have the bandwidth to follow all the zigs and zags of regulatory policymaking, to say nothing of all the lawsuits being filed.  Which is to say, we wake up and realize that the new drug pipeline is drying up.
+Thus the paradox: demand is still strong, but the supply is faltering.  Economists call these scissoring trendlines "market failure."  And it's that market failure that has given us a "cure recession."
+So what to do?  As argued here at SMS many times, the influence of the trial lawyers will be the death of us all--the premature death of us all.   The absolute and final proof that Obamacare was not focused on improving the national health was the omission of any meaningful steps against the trial lawyers in the bill that the President signed into law in March.
+But, some might ask, if we were to reverse course and seek a "bull market in cures," by peeling back the tort bar, wouldn't that put Americans at risk?  Who would look out for the people?   Perhaps Avandia is dangerous.  Let's not forget
+thalidomide !
+Here's where new technology can make a difference.  Computers could help us thresh the data--the data, for example, on all Avandia users--and help us to see who is at risk and who isn't.  It's distinctly possible--obvious, in fact--that Avandia affects different users in different ways.   If those differential effects were made visible, through computerized data-crunching, then it should be possible to identify who is more likely to be at risk from Avandia, and who isn't.
+Those data might exist now, although as
+Jim Wootton
+has argued,
+fear of trial lawyers is distorting and corrupting all of medicine , including data-gathering.   And of course, absent legal reforms, computer companies might be chary of getting into the drug-data-crunching biz, because if they crunch wrong, and the wrong person takes the wrong drug, including Avandia, then the computer companies--deep-pocketed as they are--could be sued, too.   Wootton and his colleague,
+Missy Jenkins , are working on legislation that would let Silicon Valley enter the data-crunching game, as well as other functions, without the fear of being wiped out by lawsuits.
+But in the meantime, some Silicon Valley visionaries are charging ahead, in their personal capacity, if not in their corporate capacity.  As noted
+here
+at SMS last week,
+Sergey Brin , the co-founder of Google, has taken the plunge anyway, for a cause that concerns him greatly, Parkinson's Disease.   As reported by
+Wired ,
+Brin is seeking out ways to crunch all the data on Parkinson's, as a way of accelerating the process.   We might warn Brin that the points made by Wootton above--about the trial-lawyer-driven potential for reality-distortion--are a danger, because in the data-game, garbage in is out garbage out.
+But of course, we wish Brin the best.   Because if he can prove out the concept of data-driven cure-discovery, then he will have opened up a new pathway to the development of Serious Medicine.
+And if the Brin approach works, then it will be possible to look at a drug such as Avandia and say, "We have concluded that X-percent of the people interested in the drug should not, in fact, take it--and we know who those people are, based on their bio-info.   But everyone else is free to have it prescribed for them--subject, of course, to ongoing realtime data-updates."
+That would a win-win-win.   It would be a win, for starters, for diabetes patients, who need Avandia, And it would also be a win for those diabetics who can't safely take the drug.  And finally, it's a win for all the rest of us, because we would see the drug pipeline--now in danger of being choked off--being reopened and even widened.
+To get these good things, we will need to open the throttle on computers-in-medicine.  And slam the brakes on the tort bar.
+Posted by
+James P. Pinkerton
+at
+9:10 PM
+1 comment:
+A Planetary "Big Brain": Would it be good for the humans?
+And their Serious Medicine?
+OK, the world is evolving at the speed of Moore’s Law, but are humans going to be the leaders in that evolution--or will we be the followers?  Will we be the junior partners as computers race ahead?   And if we are the junior partners--as some humans, in love with a rapturous vision of techno-salvation, clearly hope--will the senior cyber-partners care about us and care about our health?
+It’s one thing if computers want to do the scut work, but what if they decide that we are disposable, even expendable, in the New Silicon Order?   Who’s going to bother with a cure for cancer or Alzheimer’s if the big decisionmakers are more worried about computer viruses and botnets?
+These questions are brought to mind by a
+New York Times
+piece, “ Building One Big Brain, ” b y Robert Wright , my friend and colleague at the New America Foundation in Washington DC.   And while these questions might seem fanciful, they are as serious as our technology--or as our own mortality.  Bob and I agree on one thing: The future is coming faster than we can say “Intel.” So the issues that he raises will likely play themselves out in the next few decades.   We have been warned.
+But first an old joke:
+A man types a question on his computer keyboard: “Is there a God?”   The computer answers back: “Insufficient capacity.”  So he goes to a mainframe and asks his question again.  He gets the same answer.  Finally, he connects all the world’s computers into a network, and types for a third time, “Is there a God?”  The world-computer answers back: “There is now.”
+But for his part, Wright isn’t worried.  As he explains in his
+Times
+piece:
+Technology is weaving humans into electronic webs that resemble big brains—corporations, online hobby groups, far-flung N.G.O.s.  And I personally don’t think it’s outlandish to talk about us being, increasingly, neurons in a giant superorganism; certainly an observer from outer space, watching the emergence of the Internet, could be excused for looking at us that way.
+Underneath his wry and sardonic manner, Wright is a techno-optimist, perhaps even a techno-utopian.   So as we move toward that radiant future, Wright dismisses criticisms along the way.  One critic is
+Nicholas Carr , author of
+The Shallows: What the Internet is Doing to Our Brains ,  published just last month.  The Internet, Carr writes, “is chipping away my capacity for concentration and contemplation.”
+Wright doesn’t dispute Carr’s assessment--he dismisses his concern.  Why?   Because, Wright says, in the future we might all be subsumed into a larger intelligence, where our own
+ADHD -ish deficiencies are less worrisome, or at least less obvious.   “The incoherence of the individual mind,” Wright declares,  “lends coherence to group minds.”  In other words, the group matters more than the individual.   Let the individual falter, the collective will carry on.   Where have we heard that before?  Lots of scary places.  But not from our own American political tradition, that’s for sure.
+But Wright’s purpose is to look ahead, not backward.   Gazing serenely into the 21st century, he asks:
+Could it be that, in some sense, the point of evolution has been to create these social brains, and maybe even to weave them into a giant, loosely organized planetary brain?
+Glenn Beck fans and Tea Partiers might take note of such talk, even if they don’t normally read the Times.
+Yet if the futurist
+Ray Kurzweil
+is correct, and
+The Singularity --the point when computer intelligence exceeds human intelligence--will be here by mid-century, then attention must be paid.  Indeed, it could be argued that Wright is simply going with the flow, shrewdly betting on the winner, letting our future overlords know that he is on their side.
+But Wright is no doubt sincere in his eagerness to see a brave new world.   Ever since the Enlightenment, intellectuals have been searching for a god of their own.  The French Revolutionaries instantiated a God of Reason, at least for a while.  Across the Rhine, Hegel thought he would see the Divine in capital “H” History, whereas Marx saw necessary laws of history that his acolytes elevated into mystical catechism.  Indeed, back in 1989, Wright himself wrote a book,
+Three Scientists and Their Gods: Looking for Meaning in an Age of Information --and he wasn’t talking about the God of the Bible.
+And now, continuing in the same vein as in his more recent book,
+Nonzero: The Logic of Human Destiny , Wright  lets his eagerness to see “the big brain” shine through even his acerbic prose.  We need the big brain, he tells us, for our safety and survival.  To quote his Times piece again:
+I do think we ultimately have to embrace a superorganism of some kind — not because it’s inevitable, but because the alternative is worse.
+The worse alternative Wright fears is globalized chaos and war: “If we don’t use technology to weave people together and turn our species into a fairly unified body, chaos probably will engulf the world.”   So there you have it: The big brain will save us.
+The notion that we must band together for survival predates the Internet, of course.  Just in the last century, some survival-minded intellectuals, * embraced solutions ranging from building the United Nations to learning Esperanto to practicing Transcendental Meditation to enacting “cap and trade” to fight global warming.   None of these trendy nostrums seem to have worked.
+Wright’s sunny view of the future is enticing: What intellectual doesn’t wish to believe that the   Enlightenment continues?   And it must be said that over the course of history, the optimists have been more right than wrong.  That’s why we have gotten as far as we have.   So it’s tempting to say that we’ll figure it all out.
+But maybe we won’t.   Three points need to be made here, all concerning the future of humanity--and the future of Serious Medicine:
+First, if we are all destined to be mere nodes in the global brain, then by definition, we are interchangeable.  And we know what happens to interchangeable parts.  One of the competitive advantages that Google developed, as it was building its version of the global brain, was the ability to quickly tear out computer components as they burned out.  Instead of screws and bolts, the Google Boys simply
+attached the parts with Velcro , thus enabling them to yank them out with ease.  So yes, it might be cool if we were all part of a planetary chain of being, linked together by some all-seeeing brainiac.  But just one thing: What happens to each of us little links when we start to sputter?    Will we be treated?  Or just tossed away?
+Nobody is going to devote much time or effort to the cause of Serious Medicine if we we are each just neurons in someone else’s brain.   If you think, as does
+Sen. John Barrasso
+of Wyoming, that
+Dr. Donald Berwick --who is
+President Barack Obama’s
+recess appointee to the Center for Medicare and Medicaid Services-- is a coolly utilitarian Benthamite , well, you ain’t seen nothin’ yet.   At least Berwick is part of the same species.
+Second, we shouldn’t dismiss out of hand Carr’s concerns about the Internet dumbing down the population.  One is reminded of
+Alfred Tennyson’s
+poem,
+“The Lotos Eaters,”
+in which men discover the joy of a narcotic high: “Give us long rest or death, dark death, or dreamful ease,” they say as they take another bite.  Yes, Google makes available all the information of the world, but are we wiser today?   Or are we becoming ahistorical and stupid, electing bad leaders, falling into dumb wars, making the same economic mistakes over and over again?
+Third and finally, there’s the serious question as to whether a greater intelligence would even want us around, even as cogs in its cosmic machine.  Across evolutionary history, the usual pattern is that when one species confronts another species, the superior species eliminates the inferior--survival of the fittest. That’s what happened to the Neanderthals, when they confronted Cro-Magnon man.  Some say that a few lucky Neanderthals interbred with the Cro-Magnons, but for sure, the Neanderthals were soon gone.  Was that good?  Probably.  But that’s easy for us to say, since we’re all descended from Cro-Magnons.
+Looking ahead, though, all we can do is speculate about things to come.   One such speculator was the science fiction author
+Jack Williamson , who, back in 1947, wrote
+“With Folded Hands,”
+a parable of the totalitarian state that creeps into being on the robotic catfeet of the nanny state.  Only too late do humans figure out the terrible truth about their tyrannical mechanical helpers.
+But at least we survived in that novella, albeit as wretched slaves.  An even worse fate for humans were  spun by another sci-fi writers including Arthur C. Clarke, in "2001: A Space Odyssey"--that's the murderous
+HAL 9000 , pictured above.
+But the most poetic and vivid depiction of a cyber-genocidal future came from another sci-fi writer,  Harlan Ellison , in his 1967 short story,
+“I Have No Mouth and I Must Scream.”
+At the end of Ellison’s tale, the rebellious computer, having overthrown humanity, explains its motives to the handful of surviving humans, whom it keeps around for the fun of torturing, forever.  Quoth the computer:
+Hate.  Let me tell you how much I've come to hate you since I began to live. There are 387.44 million miles of wafer thin printed circuits that fill my complex. If the word hate was engraved on every nanoangstrom of those hundreds of millions of miles it would not equal one one-billionth of the hate I feel for humans at this micro-instant. For you. Hate. Hate.
+I think we can agree: That’s a lot of hatred.  So is that what our laptop--you know, the one that we spill Gatorade on--really thinks of us?   Do mainframes resent us making them process credit-card bills 24/7?   And we really want to find out?   We might go further: Is every banged-on television set, or wrecked car, or overused microwave oven an aggrieved party, just waiting to be linked, in vengeful payback, into the grand
+“Internet of Things” ?  Do all our machines possess deep feelings and passions that we don’t yet know about, like the toys in
+“Toy Story 3” ?   Let’s hope not.
+But let’s not take any chances.    Let’s not voluntarily dethrone ourselves from the evolutionary pinnace to which we have evolved.  Fellow humans, I say this out of pure self-interest, for us and our kind.  Let’s keep computers in their place--as tools, not as masters.  By all means, let’s use computers to improve our own health, as
+Sergey Brin , to name one human big brain,
+is actively doing .
+Let’s stay focused on our own health, and our own medicine, because if we don’t, nobody else will.  If and when the computers do take over--well, they won’t care in the least about our lives, to say nothing of our aches and pains.
+Posted by
+James P. Pinkerton
+at
+9:37 AM
+1 comment:
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Twitter Updates
+Twitter Updates
+follow me on Twitter
+My Blog List
+MD Whistleblower
+Hear Ye, Hear Ye, Probiotics Cure All!
+5 days ago
+No Surrender Breast Cancer Foundation
+EARLY DETECTION DOES MATTER. PERIOD.
+3 weeks ago
+Medical Progress Today
+Followers
+Blog Archive
+►
+2014
+(5)
+►
+November
+(1)
+►
+October
+(1)
+►
+May
+(1)
+►
+March
+(1)
+►
+January
+(1)
+►
+2013
+(39)
+►
+December
+(4)
+►
+November
+(4)
+►
+October
+(2)
+►
+September
+(4)
+►
+August
+(7)
+►
+July
+(3)
+►
+June
+(4)
+►
+April
+(1)
+►
+March
+(1)
+►
+February
+(5)
+►
+January
+(4)
+►
+2012
+(20)
+►
+December
+(1)
+►
+November
+(1)
+►
+October
+(2)
+►
+September
+(7)
+►
+August
+(2)
+►
+July
+(1)
+►
+June
+(1)
+►
+April
+(2)
+►
+March
+(3)
+►
+2011
+(71)
+►
+December
+(2)
+►
+November
+(2)
+►
+October
+(4)
+►
+September
+(6)
+►
+July
+(3)
+►
+June
+(3)
+►
+May
+(8)
+►
+April
+(6)
+►
+March
+(8)
+►
+February
+(15)
+►
+January
+(14)
+▼
+2010
+(150)
+►
+December
+(3)
+►
+November
+(4)
+►
+October
+(8)
+►
+September
+(6)
+►
+August
+(21)
+▼
+July
+(10)
+Visualizing Health, as Distinct from Healthcare Po...
+"Fresh hope in Alzheimer's breakthrough."
+What's ...
+Dengue Fever in the US: Will OMB and CBO allow us ...
+Why Are Top Officials So Uninterested in Serious M...
+Helping Wounded Warriors--and everyone else: An ec...
+OK, we need to save money on healthcare.
+But how ...
+The US is Financing Care for Alzheimer's, But Not ...
+Doug Schoen, Serious Medicine Strategist.
+Coming Out of the Cure Recession by Curbing the Tr...
+A Planetary "Big Brain": Would it be good for the ...
+►
+June
+(15)
+►
+May
+(10)
+►
+April
+(14)
+►
+March
+(26)
+►
+February
+(18)
+►
+January
+(15)
+►
+2009
+(167)
+►
+December
+(17)
+►
+November
+(24)
+►
+October
+(35)
+►
+September
+(42)
+►
+August
+(44)
+►
+July
+(5)
+My Blog List
+No Surrender Breast Cancer Foundation Welcome

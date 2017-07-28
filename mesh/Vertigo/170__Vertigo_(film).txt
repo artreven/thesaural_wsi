@@ -1,0 +1,808 @@
+Film score - Wikipedia, the free encyclopedia
+The Wikimedia Foundation's 2010 steward election has started.
+Please vote.
+[ Hide ]
+[ Help us with translations! ]
+Film score
+From Wikipedia, the free encyclopedia
+Jump to:
+navigation ,
+search
+This article is
+in need of attention from an expert on the subject .
+WikiProject Film Music
+may be able to help recruit one.
+(November 2008)
+This article
+needs additional
+citations
+for
+verification .
+Please help
+improve this article
+by adding
+reliable references . Unsourced material may be
+challenged
+and
+removed .
+(June 2008)
+This article
+may require
+cleanup
+to meet Wikipedia's
+quality standards .
+Please
+improve this article
+if you can.
+(January 2010)
+A
+film score
+is essentially the background music of a film (which is generally categorically separated from songs used within a film). The term
+soundtrack
+is often confused with
+film score , but a soundtrack also includes anything else audible in the film such as sound effects and dialogue. Soundtrack albums may also include
+songs
+featured in the film as well as previously released music by other artists. A score is written specifically to accompany a
+film , by the original film's composer(s). [ 1 ]
+Each individual piece of music, within a film's score, is called a cue and is typically a composition for instruments (e.g.
+orchestra ) and/or non-individually featured voices. Since the 1950s, a growing number of scores are electronic or a hybrid of orchestral and electronic instruments. [ 2 ]
+Since the invention of
+digital technology
+and
+audio sampling , many low budget films have been able to rely on digital samples to imitate the sound of real live instruments.
+Contents
+[ hide ]
+1
+Process of creation
+2
+Historical notes
+3
+Television score
+4
+Orchestral film scores
+4.1
+Composers
+4.2
+Soundtracks
+5
+Non-orchestral film scores
+5.1
+Composers
+5.2
+Soundtracks
+6
+Production music
+7
+Independent specialist original soundtrack recording labels
+8
+See also
+9
+References
+10
+External links
+[ edit ]
+Process of creation
+Usually, after the film has been shot (or some shooting has been completed), the composer is shown an unpolished "rough cut" of the film (or of the scenes partially finished), and talks to the director about what sort of music (styles, themes, etc.) should be used — this process is called "spotting." [ 3 ]
+More rarely, the director will talk to the composer before shooting has started, so as to give more time to the composer or because the director needs to shoot scenes (namely song or dance scenes) according to the final score. Sometimes the director will have edited the film using "temp (temporary) music": already published pieces that are similar to what the director wants. Most film composers [ who? ]
+strongly dislike temp music, as directors [ who? ]
+often become accustomed to it and push the composers to be imitators rather than creators. [ citation needed ]
+On certain occasions, directors have become so attached to the temp score that they decide to use it and reject the score custom-made by a composer. One of the most famous cases is
+Stanley Kubrick 's
+2001: A Space Odyssey , where Kubrick opted for existing recordings of classical works rather than the score by
+Alex North , [ 4 ]
+which eventually led to a law suit by composer
+György Ligeti
+when he was surprised to hear his compositions in a motion film; [ 5 ]
+though one should note Kubrick hired two composers (the other Frank Cordell) to do a score, and while North's
+2001
+is indeed a famous example, it is not the sole example of well-known rejected scores. Others include
+Torn Curtain
+(Bernard Herrmann), [ 6 ]
+Troy
+(Gabriel Yared), [ 7 ]
+Peter Jackson's
+King Kong
+(Howard Shore) [ 8 ]
+and the
+The Bourne Identity
+(John Powell). [ 9 ]
+Once a composer has the film, they will then work on creating the score. While some composers prefer to work with traditional paper scores, many film composers write in a computer-based environment. [ 10 ]
+This allows the composer and
+orchestrator
+to create MIDI-based demos of themes and cues, called
+MIDI mockups , for review by the filmmaker prior to the final orchestral recording. Some films are then re-edited to better fit the music. Instances of this include the collaborations between filmmaker
+Godfrey Reggio
+and composer
+Philip Glass , where over several years the score and film are edited multiple times to better suit each other. [ 11 ]
+Similar to these are the associations between
+Sergio Leone
+and
+Ennio Morricone . In the finale of
+The Good, the Bad and the Ugly , Morricone had prepared the score used before and Leone edited the scenes to match it. [ 12 ]
+His other two famous films,
+Once Upon a Time in the West
+and
+Once Upon a Time in America , were completely edited to Morricone's score as the composer had prepared it months before the film's production. Another example is the famous chase scene in
+Steven Spielberg 's
+E.T. the Extra-Terrestrial . The score, composed by long-time collaborator
+John Williams , proved so difficult to synchronize in this specific scene during the recording sessions that, as recounted in a companion documentary on the DVD, Spielberg gave Williams
+carte blanche
+and asked him to record the cue without picture, freely; Spielberg then re-edited the scene later on to perfectly match the music.
+When the music has been composed and
+orchestrated , the orchestra or ensemble then performs it, often with the composer conducting. Musicians for these ensembles are often uncredited in the film or on the album and are contracted individually (and if so, the orchestra contractor is credited in the film or the soundtrack album). However, some films have recently begun crediting the contracted musicians on the albums under the name
+Hollywood Studio Symphony
+after an agreement with the
+American Federation of Musicians . Other performing ensembles that are often employed include the
+London Symphony Orchestra , the
+City of Prague Philharmonic Orchestra
+(an orchestra dedicated exclusively to recording), and the
+Northwest Sinfonia .
+The orchestra performs in front of a large screen depicting the movie, and sometimes to a series of clicks called a "click-track" that changes with
+meter
+and tempo, assisting the conductor to synchronize the music with the film. [ 13 ]
+Films often have different themes for important characters, events, ideas or objects, taking the idea from
+Wagner 's use of
+leitmotif . [ 14 ]
+These may be played in different variations depending on the situation they represent, scattered amongst incidental music. A famous example of this technique is
+John Williams ' score for the
+Star Wars
+saga, and the numerous themes associated with characters like
+Darth Vader ,
+Luke Skywalker , and
+Princess Leia Organa
+(see
+Star Wars
+music
+for more details). [ 15 ]
+The Lord of the Rings trilogy
+uses a similar technique, with recurring themes for many main characters and places. Others are less known by casual moviegoers, but well known among score enthusiasts, such as Jerry Goldsmith's underlying theme for the
+Borg
+in
+Star Trek: First Contact , or his Klingon theme from
+Star Trek: The Motion Picture
+which other composers carry over into their Klingon motifs, and he has brought back on numerous occasions as the theme for
+Worf ,
+Star Trek: The Next Generation's
+most prominent Klingon.
+Most films have between 40 and 120 minutes of music. However, some films have very little or no music; others may feature a score that plays almost continuously throughout.
+Dogme 95
+is a genre that has music only from sources within a film, such as from a radio or television. This is called "source music" because it comes from an on screen source that can actually be seen or that can be inferred (in academic
+film theory
+such music is called " diegetic " music, as it emanates from the " diegesis " or "story world"). [ 16 ]
+A famous example of "source music" is the use of the
+Frankie Valli
+song "Can't Take My Eyes Off You" in
+Michael Cimino 's " The Deer Hunter ".
+Alfred Hitchcock's
+1963 thriller
+The Birds
+is a rare example of a Hollywood film with no
+non-diegetic
+music whatsoever.
+In 1983 a non-profit organization, the
+Society for the Preservation of Film Music , was actually formed to preserve the "byproducts" of creating a film score: [ 17 ]
+the music manuscripts (written music) and other documents and studio recordings generated in the process of composing and recording scores which, in some instances, have been discarded by the movie studios. The written music must be kept to perform the music on concert programs and to make new recordings of it. Sometimes only after decades has an archival recording of a film score been released on CD.
+[ edit ]
+Historical notes
+Before the age of recorded sound in motion pictures, great effort was taken to provide suitable music for films, usually through the services of an in-house pianist or organist, and, in some cases, entire orchestras, typically given
+cue sheets
+as a guide. In 1914,
+The Oz Film Manufacturing Company
+sent full-length scores by
+Louis F. Gottschalk
+for their films. Other examples of this include
+Victor Herbert 's score in 1915 to
+Fall of a Nation
+(a sequel to
+Birth of a Nation ) and
+Camille Saint-Saëns ' music for
+L'Assassinat du duc de Guise
+in 1908 — arguably the very first in movie history. It was preceded by
+Nathaniel D. Mann 's score for
+The Fairylogue and Radio-Plays
+by four months, but that was a mixture of interrelated stage and film performance in the tradition of old
+magic lantern
+shows. Most accompaniments at this time, these examples notwithstanding, comprised pieces by famous composers, also including studies. These were often used to form catalogues of film music, which had different subsections broken down by 'mood' and/or genre: dark, sad, suspense, action, chase, etc. This made things much easier for the in-house pianists and orchestras to pick pieces that fitted the particular feel of a movie and its scenes.
+German cinema, which was highly influential in the era of silent movies, provided some original scores. Fritz Lang's movies
+Die Nibelungen
+(1924) and
+Metropolis
+(1927) were accompanied by original full scale orchestral and leitmotific scores written by Gottfried Huppertz, who also wrote piano-versions of his music, so that it could be played in smaller cinemas, too. Friedrich W. Murnau's movies
+Nosferatu
+(1922 - music by Hans Erdmann) and
+Faust – eine deutsche Volkssage
+(1926 - music by Werner Richard Heymann) also had original scores written for them. Other films like Murnaus's
+Der letzte Mann
+contained a mixing of original compositions (in this case by Giuseppe Becce) and library music / folk tunes, which were artistically included into the score by the composer. Nevertheless fully developed original scores were quite rare in the silent movie era. It should also be noted that as soon as sound had come to movies, director Fritz Lang barely used musical scores in his movies anymore. Apart of Peter Lorre whistling a short piece from Edvard Grieg's
+Peer Gynt , Lang's movie
+M - Eine Stadt sucht einen Mörder
+was lacking musical accompaniment completely and
+Das Testament des Dr. Mabuse
+only included one original piece written for the movie by Hans Erdmann played at the very beginning and end of the movie. One of the rare occasions on which music occurs in the movie is a song one of the characters sings, that Lang uses to put emphasis on the man's insanity, quite similar to the use of the whistling in
+M .
+Though "the scoring of narrative features during the 1940s lagged decades behind technical innovations in the field of concert music," [ 18 ]
+the 1950s saw the rise of the
+modernist
+film score. Director
+Elia Kazan
+was open to the idea of jazz influences and dissonant scoring and worked with Alex North, whose score for
+A Streetcar Named Desire
+(1951) combined dissonance with elements of blues and jazz. Kazan also approached
+Leonard Bernstein
+to score
+On the Waterfront
+(1954): the result was reminiscent of earlier works by
+Aaron Copland
+and
+Igor Stravinsky
+with its "jazz-based harmonies and exciting additive rhythms." [ 19 ]
+A year later,
+Leonard Rosenman , inspired by
+Arnold Schoenberg , experimented with atonality in his scores for
+East of Eden
+(1955) and
+Rebel Without a Cause
+(1955). In his ten-year collaboration with
+Alfred Hitchcock ,
+Bernard Herrmann
+experimented with daring musical endeavors in
+Vertigo
+(1958),
+Psycho
+(1960)--and
+The Birds
+(1963). The use of non-diegetic jazz was another modernist innovation, perhaps most notably in jazz star
+Duke Ellington 's score for
+Otto Preminger 's
+Anatomy of a Murder
+(1959).
+A full film score widely regarded as the first made by a popular artist came in 1973 with the film
+Pat Garret and Billy the Kid , by
+Bob Dylan . However the album received very little critical acclaim. This had not been done before in popular film history: any featured band had films written around the music (notably
+The Beatles
+with
+Yellow Submarine ).
+[ edit ]
+Television score
+A
+television score
+is a broad term referring to the music in a television programs which is generally categorically separated from songs used within a television.
+The term
+television score
+is frequently synonymous with
+television soundtrack , though a soundtrack may also include the
+songs
+used in the television program while the score does not. A score is sometimes written specifically to accompany a
+television program , but may also be compiled from previously written
+musical compositions .
+Each individual piece of music within a television's score is called a cue, and is typically a composition for instruments (e.g.
+orchestra ) and/or non-individually featured voices. Since the 1950s, a growing number of scores are electronic, or a hybrid of orchestral and electronic instruments. Since the invention of
+digital technology
+and
+audio sampling , many low-budget television programs have had to rely on digital samples to imitate the sound of live instruments. [1]
+[ edit ]
+Orchestral film scores
+The
+neutrality
+of this section is
+disputed . Please see the discussion on the
+talk page . Please do not remove this message until the
+dispute is resolved.
+(December 2007)
+The
+inclusion or exclusion of items
+from this list, or
+length of this list , is disputed. Please discuss this issue on the
+talk page .
+[ edit ]
+Composers
+Some notable composers of orchestral
+soundtracks
+include:
+A. R. Rahman
+Nisar Bazmi
+Craig Armstrong
+David Arnold
+Luís Enríquez Bacalov
+Angelo Badalamenti
+Klaus Badelt
+John Barry
+Tyler Bates
+Christophe Beck
+Marco Beltrami
+Charles Bernstein
+Elmer Bernstein
+Howard Blake
+Terence Blanchard
+Simon Boswell
+Jon Brion
+Bruce Broughton
+Carter Burwell
+Sean Callery
+John Carpenter
+George S. Clinton
+Charlie Clouser
+Bill Conti
+Ry Cooder
+Aaron Copland
+Mychael Danna
+Don Davis
+John Debney
+Georges Delerue
+Alexandre Desplat
+Pino Donaggio
+Patrick Doyle
+Anne Dudley
+Clint Eastwood
+Randy Edelman
+Cliff Eidelman
+Danny Elfman
+Harold Faltermeyer
+George Fenton
+Brad Fiedel
+Jerry Fielding
+Robert Folk
+Lisa Gerrard
+Michael Giacchino
+Philip Glass
+Elliot Goldenthal
+Jerry Goldsmith
+Ron Goodwin
+Harry Gregson-Williams
+Rupert Gregson-Williams
+Dave Grusin
+Marvin Hamlisch
+Bernard Herrmann
+Joe Hisaishi
+Lee Holdridge
+James Horner
+Akira Ifukube
+Ilaiyaraaja
+James Newton Howard
+Alberto Iglesias
+Mark Isham
+Steve Jablonsky
+Maurice Jarre
+Quincy Jones
+Trevor Jones
+Jan A.P. Kaczmarek
+Michael Kamen
+Wojciech Kilar
+Erich Wolfgang Korngold
+Michel Legrand
+Mark Mancina
+Henry Mancini
+Clint Mansell
+Dario Marianelli
+Joel McNeely
+Alan Menken
+Giorgio Moroder
+Jerome Moross
+Ennio Morricone
+Ira Newborn
+Alfred Newman
+David Newman
+Randy Newman
+Thomas Newman
+Jack Nitzsche
+Alex North
+Michael Nyman
+John Ottman
+Basil Poledouris
+Rachel Portman
+John Powell
+Zbigniew Preisner
+Sergei Prokofiev
+Peer Raben
+Trevor Rabin
+Graeme Revell
+Laurence Rosenthal
+Leonard Rosenman
+William Ross
+Nino Rota
+Miklós Rózsa
+Arthur B. Rubinstein
+Craig Safan
+Ryuichi Sakamoto
+Gustavo Santaolalla
+Philippe Sarde
+Lalo Schifrin
+Kristian Sensini
+Eric Serra
+Marc Shaiman
+David Shire
+Howard Shore
+Alan Silvestri
+Max Steiner
+Dimitri Tiomkin
+Brian Tyler
+Vangelis
+Shirley Walker
+Stephen Warbeck
+Franz Waxman
+John Williams
+Debbie Wiseman
+Gabriel Yared
+Christopher Young
+Victor Young
+Hans Zimmer
+Nick Glennie-Smith
+[ edit ]
+Soundtracks
+Some well-known orchestral
+soundtracks
+include:
+Star Wars
+Series (John Williams)
+Jaws
+(John Williams)
+Chinatown
+(Jerry Goldsmith)
+E.T. the Extra-Terrestrial
+(John Williams)
+Close Encounters of the Third Kind
+(John Williams)
+Jurassic Park
+(John Williams)
+Harry Potter
+Series (John Williams, Patrick Doyle, Nicholas Hooper)
+Indiana Jones
+Series (John Williams)
+Superman
+Series (John Williams)
+Alien
+(Jerry Goldsmith)
+Patton
+(Jerry Goldsmith)
+The Wind and the Lion
+(Jerry Goldsmith)
+American Beauty
+(Thomas Newman)
+The Godfather
+trilogy (Nino Rota, Carmine Coppola)
+Crimson Tide
+(Hans Zimmer)
+The Lion King
+(Film score by Hans Zimmer)
+Pirates of the Caribbean
+series
+(Klaus Badelt, Hans Zimmer)
+Titanic
+soundtrack (James Horner)
+Star Trek
+TV Series and films (James Horner, Jerry Goldsmith et al.)
+The Lord of the Rings
+trilogy (Howard Shore)
+The Aviator
+(Howard Shore)
+Gone with the Wind
+(Max Steiner)
+Casablanca
+(Max Steiner)
+Psycho
+(Bernard Herrmann)
+Back to the Future Trilogy
+(Alan Silvestri)
+Batman
+(Danny Elfman)
+Batman Begins
+and
+The Dark Knight
+(Hans Zimmer) and (James Newton Howard)
+Conan the Barbarian
+&
+Conan the Destroyer
+(Basil Poledouris)
+Lawrence of Arabia
+(Maurice Jarre)
+James Bond
+series (John Barry et al.)
+The Magnificent Seven
+(Elmer Bernstein)
+The Great Escape
+(Elmer Bernstein)
+Halloween
+theme (John Carpenter)
+Angels and Demons
+and
+The Da Vinci Code
+(Hans Zimmer)
+Gladiator
+(Hans Zimmer)and (Lisa Gerrard)
+The Good, The Bad, and The Ugly
+(Ennio Morricone)
+Braveheart
+(James Horner)
+Glory
+(James Horner)
+[ edit ]
+Non-orchestral film scores
+Non-orchestral film music includes any genre of music not associated with classical music or orchestral performance. Composers that use the orchestra for experimental composition are usually noted as experimental composers rather than orchestral ones. Other genres of film scores include, but are not limited to
+Rock ,
+Pop ,
+Folk ,
+Blues ,
+Experimental ,
+Electronic ,
+Hip hop ,
+Heavy metal ,
+Jazz ,
+musicals
+and
+World music . Some of the orchestral composers listed above also compose in these genres although they are usually noted for their orchestral music. Fewer composers are noted for both their orchestral and non-orchestral compositions and most non-orchestral film composers are noted for the specific genre they compose in. Some non-orchestral composers are also noted artists with their own compositions.
+[ edit ]
+Composers
+Some notable composers of non-orchestral film scores include:
+Angelo Badalamenti
+(experimental)
+Clint Mansell
+(world, experimental, post rock)
+Terence Blanchard
+(jazz)
+Wendy Carlos
+(electronic)
+Tristram Cary
+(electronic, experimental)
+Ry Cooder
+(folk, rock, world)
+John Carpenter
+(electronic)
+Harold Faltermeyer
+(electronic, pop)
+Peter Gabriel
+(world)
+Quincy Jones
+(jazz, funk, pop)
+Henry Mancini
+(jazz, pop)
+Giorgio Moroder
+(electronic, pop)
+Michael Nyman
+(minimalist, experimental)
+A. R. Rahman
+(world)
+Nelson Riddle
+(jazz)
+Lalo Schifrin
+(jazz, pop)
+Tōru Takemitsu
+(experimental)
+Vangelis
+(electronic)
+[ edit ]
+Soundtracks
+Some well-known non-orchestral
+soundtracks
+include:
+Super Fly
+( Curtis Mayfield )
+Shaft
+( Isaac Hayes )
+The Blues Brothers
+(performed by The Blues Brothers et al.)
+Donnie Darko
+( Michael Andrews )
+Amelie
+( Yann Tiersen )
+A Clockwork Orange
+(Wendy Carlos) (Adapted)
+Blade Runner
+(Vangelis)
+Fight Club
+( The Dust Brothers )
+The Rocky Horror Picture Show
+( Richard O'Brien )
+The Lion King
+(songs by
+Elton John
+and Tim Rice)
+Eternal Sunshine of the Spotless Mind
+(Jon Brion)
+The Last Temptation of Christ
+(Peter Gabriel)
+In 2007,
+The Lloyd Awards
+The Lloyd Awards were establish to recognize excellence in the use of non-score music in film.
+[ edit ]
+Production music
+Main article:
+production music
+Many companies such as Associated Production Music and Extreme Music provide music to various film, TV and commercial projects for a fee. Sometimes called library music, the music is owned by production music libraries and licensed to customers for use in film, television, radio and other media. Unlike popular and classical music publishers, who typically own less than 50 percent of the copyright in a composition, music production libraries own all of the copyrights of their music, meaning that it can be licensed without seeking the composer's permission, as is necessary in licensing music from normal publishers. This is because virtually all music created for music libraries is done on a
+work for hire
+basis. Production music is therefore a very convenient medium for media producers — they can be assured that they will be able to license any piece of music in the library at a reasonable rate.
+Production music libraries will typically offer a broad range of musical styles and genres, enabling producers and editors to find much of what they need in the same library. Music libraries vary in size from a few hundred tracks up to many thousands. The first production music library was setup by De Wolfe in 1927 with the advent of sound in film, the company originally scored music for use in silent film. [ 20 ]
+Another music library was set up by Ralph Hawkes of Boosey & Hawkes Music Publishers in the 1930s. [ 21 ]
+APM, the largest US library, has over 250,000 tracks. [ 22 ]
+[ edit ]
+Independent specialist original soundtrack recording labels
+1M1 Records
+Digitmovies AE
+Film Score Monthly
+La-La Land Records
+Milan Records
+MovieScore Media
+Perseverance Records
+Prometheus Records
+Trunk Records
+Varèse Sarabande
+[ edit ]
+See also
+film portal
+List of film score composers
+AFI's 100 Years of Film Scores
+Musivisual Language
+[ edit ]
+References
+^
+Savage, Mark. " Where Are the New Movie Themes ?"
+BBC,
+28 July 2008.
+^
+Bebe Barron: Co-composer of the first electronic film score, for 'Forbidden Planet' - Obituaries, News - The Independent
+^
+Film scoring
+^
+2001 A Space Odyssey - Original soundtrack by Alex North, commissioned but unused by Stanley Kubrick, conducted by Jerry Goldsmith
+^
+BBC - Easy Listening and Soundtracks Review - Original Soundtrack, 2001: A Space Odyssey
+^
+SoundtrackNet: Torn Curtain Soundtrack
+^
+SoundtrackNet: Article - Gabriel Yared's Troy
+^
+Music on Film:: News:: Article in Variety about James Newton Howard's King Kong score
+^
+The Bourne Identity
+^
+Amazon.com: From Score To Screen: Sequencers, Scores And Second ThoughtsThe New Film Scoring Process: Sonny Kompanek: Books
+^
+The Creators
+^
+SoundtrackNet: The Good, The Bad and The Ugly Soundtrack
+^
+Home Recording Glossary: Click Track
+^
+leitmotif - Definition from the Merriam-Webster Online Dictionary
+^
+http://www.trell.org/wagner/starwars.html
+^
+The Functions of Film Music
+^
+About The Film Music Society
+^
+Cooke, Mervyn (2008).
+A History of Film Music . New York: Cambridge University Press.   [ citation needed ]
+^
+Cooke, Mervyn (2008).
+A History of Film Music . New York: Cambridge University Press.   [ citation needed ]
+^
+De Wolfe, Warren (1988).
+de wolfe millennium catalogue . London: De Wolfe Music.
+^
+Wallace, Helen (2007).
+Boosey & Hawkes The Publishing Story . London: B&H London.
+ISBN 9780851625140 .   [ citation needed ]
+^
+"PRWeb July 2007" .
+http://www.prweb.com/releases/2007/07/prweb539516.htm . Retrieved 2007-07-20 .
+[ edit ]
+External links
+Cinemanotes Film Score Database
+Cinemusic
+Film Scores on imeem
+FilmScoreComposers.com Magazine
+The Film Music Society
+The Journal of Film Music
+Film Music on the Web
+Film Music Articles
+Film Music Magazine
+Film Music Review
+Film Score Monthly
+Filmtracks
+International Film Music Critics Association
+MainTitles
+Movie Music UK
+MovieScore Magazine
+Movie Wave
+ScoreNotes
+SoundtrackNet
+The Three Regimes, a Theory of Film Music www.robertspande.com
+Most Prolific Composers
+list at the
+Internet Movie Database
+Music/Film Scoring
+has a practical look at film scoring (from the Movie Making Manual of WikiBooks)
+UnderScores: Musique de Film
+(French) , everything about film music: news, reviews, interviews and portraits of composers, scores analysis, unreleased scores, picture/music relation analysis...
+Retrieved from " http://en.wikipedia.org/wiki/Film_score "
+Categories :
+Album types
+|
+Film scores Hidden categories:
+All articles with unsourced statements
+|
+Articles with unsourced statements from November 2009
+|
+Articles with unsourced statements from August 2007
+|
+Miscellaneous articles needing expert attention
+|
+Articles needing expert attention from November 2008
+|
+All articles needing expert attention
+|
+Articles needing additional references from June 2008
+|
+All articles needing additional references
+|
+Articles needing cleanup from January 2010
+|
+All pages needing cleanup
+|
+All articles with specifically-marked weasel-worded phrases
+|
+Articles with specifically-marked weasel-worded phrases from April 2009
+|
+Articles with unsourced statements from April 2009
+|
+NPOV disputes from December 2007
+|
+All NPOV disputes
+Views
+Article
+Discussion
+Edit this page
+History
+Personal tools
+Try Beta
+Log in / create account
+Navigation
+Main page
+Contents
+Featured content
+Current events
+Random article
+Search
+Interaction
+About Wikipedia
+Community portal
+Recent changes
+Contact Wikipedia
+Donate to Wikipedia
+Help
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Printable version
+Permanent link Cite this page
+Languages
+Català
+Česky
+Dansk
+Deutsch
+Eesti
+Español
+Esperanto
+Français
+Hrvatski
+Nederlands
+日本語
+‪Norsk (bokmål)‬
+Polski
+Suomi
+Svenska
+中文
+This page was last modified on 22 February 2010 at 23:11.
+Text is available under the
+Creative Commons Attribution-ShareAlike License ;
+additional terms may apply.
+See
+Terms of Use
+for details.
+Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc. , a non-profit organization. Contact us
+Privacy policy
+About Wikipedia
+Disclaimers

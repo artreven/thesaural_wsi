@@ -1,0 +1,479 @@
+May 2010 // Medellitin
+Medellitin
+A food blog dedicated to modernist cuisine (molecular gastronomy), sous vide, and the food industry. Less cooking and more thinking.
+Pages
+Home
+Sous Vide Equipment Cost Calculator
+Low-Technique: Manual Sous Vide
+If you had told someone you were going to cook sous-vide, they would have probably looked at you like you had two faces.  And if they did, by some chance, know what sous vide cooking was, they would have thought you had over a thousand dollars worth of equipment.  Now-a-days, with home appliances like the Sous Vide Magic and the Sous Vide Supreme, people would think that you were cooking with several hundreds of dollars of equipment.
+The truth is, all you really need to cook utilizing the sous-vide method is the ability to put some plastic-wrapped product into a temperature controlled container of water.  While not the first to do it, Martin Lersch
+made
+a sous vide rib-eye just by using a big pot of water, a thermometer and a plastic bag.
+This is not your only option.  If you don't like the idea of having a constant heat source going (e.g. the burner or you can also take the pot and try and put it in the oven), you can also use J. Kenji Lopez-Alt's beer cooler sous vide
+technique .  The nice thing about this is that you don't have to watch it during the cooking process the way you do with the oven/burner methods.  Fill up the container with hot water and put in your product.  The other nice thing about this approach is the amount of space you have in the cooler.
+Let's compare using my handy dandy chart that is guaranteed only to exist and not be accurate in any way:
+Finally, my best advice for manual sous vide cookery is to:
+Bring food up to temperature prior to dropping it in the water.  The colder your food is when it goes into the water bath the bigger the temperature hit will be (A frozen chicken breast is a giant ice cube).
+Monitor food and water temperature while cooking.
+Make sure that when your product comes out of the water bath, you immediate verify its temperature with an accurate thermometer.  There is a line between incredibly moist and food poisoning, know which side of it you are on.
+Sear food when it comes out of the bag.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/19/2010 08:21:00 PM
+3
+comments
+Links to this post
+Labels:
+Low-Technique ,
+Sous Vide
+Low-Technique: The Anti-Griddle
+As the name suggests, The
+PolyScience
+Anti-Griddle
+is a flat-top cooking apparatus that uses extreme cold instead of extreme heat to modify the texture and flavors of food.  The cooking surface is a metal sheet approximately 15" x 9" that is cooled to -30ºF by specialized refrigeration gear.
+This can be used to create some unique dishes or components.  Examples include:
+The
+Moto
+team used the Anti-Griddle to make crepes on a recent episode of
+Future Food
+Grant Achatz's  Mango , Bonito, Soy, Sesame course at
+Alinea
+PolyScience's own Philip Preston makes a
+creme anglaise
+lollipop by griddling both sides but leaving the center creamy
+Most home cooks cannot afford the 1000$ price tag.  The good news is that you can simulate the AntiGriddle at home provided you can get your hands on some dry ice.  A
+number
+of
+people
+have
+talked
+about
+AntiGriddle
+hacks before, but the first mention I could find came from Nick Kokonas.  Nick is Grant Achatz's business partner and co-owner at Alinea. In 2007,  he wrote
+this
+over at the
+LTHForum :
+The first time Grant tried using the "anti-griddle" concept was in my house on the back of a stainless steel spatula that was resting on dry ice. It worked just fine. Obviously, that method cannot be used to prepare 90 dishes per night at a restaurant, but it would be effectively the same at home.
+So, for this low-tech hack, you simply need to sandwich
+dry ice
+between two sheet pans.  Hey, I said low-tech.  What did you expect?
+If you are going to do this, here are some basic tips and precautions:
+At -79ºF and lower, dry ice is considerably colder than the Anti-Griddle.  Do NOT touch Dry Ice.  You can suffer some pretty serious injuries here, and you need good ventilation in your workspace.  Make sure you read the CDC guidelines on
+handling
+dry ice.  Use similar precautions in handling the sheet pans.
+Use some non-stick spray to make it easy to flip and remove items.
+Check out PolyScience's  guide  for some other ideas on what you can do with this technique.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/13/2010 08:11:00 AM
+0
+comments
+Links to this post
+Labels:
+Dry Ice ,
+Low-Technique ,
+Modernism ,
+Molecular Gastronomy ,
+PolyScience. Anti-Griddle
+The Foie Gras Fight
+I think there is a huge misconception about the goals of animal rights groups.  My reason is that every time an animal rights group
+attacks  the foie gras industry, you see people defend the treatment of the ducks used to make foie gras.  Statements like:
+Ducks aren't like people.  They don't feel pain during
+gavage .
+or:
+Why go after foie gras when we all know that the commercial chicken industry is a much bigger offender.
+There are two key points that I want to raise about the enemy of foie gras:
+They want to stop the slaughter of all animals , no matter how they are treated while they are alive.  While I think they are able to perceive the areas between downright animal cruelty and the more respectful means of raising and slaughtering animals, most of these groups really want all animal slaughter to go away.  That is the end goal.  I don't say this out of paranoia, or fear that they'll take away our meatz, I say this because they think that killing animals is bad.  And, in many ways, I agree with this statement.  So, there is no lens where because commercial chicken farming is worse, that foie gras is going to be ok.  Even if the folks at Hudson Valley Foie Gras were giving the ducks reach arounds during gavage, followed by an hour long spa treatment, most animal rights groups are not going to be ok with the death part even if you convince them that gavage isn't harmful.
+They are much smarter than you think.
+They full well know where foie gras and commercial chicken farming fits in the scheme of animal cruelty.  The battle to stop commercial chicken farming vs. the battle to stop foie gras are very different battles.  Stopping foie gras appears to be an easier battle.  Here's why:
+Who eats foie gras?
+It is fancy-food.  Fancy food is eaten by the wealthy.  I am guessing a fairly large population of the US doesn't even know what foie gras is.  In other words, this doesn't affect most people.  You may as well be trying to ban Delorians or Personal Submarines.  So, getting federal, state and local lawmakers to make changes isn't an especially hard pitch.   Quick SAT question:
+Who makes foie gras?
+A small number of small producers that are not nearly as well funded as Big Chicken.  Animal rights groups have zero chance of shutting down Big Chicken.  For example, The Humane Society of the United States is suing Hudson Valley Foie Gras over violations of the federal Clean Water Act. The lawsuit alone has the potential to shut down the largest foie gras producer in the US.  What do you think happens when The Humane Society of the United States attempts to sue Purdue or Tyson over something like that?
+These two factors make foie gras the soft target of the Meatocracy.  The soft, buttery and delicious target.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/07/2010 12:08:00 AM
+0
+comments
+Links to this post
+Labels:
+anthony bourdain ,
+Duck ,
+Yelling At My Television
+Fat Tuesday: Swordfish Sous Vide
+I think that most fish cooked sous-vide is a little over rated.  There is something about the texture that just doesn't work for me.  There are a couple of notable exceptions:  Swordfish, Monkfish and Skate.  With both Swordfish and Monkfish, you can get thick cuts of dense fish that remain incredibly moist, and you can achieve some amazing textures.
+Alas, I didn't take any other pictures.  Swordfish (thicker the cut the better), lemon zest, salt and pepper.  This was tossed into a 127F bath.  Lemon zest is an amazing ingredient when used in sous vide cooking.  It results in a very powerful and clear lemony flavor.  After the bath, I seared it in a cast iron pan.
+The only warning I have with fish in sous vide, besides the texture/consistency issues, is that it will turn to mush if you let it cook too long.
+The great thing about this was I used a minimal amount of fat (just the oil in the pan for searing).  Pretty low in fat, not many calories, omega-3s, dense and protein-y... or... you know, filling.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/04/2010 07:30:00 PM
+0
+comments
+Links to this post
+Labels:
+Fat Tuesday ,
+Fish ,
+Fresh Meals Magic ,
+Fresh Meals Solutions ,
+Sous Vide ,
+Swordfish
+Fat Tuesday: Intro
+Welcome to Fat Tuesdays, where I talk about health and obesity.  You might find some healthy recipes, some rants against the establishment, and a lot of self deprecating humor.  There are a lot of reasons why I want to write about health, but the biggest reason I have started to take the issue of health personally is:
+For most of my adult life I have seen my weight increase steadily, with my BMI starting at nineteen (19) and ratcheting up to a whopp[er]ing thirty-four (34).  For those of you who do not have the scale memorized, a 19 is in the normal range.  Thirty-four is solidly in the obese range and getting close to
+morbidly obese .  While there is no confusing whether or not I am fat, I wear it reasonably well enough that most people are surprised to hear I am this unhealthy.
+It sucks to be obese, but to have morbidly obese on your horizon is fucking terrifying.  But it still wasn't enough to change my ways.  My ways were, by the way, that of any food loving, gainfully employed manhattanite.  I ate out at the best restaurants in the country.  Pre fixe meals.  I also combined this a complete lack of activity, partly stemming from a desk job that requires long hours.
+Earlier this year, I had a new experience.  I had a physical where I did not come back healthy.  This is a partial myth as every physical had my doctor telling me to lose weight and that my cholesterol was high, but there was never a real sense of urgency.   This time I got a call from my doctor telling me that my bloodwork showed high levels of just about everything.  From a lab technician perspective, my blood looked more like something you would find in a reuben sandwich than something you'd find in a person.  I had to go back and get another blood test, this time I needed to fast prior to the test.
+As a professional hypochondriac, I prefer to go to the doctor for symptoms that I sew together into a rare disease tapestry just so I can hear his stifled laughter just before tells me why I couldn't possibly have
+Kuru .  As it turns out, I don't handle the real possibility of medical issues well.  I immediately went into overdrive, scouring the Internet, becoming an expert in every possible combination of diabetes, non-alcoholic fatty liver disease, cirrhosis, hypertension, and heart failure.
+It should be noted that this type of thing will happen to me once a year regardless of a bad blood test result.  But fueled with a bad blood test, I was convinced it was too late for me and all was lost.   When I called my doctor to get clarification, he stifled laughter and told me that my worst case was that I was going to have a fatty liver (this is pretty close to the equivalent of self induced human foie gras).   He then went on to give me one of the best medical diagnoses I have ever had:
+"Most likely, I am going to tell you after your blood test that you are
+fat .  And need to
+lose weight .  Actually, I am going to save us some time and tell you that now.   You are fat and need to lose weight. "
+Ouch.  Point made.  Actually, he made his point, sharpened it and jammed it in my eye.
+Several days later, days where I was still convinced of the worst, I got the blood test back and I was out of the danger zone for things like diabetes and liver related problems.  Sure, my cholesterol is still high (especially the LDLs, also known as 'the bad kind'), and my triglycerides were also high, but I wasn't in immediate peril.
+The good news is that my fear of being sickness and death has resulted in some lifestyle changes.  I exercise (the last time I had been in a gym there were no electronics apart from the occasional walkman) and I pay close attention to what I eat and how much of it I eat.
+Let's hope I keep it up.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/04/2010 07:29:00 AM
+0
+comments
+Links to this post
+Labels:
+Blood Or Russian Dressing ,
+Fat Bastard ,
+Fat Fuck ,
+Fat Tuesdays
+FreshMealsMagic: Octopus Sous Vide Part II
+As we already know, I cannot get enough of octopus.  I feel bad, because they are very intelligent creatures.  But, if they were so intelligent, wouldn't they find a way to be less delicious?  Or evolve, industrialize and hunt us for food?  I had a whole octopus vacuum sealed in the freezer.  So I defrosted it, splashed in some olive oil, lemon juice, lemon zest and salt.  Cranked up the FMM to 176F and tossed it into my water bath.
+I've
+talked
+about
+cooking octopus
+sous-vide .  This is one of those sous vide applications that just. makes. sense.  Octopus can be a finicky beast.  Cook it right and it is fucking amazing.  Cook it wrong and you are chewing on cephalopod chewing gum.
+The great thing about using the Fresh Meals Magic here is just the shear amount of space available compared to other water baths that I've used.  I also took the liberty to cook some sweet potato in the same bath.
+It was going to be octo-taco night (or for the truly international, the tako-taco?), but I was exhausted when I got home.  Instead, I took the sweet potato, the octopus and combined it with some sauteed ramps.  Squeeze of lemon and boom.  Dinner.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/03/2010 09:51:00 PM
+0
+comments
+Links to this post
+Labels:
+Fresh Meals Magic ,
+Fresh Meals Solutions ,
+octopus ,
+Sous Vide
+FreshMealsMagic: Octopus Sous Vide
+4# Octopus cooking at 176F in an FMM controlled water bath or alien life-form in hibernation chamber?
+Either way, it's what's for dinner.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/03/2010 07:32:00 PM
+0
+comments
+Links to this post
+Labels:
+Fresh Meals Magic ,
+Fresh Meals Solutions ,
+octopus ,
+Sous Vide
+On Time And Cooking
+Michael Ruhlman tossed another stone in the stagnant pool of the American dietary habit last week.  He called
+bullshit
+on the trope that people don't have time to cook at home.  Taking aim at all of the television shows, food writing and companies that continuously remind us about how little time we have to cook meals, Ruhlman reminds us that faster meals can come at the price of our health.
+I know we need him standing on the wall that protects good, honest cooking, but I feel that his defense sprayed some friendly fire on some allies. It is complete bullshit that you can't make a healthy meal in 20 minutes.  If people started making healthy meals in 20 minutes, maybe they would learn to like cooking.  And then maybe they'll spend 30 minutes or an hour.  Even if they don't, they are still making healthy meals.
+If I had the reach of a Michael Ruhlman, I would be encouraging people to cook.  Period.
+Of course, I don't.  But if you read this blog, you should prepare more food from scratch.  Make a salad.  Broil some fish.  In either case: use olive oil, lemon, salt and pepper.  It will take 20 minutes tops.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/02/2010 05:37:00 PM
+0
+comments
+Links to this post
+Labels:
+ruhlman ,
+Yelling At My Television
+OT: How to Move From Wordpress.com To Blogger
+This is completely not food related, and I apologize.  But the world needs to know how to do this, and I have no other soapbox.
+BACKGROUND
+You'd probably think I wouldn't care about where my blog is hosted, given how infrequently I post.  The truth is, I planned on moving off of Wordpress.com for awhile.  Wordpress.com was decent enough, but it does have a number of limitations and weaknesses, including:
+Cost.
+Wordpress has yearly fees for domain handling and being able to edit CSS.  It isn't a lot of money, but Google is free, and therefore significantly cheaper.
+Template Editing/JavaScript.
+Wordpress doesn't allow JavaScript at all.  They blame security, but Google has found a way to handle this.
+Stats.
+Wordpress doesn't make it easy to use external stats and the stats it does provide are a little lacking.  The external stats limitations have a lot to do with the lack of JavaScript support.
+Feedburner.
+Blogger integrates with feedburner easier.  If you recall, I had to ask you all to click on a link I had to add to get you on feedburner.  Feedburner lets me do some more stats (yes, I am a stats nerd), and also lets me move blogging platforms in the future (in case I forget what a nightmare this was).
+So you probably didn't care about any of this, and #1 is compelling enough to move.  Now for the bad news.  Moving sucks.  And really, it is because no one wants you to move.  What starts below is somewhere between a migration plan and a cautionary tale.
+MY GOAL
+I wanted to move to blogger and make everything as seamless as possible.  You should be able to find a link (e.g. blogrolls, google searches) to my blog or any blog post and still get to that content. The major hurdles:
+The import/export process may not work easily.  This cost me the most amount of time.
+Google and Wordpress.com have opposite DNS philosophies.  Wordpress gets all whiny about www.domainname.com and Google does the same about domainname.com.
+Post URLs are different.  This is incredibly annoying, and I have at best, a stop-gap solution.
+Ultimately, I did not kill Wordpress completely.  I host older posts there and all of my images.  It was just easier, and I am lazy.  At some point I might move them, but that will have to wait for another day.
+MOVING DETAILS
+0. Set up blogger.
+Get your templates the way you want them and all that jazz.
+1. Move posts and comments from Wordpress -> blogger.
+This was probably the worst part.  There are several tools that do this.  If you can get
+wordpress2blogger
+to work, your life will probably be simple.  My life was not simple.  I suspect internationalization slid some no-no XML characters into the exported file, causing the import to barf.
+So I used
+blogsync , which basically worked.  The biggest problems I had was actually configuring the tool.  Use a text editor instead of the GUI account setting button.  That got me all of my posts into blogger.
+2. Clean up posts.
+Almost all of my posts required some clean up.  Lots of stray newlines, and wordpress image captions don't transfer very well. Then I manually added all of the comments.  Fortunately, Medellitin is an internet leper colony so not a lot of comments.
+3. Configure DNS.
+This by the way is where we start to see how annoying things can be.  Wordpress does not want you to use www.domainname.com supposedly out of some righteous sense of DNS purity.  Instead, they want you to use the 'naked' domain, like domainname.com.
+Blogger is the exact opposite.  It will not let you use the naked domain.
+So, for DNS you will need to set up a CNAME for www or blog, and then use A records for the naked entry.
+Also, setup a CNAME called wordpress that will point to your old Wordpress blog.   For me, that was medellitin.wordpress.com.
+4. Configure blogger.
+Go into Settings->publishing.  Using advanced settings, set up your domain to be blog.domainname.com.  Check the checkbox Redirect medellitin.com to blog.medellitin.com.  If this checkbox does not exist, then make the change anyways.  The checkbox should appear afterwards, and you can just change the setting then.
+Under Use a missing files host, select yes.  Now make your host Wordpress.medellitin.com.  What the F is this, you ask?
+Well, default Wordpress url's look like:
+http://medellitin.com/2009/09/04/tgrwt-19-tomato-and-black-tea/
+and blogger url's look like:
+http://medellitin.com/2009/09/tgrwt-19-tomato-and-black-tea.html
+If we enable the missing files host and point it at the old blog, older links will still find a home.  It is your old home, but at least it doesn't disappear.  This may not be the best idea, as google may punish you (PageRankwise) for hosting the same content multiple times.  On the plus side, you don't lose all those people clicking on your old links.  I am eventually going to write a little JavaScript that will handle this for me, but it will need a home somewhere, which means a place I can host some Javascript.
+5. Feedburner.
+Settings->Site Feed.  Put in your feedburner feed url there.
+Then login to feedburner and change your original feed url to blog.domainname.com/feeds/posts/default
+Whee!  You are feedburnt.
+6. Wordpress.
+Go back to Wordpress and change the domain back to your whatever.Wordpress.com domain.
+7. Bask in your own glory
+Until something breaks.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/02/2010 02:49:00 AM
+2
+comments
+Links to this post
+Labels:
+Blogger ,
+Off Topic ,
+Wordpress ,
+Wordpress To Blogger
+Fresh Meals Magic: Turkey Burgers Sous Vide
+As part of a newer, healthier Pablo, I am on the hunt for making a delicious turkey burger.  The biggest challenge with turkey burgers are flavor and lack of moisture.  Or, said another way: the lack of fat that makes a turkey burger healthy, also makes it suck.  As far as flavor goes, I mixed the ground turkey meat, soy sauce, salt, pepper, ramp and
+garlic
+powders.  I also figured this would be a good application for sous vide.
+You are probably asking why there is a ring mold in the bag.  This was done to maintain the shape of the burger during the vacuum sealing process.  Even on a weak sealer, a burger will end up tapering on both sides.
+As we can see in the picture above, tapering makes your burger look like a flying saucer.  This is less visually appealing, but there is a very utilitarian concern here as well.  If it is not flat on each side, then less surface area touches a grill or griddle.  While a ring mold gives us something that looks a little more manufactured, it is at least somewhat familiar looking.
+Finally, while the pic doesn't show it, there are actually two burgers in the ring mold separated by a piece of parchment paper (the ring mold was pretty thick).  While it was in the bath, I started to heat up my trusty grill pan.  After it came out I gave it a quick spin on the grill pan to give it some texture and additional color and flavor.
+After a quick turn on the grill pan, I put it on a bun with some lettuce, tomato, asiago cheese and ketchup.  The final product is below.
+It was a decent first try.  Next attempt will include the following changes:
+Add a little bit of oil.  It was still more dry than I would like.  A little olive oil won't kill me.
+Make the burger thinner.  This should also reduce the impact of dryness.
+Add more herbs and spices to the turkey mixture.  Needs heat and more garlic.  Maybe some smoked paprika as well.
+Pin It
+Posted by
+Pablo Escolar
+at
+5/01/2010 10:51:00 PM
+3
+comments
+Links to this post
+Labels:
+Fresh Meals Magic ,
+Fresh Meals Solutions ,
+garlic powder ,
+roasted garlic powder ,
+Sous Vide ,
+Turkey Burger
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Subscribe Now
+Subscribe
+Follow
+Follow Me
+Twitter Updates
+Twitter Updates
+follow me on Twitter
+Blog Archive
+►
+2012
+(10)
+►
+November
+(1)
+►
+July
+(2)
+►
+June
+(1)
+►
+May
+(1)
+►
+February
+(5)
+►
+2011
+(23)
+►
+November
+(2)
+►
+October
+(3)
+►
+September
+(2)
+►
+July
+(3)
+►
+April
+(2)
+►
+March
+(3)
+►
+February
+(3)
+►
+January
+(5)
+▼
+2010
+(50)
+►
+November
+(5)
+►
+October
+(5)
+►
+September
+(1)
+►
+August
+(4)
+►
+July
+(4)
+►
+June
+(1)
+▼
+May
+(10)
+Low-Technique: Manual Sous Vide
+Low-Technique: The Anti-Griddle
+The Foie Gras Fight
+Fat Tuesday: Swordfish Sous Vide
+Fat Tuesday: Intro
+FreshMealsMagic: Octopus Sous Vide Part II
+FreshMealsMagic: Octopus Sous Vide
+On Time And Cooking
+OT: How to Move From Wordpress.com To Blogger
+Fresh Meals Magic: Turkey Burgers Sous Vide
+►
+April
+(1)
+►
+March
+(3)
+►
+February
+(8)
+►
+January
+(8)
+►
+2009
+(26)
+►
+December
+(1)
+►
+November
+(1)
+►
+October
+(7)
+►
+September
+(2)
+►
+August
+(1)
+►
+June
+(1)
+►
+May
+(5)
+►
+April
+(3)
+►
+March
+(1)
+►
+February
+(1)
+►
+January
+(3)
+►
+2008
+(13)
+►
+December
+(4)
+►
+November
+(5)
+►
+October
+(4)
+Blog Roll
+IDEAS IN FOOD
+Happy Halloween
+22 hours ago
+Cooked Books
+Don't Think Twice, It's All Rice
+1 month ago
+blog.khymos.org
+Ginger milk curd
+1 year ago
+playing with fire and water
+the three friends of winter
+2 years ago
+The Saxelby Almanac
+3 years ago
+Workbook
+STUDIOKITCHEN
+Show 5
+Show All
+Stuff You Need
+Powered by
+Blogger .

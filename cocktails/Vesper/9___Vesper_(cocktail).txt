@@ -1,0 +1,694 @@
+Bazinga Journal: September 2011
+Bazinga Journal
+A journal of trivia, irrelevance and impermanence
+September 30, 2011
+Tobacco Companies Put Radioactive Substance Into Cigarettes, Covered It Up
+Phil Villarreal, writing for
+Consumerist :
+"Newly analyzed historical documents reveal that tobacco companies have known for decades that cigarettes contain polonium-210, a radioactive material, and covered up its own studies that found their products caused cancerous growths in smokers' lungs.
+ABC News
+reports
+University of Southern California researchers reviewed the documents and found that, over 25 years, the radiation in their products caused 138 deaths for every 1,000 smokers."
+Does this surprise anyone?
+The trouble with tobacco products has always been two-fold. First, and most obviously, is the fact that legitimate business is allowed to continue in the trafficking of a known, dangerous substance that possesses no redeeming value. If food, beverages, pharmaceuticals or other ingestibles with so many well-known, life-threatening consequences were permitted for sale with as little regulation as tobacco products enjoy today, there would be mass outrage among the populace.
+The  Family Smoking Prevention and Tobacco Control Act
+doesn't have enough teeth. If it did, the remaining American tobacco companies would be relocating off-shore and their product would be unavailable for import or sale in the United States. Tobacco farmers would be researching soybean futures.
+Second, of course, is that there are so many willfully ignorant people on the receiving end of the tobacco business. Which explains the lack of outrage, I guess.
+September 28, 2011
+Kindle Touch and Kindle Fire Tablet Addendum
+Marco Arment, writing for
+Marco.org :
+“The Kindle Touch, $99 with ads or $139 with self-respect, has an infrared touch screen, just like the Nook Simple Touch. I have high hopes for this one: this is probably going to be the e-ink reader worth owning for the next year or two.”
+I posted a quick
+blurb
+about Amazon’s new e-readers and tablet this morning, but I so liked Marco’s way of describing the price difference within each model that I’m linking to his write-up.
+Amazon has produced a couple of very nice Kindle upgrades in the Touch e-reader and FIre tablet. The bargain-priced Kindle, well, it probably exists solely to self-up-sell customers to the Touch.
+Honestly, though, why would anyone save $40 - $50 in exchange for ads? They’d be paying for the device, then paying time and attention to ads in order to pay more money for content. Just pay the extra $40 and skip the middle step.
+Click through for a model and price breakdown, and Marco's witty prose.
+∴ Operating Systems the Microsoft Way
+Microsoft may be creating confusion among their customers if they abandon the long-held practice of operating system backward compatibility in Windows 8.
+There’s been a
+measure
+of
+uncertainty
+whether legacy software, such as Word or Quicken or Photoshop,
+will run
+on Windows 8-based tablet equipment. That is, on hardware sporting an ARM processor. Despite a “firm”
+denial
+by Steve Sinofsky, Microsoft’s chief of Windows development, rumors of backward compatibility with the vast body of legacy Windows software have continued.
+(By “legacy,” I mean software designed to run on Windows-based desktop and laptop computers on top of previous Windows operating systems.)
+Every major version of Windows, from 2.0 onward, has been able to run application software written for previous versions of that operating system. In order to bring along the corporate computing world, Microsoft has made it possible for customers to stick with older software for a very long time while they continue to purchase and use ever-newer versions of Windows. It's been key to that company’s fortunes. While application incompatibilities pop up each time a new OS version emerges, they are a minority case.
+This practice has made life easier for Windows-based computer users. The operating system upgrade cycle remains a decision separate and unconnected from application purchases and upgrades. There’s no need to worry about buying new applications when it’s time for a new Windows computer, either. All the user’s old applications can be installed on the new device.
+Consider the case of 2004-era Microsoft Office for Windows, or Quicken 2007 for Windows. Both still function as expected on today’s Windows 7 platform.
+Contrast that with Apple’s practice, where backward compatibility is a secondary concern. Rosetta, a Power PC compatibility layer for Intel-based Macs, was removed from OS X Lion. Customers who had enjoyed the use of Microsoft Office 2004 for Mac, or Intuit’s Quicken 2007 for Mac, both of which relied on Rosetta to run, are now looking for replacements. Though customers had plenty of warning, and in the case of Office two newer versions to pick from, the end did come for those applications.
+Apple puts the benefits of innovative changes in the underlying operating system ahead of application longevity. Application developers are left with the choice of occasionally needing to make significant product code changes in order to keep up, or abandoning the Mac platform. Customers receive a significantly improving computing product as a result, despite the occasional abandoned application. Quicken for Mac users are
+casting about for a replacement
+right now.
+Windows 8 will roll out on a variety of hardware platforms next year. It will present a unified appearance across those platforms by including a legacy Windows desktop (with a Start button, etc.) as well as the sleek, new Metro user interface. Metro can be seen in a younger form on today’s Windows Phone 7 wireless handsets, where it has been well-received by users and technology critics.
+Trouble might come when Windows users, long accustomed to Microsoft’s backward compatibility policy, run up against Sinofsky’s dictate that legacy Windows applications will not run as-is on ARM-based tablets despite the inclusion of a legacy Windows desktop (which would appear to allow a place for that to happen). Imagine the customer who, after plonking down the price of a shiny, new tablet, docking station, external display and keyboard, finds to her dismay that none of her commonly used software will run on her new device. Every application will need a new, ARM-compatible version, if one is even available.
+Welcome to the world iOS created, the one where Mac users have no expectation of using their desktop software on their iPad tablet. It provides a clean break from the legacy OS environment and, as Gruber argues, that opens up a wide horizon for innovation.
+Geeks will have no trouble navigating the new divide between Intel-based Windows 8 laptops and desktops on the one hand, and ARM-based tablets on the other. Normal customers, though, who don’t know and don’t care about the fine details of operating systems and processor technologies, will.
+I raise this issue now because of the confusion that has already surrounded Windows 8’s legacy application capability. Microsoft has a significant education effort ahead if they hope to avert a PR mess next year.
+Are there alternatives to the coming divide? Intel will roll out their next-generation processors, called Ivy Bridge, before Microsoft declares Windows 8 “gold master.” The least power-consuming chip in that family has a Thermal Design Power of 15 watts, which is more than seven times that of today’s Apple A5 processor. Yet the chips slated to arrive in 2013, the year following the Windows 8 debut, promise even lower TDP numbers. There is the possibility of using next year’s power-sipping Ivy Bridge chip in a fully capable tablet product, then following it with an upgrade the following year that is competitive with today’s tablets on battery power. But that puts Microsoft fully three years behind Apple and the Android clones.
+The choice for Microsoft, playing catch-up in the tablet space, is a poor one. By providing twenty-five years of backward compatibility they’ve primed their customers to expect it anywhere the Windows desktop appears. Yet by insisting that some Windows 8 platforms (desktop, laptop) will retain that capability while others (tablets) will not, they risk alienating those same customers. Next year looks like a period of catch-up “innovation” riven with compromise for Microsoft customers.
+Amazon Launches Kindle Touch, Kindle Fire
+Christian Zibreg, writing for
+9 to 5 Mac :
+Image via
+The Verge
+Click through for a brief write-up of Amazon's new e-readers. The prices, above, are for devices purchased along with Amazon's "special offers," which may include advertising on the display. Prices are somewhat higher for the ad-less versions.
+Some notes:
+Although the Fire is based on the Android OS, you'll never know it. Amazon layered over their own interface. Should be an improvement.
+These Kindles are downright cheap, they maintain the super readability Kindles are known for, and improve the hardware industrial design. Win, win, and win.
+The Fire does not compete head-to-head with the iPad, due to its smaller capability set. That doesn't make it a lesser product. Great products all bear the mark of unneeded options, removed.
+September 27, 2011
+∴ Worth Watching
+The new tv season began this past week. Here's one new show worth watching.
+Person of Interest
+is a tight, well-scripted and well-acted mystery. The lead, a damaged, intense ex-special forces operator is guided by an enigmatic technologist to find out why a nearly unknown subject will die in the near future. A dirty cop provides help from inside the police force, while a clean cop hunts for the lead character, himself a suspect in a number of past crimes. The pursued subject changes every week.
+There's a hint of
+Enemy of the State
+in the imagery and pacing of the show, and a bit of
+The Minority Report
+in the plot. The writing is understated, providing only enough detail to keep the plot moving along. The viewer is as much in the dark about where the story is going as the lead character.
+It's a quick sixty minutes at the pace of the pilot episode. Hopefully the rest of this show's season is as well-done.
+Volkswagen’s New Beetle Page
+John Gruber, writing for
+Daring Fireball :
+Now scroll.
+Linking through Gruber. Or go
+direct . And scroll for the history of the Beetle.
+Be sure to scroll far enough to see the new model. I've not been a fan of the "New Beetle" since it re-emerged from Volkswagen a decade or so ago. But look at the new model; see the little bit of Porsche in the slope of the roof down to the rear bumper. Check out the flared fenders and the pointy wheel spokes. It's a good-looking car now!
+A Sweet Piece on Marrying Young
+Katie Arnold-Ratliff, writing in
+Slate :
+“I love him in a way that never entertains his absence. I’m not saying I take him for granted. I’m saying he’s the bedrock of my life.”
+This is a sweet, short piece about a couple who married young, and the short- and longer-term outcomes. It’s straightforward and earnest, unadorned by overt sentimentality.
+I was taken by the author’s turn of phrase about her feelings for her husband. Though we didn’t marry young, or ever separate and re-unite, it captures how I’ve always felt about my wife.
+September 26, 2011
+The New iPhone
+Mark Gurman, writing for
+9 to 5 Mac :
+"If you crack open the casing of the new iPhone, you will find significant upgrades from the iPhone 4."
+Hit the link for details. Gurman's sources have proven correct in the past, so there's a good chance that what he's reporting will pan out next month.
+Look for an 8 megapixel camera, faster processor and double the memory of the previous model, and a chipset capable of operating on GSM (AT&T, T-Mobile) and CDMA (Verizon, Sprint) networks. The new phone is expected to arrive with all the goodies coming from iOS 5, too.
+Still up in the air: the shape and size of the new phone.
+Doritos Creator Dies At 97
+Chris Morran, writing for
+Consumerist :
+“Back in the early ’60s, Arch West not only had the name of a go-getter marketing executive, he also had a job to match as VP of marketing for Frito Co. He also had the vision to create Doritos, the snack that has filled the bellies and stained the fingers of countless nibblers across the globe. Sadly, West recently passed away at the age of 97, but he’s going out in style.”
+I used to love snacking on these breath-wrecking, finger-staining treats. Right up until I learned how to read the content label on the back of the bag.
+Ah, well. Adios, Arch.
+September 23, 2011
+An Actual Working Mind Probe
+Jason Kottke, writing for
+kottke.org :
+"the breakthrough paves the way for reproducing the movies inside our heads that no one else sees, such as dreams and memories". First time travelling neutrinos and now this...what a time to be alive."
+A functional MRI hooked to a machine that associates brain activity with visual images learns to reconstruct those images. This could get creepy, quickly.
+September 21, 2011
+R.E.M. to 'call it a day as a band'
+CNN.com :
+“It’s the end of the R.E.M. as we know them and they feel fine, according to a statement from the group posted online Wednesday.”
+One of my favorite bands throughout college and beyond has called it quits. Appropriate in a small way: we visited Athens, Georgia this week, where R.E.M. formed thirty-one years ago, to sniff out potential retirement destinations.
+I finally got to Athens, and R.E.M. called it a day. Oh, life …
+September 20, 2011
+New Census Data Show Just How Screwed the US Middle Class Really Is
+The Angry Bureaucrat :
+"The Census Bureau released a whole bunch of data on income in the US for 2010 last week. The picture is seriously bleak, especially for the middle and lower classes. Let me show you just how bleak, with a series of charts."
+(Via
+Get the Flick .)
+A succinct series of graphs and paragraphs detailing the decline of the American middle- and under-classes that makes very clear the wealth divide without ever mentioning the wealthy.
+Short version: middle class income has stagnated, failing to rise
+at all
+over the past decade. At the same time, poverty has sharply increased, deep poverty is at an all-time high, and government programs designed to help people avoid poverty are on the chopping block in Washington because of the misguided notion that austerity is a good idea during this recessionary period (it never has been during previous recessionary periods).
+Give it a read, then consider how much longer this can continue.
+September 19, 2011
+Netflix Rebrands DVD by Mail Business
+Reed Hastings, writing for
+The Official Netflix Blog :
+"It’s hard for me to write this after over 10 years of mailing DVDs with pride, but we think it is necessary and best: In a few weeks, we will rename our DVD by mail service to “Qwikster”."
+I wonder how long they've been contemplating this move. Companies don't formulate and implement such a sweeping change
+in a week .
+My money bets that this was their plan all along. Separating the businesses by name and structure makes it easy to sell one of the pieces, before it declines. So who will buy the Qwikster DVD by mail business?
+September 18, 2011
+∴ Athens, GA: Sovietski-style Cell
+We’re on a wandering journey this week, looking at destinations for the rest of our lives after I walk away from the joy that is my day job. This time out we’re in Athens, Georgia, home to the Bulldogs and R.E.M..
+We booked a room at  Hotel Indigo , a boutique residence near the heart of this college town. It’s a Green™ hotel, they’ll tell you at every turn. It features room lights that shut when the door key is removed from an obligatory slot on the wall. Low-flow everything. Minimalist decor; high, unpainted concrete ceilings and no drawer space for clothes. You’re here to save the fucking planet and you’re damn well going to feel it. Environmentalism has reached the point where it’s a marketable feature for which you’ll pay extra.
+Except the lights don’t really go out when you pull the key. The air conditioning effectively
+kelvinates
+the room, and that expenditure in carbon-fueled hoo-hah trounces any savings from the rest of it. And the spare decor is a bit, well, off-putting. It’s a little like sleeping in my basement at home. Or a large cell.
+We’ll sniff around the town tomorrow. Maybe geez around the campus a bit before driving out to see how far the hipness extends before tailing off to trailers and the rest of The South. I was expecting a sprawl extending from Atlanta, but our drive from the Interstate highway was rural right up to the beltway surrounding this town.
+September 16, 2011
+Parallels Desktop 7 Update for Mac OS X Fixes File Fault Problems
+David W. Martin, writing for
+Cult of Mac :
+"Late yesterday I reported that Parallels Desktop 7 users were experiencing a mysterious problem that required them to log into and restart their Mac notebooks twice before being able to use the Finder Desktop. Parallels has released an update that resolves this really annoying problem. So if you haven’t installed it yet launch Parallels Desktop 7 and run a Check for Updates from the Parallels apps menu. Install the update and you will be good to go – no reason to log in twice now!"
+That was quick!
+September 15, 2011
+∴ Windows 8 Tablets in Legacy UI Mode
+Still scratching my head over the Windows 8 screen shots from the demo given by Microsoft last week. This Is My Next …
+has
+a gaggle of photos showing the new Metro UI-skinned Windows product running on an Nvidia tablet, too, so there’s no shortage of evidence that the new OS will drive a new retail tablet device at some point.
+Jensen Harris  showed off
+the product at Microsoft’s BUILD demo, at one point switching between the new Metro UI and an old-style Windows desktop. Yet Microsoft’s Windows chief Steve Sinofsky has
+said
+that Windows 8 tablets
+will not
+run legacy Windows applications, which I can only guess refers to software such as Outlook, Photoshop and Firefox:
+We’re not going to port the installed base of x86 applications to ARM. They don’t take advantage of the things that make ARM a great architecture,” he said, referring to the power-efficiency of ARM-based processors in mobile devices such as tablets.
+In particular, legacy x86 applications are not built with awareness of power management states, and would lead to greatly reduced battery life, he said.
+Sinofsky further stated that all Windows 8 applications for ARM will be available via the Windows Store, and will be the cross-platform Metro style, apparently contradicting earlier statements from Microsoft that a “native” ARM version of its Office suite was in the works.
+If you build an app using the tools shown off today, it just runs on ARM like it just runs on x86,” he said, adding that this capability creates a “huge potential” for
+new apps
+to run on both platforms.
+(Emphasis mine.)
+So what’s the legacy Windows UI built into Windows 8 good for, if it won’t run legacy software? Building new apps ugly?
+How many Windows users will see the legacy desktop on a Windows 8 tablet, assume it runs all their legacy software because that’s been a key Microsoft requirement for all new operating systems (except for a short break when Windows NT 3.1 debuted), and discover to their dismay that their new purchase won’t run any of it?
+US Postal Service Announces 'new reality'
+Patrick Rizzo, writing for
+MSNBC.com :
+"The U.S. Postal Service, burdened with huge financial losses, said Thursday that it was facing a "new reality" that would include shutting a slew of processing facilities, changing service standards for first-class mail and cutting up to 35,000 positions.
+The moves will mean mail will no longer reach most customers the day after it was mailed."
+This was an inevitable result of low postage rates combined with the demand for competitive, quick service.
+Consider what the Postal Service does: its current service model is designed to deliver First Class mail in one to three days. The price for that is a 45-cent stamp.
+Compare and contrast to what UPS or Fedex would charge for similar service. The least expensive rate for UPS 3-Day Select service is $8.35. And they charge extra for delivery to residential addresses.
+The Postal Service is struggling because they don't charge enough for the level of service they provide, while at the same time giving a significant price break to bulk mailers whose product accounts for a majority of the mail stream.
+Here's a short list of what the Postal Service should do to recalibrate their service:
+raise the postage rate for a First Class stamp to $1, and incorporate a service time guarantee of three days.
+offer and heavily market a revised Second Class rate near $.50, with a "best effort" service time promise.
+revise the bulk mail discount to no more than ten percent-off the Second Class rate.
+In all things, we get what we pay for. UPS and Fedex offer terrific service without a financial struggle, because they charge more than what it costs them to provide it. If we want a Postal Service that can survive on its own, we need to pay for it.
+Mysterious Multi-Restart Logins Plague File Vault MacBook Users
+David W. Martin, writing for
+Cult of Mac :
+"MacBook users are reporting that they are experiencing an issue after installing full disk encryption using File Vault. The problem manifests itself by automatically restarting the MacBook after it is turned on and restarted once already forcing the user to login twice before actually reaching their desk top."
+As David reports in an update to his post, the problem appears to manifest for those OS X Lion users who have:
+updated Mac OS to 10.7.1
+encrypt their primary boot drive with Apple's FileVault 2
+installed or updated Parallels to version 7
+It appears that the only negative impact (so far) is an automatic re-boot, followed by a second login dialog.
+Hit the link for the David's update, which includes links to posts on both the Apple and Parallels support forums.
+Windows 8 Tablet Won’t Support Flash
+Killian Bell, writing for
+Cult of Mac :
+"In a post on its Building Windows 8 blog, Microsoft’s Dean Hachamovithch, Internet Explorer team leader, has confirmed that the “Metro” version of Internet Explorer 10 will not support Flash or other plugins, and will instead turn to HTML5 — just like iOS devices."
+This is good news for system stability on that new Microsoft OS. Apple eschewed Flash on its iPad tablet for the same reason, as well as for power savings. Microsoft's choice validates that decision and continues the push toward open an web video standard.
+Thunderbolt Coming to Windows PCs
+Chris Foresman, writing for
+Ars Technica :
+"Apple has so far been the only PC maker to support Intel's high-speed Thunderbolt interconnect, but Windows PC users will be able to get in on the fun soon enough: Acer and ASUS have announced that they will ship computers with Thunderbolt ports starting next year."
+This is great news for anyone buying a machine, but arguably better for those who own one of Apple's recent product updates. There are very few peripherals available that exploit the new super-high speed connector found on their newer machines. By adopting the connection technology, ASUS and Acer improve the chances of seeing a wider set of Thunderbolt-connected peripheral products.
+Thunderbolt connection technology is currently available in two models. MacBook Pro, iMac and Mac mini machines sport a four-channel, 10 Gb/sec connector that not only provides high speed data connectivity, but dual external monitor support with its mini-DisplayPort connector. The MacBook Air sports a two-channel controller chip, which while providing full 10 Gb/sec data bandwidth will only handle a single external display. The four-channel controller is physically larger than the 2-channel model.
+The upcoming second generation controller, which will be used in ASUS and Acer machines, is also available in both 2- and 4-channel flavors, but will appear in the same package size for both. There is no indication which flavor will appear in the ASUS and Acer machines.
+September 14, 2011
+∴ Microsoft's Windows 8 Tablets: It's All About Metro
+In a
+previous post
+I wondered how Microsoft plans to square the steep hardware requirements for running legacy Windows applications on Windows 8 with the limited hardware of tablet devices, while remaining cost-competitive with Apple’s iPad and Google’s many partner-built Android tablets. John Gruber, writing for
+Daring Fireball , has been thinking about that, too, and chimes in with his take:
+It’s so obvious that you can’t have your cake and eat it too on iPad-caliber devices. So my big what-if realization is this: I think Metro will only run alongside the traditional Windows desktop on Intel PCs. On ARM devices, there will only be Metro. Microsoft might call it “Windows” but they call everything “Windows”. To put it in Apple-centric terms, it’s going to be like if Mac OS X could run iPad apps, but iPads could still only run iPad apps. Metro everywhere, not Windows everywhere.
+Microsoft hasn’t come out and said this (at least that I’ve seen), but they do seem to be hinting at it:
+Speaking at Microsoft’s Build developer conference, Windows chief Steven Sinofsky flatly ruled out the possibility of the company offering support for legacy Windows applications with Windows 8 on ARM.
+“We’re not going to port the installed base of x86 applications to ARM. They don’t take advantage of the things that make ARM a great architecture,” he said, referring to the power-efficiency of ARM-based processors in mobile devices such as tablets.
+“Metro everywhere” makes sense: that new UI is handsome, useable and a clear departure from the past. Putting it on all platforms creates a uniformity of design, a clear win for Microsoft’s customers.
+And indeed, a little Googling turned up numerous
+articles
+indicating that legacy software
+won’t
+be supported on ARM-based hardware (i.e.: tablets). Gruber’s right, there’s some sandbagging going on here.
+From the way Windows 8 was discussed back in June, a major selling point was its all-in-one aspect: the same OS runs on desktops, laptops and a forthcoming tablet. Andy Ihnatko, tech journalist for The Chicago Sun-Times and well-known online pundit, offered this
+assessment
+after the Windows 8 unveiling in June:
+Windows 8 will run existing, traditional Windows apps. Even when it’s being run on a tablet. I regard this as a fundamental error. Friends, I found the appearance of Windows Classic within Windows 8 to be so jarring that I spent about five minutes on that preceding paragraph trying to find a delicate way to indicate that the bodily emission that dispelled the beauty was not, in fact, upper-gastrointestinal in nature. Alas, decorum and respect for convention stilled my hand.
+If Ihnatko got it wrong, Microsoft has a communications problem that will lead to some very
+un happy customers next fall.
+If Gruber’s right, Microsoft will have a common UI across all non-phone platforms, but not a fully common core OS underneath and therefore no common software compatibility. Maybe there’s not a lot of difference between their approach and Apple’s, after all.
+Hard to understand, then, how Windows 8 will
+beat
+iOS, or anything else, when it’s playing the same game in the same way. Desktop apps for desktops and laptops, mobile apps for tablets, and it all arrives for Windows users more than two years after the first iPad was sold. Hope it will be worth the wait, folks.
+Or you could just buy an iPad, and be happy.
+Michaele Salahi is Claimed Missing
+CNN.com :
+“”Real Housewives of D.C.” star Michaele Salahi has been missing since Tuesday morning and may have been kidnapped, her husband’s manager told CNN on Wednesday.”
+This is the same woman who, along with her husband,
+crashed a state dinner
+at the White House in 2009.
+Maybe I’m wrong, but this sure smells like a publicity stunt.
+#5byBond: Casino Royale
+We’re following along with John Gruber and Dan Benjamin of  The Talk Show . This week’s Bond film,
+Casino Royale , is the twenty-first in the long-running film franchise and the first starring Daniel Craig as the MI6 agent, James Bond. Craig remains the current actor in that role today.
+This film marks the return of Martin Campbell as director. He previously directed
+GoldenEye , starring Pierce Brosnan as Bond, in that well-received outing.
+This is also the first Bond film in which the character of Miss Moneypenny does not appear.
+My notes:
+the film opens in crisp black-and-white. What’s old is new.
+love the theme song for this film, performed by
+Chris Cornell . The title sequence is great, too, ending with a computer graphic confirming Bond’s double-oh status next to Daniel Craig’s image, as the vocal finishes singing, “you know my name.” The Bond franchise is re-born.
+Mr. White is one morally vacant-looking dude.
+Mads Mikkelson makes for a good villain as Le Chiffre. He looks as evil as he acts.
+Mallaka, the bomb maker chased by Bond, is played by  Sébastien Foucan , who is also the founder of Parkour, the free-running sport they demonstrate in the chase.
+beautiful helicopter-based photography as Bond chases Mallaka higher on the cranes. Where did Mallaka think he was going?
+the great opening action sequence ends with a confrontation at the Nabutu embassy, where Bond demolishes the courtyard, killing Mallaka. Pierce Brosnan displayed the most energy among previous Bonds, but nothing on this scale. That was terrific action.
+I like Le Chiffre’s henchman, Kratt. Lean, cold-looking, dangerous.
+Judi Dench returns as M, head of MI6. Though Bernard Lee created the role, Dench is unarguably renders an excellent contemporary characterization.
+M has a super apartment overlooking London. Want.
+Bond arrives in the Bahamas on a float plane and rents a car. That’s a
+Ford Mondeo , a model akin to the North American Ford Fusion, but without the truck-like grill. Can’t get that here.
+Bond wins his
+Aston Martin DB5
+from Dimitrios, a short-lived villain, beginning the legend of that car in the Bond stories. A copy of this car is on exhibit at the
+International Spy Museum
+in Washington, DC.
+Dimitrios bears a striking resemblance to
+John Siracusa
+(no Z), but with curly hair.
+Bond chases a second would-be bomber around Miami airport, where Sir Richard Branson can be seen going through security.
+the Skyfleet jumbo jet looks ridiculous. Fuel drop-tanks on a civilian transport jet?
+the airport scene includes some of the slowest-moving jets that didn’t fall out of the sky ever seen. Amazin’!
+the bomber does a James Bond-turn in the fuel truck as he is chased by James Bond. Weird.
+Bond meets Vesper Lynd aboard a train to Montenegro, when she tells him, “I’m the money.” He replies, “every penny of it.” A play on the character Moneypenny’s name. This is the first of twenty-one Bond films in which her character does not appear.
+Bond checks into the hotel and receives a car key, which opens an
+Aston Martin DBS . Beautiful car, the modern version of the DB5 he drove in the Bahamas.
+Giancarlo Giannini , as Mathis, Bond’s contact in Montenegro, is a smooth operator. Well-cast.
+Bond’s first turn at the poker table includes him ordering the original, Ian Fleming-invented,
+Vesper Martini . I started mixing these for myself after this film debuted and it’s become my favorite cocktail.
+Steven Obanno looks to cut off Le Chiffre’s girlfriend’s arm, so he has his henchman extend it along his own. One slip and he has a one-armed henchman.
+great fight scene between Bond and the terrorist Steven Obanno in the hotel stairwell.
+Jeffrey Wright
+plays Felix Leiter, CIA. His is the best characterization of the role since Jack Lord in
+Dr. No , and arguably the best overall.
+Bond wins the poker game, and Leiter moves to make contact with Le Chiffre to bring Le Chiffre in. The tight relationship between US and British intelligence means it doesn’t matter much who arrests the terrorist, both agencies will get what they need from him.
+Le Chiffre pulls a fast one on Bond, luring him into a trap and taking him to a torture chamber aboard an old ship. His use of a
+monkey’s fist
+on Bond’s balls is particularly tough to watch.
+Le Chiffre meets his end when Mr. White, hiding outside the door, overhears him say that he can defect to the British intelligence service at any time and be welcomed with open arms. White puts one through Le Chiffre’s head. Brutal and effective.
+Bond spends a few weeks recovering on Lake Como, then takes up a sailing vacation with Vesper Lynd. He tenders his resignation to M. But it turns out Lynd has been blackmailed by Mr. White’s organization to betray Bond and retrieve the money Le Chiffre lost. They made the introduction of the terrorist Obanno and Le Chiffre, after all.
+Bond chases down Lynd, sees her hand over the money, and battles her contact’s bodyguards. She ultimately commits suicide rather than face what she’s done, and Bond watches her die. He tracks down Mr. White and, in the final scene, wounds him followed by the line, “the name is Bond. James Bond.” The old James Bond theme plays as credits role.
+I had given up on the Bond franchise years before this film debuted. I happened to be visiting a friend the following year who had seen it. He recommended we watch the DVD, and I  loved
+it.
+The action was tight, without resorting to the usual Bond film gadgetry and goofy humor. Campbell, the director, can be credited with keeping up the pace and moderating the tone of the story, shaping Craig’s Bond into a rough-hewn, somewhat sociopathic, yet not completely amoral government assassin.
+Witness the sly smile that creeps onto Craig’s face after he watches the would-be airplane bomber self-detonate. Contrast that with the sorrow he exhibits over the dead body of Vesper Lynd. There is a balance to this character, but just barely.
+There-in lies the other, and perhaps more important new factor: Daniel Craig. If you take a few hours to watch one or two of his other films you’ll come to the conclusion that he’s a versatile, broadly talented actor. One of my favorites among his other films is
+Infamous ,
+the story of Truman Capote’s journalism of the murders that became his book
+In Cold Blood .
+His acting is superb.
+This film finally ends the run of Bond films that start out great, but head downhill about halfway through. This one was terrific right to the end.
+Up next:
+Quantum of Solace ,
+the twenty-second in the Bond franchise. It picks up almost immediately after
+Casino Royale
+leaves off.
+∴ Microsoft's Windows 8 Tablets: Something Doesn't Add Up
+Zach Epstein, writing for
+Boy Genius Report :
+“Apple paved the way but Microsoft will get there first with Windows 8. A tablet that can be as fluid and user friendly as the iPad but as capable as a Windows laptop. A tablet that can boot in under 10 seconds and fire up a full-scale version of Adobe Dreamweaver a few moments later. A tablet that can be slipped into a dock to instantly become a fully capable touch-enabled laptop computer. This is Microsoft’s vision with Windows 8, and this is what it will deliver.”
+That’s a bold prediction for a product that doesn’t yet exist, and won’t be delivered until next fall at the very earliest. By then, the iPad and iOS will likely be in versions 3 and 6, respectively, and Apple’s iCloud service will bind iOS and Mac OS devices into a seamless computing environment. Pick the right tool for the task at hand, be it a laptop, desktop or handheld; they’ll all work together.
+Yet laptops and desktops on one hand, and handhelds on the other, remain very different beasts. RAM, persistent storage and processor power requirements remain higher for the former in order to do the heavy lifting required by their applications. Those same requirements are lower, and less costly for the latter because a mobile platform doesn’t engender the same performance expectations as its older siblings. Yet Microsoft is planning to deliver, and
+early reviewers are touting
+(via
+DF ), a one-size-fits-all approach that, presumably, will compete on the same price points as the iPad. That doesn’t make sense. And if it doesn't compete, what chance has it of gaining a foothold in the tablet space?
+Consider what happens when Microsoft creates a Windows-based tablet device that combines a mobile UI with legacy application support in a single form factor. Yes, they’ll let the user access a full keyboard and other peripherals via a docking station, but all the computing hardware has to live in the space of a tablet.
+What will happen to Windows 8’s sharp-looking Metro UI performance when Microsoft shoehorns it
+and
+their legacy Windows code, needed for backward compatibility, into a relatively small RAM store and flash storage device, as they must? 1 GB RAM is standard on Android-based tablets today, while 512 MB is standard on iPad 2, but let’s be charitable and assume that ever-cheaper RAM allows an iPad-priced Windows 8 tablet to carry 2 GB RAM.
+Well, Windows on a diet running alone in 2 GB sounds reasonable. Windows plus one non-bloatware application running in 2 GB, maybe. Windows multitasking a half-dozen apps, some of them legacy Windows applications like Outlook, Excel or Photoshop, and a browser with ten open tabs? Good luck with that. It won’t matter that the user can switch between the Metro UI and mobile apps, and something resembling Windows 7 and desktop apps, because it all has to fit in a RAM store that remains cost-competitive with a
+tablet .
+Today’s solid state storage devices start getting expensive above 128 GB, but let’s assume that they, too, become cheaper by next fall. A Windows 8 tablet device will need a large SSD-on-a-stick to store all those legacy Windows applications. iPads and Android devices get away with far less storage because mobile apps (note the difference there:  mobile ) are coded smaller and require far less storage.
+Again, the Windows 8 tablet has to remain cost-competitive with a
+tablet , something Android-based tablet makers have been sorely challenged to accomplish. And Android tablet makers make no pretense of running legacy PC applications.
+And how will the legacy OS code, not to mention the new Metro UI, function on mobile-friendly, low-powered ARM (or ARM-like) processors? Today’s demo runs on the Intel Core i5 processor, a contemporary, full-power CPU. That
+will not
+work in a tablet form factor unless the tablet remains plugged into an electrical outlet. There is no reason to believe that, after two decades’ experience with Windows, performance of a new, Metro UI-wrapped Windows OS will function well on scaled-down, power sipping ARM-like processors.
+Windows 8, such as it is, looks great in its Metro UI Sunday best. And by marrying the ease of use and simplicity of a touch interface with the power of the underlying Windows OS, Microsoft is clearly charting a different direction than Apple has with their iPad and Google (and their minion OEMs) has with Android.
+I hope Windows 8 is a smashing success. Windows users, those who have stuck with it through decades of hair-pulling driver issues, inadequate security and underwhelming performance without bailing for the greener pastures of Mac OS or Linux, deserve nothing less. But Microsoft is going to have to make the numbers add up.
+Admittedly Cheap Shot: What's Old Is New
+Leander Kahney, writing for
+Cult of Mac :
+"Here’s the new Blue Screen of Death in Windows 8, which Microsoft is previewing this week at its Build conference.
+It’s been transformed into a sad face emoticon."
+(Via  Arnold Kim’s Twitter stream .)
+So nice to know that some things never, ever change. Couldn't resist.
+September 13, 2011
+"Let him die"
+Jacob Weisberg, writing for
+Slate Magazine :
+"Wolf Blitzer put a terrific question to Rep. Ron Paul at last night's CNN/Tea Party Express Republican debate in Tampa, Fla. What should happen, the moderator asked hypothetically, if a healthy 30-year-old man who can afford insurance chooses not to buy it—and then becomes catastrophically ill and needs intensive care for six months? When Dr. Paul ducked, fondly recalling the good old days before Medicare and saying that we should all take responsibility for ourselves, Blitzer pressed the point. "But, Congressman, are you saying the society should just let him die?" At that point, the rabble erupted in cheers and whoops of "Yeah!""
+Do these cretins represent the majority opinion of the "Tea Party?" If so, how can a voter with any shred of decency cast a vote for any of them? And if not, why aren't the majority denouncing the minority opinion?
+September 12, 2011
+∴ Lost Rhino's RhinO'fest
+I stopped off at
+Lost Rhino Brewing , Northern Virginia’s newest craft brewer, for a growler fill or two last week. Newly on tap was their first Octoberfest, fresh from the lagering tank. These guys run a well-rounded brewery for such a young operation, offering a standing selection of pilsner, pale ale and IPA, but don’t be fooled: they’ve been around the Old Dominion a while.
+My primary goal was RhinO’fest. This ‘fest brew is crafted in the German Märzen style, with robust maltiness balanced with only enough European hops to temper the sweetness of boiled, cracked barley. And barely temper it, they did.
+The most remarkable feature of this beer is the downright sweet aftertaste. It’s a stark difference from big-brewer pilsners or craft-brewed American pale ales. There’s plenty of flavor, but no harshness to this beer. A solid floor of malty sweetness fills the mouth like a loaf of bread. Perhaps a hair too much sweetness.
+I’d enjoy this beer with something mildly spicy, but not as wild as Buffalo wings. Maybe jalapeño nachos?
+RhinO’fest qualifies as a session beer for me, i.e. I could drink a few. Yep, I liked it. And given the date, it won’t be around for long. Traditional Märzen beers are around long enough to satiate the Octoberfest crowd, but once the tents are struck in Munich its days are numbered. What imperial goodness can we expect of Lost Rhino’s winter brew?
+(Calling a beer a “session beer” is akin to the old Miller Brewing tag line, “the one beer to have when you’re having more than one.” It’s a drinking beer, not a sampling beer.)
+(I had a chance to sample a few beers at the one and only Miller Brewing brewery several, well, many years ago in Milwaukee. The tasting room was a Bavarian hoffbrau bar dressed in cut woodwork and shining tap handles. The beer was Miller’s best, freshly brewed across the road, and somehow the decor and the company made the beer taste better. That was a long time ago, but I recall the view of the kettles and the taste of the beer like it was last week.)
+I filled another growler with Rhino Chaser’s Pacific Pils and enjoyed it with the first night of this season’s NFL football. Pacific Pils is perhaps Rhino’s flagship beer, and carries on the American tradition of hop-forward brewing. The brewmaster brought me up short, though. I thought I was sampling Cascade and Willamette hops with their recognizable citrus flavor, but no, this pilsner is flavored with authentic Halertau and Saaz hops. They’re grown here in the US yet the type is imported from Europe, the homeland of all pilsners. So this beer is a clear, crisp and truly American rendition of a traditional pilsner, lagered long and cold. Any beer fan will recognize the fine execution of this classic brew.
+Kickoff Weekend was an enjoyable one at our home, where we watched the Pack dominate the Saints, the Ravens utterly crush the Steelers, the Redskins perform surprisingly well and the Jets outlast the Cows, all while enjoying some well-crafted beer and “football food” snacks.
+It was almost enough to make me look forward to Fall. Almost.
+HTC President: "iPhones Are Not That Cool Anymore"
+Jay Yarow, writing for
+Silicon Alley Insider :
+Apple's iPhone 3GS, a phone that's two years old, is the second best selling phone in the U.S., trailing the iPhone 4, which is the best selling phone.
+But, despite the great sales, Apple has a big problem, according to Martin Fichter, acting president of HTC America. He says, the iPhone is "not that cool anymore."
+I wonder whether he'll be saying that late
+next month . Maybe last year's
+iPhone 4 debut
+is instructive?
+Fifty New Alien Worlds Revealed
+Alan Boyle, writing for
+MSNBC.com :
+"Astronomers announce the discovery of more [than] 50 new planets beyond our solar system, including 16 that are just a notch above our own planet."
+We're still in an early phase of discovering Earth-like planets outside our solar system, but I have the feeling that one of these days we're going to discover something fascinating out there.
+September 9, 2011
+Here's What Employees Hate About Working at Groupon
+Noah Davis, writing for
+Silicon Alley Insider :
+“Working at Groupon, it turns out, is kind of awful.
+As in sue-your-employer bad.”
+Click through for the discontent.
+There were all those  unhappy merchants
+who realized, too late, that by agreeing to cut their prices in half, and give Groupon half or more of what was left, they were selling at a loss to customers who would only walk in the door for a steal (i.e. no repeat business).
+Then, last week, Groupon  canceled their IPO road show
+to deal with SEC questions about violating the pre-IPO “quiet period.”
+Now Groupon is being
+sued by their own employees .
+It was never a matter of if, or even when. It was a question of how. It’s turning out that Groupon’s business might only succeed by taking from others what they
+should not , things like employee overtime, a merchant’s Cost of Goods Sold, that sort of thing.
+The End is approaching for Groupon. So long, assholes.
+September 8, 2011
+Marco's New Setup
+Marco Arment, writing for
+Marco.org :
+"I’ve switched back to a 15” MacBook Pro full-time, right when the MacBook Air is convincing many geeks like me to dump their 15” laptops for an 11” or 13” Air, possibly with an iMac at their desk. Many will think that this is strange timing, so it might be interesting to those as geeky as me why I chose this."
+Total Mac geek bait. Marco is the author of
+Instapaper , before that was the lead developer of
+Tumblr , and is the current host of
+Build & Analyze . This is the new Mac setup he recently bought/hacked/configured.
+It's one super, mobile computing platform.
+Peyton Manning Has More Surgery on Neck
+Chris Mortensen, writing for
+espn.com :
+"Manning was hopeful that four months of therapy after his May 23 surgery would allow him to resume normal football activity, but his progress was minimal with nerve regeneration and his triceps area remained weak, not allowing him to throw a football with reasonable velocity."
+The critical take-away: he can't throw the ball, so he underwent another surgery today.
+Manning is the best QB in the NFL, and among the best who have ever played. I sure hope he can return.
+Pic of Workers Repairing Empire State Building Antenna
+Terrific image of two workers repairing an antenna on the Empire State Building. Click for the full-size image.
+(vía  Dan Hellie .)
+September 7, 2011
+Why Carol Bartz Was Fired
+Horace Dediu, writing for
+asymco :
+“Which is why Bartz was fired. There is no evidence that she tried to engage in surgery or that there was any therapy process under way during her tenure. The patient, I’m afraid, is still dying.”
+Great analysis by Horace Dediu, as usual, of the dismissal of Carol Bartz as CEO of Yahoo!. His usual territory is the mobile device space, and iOS devices in particular, about which he is widely quoted.
+The short version of today’s piece: Yahoo! is no better off today than when Bartz was hired, because she didn’t re-tool the company to provide better value to its customers during her tenure. Dediu also provides a clear explanation of what Yahoo!’s product really is: users and their behavior; as well as who their customers are: advertisers.
+September 6, 2011
+iPhone Runner
+A comic for the sci-fi/Apple geek (scroll at the bottom) …
+Nitozac & Snaggy, writing for
+All Things Digital :
+I think those were c-beams glittering in the dark near the
+Tannhauser Gate , but whatever.
+Loved the
+film
+(one of the few that Harrison Ford did well). Dig the gadgets.
+Al Michaels -- Raiders Will NEVER Win w/ Al Davis
+TMZ.com :
+"The Oakland Raiders will never EVER win another Super Bowl as long as the owner Al Davis is alive and breathing ... so says legendary "Sunday Night Football" announcer Al Michaels."
+I've been saying that for years. That cheap bum Al Davis won't pay good money for talent, so he gets what he
+is
+willing to pay for. The Raiders' record speaks for itself.
+A Drink a Day Linked to Healthy Aging in Women
+CNN.com :
+"Middle-aged women who drink alcohol in moderation have a better chance than nondrinkers of staying healthy as they age, especially if they spread out their consumption over most days of the week, a new study from Harvard researchers suggests."
+Tank up!
+Seriously, I asked my doctor about this during my last physical exam. He quoted the same numbers for women, and double that for men. Now if food science can find a way to separate calories from alcohol (ain't gonna happen) ...
+Eddie Murphy to Host Next Oscars
+CNN.com :
+"Comedian Eddie Murphy will host the Oscars next February, the Academy of Motion Picture Arts and Sciences announced Tuesday."
+A blast from the past. Murphy was a shock comedian in his day, but he mellowed-out after starting a family. So his insults-per-minute as host might not rank up there with Ricky Gervais (loved him), but nostalgia for the good ol' days of Murphy on SNL will probably combine with his humor to make it an enjoyable evening of TV. One can only hope.
+(I managed to get Eddie Murphy and nostalgia together in one sentence. I am officially getting old.)
+∴ More OS X Lion: Hey Look, a Bug!
+I came across an interesting bug in Lion today. Volume control, whether by keyboard or icon, becomes unavailable after a few hours of use.
+The first indication was when a circle-and-slash icon appeared over the on-screen volume control image when I tried lowering my audio volume with F-11. It appeared again when I tried muting the audio with F-10. And again, hitting F-12 to raise the audio volume.
+I found the speaker icon, in the top system tray, greyed out and unresponsive. There was apparently no way to control my machine's audio!
+I Googled for hints of a bug and found several similar posts on the Apple support forums, so it's safe to say I'm not alone. Many find their audio pinned to level zero, but in my case it becomes stuck to its loudest setting.
+I expect this will be an easy fix for Apple, and likely show up in the next version, 10.7.2. Until then it's a little
+loud
+around here.
+September 5, 2011
+∴ OS X Lion: First Impressions
+I’m late to the party. The Lion party. But since it took me nearly thirty years to get on the Mac bandwagon, this should surprise no-one.
+I installed Lion on my six-month old MacBook Pro, Steve Jobs Edition laptop this morning. I’d been waiting until the first “point release” made its way from Cupertino to the masses, knowing that the first drop of a new operating system is always subject to multiple bug discoveries. Lion was no different.
+Last week I downloaded the then-new 10.7.1 release, created a bootable installation disk to upgrade Kelly’s laptop later, and sat on the rest of the task for the following days. This morning I kicked off the upgrade and went out for a run.
+The installation was no different that installing any other software, which is refreshing when you consider how much of the platform’s foundation changes during an OS upgrade. It completed without error or complication. On to first notes.
+Weird: reversed scrolling. If you use an iPad (or any other touch-interface device), you’re familiar with moving your finger up the screen to scroll lower in a document. Lion works identically, which is exactly the opposite of the way Snow Leopard, Windows and the rest of the OS universe behave. On those platforms you move your finger
+down
+the touchpad to scroll lower in a document. It’s taking me a bit of getting used to.
+This scrolling behavior is Apple’s way of moving the desktop/laptop OS closer to their tablet offering. Expect more of the same down the road.
+I haven’t noticed any odd behavior or crashes from my usual software. The Chrome browser, NetNewsWire and Mars Edit all appear to function correctly. Ditto Microsoft Office.
+Lion’s neat new application restore feature re-opens my software applications exactly as they were when I shut down the machine, so a quick re-start brought back everything to where I had left them. Very cool.
+I’ll keep playing with Lion to see what else tickles my fancy. A more in-depth examination of the OS,
+written
+by John Siracusa for Ars Technica, will serve as my guide.
+Flight Level 390
+Captain Dave, writing for
+Flight Level 390 :
+"Flight-deck lighting is reduced to minimum, electric seat all the way forward with head, shoulders, and folded arms on the top of the instrument panel. It is one of my favorite places at night. The heat from the thick Plexiglas feels good. And it is a good place to star gaze.
+The Omaha airport slides beneath our nose..."
+One of my favorite blogs, written by a commercial pilot who not only loves what he does, but writes about it very well. If you're a fan of either, he's well worth following.
+September 2, 2011
+Economics for the Easily Led
+Paul Krugman, writing for his
+weblog :
+“The awful thing is that those of us who warned about all this — based not on some unorthodox doctrine, but on basic textbook macroeconomics — weren’t so much argued down as just ignored. Somehow, those with actual power were convinced that fiscal austerity wasn’t just an option but the only option, and that anyone arguing with that — even people like me and Joe Stiglitz, who had a few easy-to-understand credentials — were just not part of the serious discussion.”
+Krugman and others rightly
+argued for larger stimulus
+spending by the US and European governments two years ago, but were ignored. And without greater stimulus spending both Europe and the US still wallow in
+sluggish growth
+and
+high unemployment
+today, as predicted.
+Yet the deficit hawks, who were
+nowhere to be seen
+during the last US administration’s spending spree, continue to hammer on short-term budget deficits like that’s going to solve a problem. They managed to reduce the final US stimulus spending to inadequate levels. But the problem they’re really trying to solve is their loss of the Oval Office in 2008.
+I wonder if the people who elect the Eric Cantors and John Boehners of US politics will ever wake up and realize what a massive fraud has been committed upon them. The candidates they support manage to persuade them to get behind policies that
+harm , not help those very people.
+The “easily-understood credential” Krugman alludes to is the Nobel Prize for economics. Both
+he
+and
+Joe Stiglitz
+earned them with their research and insight into economic theory.
+We get the government we deserve.
+September 1, 2011
+Mortgage Reality Distortion Field
+Robert X. Cringely, writing for
+I, Cringely :
+"A quarter of those homeowners in good standing have no equity left in their homes at all and the rest have significantly less than they once did — often not enough to qualify for a new mortgage. So they just keep paying on the old one, which is at a significantly higher interest rate.  That’s why we saw a refinance flurry in 2008 that has since, for the most part, vanished.
+Rates are down, sure, but qualifying rules are stricter and there are at least 30 million U.S. homeowners who are literally trapped in their old mortgages. A few walk away, but most don’t because they worry about ruining their credit. And this means that while new 30 year mortgage rates are in the 3-4 percent range, the average rate paid by these trapped homeowners on their old mortgages is twice that.  And since their loan initiation overhead was amortized years ago, their actual yield is even higher."
+Interesting perspective on mortgage refinancing. You'd think that with long-term fixed-rate mortgage rates at historic lows there'd be a wave of refinancing going on. But there isn't. Cringely puts his finger on the reason.
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+About Me
+Andrew Richardson
+Software engineer, business owner, husband, walker, and member of my pack of four-legged girls.
+View my complete profile
+Blog Archive
+►
+2015
+(6)
+►
+October
+(1)
+►
+July
+(1)
+►
+June
+(2)
+►
+May
+(1)
+►
+January
+(1)
+►
+2014
+(3)
+►
+October
+(1)
+►
+February
+(2)
+►
+2013
+(91)
+►
+October
+(3)
+►
+September
+(4)
+►
+August
+(10)
+►
+July
+(2)
+►
+June
+(8)
+►
+May
+(16)
+►
+April
+(21)
+►
+March
+(6)
+►
+February
+(7)
+►
+January
+(14)
+►
+2012
+(411)
+►
+December
+(18)
+►
+November
+(20)
+►
+October
+(30)
+►
+September
+(47)
+►
+August
+(57)
+►
+July
+(17)
+►
+June
+(54)
+►
+May
+(39)
+►
+April
+(34)
+►
+March
+(24)
+►
+February
+(28)
+►
+January
+(43)
+▼
+2011
+(548)
+►
+December
+(54)
+►
+November
+(37)
+►
+October
+(43)
+▼
+September
+(43)
+Tobacco Companies Put Radioactive Substance Into C...
+Kindle Touch and Kindle Fire Tablet Addendum
+∴ Operating Systems the Microsoft Way
+Amazon Launches Kindle Touch, Kindle Fire
+∴ Worth Watching
+Volkswagen’s New Beetle Page
+A Sweet Piece on Marrying Young
+The New iPhone
+Doritos Creator Dies At 97
+An Actual Working Mind Probe
+R.E.M. to 'call it a day as a band'
+New Census Data Show Just How Screwed the US Middl...
+Netflix Rebrands DVD by Mail Business
+∴ Athens, GA: Sovietski-style Cell
+Parallels Desktop 7 Update for Mac OS X Fixes File...
+∴ Windows 8 Tablets in Legacy UI Mode
+US Postal Service Announces 'new reality'
+Mysterious Multi-Restart Logins Plague File Vault ...
+Windows 8 Tablet Won’t Support Flash
+Thunderbolt Coming to Windows PCs
+∴ Microsoft's Windows 8 Tablets: It's All About Me...
+Michaele Salahi is Claimed Missing
+#5byBond: Casino Royale
+∴ Microsoft's Windows 8 Tablets: Something Doesn't...
+Admittedly Cheap Shot: What's Old Is New
+"Let him die"
+∴ Lost Rhino's RhinO'fest
+HTC President: "iPhones Are Not That Cool Anymore"...
+Fifty New Alien Worlds Revealed
+Here's What Employees Hate About Working at Groupo...
+Marco's New Setup
+Peyton Manning Has More Surgery on Neck
+Pic of Workers Repairing Empire State Building Ant...
+Why Carol Bartz Was Fired
+iPhone Runner
+Al Michaels -- Raiders Will NEVER Win w/ Al Davis
+A Drink a Day Linked to Healthy Aging in Women
+Eddie Murphy to Host Next Oscars
+∴ More OS X Lion: Hey Look, a Bug!
+∴ OS X Lion: First Impressions
+Flight Level 390
+Economics for the Easily Led
+Mortgage Reality Distortion Field
+►
+August
+(36)
+►
+July
+(52)
+►
+June
+(55)
+►
+May
+(67)
+►
+April
+(42)
+►
+March
+(45)
+►
+February
+(39)
+►
+January
+(35)
+►
+2010
+(23)
+►
+December
+(23)
+Search
+Loading...
+Copyright Text
+Copyright Andrew Richardson, forever and ever and ever.
+Simple template. Powered by
+Blogger .

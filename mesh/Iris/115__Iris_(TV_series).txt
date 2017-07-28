@@ -1,0 +1,232 @@
+My MacBook Mini: 2011.11
+My MacBook Mini
+Where the story and journey of a not-so-hackintosh-newbie began :D
+Pages
+Home
+Guides
+Downloads
+Videos
+Tips & Tricks
+29 November 2011
+SingPost
+And thus my hypothesis is tested and the experiment given conclusion: the Singapore Post is way more efficient than the Philippine Post.
+Alright, that's a given truth and so needed not be proven in the first place.
+I ordered an extra battery pack on eBay for USD 28.99 with free shipping worldwide last November 11 and here I am, just 3 weeks after I placed the order, testing the new battery pack for the HP Mini 311.
+Imagine the joy of someone who was used to waiting at least 8 weeks minimum.
+Placed side by side, the two battery were identical. The replacement battery pack (one without the distinctive black "replace with HP spare" sticker) was surprisingly well built. The plastic is quite on par with the original one, although it didn't quite match that of the original's glossy parts.
+As for the more substantial part of this description, the capacity differs in between the two packs even though both contain 6 cells.
+Indicated on the battery itself:
+Original HP 6-cell : 4910 mAh indicated
+replacement 6-cell : 5100 mAh indicated
+As detected by battery management utilities, I'll let you just look at these screenshots:
+1. Original HP battery : 5100 mAh
+2. Replacement battery : 4400 mAh
+(but apparently currently extended to 4567 mAh)
+The description on the seller's page on eBay on the other hand remains honest and lists 4400 mAh.
+If you're interested to check it out, you can visit
+this link on eBay .
+Scribbled by
+LeMaurien19
+At
+8:15 PM
+No comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Tags:
+battery hp mini 311
+09 November 2011
+NVidia Ion 1st Gen or GeForce 9400m
+It is no big news that the HP Mini 311's NVidia Ion graphics chip is basically the GeForce 9400m. While that is true and tested while I was on the Windows side - 720p .mkv files would play fine, as I remember it - it doesn't seem to be that way on the Mac OS X side.
+Earlier this year, my worst experience with playing those HD video files (I was watching " Iris ", yes, it's a Korean action drama), was that there would split-second freezes here and there but no green artefacts littering VLC's video window like I see now.
+Perhaps it's CUDA driver related? Maybe. I should get some time to test whether that's the root of evil. It's either that or the 512MB rated for the Total VRAM is only eye-candy.
+Update: Nope, it is not eye candy. Use
+Plex player for Mac OS X
+and you'll see that the Mini 311 can handle 720p .mkv quite smoothly.
+Scribbled by
+LeMaurien19
+At
+1:04 PM
+3 comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Tags:
+HP Mini 311 hackintosh ,
+Ion ,
+nvidia geforce 9400m
+03 November 2011
+Battery Battery
+We've been together for almost 2 years and it's only now that I get to know what's happening deep inside you :D
+And it reads:
+"Your Apple notebook battery is designed to retain 80% of its original capacity at up to 300 charge cycles. Your battery capacity is currently at 89%, and you have already overcome 300 cycles (you have done 371 cycles)."
+Wow...
+Scribbled by
+LeMaurien19
+At
+7:54 PM
+4 comments:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Linux, Linux, How Do I Love Thee?
+Linux, Linux, how do I love thee?
+Let me count the ways;
+I love thee with a love that makes Ubuntu a permanent resident in my USB flashdrive
+With the depth and height of Grub that is able to boot Snow Leopard on /dev/sdaX
+When Chameleon is out of sight...
+I love thee to the level that I might consider a dual boot with 10.6.8 Most quiet need, by dd if=boot1h of=/dev/sdaX that distroyeth MBR (but then I remember, I'm on GPT so giveth what?!?) I love thee with a love that seems to lose ultimately to no one else but a hackintosh. :D
+It's amazing that even though I sabotaged Chameleon on my internal hard drive trying to update to 10.6.8 and apply THeKiNG's 09032011 pack, I only needed my trusty Ubuntu 11 USB stick to boot OS X up. Of course, it's a given that the necessary files are installed correctly - most importantly those kexts to be put in /System/Library/Extensions. There just was not anything "broken" on my system aside from the boot file installation on my hard drive.
+Read More...
+Scribbled by
+LeMaurien19
+At
+3:28 PM
+1 comment:
+Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest
+Newer Posts
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+About This Mini MacBooker
+LeMaurien19
+Violin noob.
+View my complete profile
+Be A "Mini MacBooker"
+Your Ad Here
+Blog Link
+saving for a mac
+Shout Out :D
+Mini Bookshelf
+►
+2015
+(4)
+►
+August
+(1)
+►
+July
+(3)
+►
+2012
+(7)
+►
+September
+(1)
+►
+January
+(6)
+▼
+2011
+(23)
+▼
+November
+(4)
+SingPost
+NVidia Ion 1st Gen or GeForce 9400m
+Battery Battery
+Linux, Linux, How Do I Love Thee?
+►
+October
+(2)
+►
+September
+(1)
+►
+August
+(2)
+►
+July
+(1)
+►
+June
+(2)
+►
+May
+(1)
+►
+April
+(1)
+►
+March
+(4)
+►
+February
+(3)
+►
+January
+(2)
+►
+2010
+(150)
+►
+December
+(3)
+►
+November
+(8)
+►
+October
+(12)
+►
+September
+(15)
+►
+August
+(21)
+►
+July
+(15)
+►
+June
+(14)
+►
+May
+(9)
+►
+April
+(11)
+►
+March
+(10)
+►
+February
+(12)
+►
+January
+(20)
+►
+2009
+(133)
+►
+December
+(17)
+►
+November
+(24)
+►
+October
+(22)
+►
+September
+(10)
+►
+August
+(15)
+►
+July
+(3)
+►
+June
+(11)
+►
+May
+(17)
+►
+April
+(8)
+►
+March
+(1)
+►
+January
+(5)
+There was an error in this gadget
+Total Pageviews
+Contents written by Ingrid Marquez. Picture Window template. Powered by
+Blogger .

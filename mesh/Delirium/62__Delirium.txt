@@ -1,0 +1,137 @@
+Delirium or Acute Confusional State | CODES.AND.STUFF
+Skip to content
+Specialties
+A – M
+Cardiology
+Gastroenterology
+General Medicine
+General Surgery
+Geriatrics
+Gynaecology
+Haematology
+Infectious Diseases
+N – Z
+Neonatology
+Neurology
+Obstetrics
+Ophthalmology
+Orthopaedics
+Paediatrics
+Respiratory
+Urology
+ICD-10
+Blocks A – E
+A00–B99 Certain infectious and parasitic diseases
+E00–E90 Endocrine, nutritional and metabolic diseases
+Blocks F – J
+F00–F99 Mental and behavioural disorders
+H00–H59 Diseases of the eye and adnexa
+I00–I99 Diseases of the circulatory system
+J00–J99 Diseases of the respiratory system
+Blocks K – O
+K00–K93 Diseases of the digestive system
+L00–L99 Diseases of the skin and subcutaneous tissue
+M00–M99 Diseases of the musculoskeletal system and connective tissue
+N00–N99 Diseases of the genitourinary system
+O00–O99 Pregnancy, childbirth and the puerperium
+Blocks P – T
+P00–P96 Certain conditions originating in the perinatal period
+Q00–Q99 Congenital malformations, deformations and chromosomal abnormalities
+R00–R99 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified
+S00–T98 Injury, poisoning and certain other consequences of external causes
+Blocks V – Z
+V01–Y98 External causes of morbidity and mortality
+Z00–Z99 Factors influencing health status and contact with health services
+OPCS-4
+Chapters A – F
+A – Nervous System
+Chapters G – M
+G – Upper Respiratory Tract
+H – Lower Digestive Tract
+K – Heart
+M – Urinary
+Chapters N – T
+N – Male Genital Organs
+Q – Upper Female Genital Tract
+R – Female Genital Tract associated with pregnancy and childbirth and Puerperium
+T – Soft Tissue
+Chapters U – Z
+U – Diagnostic Imaging, Testing and Rehabilitation
+X – Miscellaneous Operations
+Y – Subsidiary Classification of Methods of Operation
+Z – Subsidiary Classification of Sites of Operation
+About
+Coding for non-coders
+Clinical Coding Academies
+Connecting for Health London Offices
+CODES.AND.STUFF
+Search
+“ A RESOURCE FOR CLINICAL CODERS IN THE UK ”
+‹
+Dehydration and Hypovolaemia
+Coding Syndromes
+›
+December 8, 2011
+Delirium or Acute Confusional State
+Delirium
+(sometimes called acute confusional state) has an acute onset, a fluctuating course and is characterised by disturbed consciousness, cognitive function or perception. There are a large number of possible causes of delirium including infection, alcohol and drug withdrawal, metabolic disorders (such as diabetes mellitus, hyperthyroidism and hypothyroidism), head trauma, brain haemorrhage or infarction, drug intoxication, poisoning, fever, and epilepsy.
+Delirium commonly presents with hallucinations, delusions, memory deficits and sleep disturbances. Agitation as a result of disorientation and confusion may also occur in delirium which can create an especially hazardous situation, as delirious patients are at risk of wandering, falling, pulling out IV lines or nasogastric tubing and harming themselves or others. Delirium affects at least one in ten hospitalised patients and is more common in the elderly. People who develop delirium require additional nursing, medical and psychiatric care. They may need to stay longer in hospital, or in critical care, have an increased incidence of dementia, have more hospital-acquired complications (such as pressure sores), are more likely to need to be admitted to long-term care and ultimately are more likely to die. The standard approach to managing delirium is to find and treat the causes of the delirium. Sedatives or antipsychotic drugs may be used to reduce anxiety, hallucinations, and delusions and physical restraints may also be required. Treatment often involves liaison with psychiatric teams to assist in the patient’s management.
+It is, therefore, important that whenever a stated diagnosis of delirium or acute confusional state is made in a patient’s medical record that this is coded using the appropriate ICD-10 code. Where the cause of the delirium or acute confusional state is known (e.g. due to infection or in/due to dementia) this must also be recorded using the appropriate ICD-10 code.
+Coders must ensure that they follow the four step coding process to apply the correct ICD-10 code(s). The correct sequencing will depend on the main condition treated or investigated during the episode of care.
+Implementation date: 01/04/2011
+Date published: 03/2011 (Volume 7 Issue 9)
+Coding Clinic , NHS Classifications Service
+www.connectingforhealth.nhs.uk/codingclinic
+Related articles
+The New Old Age Blog: Another Hospital Hazard for the Elderly
+(newoldage.blogs.nytimes.com)
+The 10 Minute Skinny About Delirium
+(jajsamos.wordpress.com)
+Tackling Delirium
+(medicalnewstoday.com)
+Richard W. Besdine, M.D.: Delirium: How to Prevent this Dangerous Form of Disorientation
+(huffingtonpost.com)
+AUDIO: ICU psychosis: ‘I got madder and madder’
+(bbc.co.uk)
+Share this: Twitter Facebook Like this: Like
+Loading...
+Related
+Tags:
+mental and behavioural
+Leave a comment
+Posted under
+F00–F99 Mental and behavioural disorders ,
+Geriatrics
+‹
+Dehydration and Hypovolaemia
+Coding Syndromes
+›
+Leave a Reply
+Cancel reply
+Enter your comment here...
+Fill in your details below or click an icon to log in:
+Email
+(required)
+(Address never made public)
+Name
+(required)
+Website
+You are commenting using your WordPress.com account.
+(  Log Out  /  Change  )
+You are commenting using your Twitter account.
+(  Log Out  /  Change  )
+You are commenting using your Facebook account.
+(  Log Out  /  Change  )
+You are commenting using your Google+ account.
+(  Log Out  /  Change  )
+Cancel
+Connecting to %s
+Notify me of new comments via email.
+Create a free website or blog at WordPress.com .
+The Steira Theme .
+Follow
+Follow “CODES.AND.STUFF”
+Get every new post delivered to your Inbox.
+Build a website with WordPress.com
+%d
+bloggers like this:

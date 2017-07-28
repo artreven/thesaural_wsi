@@ -1,0 +1,1863 @@
+Flight Information Services, Langley Flying School
+Home
+Our Mission
+Flight Training
+Professional Pilot Program
+Pilot Summer Camp
+Licences
+Private Pilot Licence
+Commercial Pilot Licence
+Recreation Pilot Permit
+Ratings
+Multi-engine Class
+Instrument
+Instructor
+Night
+VFR Over-the-top
+Others
+Language Profiency for Pilots
+Multi-crew Standard Operating Procedures Training
+Gift Ideas
+Multi-engine Flight Excursion Program
+Prospective Students
+The School
+The Staff
+Getting Started . . .
+Flying as a Career
+Student Loans
+International Students
+International Students Off-campus Work
+Frequently Asked Questions
+Graduates' List and Staff Alumni
+Langley Flying School Bursaries and Awards
+Calendar
+Chief Flying Instructor's Page
+Groundschool Schedules
+Student Accomodation
+Bicycle and Bus Transportation
+Famous Contemporary Pilots
+Language Testing References
+Students
+Booking Sheet
+Ready Room
+Classroom
+Flight Rules and Safety Precautions
+Anonymous Safety Reporting
+Flight Operations Safety Threats List
+Flight Operation Notices
+Near Mid-air Collision Report
+Student Feedback
+Student Feedback: Instructor Evaluations
+Student Feedback: Aircraft Improvements
+Student Feedback: Facilities Improvements
+Student Feedback: Service/Organization Improvements
+Student Feedback: Program Review
+Resources
+Safety Management Systems
+Examination Room
+Map Room
+Airport Instrument Procedures
+Tutors' List
+Carpe Diem
+Steve Jobs: Stay Hungry, Stay Foolish
+For the Love of the Game: Clear the Mechanism
+People & Places
+Bicycle and Bus Transportation
+Writers' Corner
+Request for a Langley Flying School Email Account
+Student Awards
+Langley Flying School Bursaries and Awards
+Recipients
+Calendar
+Student Supplies and Price List
+Chief Flying Instructor's Page
+Graduates' List and Staff Alumni
+News Archives
+Staff and Administration
+Standard Operating Procedures
+Anonymous Operations Safety Reporting
+Anonymous Workplace Safety Reporting
+Flight Operations Safety Threats List
+Workplace Safety Threats List
+Maintenance Control Manual
+Maintenance Control Manual Documents Incorporated by Reference
+Flight Instructor Aircraft Responsibility
+Flight Operation Notices
+Authorized Persons' List
+Class IV Instructor Supervision Status
+Staff Meeting Minutes
+Staff Safety Training Record
+Staff Training Policy
+Aircraft Maintenance Supervisor Training Record
+Classroom Monitoring Evaluation Report
+Chief Engineer's Report of Student Pilot Maintenance Completion
+Student Enrolment Contracts
+Student Language Testing
+Request to Start Advanced Flight Training
+Flight Training Authorization
+Prior Learning Assessment Report
+Quality Assurance
+Staff Feedback
+Aircraft Improvements
+Facilities Improvements
+Service/Organization Improvements
+Safety
+Safety Management Systems
+Flight Rules and Safety Precautions
+Anonymous Operations Safety Reporting
+Contact Us
+Address & Map
+Contact Form
+Employment Opportunities
+Giving to Langley Flying School Students
+International Students
+Registration Form
+Flight Operations
+Flight Information Services
+Pre-flight information is obtained by the
+pilot from a NavCanada distribution network composed of regional Flight
+Information Centres (FICs).
+There are nine FICs in Canada—based in Kamloops,
+Edmonton, Winnipeg, London, Quebec City, Halifax, North Bay, Yellowknife, and
+Whitehorse—and the regional distribution of these centres is indicated in the
+depiction that appears to the right.
+Pilots can also obtain flight information from a Flight Service Station (FSS) located at specified
+airports, but FSS are primarily oriented to
+providing information services to pilots departing and arriving at the specific
+airport where they are located.
+The primary functions of the FIC is to
+provide pilots with access to emergency services, aviation weather information,
+flight planning administration, en
+route flight information, and
+airport advisory services.  The nearest
+FIC can be contacted using the toll-free number 1-866-WX BRIEF.
+When a pilot planning a flight communicates
+with the FIC, the pilot should begin by describing the planned routing, time, and
+altitude, and then request “a briefing”.
+In response, the Flight Service Specialist will convey all pertinent
+information pertaining to the flight, including weather, AIRMETs, NOTAMs, and
+PIREPs. 1   All of this information is
+published on NavCanada’s website— www.flightplanning.navcanada.ca —and
+where possible, pilots should review this data prior to contacting the FIC, and
+advise the Flight Service Specialists accordingly.  NavCanada has also established internet
+access to flight data through a series of
+Pilot
+Information Kiosks ,
+currently situated at 80 airports across Canada.  Kiosk locations are published on NavCanada’s
+internet site, and
+are also specified in the
+Canada Flight
+Supplement .
+En route Communication
+During a flight, pilots exchange updated
+information with the FICs via a network of
+Remote
+Communication Outlets  (RCOs), as well as radio communication equipment co-located at airports
+(see P. 189).  Currently, the frequency 126.7
+MHz is the frequency monitored by both pilots and FSS/FIC personnel for the
+purpose of in-flight communication (see P. 189), but owing to frequency
+congestion, frequency 126.7 MHz will be phased out by 2010, and replaced by
+the frequencies 123.275 MHz, 123.375 MHz, 123.475 MHz, and 123.55 MHz.  These frequencies shall be referred to as
+Flight Information Services En route  (FISE).  Remember, however, that
+all ATC and ATS units, including FSSs and FICs continuously monitor 121.5 MHz
+for the purpose of emergency communications.
+When contacting the FIC via radio for the
+purpose of obtaining in-flight information, pilots must transmit the following
+information:  aircraft identification, the
+name of the location of the RCO, followed by the expression “R-C-O” in
+non-phonetic format:
+Pilot:
+Pacific Radio,
+this is Cherokee Golf, Alpha, Bravo, Charlie on the Lytton R-C-O.
+To avoid confusion between Kamloops FSS,
+which administers information at the Kamloops Airport, and
+Kamloops FIC, which administers information for the Kamloops Flight Information
+Centre, the Kamloops FIC is referred to as
+Pacific Radio  for the purpose of radio communication (as
+indicated above).
+The frequencies 122.75 MHz and 123.45 MHz
+are reserved for pilot-to-pilot (air-to-air) communications.
+1
+AIRMET s pertain to unexpected changes in the weather conditions
+that were previously not published in the aviation forecasts;
+PIREPS
+are pilot
+reports pertaining to weather conditions observed by a pilot during flight, and
+communicated to FSS/FIC personnel on the ground.
+Weight
+and Balance
+A pilot cannot legally fly an aircraft
+unless:
+the aircraft is operated in
+accordance with the requirements of the
+Pilot Operating Handbook— including
+weight and loading limitations; 1
+the load is properly disposed
+in the aircraft; 2
+the cargo and equipment is
+secured to prevent shifting and the passenger exits are not blocked. 3
+There are various terms associated with
+weight and balance:
+Standard Weight Empty (Standard Empty Weight )
+is the weight of the airframe and engines with standard equipment, including
+unusable fuel and oil.  Essentially, this
+is the weight of the aircraft when it came out of the factory, before optional
+equipment was added.
+Basic Empty Weight
+is the weight of the aeroplane with
+the
+current
+equipment options (instruments, radios, interior
+features), excluding passengers, cargo and
+usable fuel ; depending
+on the aircraft manufacturer, basic empty weight sometimes includes full oil
+weight, and the pilot must examine the aircraft weight and balance list to
+determine if oil weight is included.
+Usable Fuel
+is aircraft fuel available for flight, while
+Unusable Fuel
+is fuel remaining in the tanks that is unreliable and cannot be
+used.
+Maximum Gross Weight
+is the maximum permissible weight of the aeroplane.
+Useful (Disposable) Load
+is gross takeoff weight, less basic empty weight.
+Operation Gross Weight
+is the weight of the aircraft loaded for takeoff ( Basic Empty
+Weight
+plus
+Payload Weight ).
+Requirements
+Before each flight, the pilot must ensure
+that the aircraft does not exceed the maximum gross weight.  The pilot must also determine the
+Centre
+of Gravity
+(C of G)
+of an aircraft before each flight to ensure it is
+between the maximum rearward and maximum forward positions (the
+C of G
+Range ).
+The C of G is the central balance of the
+aircraft—the point at which it could be suspended and remain balanced— and is
+calculated using the load “positions” or “stations” prescribed in the
+Pilot Operating Handbook
+and the actual
+load anticipated for an intended flight.
+Aeroplane manufacturers publish weight and
+balance limits, including the Standard Empty Weight in the aircraft’s
+Pilot
+Operating Handbook .  In addition,
+each aircraft has an
+Aircraft Weight and Balance Report
+which is kept with the aircraft documents; it provides the actual
+Basic Empty Weight (BEW) and C of G information for the specific aircraft,
+including changes in radio equipment and any other equipment or airframe
+changes since manufacture.  Typically, the
+aircraft documents will include a series of superseded reports, but only the
+latest report must be used for calculation purposes.
+In the Weight and Balance section of the
+Pilot
+Operating Handbook , data is provided for each “position” or “station” in
+the aircraft.  Specifically, the
+Pilot
+Operating Handbook
+data provides an
+arm
+for each station, which is the distance in inches from a
+predetermined
+balance datum line
+(the datum line is simply a reference line
+that allows measurement of longitudinal position of the stations).  Typically, station arms are provided for the front passengers, the second row passengers,
+the rear cargo hold, the forward cargo hold, and the fuel.  The weight and balance is calculated by using
+the station information and anticipated weight at each station, as well as the
+aircraft BEW and its corresponding C of G as derived from the Aircraft Weight
+and Balance Report.
+Procedure
+For each station item, the
+weight
+is
+multiplied by the
+arm  to establish (for each
+position) a
+moment .  To determine the aircraft C
+of G, the total moment (all station moments added together, including the BEW
+moment) is divided by the total weight.
+The sum, in inches, provides the C of G for the aircraft and is compared
+with the aircraft C of G “envelope” found in the
+Pilot Operating Handbook
+to determine if it is within limits.
+Item
+Weight (pounds)
+Arm (inches)
+Moment
+Basic Empty Weight
+1380
+85.0
+117,300 4
+Pilot and Front
+Passengers
+320
+85.5
+27,360
+Rear Passengers
+90
+117
+10,530
+Fuel (usable)
+180
+95
+17,100
+Baggage Area #1
+25
+133
+3,325
+Totals
+1995
+175,615
+C of G:
+175,615
+=
+88.0
+1995
+A computation table, such as appears above, helps simplify the calculations.  In
+this example, the total weight (1995 lbs.) is added up to ensure it is within
+the permissible limit; then the
+total moment (175,615) is divided by the
+total weight to provide the centre of gravity (88.0 inches);
+finally, this
+C of G number, along with the total takeoff weight of the aircraft, is checked
+against graphs found in the
+Pilot Operating Handbook
+to determine if the
+aircraft is within permissible limits.
+These graphs commonly depict the maximum
+aft C of G and the maximum forward C of G in relation to various takeoff
+weights.  In the sample graph that
+appears to the right, the maximum forward limit is 84 inches aft datum, and the
+maximum rearward limit is 96 inches.  To
+conduct a takeoff beyond these limits would be deadly.  Note also that the maximum takeoff weight—for
+this aircraft, 2150 lbs.—could only be used when the C of G is between 88.5
+inches and 96 inches; as the weight is reduced, the C of G must migrate forward
+of 88.5 to remain within the graph limits.
+Finally, note how this graph sets the legal limits for utility category
+manoeuvres, such as spins, or steep turns in excess of 45° bank (see
+discussions on P. 27).
+While the format of the above weight and
+balance graphic is typical of many aircraft such as the Piper Cherokee, there
+is a second format commonly used.
+In
+the
+Pilot Operating Handbook
+of Cessna aircraft, for example, the
+determination of the aircraft’s balance point does not include the calculation
+of the C of G
+directly ; instead the pilot determines the balance point by
+calculating the
+total moment
+of the aircraft—i.e., simply adding all the
+moments together—and then comparing this number with the aircraft’s total weight.
+In the above example we have used, the
+total moment was of course 175,615, a unit referred to as
+pound-inches .  Since this figure is
+commonly large and cumbersome, the number is typically divided by 1000; so
+175,615 lb-in. would become 175.615 lb-in/1000.
+(The unit names have the appearance of rocket science, but in fact it is
+all real simple stuff.)  It is the 175.6
+figure, along with the total weight of the aircraft (1995 lbs.), which is
+checked against graphs in the aircraft’s
+Pilot Operating Handbook .  As show in the graph that appears below, the information presented is more or less identical to that which
+appears in the previous weight and balance graph.
+To determine the pound-inches/1000 a second
+specialized graph is used which makes this format of weight and balance quite
+easy to calculate.  This second graph
+appears above, and you can see that each station—pilot and front
+passenger, Rear passenger, fuel, etc.—has its own reference line.  The weight for each station establishes a
+point on the reference line, and the station moment (lb-in/1000) is determined
+by extension of a downward vertical line.
+These can then be entered on a table, as shown below.
+Item
+Moment
+(lb.-inches/1000)
+Basic Empty Weight
+175.6
+Pilot and Front
+Passengers
+27.3
+Rear
+Passengers
+10.5
+Fuel (usable)
+17.1
+Baggage Area #1
+3.3
+Totals
+175.8
+There may be some confusion over the fact
+that 175.8 value appears in the above table instead of the 175.8 figure that is
+plugged into the graph above; the reason for this is that the last two digits
+are dropped when using the load-weight graph to the right—the difference is
+inconsequential.
+Actual passenger weights must be used in
+calculating weight and balance, but if these are not available, the following
+average passenger weights
+(published in the
+Aeronautical Information Publication ) can be used:
+Type of Passenger
+Summer Weight
+Winter Weight
+MALES (12 years and up)
+200 lbs. (90.7 kg.)
+206 lbs. (93.4 kg.)
+FEMALES (12 years and up)
+165 lbs. (74.8 kg.)
+171 lbs. (77.5 kg.)
+CHILDREN (2 – 11 years)
+75 lbs. (34.0 kg.)
+75 lbs. (34.0 kg.)
+INFANTS (less than 2 years)
+30 lbs. (13.6 kg.)
+30 lbs. (13.6 kg.)
+NOTE:
+On
+any flight involving a number of passengers whose weights, including carry-on baggage,
+will exceed the average weights listed above, the actual weights of such
+passengers are to be used.
+The
+weight of infants  must be added separately when the infant’s
+weight exceeds 10% of the adult responsible.
+Where
+carry-on baggage  is
+not involved or permitted, the weights for males and females may be reduced by
+13 lbs (5.9 kg.).
+In calculating fuel, aviation fuel weighs
+approximately 6 lbs. per US Gallon and oil weighs 1.95
+lbs. per litre.  One US Gallon
+contains 3.79 litres.
+Note that the
+Aircraft Weight and
+Balance Report
+for some aircraft includes oil, while others do not; where
+oil is not included, the oil station (including weight, arm, and moment) must
+be added to the pre-flight calculations.
+This can only be determined by examining the actual report, including the
+equipment/weight list included in the Report.
+Oil weights are published in the
+Canada Flight Supplement .  On occasion, oil is presented as a negative
+value in the weight and balance calculations (this appears in the table below),
+and this is because the location of oil is sometimes behind the datum line.  Not to worry, here, as the negative moment
+value for oil (-333 lb.-inches in the case above) is simply subtracted in
+reckoning the total moment value.  Negative
+values appear typically when the reference datum line is configured at the
+firewall (separating the engine and cabin compartments), but it is more common
+for designers to place the reference datum line at or near the spinner.
+Item
+Weight (pounds)
+Arm (inches)
+Moment
+Basic Empty Weight
+1380
+85.0
+117,300 5
+Pilot and Front
+Passengers
+320
+85.5
+27,360
+Rear Passengers
+90
+117
+10,530
+Oil
+22
+-15
+-333
+Fuel
+180
+95
+17,100
+Baggage Area #1
+25
+133
+3,325
+Totals
+2017
+174,949
+C of G:
+174,949
+=
+86.7
+2017
+.
+Weight, Balance
+and Performance
+The heavier the aircraft, the
+greater
+the lift
+required from the wing
+throughout the speed range .  Consider, for example, two identical
+aircraft, one lightly loaded and the second heavily loaded.  If both are flying at the same indicated
+airspeed, it is clear that the heavier aircraft must have a
+higher angle of
+attack
+(to produce the extra lift) than the lighter aircraft.  For a given speed, including speed just above
+the stall, it must be that the angle of attack of the
+heavier aircraft is
+closer to the critical stall angle of attack than the light aircraft —it
+follows, therefore, that the lighter an aircraft, the slower its
+stall
+speed .
+The same argument as above can be applied
+to
+fuel economy .  That is, the aircraft with
+a lower angle of attack for a given speed must have less induced drag and
+therefore less thrust (fuel burn) will be required.
+The location of the Centre of Gravity (C of
+G) with respect to whether it is forward or rearward also affects aircraft
+performance.  While an aircraft takes off
+with a specific ramp weight, once it leaves the ground the effective “negative”
+lift of the horizontal stabilizer has the effect of increasing the aircraft’s
+“aerodynamic weight.”  If a C of G is located
+forward, the negative lift of the tail will have to be increased to balance the forward
+weight, and as the negative lift is increased, the aerodynamic weight, overall,
+is increased.  Using the same reasoning
+as applied above with respect to weight in general, an aircraft with a forward
+C of G will have a higher stall speed than the aircraft with a rearward C of
+G.  A forward C of G loading, however,
+has an positive effect with respect to stability—an aircraft with heavy tail
+loading will be more stable in recovering from a pitch-down attitude as the
+associated acceleration will activate a greater amount of horizontal stabilizer
+weight, thereby making it easier to raise the nose.  Also, at the point of stall, a forward C of G
+will make recovery easier (the pilot has more pitch authority on the control
+column than is the case with a rearward C of G). 6
+These features, of course, are related to
+loading variations within limits.  An
+aircraft loaded outside limits is simply dangerous.  Always ensure weight and balance is within
+limits—if it is not and you have an accident, your insurance will not cover
+property or personal liability.
+Further Readings:
+Transport Canada's
+The Importance of Proper Weight and Balance
+Transport Canada's
+Take Five: Overloading
+1
+CAR
+602.07
+2
+CAR
+602.86 (1) .
+3
+CAR
+602.86(2).
+4
+This calculation of the moment is based on weight times arm—1380 ×
+85.0 = 117,300.  The unit of the moment
+is commonly referred to as
+pound-inches —e.g., 117,300 pound-inches.
+5
+This calculation of the moment is based on weight times arm—1380 ×
+85.0 = 117,300.  The unit of the moment
+is commonly referred to as
+pound-inches —e.g., 117,300 pound-inches.
+6
+See also discussion regarding the effects of C of G on the stall
+speed that appears
+Aerodynamics and Theory of Flight.
+Pressure and
+Density Altitude
+There are many occasions in which a pilot
+has to predict the performance of an aircraft—e.g., in planning a takeoff, in
+planning a climb over mountainous terrain, in predicting rates of fuel
+consumption, and aircraft performance with respect to speed.
+Generally, aircraft performance—in terms of
+lift generated by the wing, and thrust generated by the engine— decreases with
+an increase in ambient temperature and a decrease in ambient air pressure .
+The concept of
+pressure altitude
+allows us to take into consideration any variation in the ambient
+pressure.  We know that standard
+pressure—the pressure most likely to be encountered—is 29.92”Hg (inches of
+mercury) at sea level.  We also know that
+the pressure of the air normally decreases 1”Hg with an 1000’ increase in
+altitude.  Therefore, if we are at an
+airport with sea level elevation, and the current altimeter setting is
+2 8 .92”Hg, we can predict that the aircraft during the takeoff, for example,
+will perform as if it is doing the same takeoff at an airport with an elevation
+of 1000’, and performance will be degraded accordingly.  Conversely, if the altimeter setting were
+30.92”Hg—i.e., the pressure of the air is higher than normal or standard—the
+takeoff performance of the aircraft would be enhanced—as if the takeoff were
+conducted at an airport situated 1000’ under sea level where thick dense air
+(not water!) would provide better conditions for lift from the wing surfaces
+and thrust from the propeller and engine.
+Calculation of pressure is done by
+calculating the difference between the current altimeter setting and the
+standard altimeter setting.  This difference
+is then converted into feet, based on the given that
+1”Hg = 1000’ —this is referred to as the
+Standard Pressure
+Lapse Rate .  Accordingly, if the current
+altimeter setting is 30.12”Hg., we would calculate as follows:
+30.12 – 29.92
+= .2 .  Using the standard lapse rate,
+.2 is converted into 200’.  What do we do
+with this 200’?  The answer is that if we
+want to determine the pressure altitude for an airport, we must add or subtract
+the 200’ relative to the airport’s elevation.
+If we want to determine the pressure altitude of an intended altitude
+that we want to cruise at, we must add or subtract the 200’ relative to the
+planned cruising altitude.  The question
+of adding or subtracting the
+“correction value”
+is determined by whether
+the current air pressure is higher or lower than standard.  Since pressure decreases with altitude, and
+the current altimeter setting is higher than standard, we should subtract the
+200’.  Thus, if the airport elevation
+were 3427’, we can say that the airport’s pressure altitude is 3227’ for the
+purpose of determining takeoff performance, and if the planned cruising
+altitude were 6500’ we know that when we level off with 6500’ indicated on the
+altimeter, the aircraft will burn fuel and produce an indicated airspeed as if
+it had levelled off at 6300’.
+While pressure altitude provides a
+correction for pressure, it does not take into consideration the ambient
+temperature of the air—a factor that, on a hot day when performance of the
+aircraft is degraded, is far more critical.
+In factoring in the influence of
+temperature on aircraft performance we shift to the concept of density
+altitude —that is, the higher the temperature, the higher the density
+altitude.  Here we must use math, and the
+formula is as follows:
+Density Altitude = Pressure Altitude + (100
+´
+[actual temperature – standard
+temperature] )
+Okay, how you are asking “what the heck is ‘standard
+temperature’”.  The standard temperature
+at sea level is 15° C, and the
+standard temperature
+lapse rate
+is 2°/1000’ (actually 1.98° per 1000’, but the .02 that is missing never hurt anyone).  (The origin of the standard temperature lapse
+rate is discussed on
+Page
+140 )  What then is the standard temperature for an
+airport with an elevation of 2000’?  The
+answer is 11° C as, we know, temperature will
+decrease 2° C for every 1000’ increase in altitude
+(15-4=11).
+So we can see by the formula that density altitude will equal
+pressure altitude when the actual temperature is in fact the standard
+temperature for a given elevation or cruising altitude.  What is the standard temperature for an
+airport with an elevation of 4000’?  The
+answer is this: 4 ´ 2 = 8 and 15 – 8 = 7, or 7° C.
+Now we can go into action: What is the density altitude of an
+airport with an elevation of 4,500’ when the altimeter setting is 28.92”Hg.,
+and the temperature is 28° C.?
+Density Altitude = Pressure Altitude + (100
+´
+[28 – (15 - 9)])
+Density Altitude = 5,500’ + (100
+´
+[28 – 6)])
+Density Altitude = 5,500’ +
+2,200
+Density Altitude = 7,700’
+You can see how, with only a moderate
+increase in temperature, the performance of an aircraft can be extremely
+degraded—and a white-knuckle takeoff is truly something to avoid!  For this reason,
+Pilot Operating Handbook s
+publish various tables that enable a pilot to calculate performance
+characteristics at varying temperatures and altitudes.
+Instead of memorizing the above formula,
+consider the good news—density altitude can be readily calculated by spinning
+the wheel on the E6B, and the temperature and pressure factors are normally
+built into the performance charts published by an aircraft manufacturer’s
+Pilot Operating Handbook .  The graph that appears below is
+similar to that which appears on p. 9-1 of the Cherokee manual.  This graph is entered on the bottom with
+temperature (either in °F or °C—you E6B, by the way, is equipped with a
+conversion scale).  In the example shown
+on the graph, the temperature is 32° C, and the pressure altitude is
+3500’—figures that are common for summer departures from airports such a Calgary International Airport.  A reference line is extended
+straight up from the temperature scale to intercept the pressure altitude lines
+that run at an angle.  From this
+intercept point, a horizontal reference line is made directly to the density
+altitude scale which lies on the left side of the graph.  The density altitude for the departure is
+approximately 5500.’
+Takeoff Performance
+The performance of an aircraft during a
+takeoff—in particular, the length of runway required before the aircraft
+becomes established in a climb—can become critical in the case of short runways
+or when the outside temperatures become extremely hot.
+Takeoff data is commonly presented to
+pilots in the form of a graph, as appears above.  In the example shown, the graph is entered
+from the left, based on the airport’s density altitude.  A horizontal line is then extended from left
+to right, first to intercept the two ground-roll lines, the first for a lightly
+loaded aircraft, and the second dashed line for the aircraft at gross weight.  The line is then further extended to the
+right to intercept the 50’-obstacle lines, again with the two weights indicated
+by separate lines.
+When using takeoff performance graphs such
+as this, it is crucial to know that the ground roll data is something to be
+virtually ignored.  Only when an aircraft
+reaches an altitude of 50’ will its climb performance be stabilized and
+predictable.  While the example shows
+that the aircraft will become airborne at about 1100’, it will not be able
+climb significantly away from the runway surface (and 50’ is not a lot of
+clearance) until it has travelled another 1100’.  The rule of thumb, therefore is always to
+discard the ground roll numbers, and to instead use the
+clearance over 50’
+when assessing the success of a takeoff.
+Note also that the fine print must be
+carefully read.  The performance values
+determined from this graph will only apply if the flaps are set to 0° (the
+application of up to 25° flaps will increase aircraft performance and decrease
+takeoff distances), the runway is paved, level, and dry, and there are no winds
+(a headwind would increase aircraft performance also).  What can we do if we are faced with a wet or
+grass runway?  There is no direction
+provided by the manufacturer in this case, but we can refer to general recipe rules
+that appear in
+From the Ground Up
+(see the section entitled
+Take off
+Performance Charts
+in Part 5,
+General
+Airmanship .  Here is a summary of
+some of these rules:
+A 10% reduction in takeoff
+distance can be applied for every 9 KTS of
+headwind , and a 10% increase can be applied for every 2 KTS of
+tailwind .
+A 15% increase in takeoff
+distance can be applied to
+dry grass
+runways ;
+runway contaminants  such as long grass, sand, mud, slush, standing
+water, or snow can easily double the takeoff distance.
+A 10%
+decrease in
+weight  will result in a 10% decrease
+in the takeoff roll, while a 10%
+increase
+in weight
+will result in a 20% increase in the takeoff roll.
+It is not uncommon for the aircraft
+manufacturer to produce a takeoff performance table, instead of a graph, as
+indicated below.  This table
+presents data for takeoff weight of 2300 lbs., and in fact the table will
+include additional rows showing data for different weights (which has been
+excluded here).
+The interpretation of tables like this
+often involve interpolation.  For example, if the
+pressure altitude is 2500’, and the temperature is 10° C, the total distance
+required to clear a 50’ obstacle will be the median (or
+middle ) point between 1780’ and 1945’—what is 1862.5’, rounded up
+to 1863’.  The interpolation process can
+also require an second adjustment; consider, for example, if the pressure
+altitude is 2500’ and the
+temperature is 35° C.
+To determine the 50’-obstacle distance in this case, you have to find
+the median (middle point) between four numbers—2030, 2180, 2235, and 2395.  The interpolation of this—which works out to 2211’—is shown below.
+In some cases, interpolation can be
+complicated, as you are not always selecting the median.  In these cases,
+just eyeball the table to
+come up with your estimate.  The
+difference of a few feet won’t make the
+difference—if the takeoff surface is
+marginal for one reason or another, you wouldn’t take the
+chance anyways.
+Like the graph data, the table data
+contains fine-print information which must also be read carefully, but a final
+note should be made with respect to this table concerning the affects of
+temperature.  Take a look at the
+difference between the distances required for a sea-level takeoff at 0°C and a
+sea-level takeoff at 40°—an increase in excess of 20’.  Similarly, observe the effects of altitude on
+takeoff performance.  Conducting a takeoff at 5000’ requires almost
+twice the distance of a takeoff conducted at sea-level.
+Airspeeds
+The airspeed at which the aircraft is
+travelling through an air mass is referred to as
+true airspeed  (TAS).
+Unlike a car where the speed of travel
+relative to road surface is displayed accurately on the speedometer, the true
+airspeed of an aircraft cannot be accurately displayed owing to the effects of
+air pressure, temperature, and instrument error.
+To reckon with these variable effects on
+true airspeed, we differentiate between two additional types of airspeed— calibrated
+airspeed  (CAS) and indicated airspeed
+(IAS).  TAS is determined by the
+manufacturer of a certified aircraft when it is built, and the TAS performance
+values for the aircraft are published in the form of a graph or table in the
+Pilot Operating Handbook .
+To be as accurate as possible, the manufacturer
+factors in speed variations for temperature and pressure.  Some aircraft graphs require that you enter
+density altitude (see discussion P. 94), while other graphs require that you enter pressure
+altitude and temperature separately.  The
+example of the cruise performance graph that appears above is similar
+to that which appears in the Piper Cherokee. This graph assumes that the
+aircraft is flown at gross weight (2150 lbs.), and that wheel fairings are not
+fitted to the aircraft’s undercarriage.
+With aircraft flown at a lighter weight, it travels faster than the
+speeds indicated in this graph, although we are not told how much faster.  If the wheel fairings are installed, we must
+add 3 MPH.  The example shown on the
+graph shows that a 75% power setting at a density altitude of 2500’ will
+produce a speed of approximately 125 MPH.
+What is a 75% power setting?  Good
+question.
+Cruise Power Setting
+So we can see now how we determine TAS from
+performance graphs in an aircraft
+Pilot
+Operating Handbook —in the above graph, for the Cherokee, for example—but
+the question now arises as to the notion of
+percentage
+of power .  To successfully predict
+TAS, the aircraft manufacturer has to enable the pilot to connect the
+instruments in the aircraft cockpit with the percentage of power used, and this
+of course is done with the RPM gauge—the speed at which the
+engine and propeller are turning.  To do
+this, the pilot must refer to another graph (there are many!) as appears below.   In the example indicated on this
+graph, 75% power can be established at an altitude 2500’ by setting the
+throttle slightly above 2400 RPM.  In
+fact most pilots regard 2400 RPM to be the ideal power setting—engine wear is minimized, yet we retain the speed
+advantage of flying with a higher TAS.
+As altitude is increased, however, 2400 RPM will not produce the full
+75% power.  As can be seen in this graph,
+2400 RPM at 10000’ will only produce slightly under 60% power, and this, in
+turn, means that TAS will be reduced from approximately 125 MPH to just under
+120 MPH .
+Overall, these graphs will feel somewhat
+foreign at first, but very quickly you will develop a sense of comfort—if only
+because their use is repetitive.
+Fuel Consumption
+On July 16, 2009, a
+Cessna 172P
+was on a VFR flight from
+Tofino, B.C., to Victoria, B.C. During the flight down the west coast of
+Vancouver Island, the pilot encountered fog along the coast and diverted inland.
+In the vicinity of Cowichan Lake Village, B.C., the engine sputtered and lost
+power. The pilot transmitted a MAYDAY call on 121.5 MHz and made a forced
+landing on the highway, midway between Lake Cowichan Village and Youbou, B.C.
+While on short final for the road, the pilot saw power lines crossing the road
+and elected to go under them. The aircraft touched down hard, bounced, and the
+left wing hit a hydro pole. The aircraft went off the left side of the road,
+into a ditch, and nosed over. The aircraft was substantially damaged but the
+three occupants were uninjured. Although the ambient temperature was high,
+conditions were conducive to the formation of carburetor ice. When the aircraft
+was recovered, it was determined that both fuel tanks were dry. No evidence
+could be found of fuel draining out of the tanks (no smell of fuel or sign of
+fuel spilled on the ground). The aircraft had flown 2.7 hr since leaving
+Victoria with 30 U.S. gallons of fuel on board.
+TSB File A09P0201 .
+There is another crucial concept related to
+the cruise power settings of an aircraft, and that is
+fuel consumption.  It is absolutely
+critical to a pilot’s skill set that the fuel consumption be predicted accurately.  In this regard, the graphs for the Cherokee
+are straight forward.  Inserted into the
+Range
+graphs for the Cherokee (see Pp.
+9-6 and 9-7 of the
+Pilot Operating
+Handbook ) is the table which appears below.   This table, small and simple as it is,
+provides the only data presented to the pilot regarding fuel consumption
+requirements—with the power set to 75%, the aircraft will burn fuel at a rate
+of 8.4 gallons per hour (GPH)—in the case of the Cherokee, the unit is U.S.
+gallons.  While the 8.4 GPH figure
+applies to a throttle setting of 2400 at an altitude of 2500’, the same
+throttle setting up at 10000’ will in fact
+consume less fuel—approximately 6.2 GPH.
+The reduced fuel consumption for the same throttle setting at higher
+altitude is primarily the result of leaning—the higher you go, the more you
+will have to lean in order to maintain the optimal fuel/air mixture of 1:15. 1
+There are three additional considerations
+related to fuel consumption.  Firstly,
+the predictions made by the manufacturer in the above table are based on
+performance testing of a brand-new Cherokee with a brand-new paint job and a
+brand-new engine.  Obviously, the same
+level of aerodynamic and engine-thrust efficiency will not occur in a working
+Cherokee that has accumulated lots of air time.
+Secondly, the above table is presented by the manufacturer on the basis
+of specified assumptions or preconditions.
+In the case of the Cherokee, the fuel consumption rates assume the
+aircraft is flown at maximum gross weight and that the mixture be set to best
+economy setting.  If the actual weight of the
+aircraft is less than maximum gross the rate of fuel consumption will be
+somewhat reduced; if the mixture control is set richer (more fuel) than best
+economy, the rate of fuel consumption will be higher.
+1
+See discussion regarding
+fuel mixture control .
+Fuel, Distance and Time to Climb
+A final consideration related to fuel
+consumption relates to the fuel required to climb to altitude.  While climb fuel consumption rates are insignificant in the case
+of short or brief climb segments, climb fuel becomes very significant in the
+case of extended or prolonged climb segments.  It is considered generally accurate to plan
+fuel requirements for a trip with the assumption that the fuel burn rate during
+the climb segment is
+double
+that of fuel burn rate during
+cruise.
+In the case of the Cherokee, the
+Pilot Operating Handbook
+does not
+provide any definitive data on the rates of fuel consumption during a
+climb.  We could extrapolate from the rate
+of consumption for 75% power (8.4 GPH) and say that the 100% power would be
+10.3 GPH (25% of 8.4 is 2.1, and this could be added to the 8.4 figure), but
+there is no direction from the manufacturer to do this, and it leaves us
+uncomfortably below the climb rates of fuel consumption one might come to
+expect based on experience with piston aircraft.  While the 75% power rate of 8.4 GPH is based
+on best economy mixture settings,
+aggressive leaning to this extent during a climb could cause engine damage.
+To resolve the climb fuel consumption issue in the case of the
+Cherokee, we assume
+double
+the cruise
+consumption rate of 8.4 GPH—so the climb rate is 16.8 GPH—and we determine the
+time required to climb using the climb performance graph similar to that appears below.
+In using this graph, two rates of climb are
+determined, one being the rate of climb expected at the bottom of the climb—in the
+example show, from an airport located at an elevation of 2500’—and the other
+being the rate of climb expected at the top of the climb—in
+the example, a cruising altitude of 9500’ is planned.  From these two rates, the average rate of
+climb is calculated—e.g., 340’ per minute.
+At this rate, it will require approximately 20 minutes to complete the
+climb.  Once this time-to-climb is known,
+the pilot can determine the fuel required (based on, in the case of Cherokee,
+16.8 GPH), and the distance flown (based on 20 minutes at a speed of 74
+NM).
+It is only after we make such climb
+calculations that we can then make determinations for the fuel and time
+required for the cruise portion of the flight, since the distance to be covered
+in cruise flight is the total distance from the departure airport to the
+destination airport, less the distance required to climb.  As a rule, allowance for
+the effects of wind is not factored into climb speed.
+The Cherokee method for calculating fuel,
+distance, and time to climb is relatively simplified in that it is based on one
+figure—the aircraft’s rate of climb.
+Many aircraft
+Pilot Operating
+Handbooks , however, present a more detailed and accurate graph which the
+pilot uses to do the math.  The graph
+which appears below in based on the climb performance chart found in
+the Piper Lance, a big sister for the Cherokee 140 that seats seven people, has
+retractable gear, and is pulled along by a big 300 horsepower engine (the Piper
+Lance achieves speeds during flight that are similar to the twin engine Piper
+Seneca).
+As can be seen from this graph, the pilot
+has to calculate the fuel, distance and time to climb from sea level to the
+proposed cruising altitude; from these values, the pilot must then subtract the
+fuel, distance and time required to climb from sea level to the height of the
+departure airport.
+The calculations which appear on this graph
+show the results for a planned climb to 10500’ from a airport of departure with
+an elevation of 10500.’
+Landing
+Errors
+Wheelbarrowing —danger in tricycle gear aeroplanes, caused by pilot placing too
+much weight on nose gear with forward control pressure; during takeoffs, this
+occurs when the pilot attempts to excessively hold the aircraft on the ground;
+during landings, it occurs commonly in combination with full flaps and
+excessive speed—again excessive attempts are made to hold the aircraft on the
+ground, and braking power is reduced as the main gear lacks weight.
+Solution:
+Go around.
+Balloons and Bounces —excessive back
+pressure during the flare for landing; the aircraft is caught gaining height
+above the runway at near-stall speeds—if the aircraft is then dropped onto the
+runway a bounce will be produced.
+Solution :
+Go around or, if safe, add power to
+re-establish the flare .
+Porpoising —aircraft is bounced back and forth on the nose and main gear,
+caused by improper landing attitude and excessive speed.  Smoothly regain the correct landing attitude and add power to become
+airborne again— go around .
+Landing Illusions
+Rain on the windshield
+causes a distortion—refraction—that
+makes terrain appear lower than it actually is—a hilltop ½ mile away may appear
+200’ lower than it actually is.
+Also, landing on a upslope runway presents a similar illusion—that
+you are higher than what you actually are.
+Here is a summary of the landing illusions that pilots can experience:
+Situation
+Illusion
+Outcome
+Runway narrower than usual
+Too high
+Tendency to flare late
+Runway wider than usual
+Too low
+Tendency to flare early
+Runway slopes up
+Too high
+Tendency to make low approach
+Runway slopes down
+Too low
+Tendency to make high approach
+Terrain before runway is higher
+Too low
+Tendency to make high approach
+No lights before runway at night (black-hole)
+Too high
+Tendency to make low approach
+Air very clear at night
+Closer to airport than actual fact
+Tendency to descend too early
+Smoggy or hazy air
+Farther from airport than actual fact
+Tendency to descend too late
+Precision
+Approach Path Indicators (PAPI)
+PAPIs are commonly found at airports, and they provide the pilot with
+precise visual feedback with respect to the position of the aircraft on
+glidepath prescribed for the
+airport.  They are especially useful for
+night approaches, where the ever-present risk is for the pilot to allow the
+aircraft to inadvertently descend below the glide path into the “black hole”
+that sometimes exists below the final approach path when there are little or no
+ground lights.
+Two types of PAPIs are commonly used—a two-light presentation, and a
+four-light presentation (aboved).  “On-glide”
+indications are provided when the PAPI lights are evenly split—one-half are
+red, and the other half is white ( “red and white, you’re all right” ).  An all-white PAPI display indicates the aircraft
+is high on the glidepath, while all-red display indicates the aircraft is low ( “red
+and red . . you’re dead” ) .
+Landing Rules of Thumb
+As a rule, landings airspeeds
+should be 1.3 times the aircraft’s power-off stalling speed (calibrated) in a
+landing configuration (V so )—i.e., full flaps, and gear down (if
+applicable).  The airspeed should only be
+flown after all manoeuvring for landing is completed—thus it only applies to
+“short final” phase of landing, beginning at the midpoint of the final approach
+leg.
+Note that this rule does not apply to all
+aircraft; as the landing speeds in some aircraft may be prescribed in
+Pilot
+Operating Handbook
+without variation.
+Note additionally that the 1.3 V so
+rule applies to stalling speeds for the
+actual
+weight of the
+aircraft, as per the stalling speeds found the aircraft’s
+Pilot Operating
+Handbook .  Without this information,
+however, weight adjustments to the final approach airspeed can be made: reduce
+V so
+by one-half the percentage to which the aircraft is loaded below
+the gross weight.  For example, if an
+aircraft has a V so
+of 50 KTS, the short final is normally flown at
+65 KTS calibrated.  If, however, the
+maximum gross weight is 2100 lbs., and its actual weight is 1800 lbs., its
+approach speed should be further reduced by approximately 7% (one-half of
+14.29%)—instead of 65 KTS, the approach should therefore be flown at 61 KTS
+(60.45 KTS to be precise).
+When landing in gusting conditions, the final approach speed should be increased by one-half the
+gust
+velocity .
+Crosswind Landing Limitations
+Approximately 10% of all light Canadian
+aircraft accidents are attributed to pilots’ inability to control the aircraft
+during crosswind landings.
+Using crosswind chart (found in the
+Canada
+Flight Supplement ), winds anticipated during a landing can be broken down
+into two portions: the headwind component, and
+the crosswind component.  The crosswind component is
+used to predict aircraft performance.
+Students should be readily familiar with the use of these graphs.
+As a rule, North American aircraft are
+designed to withstand a maximum crosswind equal
+to 20% of the aircraft stall speed; this figure, however, is conservative as a
+skilled and proficient pilot is typically able to land with crosswind
+components equal to 30% of the stall speed.
+Students often error with respect to the
+proper conversion of winds reported in “magnetic” degrees, and winds reported
+in “true” degrees.  Just remember that
+only the winds communicated by a control tower or by ATIS (recorded airport
+information transmitted on a radio frequency) is in “magnetic” degrees; all
+written weather reports regarding winds, including airport terminal forecasts,
+describe the winds in “true” degrees, and must therefore be converted to
+“magnetic”.  Remember that a runway heading
+is based on “magnetic” degrees in the Southern Domestic Airspace.
+Mid-air Collisions
+1
+A small percentage of these accidents occur head on;
+nearly all occur in daylight hours in VFR conditions within 5 nautical miles of
+an airport, usually in the traffic circuit.
+A pilot is five times more likely to have a mid-air collision with
+an aircraft flying in the same direction than with one flying in the opposite
+direction.
+If an approaching aircraft appears
+fixed , you are on a
+collision course; if the approaching aircraft has movement, there is no risk of
+collision.  Be sure you do not turn the
+wrong way.
+Never turn, climb, or descend into a blind spot.
+During flight, the critical areas to scan are 60° left and right of the flight path and 10° above and below.
+Further Readings:
+AOPA's Collison Avoidance
+Bird Strikes
+d Strikes
+Since 1912, 200 deaths have resulted from bird strikes on aircraft.
+The greatest risk is in flight below 2,500’ where 99% of all bird
+strikes occur.
+The faster the aircraft the greater the risk—up to 80-90 KTS, birds
+have time to get out of the way.
+The greatest risk is during March and April and during September and
+October, when bird migration occurs.
+If you see birds ahead of you attempt to pass over, rather than
+under, as birds dive downward when threatened.
+Anticipate that a bird striking the windscreen will penetrate; use
+the instrument panel as a shield, anticipate blood and guts, and remember to
+fly the aircraft.
+All bird strikes are to be reported; see the RAC Section of the
+AIP .
+Flight over Water, Whiteouts, and Mountain Flying
+Flight over Water
+Common sense is to wear a life jacket whenever your aircraft is beyond gliding distance from shore.  Ditching in
+water will create panic among already traumatised pilot and passengers as
+icy-cold water floods what will likely be an inverted cockpit.  The dark cabin will be full of debris, loose
+wires, cables and seatbelts, making the retrieval of life jackets after
+ditching virtually impossible.
+The key is remaining calm.  Do not release your seatbelt until you are
+ready to exit the cabin.  Locating the
+exit handle will be difficult while upside down in murky water, so locate the
+exit handle while still in your harness.
+Even with the water pressure equalized on both sides, the door could
+still be difficult to open, so be prepared to push hard.  If unsuccessful, force a window by anchoring
+yourself firmly, pushing out against the window with both feet.  Once the door is open, never let go of the
+handle until you are out; should you let go, you may not be able to locate it
+again.  Therefore, release your seatbelt
+while holding the handle and pull yourself out (do not kick as someone may be
+behind you).  If you get stuck, do not
+panic; back up and turn a little, then try again.  Once you are clear of the aircraft, inflate
+your lifejacket (if you inflate your life jacket in the cockpit, this could
+impede your egress).
+Further Readings:
+Transport Canada's
+Importance of Underwater-Egress Pre-Flight Briefing for Passengers
+AIM : Flight Operations over Water
+Whiteout
+The lighting associated
+with
+whiteout conditions
+is
+such that the terrain is virtually devoid of visual clues.  The eye can no longer discern the surface or
+terrain features.  There is a uniform
+white glow without the normal spatial indicators such as shadows, horizon, or
+clouds.
+Whiteouts occur whenever
+unbroken snow-covered terrain lies below a uniformly overcast sky whereby the
+light from the sky is about equal to the light from the surface.
+The danger of
+controlled
+flight into terrain
+(know
+as CFIT ) in
+whiteout conditions is especially high when a pilot does not recognize the
+condition.  When recognized, immediately
+climb and turn toward areas where sharp terrain features exist—be prepared to
+transition to instruments.
+Further Reading:
+Transport Canada's
+Coming to a Theatre near you: Whiteout
+Mountain
+Flying
+Mountain flying
+presents increased risks.  Never fly in
+the mountains without extensive pre-flight planning and a thorough weather
+briefing.  Here are some rules of thumb
+derived from
+Tips on Mountain Flying
+published by Transport Canada,
+Aviation Safety:
+Flight routing should be
+arranged to avoid topography that could prevent a safe landing.
+Flight routing should be along
+populated areas and well-known mountain passes.
+Sufficient altitude should be
+maintained at all time so as to enable a power-off glide to a safe landing
+area.
+VFR Navigation Charts
+(VNC) should be used rather than
+World Aeronautical Charts
+(WAC) as they provide greater detail for air pilotage; the
+routing, including ground clearances, should be carefully studied before
+flight.
+When faced with a “sea of
+mountains,” believe your compass (bearing in mind compass irregularities) as it may be your only means of getting out of trouble.
+Do not fly when the winds are at
+or below mountain peak level, or
+at your intended cruise altitude, are above 30 KTS.  Winds above 20 KTS should be avoided.
+In anticipation of possible
+down drafts, always cross a mountain ridge at a 45° angle so as to allow a turn away from
+the ridge.
+Know the wind direction at all
+times, and be on the lookout for changes in wind direction and velocity.
+Never fly in the vicinity of
+abrupt changes in the terrain, such as cliffs or ridges as they can be
+associated with severe turbulence.
+In anticipation of downdrafts
+and severe turbulence, cross mountain ridges at maximum altitude, and
+never with less than 1,500’ separation.
+Anticipate downdrafts on the
+leeward side of mountains, and
+updrafts on the windward side;
+anticipate downdrafts between 1,500’ and 2,000’ per minute.
+Do not panic if a downdraft is encountered; they usually cease with sufficient height above
+ground that will enable manoeuvring safely away.  Do not count on this, however, in extremely
+turbulent air or in canyon areas.
+If you encounter a severe
+downdraft, use full power and maintain the best rate of climb speed for the
+altitude at which you are operating; being cautious of the stall speed, attempt
+to fly to an updraft or smooth air.
+Remember that the actual
+horizon is near the base of distant mountains; improperly using the mountain
+peaks as the horizon will place the aircraft in a slow-flight attitude unable
+to climb.
+Never fly up the middle of a
+canyon; instead, fly along one side or the other in case a 180-degree turn is
+required.
+If possible, fly up the right
+side of a canyon in anticipation of other aircraft flying in the opposite
+direction.
+Beware of flying up canyons,
+valleys, and passes where the rise in terrain could exceed an aircraft climb
+capability.
+Beware of flying below a cloud
+ceiling in mountain passes—while the cloud base could be constant, the distance
+between the cloud base and the ground could decrease owing to rising terrain.
+Further Readings:
+Transport Canada's Tips of Mountain Flying Part I
+Transport Canada's Tips on Mountain Flying Part II
+Transport Canada's
+Looking Back: Flying into a Mountain Trap
+Be Prepared!
+Some time back, a
+student of ours, who was also an Airworthiness Inspector with Transport Canada, brought in a letter written by a pilot who
+experienced a near-fatal flying accident during a mountain flight in the summer
+of 1997.  Copies of the letter were made
+and distributed to the class, and the effect on those of us reading it was
+dramatic to say the least.  So the
+lessons learned by this pilot can be passed on to newer generations of pilots,
+the letter is included below.  The
+writing is unedited, and appears as it was written.  As the author writes, if the letter stops any
+one of us from repeating the mistakes that were made, the experience will have
+at least some worthwhile benefit.
+There are many
+messages or lessons to derive from this, but perhaps the most important is to
+be prepared
+to go down , especially in the mountains.  While the author demonstrates preparedness in
+many respects—equipment taken on board the aircraft, the use of flight
+planning, etc.—strong criticism must be directed at the decision to press on in
+bad weather, and the decision to enter cloud as a desperate attempt to remedy
+the situation.  There is
+never
+a
+circumstance in flying where a VFR pilot must fly on into poor weather.  The loss of visual reference during a
+VFR flight is likely a case of poor planning, and is always associated with
+poor decision-making.  All pilots are
+trained to perform precautionary landings on unprepared landing surfaces, and
+by losing sight of ground, the author gave up this last resort.  Here, then, is the story:
+ON
+THURSDAY 21 ST
+OF AUGUST 1997, AFTER GETTING A WEATHER REPORT FROM
+WILLIAM’S LAKE FLIGHT SERVICES, I FILED A FLIGHT PLAN.
+THE TRIP WAS MEANT TO TAKE US TO EDEN NORTH, ALBERTA, WHICH IS 45 KILOMETERS WEST
+OF EDMONTON.  I FILED MY
+ROUTE DIRECT TO EDSON, ALLOWING A STOPOVER THERE OF ONE HOUR AND THEN ON TO EDEN NORTH.  I HAD FULL FUEL ON BOARD (4 ½ HOURS), 2
+PASSENGERS, CHRIS DANTON AND BENNO HEGGLIN AND MYSELF, STEVE RANDELL, THE
+PILOT.
+WE HAD
+A MINIMAL AMOUNT OF BAGGAGE, INCLUDING OUR SKYDIVING GEAR, AS WE WERE HEADING
+FOR THE CANADIAN NATIONALS.  I HAD
+ESTIMATED THE PLANE’S GROSS WEIGHT AT 2630 LBS AND WAS WITHIN THE MAXIMUM
+WEIGHT LIMITS FOR THE CESSNA 182.  MY
+PLANE WAS CONFIGURED FOR SKYDIVERS, WHICH MEANS THERE IS ONLY A PILOT’S SEAT IN
+THE PLANE.  THE PASSENGERS SIT ON A HIGH
+DENSITY FOAM FLOOR MAT AND HAVE LEG STRAPS INSTALLED IN THE FLOOR TO SECURE
+THEM.  THE PASSENGER DOOR OPENS UP INTO
+THE WING.  THERE IS A BAR ATTACHED TO THE
+FLOOR AND INTO THE SOCKET WHERE THE SECOND CONTROL YOKE WOULD NORMALLY BE.  THE FRONT PASSENGER CAN COMFORTABLY LEAN BACK
+AGAINST THIS, FACING THE REAR OF THE PLANE.
+THE SECOND PASSENGER SITS DIRECTLY BEHIND THE PILOT’S SEAT, ALSO FACING
+TO THE REAR OF THE PLANE.
+WE
+WERE AIRBORNE BY 7:15 A.M., OPENED OUR FLIGHT PLAN IN THE
+AIR WITH WILLIAM’S LAKE AND STARTED OUR TRIP.  OUR ROUTE
+WOULD TAKE US DIRECTLY OVER CANIM LAKE, MAHOOD LAKE AND MYRTLE LAKE TO THE NORTH OF BLUE RIVER AND OVER THE ROCKIES TO EDSON.
+OVER
+MYRTLE LAKE LAYERS OF CLOUD WERE MOVING AROUND AT
+ALL LEVELS OF FLIGHT BUT GAVE ME NO CONCERN AS THE GROUND WAS ALWAYS VERY
+VISIBLE.  COMING OVER THE NORTH THOMPSON
+WE WERE AT 6000 FEET ABOVE SEA LEVEL, THE CLOUDS WERE BROKEN AND SEEMED TO BE
+MOVING CONTINUALLY, WITH THE UPPER WINDS BEING IN THE 20 KNOT RANGE BLOWING
+FROM THE EAST.
+I
+DECIDED TO CIRCLE BLUE RIVER AND “HANG TOUGH” FOR A FEW
+MINUTES TO SEE IF IT WOULD GET WORSE OR BETTER.
+WE HAD THE TOWN OF BLUE RIVER AND THE RUNWAY IN FULL
+VIEW.  LOOKING SOUTH DOWN THE THOMPSON I
+HAD CLEAR VISION THROUGH THE LAYERS OF CLOUDS WITH A CEILING ABOVE ME OF ABOUT
+1000 FEET, BUT WAS AWARE THAT THE VALLEY BOTTOM APPEARED TO BE “FOGGED IN” BUT
+FULL OF HOLES.
+AT
+THIS POINT I DECIDED I WOULD FLY THE VFR ROUTE TO VALEMONT AND FOLLOW THE
+HIGHWAY THROUGH THE ROCKIES.  THERE WERE LOW CLOUD CELLS OVER
+THE HIGHWAY BUT THE ROAD WAS VERY OBVIOUS.
+TEN TO FIFTEEN MINUTES NORTH OF BLUE RIVER, THE WAY AHEAD SEEMED TO BE
+CLOSING AND THE WEATHER SYSTEM BECOMING VERY ‘IFFY” VFR.
+I TOLD
+CHRIS AND BENNO WE WOULD BE HEADING BACK TO KAMLOOPS.  I TRIED NOTIFYING FLIGHT SERVICES ON 126.7 TO
+INFORM THEM OF MY DECISION, BUT GOT NO RESPONSE.  I THEN DID A 180 DEGREE TURN.  I ENTERED GOTO CYKA (KAMLOOPS) INTO MY GPS TO GIVE US THE
+QUICKEST ROUTE.
+THE
+ROAD BELOW WAS GETTING HARDER AND HARDER TO SEE AND IT BECAME APPARENT I WAS
+NOW FLYING BETWEEN SOME MAJOR CLOUD LAYERS.
+WE CIRCLED IN THIS SPACE FOR TWENTY TO THIRTY MINUTES, OCCASIONALLY WE
+WOULD SPOT A TINY HOLE AND THE HIGHWAY WOULD BE MOMENTARILY VISIBLE.  ALL OTHER AVENUES WERE BLOCKED.
+IT WAS
+OBVIOUS TO US THAT WE MUST BE CLOSE OR EVEN OVER BLUE RIVER.  WE KNEW THAT THESE CELLS WERE NOW CLOSING
+OVER AND THAT WE WOULD SHORTLY BE ENGULFED IN THEM.
+I
+ASKED BENNO, WHO HAD THE VFR MAP IN HIS HAND, TO GIVE ME THE HIGHEST POINT TO
+THE WEST OF HIGHWAY 5.  THIS HE DID.  I HAD REALIZED THAT WE WERE GOING TO BE IN
+THE CLOUDS ANY SECOND AND HAD DECIDED THAT IF WE COULD FLY THE KAMLOOPS TRACK
+AT AROUND 8000 FEET ABOVE SEA LEVEL WE WOULD CLEAR ALL OBSTRUCTIONS.  I ALSO HAD IT IN MY MIND THAT THESE WERE
+MOVING CLOUD CELLS AND THAT IT WOULD NOT BE LONG BEFORE WE BROKE OUT OF THEM.
+I TOLD
+CHRIS AND BENNO THAT WE WOULD BE FLYING IN THE CLOUDS, AND THAT I WAS NOT HAPPY
+ABOUT IT AT ALL.  TO ENTER CLOUDS WAS NOT
+MY CHOICE:  THEY CLOSED AROUND US AND I
+KNEW NOW THAT I WOULD HAVE TO
+CONCENTRATE ON INSTRUMENTS.
+I WAS
+CLIMBING AT 400 FEET PER MINUTE AT 110 MILES PER HOUR.  I WAS RELAXED AND IT SEEMED TO ME THAT THINGS
+WERE GOING WELL.  I KEPT THE WINGS LEVEL
+WITH THE ARTIFICIAL HORIZON AND KEPT SWEEPING THE OTHER GAUGES WITH MY EYES.  I WAS APPREHENSIVE, BUT CONVINCED MYSELF I
+COULD DO THIS.  I SHOULD MENTION THAT MY
+GPS IS A HANDHELD THAT I HAD MOUNTED MYSELF JUST HIGHER THAN THE TOP OF THE
+DASH.
+WE HAD
+STARTED OUR CLIMB AT 6000 FEET AND WERE AT 7800 FEET ABOVE SEA LEVEL WHEN I
+THOUGHT I SHOULD CHECK THE TRACK AND BEARING TO KAMLOOPS ON THE GPS.  UP UNTIL THIS POINT I HAD REFUSED TO LET
+MYSELF LOOK OUT OF THE WINGSHIELD.
+I
+LOOKED UP AT THE GPS AND AT THE SAME TIME LOOKED OUT OF THE WINDSHIELD.  I CAN’T TELL YOU WHAT I EXPECTED TO SEE,
+PROBABLY BLUE SKIES AND A HORIZON!  I
+BECAME VERY QUICKLY DISORIENTATED AND JUST WANTED THE PLANE TO STOP.
+THE
+COMPASS WAS CONTINUALLY SPINNING EAST, AND I INFORMED BENNO AND CHRIS THAT I
+DIDN’T UNDERSTAND WHY I COULDN’T MAKE THE PLANE GO SOUTH.  I LOOKED AT MY AIRSPEED, IT WAS BELOW 30
+MILES PER HOUR.  I KNEW WE WERE EnTERING
+A STALL, MAYBE A SPIN, I PUSHED THE NOSE DOWN.
+I TOLD
+THE GUYS I HAD SCREWED UP AND THAT I WAS SORRY; I DID NOT EXPECT THAT WE COULD
+RECOVER FROM THIS, BEING IN SUCH DENSE CLOUDS WITH NO REFERENCE POINTS.  I STARED BACK AT THE INSTRUMENTS.  THE AIRSPEED WAS HORRENDOUS AND WE WERE
+DESCENDING BETWEEN THREE AND FOUR THOUSAND FEET A MINUTE.
+I NOW
+REALIZED WE WERE IN A SPIRAL DIVE.  I
+GRABBED THE THROTTLE AND NEARLY PULLED IT OUT OF THE DASH.  I HAD NO IDEA IF WE WERE DESCENDING CLOCKWISE
+OR ANTI-CLOCKWISE.  I PUT BOTH FEET ON
+THE RUDDERS AND PULLED BACK ON THE YOKE.
+WITHIN SECONDS EVERTHING WAS FLOATING IN THE PLANE.  IT FELT LIKE ALL OF US WERE ON THE CEILING
+WITH THE BAGGAGE.  WE ARE STILL IN THE
+CLOUDS.
+IT
+SEEMED TO ME LIKE THERE WAS AN EXPLOSION AND THEN EVERYTHING WENT VERY PEACEFUL
+FOR A FEW SECONDS.  THE WINDSHIELD WAS
+GONE.  THE PILOT’S DOOR WAS GONE.  THE TOP OF THE DASH INCLUDING MY GPS WAS
+GONE.  OUR HEADSETS AND ANYTHING LOOSE
+WAS GONE.  MY SKYDIVING GEAR AND SOME
+BAGGAGE WAS GONE.  WE WERE STILL IN THE
+CLOUDS.
+CHRIS
+AND BENNO WERE FIGHTING TO CLOSE THE JUMP DOOR.
+THEY HAD TO USE MY CHEST STRAP TO LEVER IT IN.  IT WOULD NOT FIT.  IT WAS OBVIOUS THE PLANE WAS BENT.
+I
+SHOUTED TO BENNO TO GIVE ME SOME SKYDIVING GOGGLES.  THE RAIN AND SNOW IN THE CLOUDS WERE STINGING
+MY EYES.  BENNO QUICKLY GOT THEM FROM HIS
+GEAR BAG AND PUT THEM OVER MY HEAD.  WE
+ARE STILL IN THE CLOUDS BUT THINGS SEEMED VERY PEACEFUL.  WE WERE DESCENDING AT 90 MILES AN HOUR.  I THINK BEING SKYDIVERS THAT THE DOOR AND
+WINDSHIELD BEING MISSING WERE IRRELEVANT TO US.
+WE SPENT MOST WEEKENDS JUMPING FROM PLANES.
+I
+REMEMBER WONDERING HOW CHRIS HAD REMAINED IN THE PLANE WHEN EVERTHING ELSE HAD
+GONE OUT THE DOOR.  I INFORMED THEM THAT
+WE WOULD PROBABLY HIT A MOUNTAIN ANYTIME NOW.
+BENNO
+SAW A BRIGHT AREA TO MY LEFT AND I TURNED THE PLANE AS BEST I COULD.  NONE OF THE CONTROLS SEEMED TO BE RESPONDING
+WELL.  THE PLANE WAS IN A STEADY DESCENT,
+FULL POWER DID NOTHING TO CHANGE THINGS.
+WE WERE GOING DOWN.  WE HAD BROKEN
+OUT OF THE CLOUDS IN THE MIDDLE OF A STEEP CANYON WHICH APPEARED TO HAVE NO
+EXIT.  THE CEILING WAS ABOUT 800 FEET
+ABOVE GROUND LEVEL AND POURING RAIN.  I
+INFORMED BENNO AND CHRIS WE WERE GOING TO CRASH WITHIN MINUTES AND TO PREPARE
+THEMSELVES.
+THERE
+WERE GLACIERS TO OUR RIGHT AND A MEADOW BELOW THEM NEARLY TWO MILES LONG.  A WHITE RIVER RAN THROUGH THE CENTRE OF THE
+VALLEY, WITH AREAS OF SPRUCE HERE AND THERE.
+TO THE LEFT OF THE RIVER SEEMED TO BE ACRES OF WHAT SEEMED LIKE
+WILLOWS.  WHERE SHOULD I LAND?
+IN THE
+BACK OF MY MIND I COULD HEAR LARRY AND THE GUYS AT SPRINGHOUSE TALKING ABOUT
+ALWAYS TAKING THE SMALL TREES.  I DECIDED
+ON THE SMALL TREES.  THE MEADOW WAS TOO
+GOOD TO BE TRUE.  I SLOWED THE PLANE DOWN
+USING EACH NOTCH OF FLAPS AND WENT INTO THE CRASH SITE AT 40 DEGREE FLAPS AND
+AROUND 38 PER MILE AN HOUR AIRSPEED.  I
+TURNED THE FUEL OFF.
+* * * * * * * * * * * *
+MY
+HEAD HURTS.  THERE IS BLOOD RUNNING DOWN
+MY FACE AND NECK.  CHRIS IS KICKING AT
+THE PASSENGER DOOR.  FLAMES ARE COMING
+FROM UNDER THE COWLINGS AND DASH.  I AM
+TELLING EVERYONE TO GET THE HELL OUT.
+CHRIS HAS KICKED THE DOOR OPEN ENOUGH TO GET OUT AND DRAGS SOME BAGGAGE
+OUT WITH HIM AROUND THE PILOT’S SIDE AND THEN GOT THE BAGGAGE AND SURVIVAL GEAR
+OUT.  I GRABBED THE FIRE EXTINGUISHER AND
+RELEASED IT INTO THE ENGINE COMPARTMENT; IT DID NOTHING.
+I
+REALISED THAT THE PLANE WAS GOING TO BURN.
+I PULLING THE KEYS FROM THE MAGNETO SWITCH AND TRIED TO OPEN THE BAGGAGE
+DOOR SO I COULD GET THE ELT 1
+OUT.  THE PLANE WAS BENT AROUND THE DOOR
+AND WOULDN’T OPEN.
+THERE
+WAS A BIG ROCK CLOSE BY.  CHRIS WAS
+HERDING US BEHIND THE ROCK.  IT APPEARS
+HE HAD BAGGAGE HANGING ON HIM EVERYWHERE.
+BENNO SEEMS DAZED AND CONFUSED.
+HE IS BREATHING VERY POORLY AND HIS MOVEMENTS ARE SLOW.
+WE
+CROUCH DOWN.  AT LEAST ONE OF THE FUEL
+TANKS BLOWS AND THE PLANE IS ENGULFED IN FLAMES.  THIS HAS ALL HAPPENED IN LESS THAN 4
+MINUTES!  I AM CONCERNED THAT I DIDN’T
+GET THE ELECTRONIC LOCATION TRANSMITTER OUT.
+THIS IS A WORRY FOR ME.
+IT IS
+ABOUT 9:30 A.M.  AND AT
+THIS POINT NO ONE HAS PANICKED.  CHRIS
+HAS MADE BENNO AND ME STAY PUT; HE HAS GONE TO THE RIVER TO FIND A
+CAMPSITE.  WE ARE IN THE BOTTOM OF 10-12
+FOOT ALDER BRUSH AND CAN SEE NOTHING.
+BENNO’S BACK IS CAUSING HIM MUCH PAIN BY NOW AND I AM BECOMING WEAK
+QUICKLY.  THERE IS BLOOD EVERYWHERE ON
+ME.
+CHRIS
+HAS FOUND A SMALL GRAVEL BAR AND IS LEADING US TO IT.  HE TELLS BENNO TO SIT DOWN AND STAY THERE;
+THE RAIN IS RELENTLESS.  CHRIS DRAGS ME
+OVER TO THE RIVER, HE IS SHOUTING TO BENNO TO FIND THE FIRST AID KITS.  WE HAD TWO ON BOARD.  HE PULLS OFF MY T-SHIRT AND HOLDS MY HEAD ON
+THE SKULL.  HIS INDUSTRIAL FIRST AID
+KNOWLEDGE IS PRICELESS IN THIS SITUATION.
+HE USES TENSION BANDAGES AND A COMPRESSION PACK TO BANDAGE MY HEAD UP.  HE THEN TELLS ME TO SIT WITH BENNO.  CHRIS ASSEMBLES THE TENT AND WE ALL SIT
+INSIDE.  SOAKING WET BUT OUT OF THE RAIN.
+WE ARE
+NOT TALKING MUCH, HOPING FOR THE RAIN TO STOP.
+I ASK CHRIS IF HE CAN GO BACK TO THE PLANE FOR THE ELT.  I DESCRIBE WHAT IT LOOKS LIKE AND WHERE IT IS
+LOCATED.  THERE WERE ALSO CHOCOLATE BARS,
+MAPS, ETC., THAT WERE LEFT IN THE PLANE AND MIGHT BE OKAY.  HE TAKES THE AXE AND BLAZES A TRAIL BACK TO
+THE PLANE.  HE RETURNS TO SAY THE PLANE
+IS COMPLETELY BURNT WITH JUST THE TAIL AND WINGTIPS LEFT.
+THERE
+IS NOWHERE TO LIGHT A FIRE.  WE NEED HEAT
+DESPERATELY AS WE ARE ALL SOAKED TO THE SKIN.
+WE SPEND TIME TRYING TO FIGURE OUT WHERE WE ARE.  THE CONCENSUS IS THAT THE GLACIERS MUST BE ON
+THE NORTH SIDE OF THE MOUTAINS AND THEREFORE WE ARE IN A EAST-WEST VALLEY.  WE DECIDE THAT THE THOMPSON RIVER MUST BE TEN MILES TO THE WEST
+OF US.  THERE IS NO LOGGING IN THIS
+VALLEY AS FAR AS WE CAN SEE.  CHRIS AND
+BENNO WANT TO KNOW ABOUT THE ELT.  I TOLD
+THEM THAT THREE MINUTES WASN’T LONG ENOUGH FOR THE SATELLITE TO PICK UP THE SIGNAL
+AND THAT IF WE HADN’T SEEN A PLANE BY THE NEXT MORNING THAT WE WERE PROBABLY ON
+OUR OWN.  AFTER READING THROUGH MY SURVIVAL GUIDE WE
+DESIGNATED CHRIS OUR LEADER AND FOLLOW HIS INSTRUCTIONS.
+CROSSING
+THE RIVER AND GETTING TO A SMALL GROVE OF SPRUCE TREES WAS IMPERATIVE.  WE DECIDED TO DO THIS NOW AS WE WERE WET
+ANYWAY.  CHRIS MADE ONE MORE TRIP BACK TO
+THE PLANE TO CONFIRM THE ELT WAS BURNT.
+HE CLEANED THE DEBRIS FROM THE WINGS AND SCRATCHED IN THE WING “THREE
+SURVIVORS, TWO INJURED.  HEADING DOWN THE
+VALLEY.
+HE
+THREW STICKS INTO THE RIVER TO GAUGE ITS DEPTH THEN WITH BENNO AND HIMSELF AND
+AS MUCH OF OUR BAGGAGE AS THEY COULD CARRY THEY CROSSED THE FAST MOVING, ICE
+COLD, CHEST DEEP WATER AND DISAPPEARED FROM MY SIGHT.
+BEFORE
+LEAVING ME IN THE TENT, CHRIS HAD TOLD ME TO SIT UPRIGHT AND BE AS STILL AS
+POSSIBLE.  I WAS STILL LOSING A LOT OF BLOOD.  HE GAVE ME 3 CUBES OF COOKING CHOCOLATE AND
+AN APPLE TO EAT.  DRINKING WATER WAS
+PLENTIFUL.
+AFTER
+WHAT SEEMED LIKE A LOT OF TIME PASSING BY I HEARD CRIS SHOUTING.  HE HAD MISTAKENLY CROSSED THE RIVER IN THE WRONG PLACE.  IT WAS TOO DEEP FOR HIM AND HAD PULLED HIM
+UNDER.  I HAD TO CONVINCE HIM THAT HE HAD
+CROSSED FURTHER UP, WHICH HE THEN DID.
+HE PACKED UP THE TENT AND THE TWO OF US MADE OUR WAY BACK ACROSS THE RIVER.
+WHEN
+CHRIS HAD CROSSED WITH BENNO HE HAD CLIMBED TO A HIGH POINT TO BE ABLE TO SEE
+THE VALLEY AND TO SELECT THE CAMPSITE TO WHICH HE NOW TOOK ME.  BENNO HAD A GOOD FIRE GOING CONSIDERING ALL
+THE WOOD WAS SOAKING WET.  WE GOT OUT OF
+OUR WET CLOTHES AND DRIED OFF AS BEST WE COULD.
+I GOT INTO A SLEEPING BAG AND INTO THE TENT WHERE I WAS WRAPPED IN A
+THERMAL SHEET.
+THE
+RAIN HAD EASED OFF.  BENNO AND CHRIS USED
+THE REMAINING DAYLIGHT TIME TO GET EVERYTHING AS DRY AS POSSIBLE.  THEY ALSO MADE A MEAL OUT OF THE DRIED
+POWDERED FOOD IN THE SURVIVAL KIT.
+AT
+DARK WE SAT BY THE FIRE AND I EXPLAINED HOW MUCH TIME WOULD GO BY ONCE MY
+FLIGHT PLAN WAS COMPLETED BEFORE ANYONE WOULD START LOOKING FOR US.  WE WERE CONCERNED WHAT OUR FAMILIES WOULD BE
+GOING THROUGH.  WE THEN WENT TO BED BUT
+NONE OF US WAS ABLE TO GET MUCH SLEEP MAKING THIS A VERY LONG NIGHT.
+THE
+FACT THAT NO PLANES HAD GONE OVER IN THE AFTERNOON SURPRISED ME.  TOWARDS EVENING THE WEATHER HAD LIFTED AND
+VISIBILITY HAD IMPROVED.  THIS LED ME TO
+BELIEVE THAT THE ELT HAD NOT BEEN HEARD AND THAT WE SHOULD HAVE AN ALTERNATE
+PLAN.
+THERE
+WAS NOT ENOUGH FIREWOOD AT OUR CAMPSITE TO HAVE A FIRE OF ANY SIZE.  SO WE DECIDED THAT IF NO PLANE HAD SHOWED UP
+WITHIN A FEW HOURS THAT MORNING AND WITH THE VERY LIMITED FOOD SUPPLIES WE HAD
+WE SHOULD START MAKING OUR WAY FURTHER DOWN THE VALLEY.
+CHRIS
+KEPT THE FLARE GUN READY AT ALL TIMES.
+WE DECIDED TO MOVE AT A VERY CASUAL PACE.  EVEN THOUGH IT WASN’T RAINING WALKING THROUGH
+THE MEADOWS AND BRUSH WAS INCREDIBLY DIFFICULT AND WE WERE ONCE AGAIN SOAKED TO
+THE SKIN.  CHRIS MADE A TRAIL AS BEST HE
+COULD.  WE HAD DECIDED TO WALK FOR 6
+HOURS EACH DAY, SETTING UP CAMP BY MID AFTERNOON TO GIVE LOTS OF TIME TO DRY
+OUT OUR GEAR BY THE FIRE AND REPLENISH OUR ENERGIES.  THE TERRAIN WE WERE WALKING IN WAS OLD
+ORIGINAL GROWTH AND WAS ALMOST IMPASSABLE.
+AT ONE TIME IN THE BRUSH WE HAD AN ANIMAL FOLLOWING US BUT AFTER
+SHOUTING AT IT, LEFT US ALONE.  THE
+HORSEFLIES, BUGS AND MOSQUITOS WERE UNBEARABLE.
+AFTER
+TRAVELING WHAT SEARCH AND RESCUE LATER ESTIMATED TO BE 5 KILOMETERS WE STOPPED
+IN SOME SPRUCE TREES ABOVE A VERY STEEP PART OF THE CANYON.  CHRIS HAD KEPT US GOING BUT REALIZED AT EVERY
+STOP BENNO AND I WERE GETTING SLOWER AND SLOWER.  WE SHARED AN ORANGE HERE AND DEBATED WHETHER WE
+SHOULD MAKE CAMP.
+SHORTLY
+AFTER WE COULD HEAR A SMALL PLANE ENGINE.
+WE NEEDED TO HAVE A FLARE READY.
+IT WAS A FLOAT PLANE AND IT DIDN’T SEEM SO FAR AWAY.  UNFORTUNATELY IT BANKED AWAY FROM US AND WAS
+GONE.  I THINK THIS WAS OUR FIRST DOWN
+MOMENT, REALIZING THAT THE ODDS OF BEING SPOTTED WERE SO SLIM.
+WE
+KNOW NOW THAT THE PLANE BELONGED TO DICK MUNROE WHOSE PASSENGERS WERE OUR
+WIVES, LINDA AND KAREN AND FRIEND DENNIS WICK.
+WITHIN
+A VERY SHORT TIME WE COULD HEAR ANOTHER PLANE.
+IT WAS A SEARCH AND RESCUE BUFFALO.  IT STARTED UP THE VALLEY BUT TURNED AS CHRIS
+FIRED A FLARE RIGHT UNDER IT.  IT RETURNED
+CLOSER TO US AND CRIS FIRED OUR REMAINING FLARES ALL AROUND IT.  THERE WAS NO RESPONSE.  WE WERE DEPRESSED AND KNEW WE HAD TO HAVE A
+BIG FIRE.  THE PLANE NOT SEEING THE
+FLARES HAD TAKEN SOME OF THE SPIRIT OUT OF US.
+WE NOW
+KNOW THAT THE FLARES WERE NEVER SEEN BY ANY OF THE CREW AND IN BRIGHT DAYLIGHT
+CONDITIONS THEY ARE RARELY SEEN.
+THE
+PLANE WAS NOW COMING BACK FROM WEST TO EAST UP THE VALLEY.  CHRIS WAS SHOUTING FOR EVERYONE TO COLLECT
+THE LICHEN AND PILE IT WITH OTHER DRY STICKS UNDER A DRY, HAIR COVERED SPRUCE
+HE HAD PICKED.  THERE DIDN’T SEEM TO BE
+ENOUGH TIME.  I HAD BECOME USELESS TO
+THEM AS MY GOOD EYE WAS MOSTLY CLOSED FROM INSECT BITES, BUT CHRIS CONTINUED
+WITH HIS MISSION.
+THE BUFFALO HAD TURNED AT THE END OF THE
+VALLEY AND WAS NOW HEADING BACK TOWARD US.
+THE SUN WAS BEHIND IT AND WE COULDN’T SEE IT.  CHRIS HELD DOWN THE LOWER BRANCHES OF THE
+TREE WITH HIS ARMS; BENNO STUFFED ALL THE FIRE LIGHTING FUEL INTO THE BRANCHES
+AND LIT IT UP.  THE TREE WENT UP LIKE A
+ROMAN CANDLE FIREWORK.  WE THOUGHT WE
+WOULD HAVE TO RUN TO THE RIVER IN CASE THE REST OF THE FOREST WENT UP TOO.
+WE
+STOPPED FOR A MOMENT TO WAVE OUR ARMS AT THE BUFFALO.  I WAS ALMOST CERTAIN HE HAD TURNED HIS
+LANDING LIGHTS ON AND OFF BUT THE PLANE CONTINUED OUT WEST OF THE VALLEY.
+THIS
+LIFTED OUR SPIRITS.  WE WANTED TO BELIEVE
+WE HAD BEEN SPOTTED. CHRIS WASN’T SO SURE AND DECIDED WE SHOULD SET SOME MORE
+TREES ON FIRE TO MAKE SURE WE GOT THEIR ATTENTION.
+IT
+SEEMED LIKE THE LONGEST TIME BUT WE COULD HEAR THE PLANE COMING FROM THE EAST AGAIN.  IT WAS VERY LOW.  IT’S UNDERCARRIAGE WAS DOWN AND THE PILOT WAS
+TURNING HIS LANDING LIGHTS ON AND OFF.
+THEY DROPPED A SMOKE FLARE AND WINDDRIFT STREAMERS.
+WE HAD
+BEEN SPOTTED.  WE HUGGED EACH OTHER AND
+EMOTIONS RAN HIGH.
+THE BUFFALO CONTINUED DESCENDING AND
+WITHIN A SHORT TIME WE COULD HEAR THE LABRADOR RESCUE CHOPPER COMING.  THEY HAD A A TOUGH TIME FINDING A SAFE SPOT
+TO HOVER.  THE PILOT EVENTUALLY FOUND A
+SMALL GRASSY AREA BY THE RIVER WHERE HE HELD THE AIRCRAFT IN A HOVER SITUATION
+30 FEET ABOVE THE RIVER WITH HIS BLADES MISSING THE TREES FOR AT LEAST
+TWENTY-FIVE MINUTES.
+WE
+STARTED MAKING OUR WAY TOWARDS THE CHOPPER, CHRIS REALIZED THAT I HAS HAVING
+TROUBLE SEEING WHERE I WAS GOING SO HE AND A SEARCH AND RESCUE SERGEANT CAME
+BACK UP THE HILL TO HELP ME TO THE CHOPPER.
+THEY WINCHED US UP INTO THE HELICOPTER, GAVE US A HUG AND TOLD US IT WAS
+AS EXCITING FOR THEM TO HAVE SURVIVORS AS IT WAS FOR US TO BE RESCUED.
+THEY
+TOOK US TO BLUE RIVER WHERE WE WERE TRANSFERRED TO A BUFFALO PLANE AND FLOWN TO KAMLOOPS HOSPITAL.
+AT BLUE RIVER, ONE OF THE EMPLOYEES AT
+NORTHERN AIR ASKED ME IF I WOULD BE BUYING A LOTTO TICKET AS WE WERE SO
+LUCKY.  MY REPLY TO HIM WAS NO, AS WE HAD
+JUST WON THE LOTTERY!
+* * * * * * * * * * *
+IN SUMMARY, SAAR HAD SEEN THE WRECKAGE ON THEIR WEST-EAST PASS UP THE VALLEY AND HAD WRITTEN
+IN THEIR LOG, “PLANE BURNED; MOST PROBABLY THREE CRISPIES IN IT.”  IF THEY HADN’T SEEN THE FIRE AND SMOKE THEY
+WERE GOING TO SEND A JUMPER IN TO CONFIRM IT.
+ON
+MONDAY 25 TH , WHILE TALKING TO THE TRANSPORT SAFETY BOARD, I WAS TOLD
+THEY HAD CO-ORDINATES FOR THE CRASH SITE FROM THE ELT.  A LADY PILOT ON A COMMERCIAL FLIGHT HAD
+CAUGHT THE SIGNAL FOR THE THREE MINUTES THAT IT RAN, BEFORE BURNING UP  (THIS COULD OR COULD NOT BE TRUE.)
+THE
+SEARCH AND RESCUE CREWS ON THE AIRPLANE WERE PROFESSIONAL IN THEIR JOBS BUT
+SHOWED FEELING TOWARD THE SURVIVORS.  WE
+CAN ONLY OFFER THEM PRAISE FOR THEIR EFFORTS.
+THE
+REASON FOR TELLING THIS STORY IS TO INFORM ALL THOSE INTERESTED IN THE TRUTH
+AND HOPEFULLY IT WILL STICK IN THE MINDS OF ANY PILOT OR CREW WHO IS TEMPTED
+INTO SIMILAR SITUATIONS.  IF IT STOPS ONE
+OF YOU FROM MAKING THE MISTAKES THAT I MADE THEN THIS HAS BEEN WORTHWILE.
+1
+ELT stands for
+Emergency
+Locator Transmitter .
+Mogas
+Transport Canada
+has approved the use of automotive gasoline (mogas) in specific categories of
+aircraft, subject to certain limitations.
+Every pilot who contemplates the use of mogas should read Transport Canada’s
+Use
+of Automotive Gasoline (MOGAS ) in Aviation .
+There are three considerations regarding
+mogas: the use of mogas is not generally supported by engine manufacturers;
+mogas is not engineered for aviation purposes; and, in using mogas, the pilot
+assumes sole responsibility for quality (and therefore liability) associated
+with its use.
+Transport Canada basically followed the process
+of formal approval established by the US FAA which issued
+Supplementary Type
+Certificates
+(STCs) for
+specific engines and aircraft; while these were recognized by Transport Canada,
+it imposed altitude and temperature restrictions in view of the unique
+characteristics of Canadian mogas—i.e., Canadian Aircraft were restricted to
+flight below 6000’, and at temperatures below 24°C.  This restriction, however,
+has since been removed for certain category aircraft.  As well, for aircraft categories, Transport Canada
+now provides blanket approval, meaning that STCs are not required for these
+aircraft.
+Operational Considerations
+1.
+Material
+Compatibility .  Transport Canada
+warns that mogas may be associated with the deterioration of rubbers and
+plastics in aircraft fuel systems.
+2.
+Alcohol .  Fuels containing alcohol (methanol or ethanol) other than de-icing fluids are not permitted for aircraft use,
+owing to the manner in which alcohol attacks rubber and plastic components in
+the fuel systems.  Importantly, fuel
+manufacturers need not indicate when alcohol is present in automobile
+fuel.  Manual alcohol testing procedures undertaken by the
+pilot must therefore be used.  As a means
+of monitoring elastomers (natural or synthetic rubbers or plastics), Transport
+Canada additionally recommends frequent inspection of the o-rings found in fuel
+sump drains—the pilot should look for o-ring blockage when the drains are open,
+and o-ring leakage when the drains are closed.
+As well, the fuel filter should be checked frequently for particulate
+originating from deteriorated elastomers.
+3.
+Carburettor Icing .  Because mogas has higher volatility than aviation fuels, mogas absorbs more heat
+during air/fuel mixture process and is therefore subject to greater cooling
+during vaporization—the result being that ice accumulates at higher ambient
+temperatures, making the likelihood of carburettor icing higher while flying
+with mogas.
+4.
+Vapour Lock .  Again, because of the
+increased volatility of mogas, there is increased probability of experiencing
+vapour lock whereby mogas vaporises in fuel lines.  This is especially common in instances of
+shutting down aircraft immediately after running at full operating
+temperatures; the fuel in the lines adjacent to the engine become “heat soaked”
+and vaporization occurred.  Full fuel
+flow should be verified prior to takeoff and effort to reduce engine
+temperature by reducing throttle should be used if vapour lock is encountered
+in flight.  Automotive fuel varies in
+volatility owing to the four seasonal grades that are produced (Aviation fuel
+has only one volatility grade), and special consideration should be given to
+avoiding winter grade fuels which have increased volatility, and therefore
+increased risk of vapour lock, as well as carburettor icing.
+5.
+Filtering .  Transport Canada
+recommends that all mogas be filtered using a 5-micron filter/separator,
+or finer; the filter should also have a “go/no-go” system, which responds to
+the presence of water contamination by shutting off.  Makeshift filters, such as a chamois or felt material, should only be used in
+emergencies, owing to the possibility of fibres clogging the fuel system.
+6.
+Cross-contamination .  Unlike aviation fuel, mogas is not
+transferred using dedicated fuel lines; there is therefore increased risk of
+fuel cross-contamination whereby two fuels are mixed.
+Transport Canada recommends that mogas vendors perform fuel-testing procedures
+referred to as the “Clear and Bright”, “Free Water,” and “Density” tests.
+7.
+Electrostatic
+Discharge .  Transport Canada
+recommends that the fuel storage container should be bonded by wire to the tank
+being fuelled.  It notes that the hazard
+of fire increases substantially with the use of plastic containers, which
+cannot be bonded to the aircraft.
+Transport Canada writes: “ Many accident
+reports have revealed that an arc was created when the [plastic jerry] can was
+pulled away at the end of the pour following sufficient charge
+accumulation.  By this time the tanks are
+likely full and the results can be lethal .”
+Mogas Requirements
+Of the aircraft receiving blanket mogas approval, the most common is
+the Cessna 150 using a Continental O-200 engine; aircraft not in this category
+(so called “Category 4”) require an engine and airframe STC.
+To qualify, the aircraft must be approved for operating 80/87 fuel.
+With all aircraft using mogas, the engine log
+must
+contain a complete record of all hours on mogas, including a record of fuel
+mixtures (avgas and mogas); the aircraft
+Journey Log
+shall
+be annotated “Mogas may be used based on the acceptance of TP 10737”.  Placards
+should
+be installed at
+each fuel filler and in the cockpit; the flight envelope (temperature and
+altitude)
+should
+also be placarded.
+Further Reading:
+Transport Canada's
+The Hazard of Aircraft Refuelling with Plastic "Jerrycans"
+Transport Canada's
+Mogas
+Emergency Locator Transmitter
+The
+ELT
+is a battery-powered transmitter
+that will detect automatically any unusual deceleration force such as that
+associated with a crash and subsequently transmit a distress signal on the frequency
+121.5 MHz.  If properly maintained, the
+ELT is designed to have sufficient power to transmit the signal (which is a
+wailing sound similar to a siren) for 48 hours at -20°C.  An ELT signal is detected by the
+COSPAS-SARSAT satellite systems that are capable of detecting a signal within 90
+minutes.  As well, high altitude
+commercial and military aircraft normally monitor 121.5 MHz and can typically
+detect the signal within 100 miles of crash site.  All aircraft should monitor 121.5 MHz when
+able, especially in sparsely settled areas.
+An ELT signal announces your distress and
+enables the satellite systems to determine your approximate position.  Search and Rescue systems are then alerted
+and use the ELT signal to home in on your location rapidly.
+On every flight, ensure the ELT is armed (if practical), and ensure every passenger is aware of the
+ELT location and operation.  ELT
+information should be displayed in the aircraft.  After landing, check 121.5 MHz to ensure that
+your ELT has not been inadvertently activated.
+In the event of an emergency you should of
+course, while airborne, transmit “Mayday,” squawk 7700 on the transponder, and
+broadcast your position.  After the crash
+or forced landing, place the ELT function switch to “ON” immediately.  Once the ELT is turned on, do not switch it
+off until you have been rescued.
+Satellites and rescue aircraft need a continuous transmission to locate
+the aircraft and home to its position.
+An ELT signal can be improved by, if
+possible, removing the ELT from the aircraft and setting it vertically on the
+highest nearby point, ensuring that it remains connected to its antenna. 1   Always stay with the aircraft
+and set up a survival camp, and prepare signal fires or
+some other means of attracting the attention of search aircraft. 2
+In the event that no emergency exists—e.g.,
+you have conducted a precautionary landing to wait out bad weather—make
+attempts to contact overflying aircraft or Air Traffic Services.  If not successful, switch on the ELT one-hour
+after the expiry of your flight plan or itinerary, as this is when the search
+for an overdue aircraft will begin.  The
+ELT transmission in such cases will lesson the costs of the search and upon
+arrival of the search aircraft you can contact them via radio and advise of
+your intentions.
+An ELT is only as good as the
+batteries.  The replacement of batteries must be in accordance with the manufacturer’s
+instructions.  ELTs should only be tested
+in the first five minutes of every hour.
+To avoid false alarms, always switch “OFF”
+the ELT whenever it is removed from the aircraft.  Disconnect the batteries if the ELT is being
+shipped.  In the event of an inadvertent
+broadcast, advise Air Traffic Services that there is no emergency.
+1
+Raising the ELT 8 feet will increase its range by 20 to 40%.  Additionally, by placing the transmitter on a
+piece of metal such as the aircraft wing will provide reflectivity and will
+extend transmission range.
+2
+If you land in an uninhabited area, the best course of action is to
+stay with the aircraft and the ELT.  The
+idea here is that the aircraft is far easier to see than people are.  Make all efforts to make yourself visible
+from the air—i.e., have smoke, flares, signal fires, etc., ready to attack
+attention.
+Medical Factors
+Hypoxia —lack of oxygen in the body—the most important thing to remember is that the victim of hypoxia
+is not aware of his or her condition; the effects are progressive with
+altitude: lassitude and indifference,
+belligerence or euphoria,
+including loss of aircraft control, reduced vision, confusion, inability to
+concentrate, impaired judgement, slowed reflexes, and eventual loss of
+consciousness.  Symptoms typically appear
+at 14000’, including the potential loss of aircraft control at 16000’, and
+unconsciousness at 18000’.  Nevertheless, at 10000’ there is a definite
+but undetectable hypoxia.  Prevention:
+fly above 10000’ for duration of less than 30 minutes, or wear oxygen.  At night, hypoxia can impair vision at 5000’,
+so it is recommended that oxygen be worn at night above this altitude.
+Carbon Monoxide Poisoning —susceptibility increases with altitude; symptoms: sluggishness and
+warmness, intense headache, throbbing temples, ringing in ears, dizziness,
+dimming of vision, vomiting, and eventual death.  If symptoms are noticed, turn off the heat
+and open a vent.
+Decompression Sickness —the build-up of nitrogen bubbles in different parts of the body
+when they come out of solution as a result of a rapid pressure decrease.  The risk is greatest in flight operations
+above 20000’.  The formation of bubbles
+in the lungs or the brain could give rise to chest pain and/or collapse.  If symptoms include dull, sickening pain, an
+immediate descent to lower altitude is required.
+Vertigo —spatial disorientation—loss
+of bearings or confusion of sense of position and movement that occurs with
+reduced visual reference (clouds, fog, snow, etc.).
+Drugs —do not fly for 8 hours after consuming alcohol, 24 hours after
+taking antihistamines, 48 hours after taking sulpha drugs, 4 weeks after taking
+tranquillisers.
+Anaesthetics —after spinal or general anaesthetics, do
+not fly until your doctor says it is safe; while it is difficult to generalize
+about local anaesthetics, common sense requires waiting 24 hours before flying.
+Blood Donation —Donation of blood disturbs body circulation for several days, which
+may impair flying; for this reason, active pilots should avoid blood donation;
+if blood has been donated, a pilot should not fly for 48 hours.
+Insurance
+With respect to passenger liability, both
+commercial and private aircraft must have a minimum $300,000 per passenger;
+with respect to public liability, private aircraft must have a minimum of
+$100,000 while commercial aircraft must have a minimum of $1,000,000. 1
+While written proof of insurance must be carried on board private aircraft, the registration of
+commercial aircraft is contingent on insurance coverage and therefore written
+proof is not required.
+1
+CAR
+606.02.
+Marshalling Signals
+The use of marshalling signals is typically encountered at larger or busier
+airports where ground crew oversee and coordinate the movement of aircraft on
+airport aprons.  The use of signals, for
+example, is common at
+Fixed Based Operator  facilities, which are the commercial suppliers
+of fuel and other aircraft and crew services at airports.  Marshallers normally position themselves
+forward of the left wingtip, within view of the pilot, and they will use
+illuminating lights at night.  Note that
+the engines of multi-engine aircraft are numbered left to right (pilot’s
+perspective), beginning on the outer engine on the aircraft’s left wing.
+Booking Sheet
+|
+Contact Form
+|
+Address & Map
+|
+Standard Operating Procedures
+|
+Anonymous Safety Reporting
+|
+People & Places
+© 2015 Langley Flying School, Inc.
+The content of this website is protected by copyright and reproduction in whole or in part is only authorized with the written consent of David L. Parry, Chief Flying Instructor, Langley Flying School.
+"Choose a job you love, and you will never have to work a day in your life."
+Confucius

@@ -1,0 +1,206 @@
+Question #4: The major areas of the vertebrate brain | Brains Lab
+Home
+About
+Essays
+Illusions
+Brains Lab
+Synapses, Somata, and Systems Neuroscience
+Feeds:
+Posts
+Comments
+«
+The Structure of Scientific Revolutions book notes
+Network activity in hippocampal interneurons is regulated by GABA receptors
+»
+Question #4: The major areas of the vertebrate brain
+January 18, 2009 by
+Andy
+There are links to diagrams of the vertebrate brain
+here
+and
+here . These are the fourteen major areas of it with a few remarks to the function of each.
+1)
+Medulla Oblongota : Makes the connection from the spinal cord to the rest of the brain. It controls “autonomic” functions: respiration, blood pressure, pulse, vomiting, defection, reflexes, and swallowing.
+2)
+Cerebellum : It is dorsal to the pons (and medulla oblongota) and inferior (below) the occipital lobe, putting it at the lower back of the brain. It is mainly believed to be involved in sensory and motor control and especially in the timing of movements. Due to its many small
+granule cells , in humans it has 50% of the total neurons but only 10% of the total mass. However, it also contains some of the largest human neurons in
+Purkinje cells
+which are also the only output of the cerebellum. It looks similar across all vertebrate species, which has been taken as evidence for conserved function across the class of animals.
+3)
+Pons : This area is above the medulla oblongota and ventral to the cerebellum but inferior to the rest of the brain. It’s involved in relaying sensory information (not a surprise given its location), helping to regulate breathing and arousal, and possibly is even involved with dreaming. The pons is present in all vertebrates.
+4)
+Hypothalamus : They hypothalalmus is present in all vertebrates just above the brain stem. It is involved with making and secreting hormones, which affect body temperature, hunger, thirst, emotions (anger), and
+circadian
+rhythms. If there is bilateral lesion of the ventromedial nucleus of the hypothalamus then the animal will stop intaking food entirely, which would probably be the ultimate diet. Because of all of the hormones, it is a region of high sexual dimorphism. In the vertebrate lineage, it is believed that a common ancestor of lampreys were the first to evolve the hypothalamic-pituitary-gonadal neuroendocrine system, including two
+gonadotropin-releasing hormones .
+5)
+Thalamus : In humans, this is the main region of the diencephalon. The dorsal thalamus is highly conserved throughout vertebrates. It is believed to play a role in converting
+prethalamic
+inputs into a form “readable” by the cerebral cortex, regulating sleep, and various sensory systems.
+6)
+Pituitary Gland : A pea-sized region below the hypothalamus that secretes the hormones produced by the hypothalamus, thus controlling homeostatic processes. Morphologically conserved throughout vertebrates but functionally very specific to the organism. In mammals, the main two neural hormones released are oxytocin, and vasopressin, the latter of which regulates the bodies retention of water.
+7)
+Cingulate Gyrus : Located in the medial part of the brain above the corpus callosum in the cerebral cortex. It is involved in the limbic system so its functions are learning and memory. It gets inputs from the thalamus, neocortex, and sensory systems in the cerebral cortex.
+8)
+Hippocampus : In humans, it is found in the medial temporal lobe and plays major roles in memory consolidation and spatial navigation. Non-mammals do not have a hippocampus, but they do have a homologous
+pallium . In ray-finned fish and birds, the medial pallium is involved with spatial memory, which is quite robust. Other species are not believed to use the same type of memory storage, although some insects and cephalopods, it involves different areas (ie, for octopuses it is the
+vertical lobe ). In mammals, the hippocampus-to-size ratio increases (not necessarily linearly) with intelligence, as it is twice as large in primates as in hedgehogs.
+9)
+Olfactory Lobes : These are large and were major components of “early” vertebrate forebrains, and although it has increased in relative size throughout the evolution of vertebrates, it has retained the same five layers from fruit flies to the lab mouse. The functions are to enhance the differences between odors, increasing overall sensitivity to smells, filtering out noise, and communicate with higher brain regions. The main inputs to the area are basal dendrites of
+mitral cells .
+10)
+Occipital Lobe : Recieves raw retinal sensory information and processes it in the primary visual cortex (V1). In humans, it has a structured map of all visible spatial information. The visual cortex has expanded a large amount in primates along with the neocortex in general.
+11)
+Temporal Lobe : In humans, the temporal lobe is involved with audition, olfaction, vision (association and color), memory, and linking past sensory and emotional experiences into a coherent self. There has been lots of change in its function throughout evolution, but a generally trend is an increase in size in mammals.
+12)
+Amygdala : This is involved in memory and emotional reactions (like fear) in humans. Although it has homologues in all vertebrates, it was not until amniotes that two anatonomical regions developed: the posterior dorsal ventricular ridge, plus the lateral nuclei (in reptiles) and the basolateral complex (in mammals). Laberge
+et al
+(2006) has suggested that these news regions are capable of modulating the older sections of the amygdala and allowing for more complex types of emotional learning.
+13)
+Parietal Lobe : Superior to the occipital lobe and posterior to the frontal lobes, this region is involved with aggergating sensory information and contextualizing it, especially in terms of spatial sense and navigation. Different sections of the lobe correspond to different types of spatial awareness: important locations, head-based or eye-based reference frames, shape, size, etc. I have heard that frogs have highly developed parietal lobes and that this is what enables them to stick their tongues out and catch flies seemingly at will. Perhaps Kobe Bryant has a highly developed one as well.
+14)
+Frontal Lobe : Located at the most anterior region of the brain (aka the “front”) this is involved with executive decisions like extrapolating future consequences onto future actions, overriding desires based on social considerations, and the like. There is not much variation in relative volume in the area in primates once you adjust for body size (Semendeferi
+et al , 1997), although that claim is often made. Nevertheless from what I have read it appears that there has been some evolution towards larger volume of area in the frontal lobes in mammals in general.
+Overall I would say that there is too much discussion of naming the brain and too little discussion of function and evolution. There are so many different ways to classify each of these areas, but how much does it actually help our understanding? Perhaps we need an
+IUPAC
+of brain names.
+This was inspired by CalTech’s
+question #4 : “Draw an outline of a vertebrate brain and name its major areas.” Feel free to offer any critiques or your own answers in the comments.
+References
+Butler AB, Hodos W. Comparative Vertebrate Neuroanatomy, 2nd Edition. Wiley-IEEE, 2005.
+Sower SA, Freamat M, Kavanaugh SI. 2008 The origins of the vertebrate hypothalamic-pituitary-gonadal (HPG) and hypothalamic-pituitary-thyroid (HPT) endocrine systems: New insights from lampreys. Gen Comp Endocrinol.
+PubMed Link .
+Holmes RL, Ball JN. The Pituitary Gland: A Comparative Account. Cambridge University Press, 1974.
+UC Davis Biological Science. “The Vertebrate Brain”.
+http://trc.ucdavis.edu/biosci10v/bis10v/week10/08brain.html , Accessed January 2008.
+Laberge F, Muhlenbrock-Lenter S, Grunwald W, Roth G. 2006 Evolution of the amygdala: New evidence from studies in amphibians. Brain, Behavior, and Evolution 67: 177-187. doi: 10.1159/000091119.
+Semendeferi K, Damasio H, Frank R, Van Hoesen GW. 1997 The evolution of the frontal lobes: a volumetric analysis based on three-dimensional reconstructions of magnetic resonance scans of human and ape brains. Journal of Human Evolution
+32:375-88.
+Rate this: Like this: Like
+Loading...
+Related
+Posted in
+100 Questions
+|
+Categories
+100 Questions
+Aging
+Autism Spectrum
+Brain Imaging
+Brain-Computer Interface
+Brains Lab
+Cognitive Psychology
+Connectomics
+Developmental Neuroscience
+Evolutionary Biology
+Hippocampus
+Molecular Neuroscience
+Neurogenesis
+Neurogenetics
+Neuropharmacology
+Neurotransmitters
+Olfaction
+Structure to Function
+Theoretical Neuroscience
+Trends in Neuroscience
+Uncategorized
+Vision
+Search for:
+Subscribe via RSS   RSS - Posts
+No RSS Reader?
+Join 36 other followers
+Blogroll
+Brain Windows
+Developing Intelligence
+Functional Neurogenesis
+Mind Hacks
+Neurodudes
+Neuroskeptic
+Oscillatory Thoughts
+Talking Brains
+Journals I Like
+Annals of Saudi Medicine
+Biology Direct
+BMC Neuroscience
+Brazilian Med and Biology
+Fronteirs in Neuroscience
+Journal of Neuroscience
+Latvian Academy of Sciences
+Molecular Systems Biology
+Optics Express
+Pakistan J of Bio Sci
+PJAB
+PLoS
+PNAS
+Scientia Pharmaceutica
+South African J Animal Sci
+Archives
+Archives
+Select Month
+June 2013
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+Meta
+Register
+Log in
+Entries
+RSS
+Comments
+RSS
+WordPress.com
+Blog at WordPress.com .
+The MistyLook Theme .
+Follow
+Follow “Brains Lab”
+Get every new post delivered to your Inbox.
+Join 36 other followers
+Build a website with WordPress.com
+%d
+bloggers like this:
